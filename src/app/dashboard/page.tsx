@@ -138,7 +138,7 @@ export default function ScientificDashboard() {
   const [user, setUser] = useState<any>(null);
   const [profile, setProfile] = useState<any>(null);
   const [loading, setLoading] = useState(true);
-  const [activeView, setActiveView] = useState<'overgrowth' | 'tending' | 'roots' | 'climate' | 'greenhouse' | 'syllabus' | 'pragati'>('overgrowth' as any);
+  const [activeView, setActiveView] = useState<'overgrowth' | 'tending' | 'roots' | 'climate' | 'greenhouse' | 'syllabus' | 'pragati'>('overgrowth');
   const [quote, setQuote] = useState(GARDEN_QUOTES[0]);
   
   // DATA STATE
@@ -898,7 +898,8 @@ export default function ScientificDashboard() {
           <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
             
             {/* RETURN BUTTON FOR SUB-PAGES */}
-            {activeView !== 'overgrowth' && (
+             // Change line 901 to this:
+            {(activeView as string) !== 'overgrowth' && (
               <button 
                 onClick={() => setActiveView('overgrowth')} 
                 className="mb-6 flex items-center gap-2 text-xs text-stone-500 hover:text-stone-900 transition-colors uppercase tracking-widest font-bold"

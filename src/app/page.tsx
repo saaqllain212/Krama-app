@@ -414,7 +414,7 @@ export default function WitheringGarden() {
           </div>
           <div className="space-y-4">
             {[
-              { q: "Can't I just use Anki for free?", a: "You can. Anki is a box of index cards. Krama is a Syllabus Engine. Anki doesn't know that 'Chapter 3' is harder than 'Chapter 1.' If you want to memorize random trivia, use Anki. If you need to conquer a structured curriculum by a specific date, you need Krama." },
+              { q: "Is this a flash card provider site?", a: "No we do not provide you with any flash cards or pack of cards, for that please use other sites or apps. This is jusr a To do list with retention logic thats it for now, maybe in future ...... " },
               { q: "What happens if I stop paying?", a: "There is no 'stopping'. It is a one-time payment. You own it forever. The garden never closes." },
               { q: "I don't have time to review every day.", a: "That is exactly why you are here. You are currently wasting hours restudying things you've already forgotten. Our algorithm actually reduces your study time by showing you only what is about to die. We don't ask for more time; we ask for efficiency." },
               { q: "Is this guaranteed to make me pass?", a: "No tool can save you if you refuse to do the work. We just make sure that the work you do actually sticks. If you tend the garden, it grows. If you ignore it, it dies. The choice is yours." }
@@ -422,7 +422,7 @@ export default function WitheringGarden() {
               <div key={i} className="bg-white rounded-xl border border-stone-200 overflow-hidden">
                 <button onClick={() => setOpenFaq(openFaq === i ? null : i)} className="w-full flex justify-between items-center p-6 text-left font-bold text-stone-800 hover:bg-stone-50 transition-colors">
                   {item.q}
-                  <ChevronDown className={`transition-transform duration-300 ${openFaq === i ? 'rotate-180' : ''}`} size={20} className="text-stone-400"/>
+                  <ChevronDown className={`text-stone-400 transition-transform duration-300 ${openFaq === i ? 'rotate-180' : ''}`} size={20}/>
                 </button>
                 <AnimatePresence>
                   {openFaq === i && (
