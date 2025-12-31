@@ -1,0 +1,1854 @@
+[
+  {
+    "id": "root_upsccseoptionalhistorypaperimd",
+    "title": "UPSC_CSE_OPTIONAL_HISTORY_PAPER_I.md",
+    "type": "branch",
+    "children": [
+      {
+        "id": "root_upsccseoptionalhistorypaperimd_section-a-ancient-india",
+        "title": "SECTION A \u2014 ANCIENT INDIA",
+        "type": "branch",
+        "children": []
+      },
+      {
+        "id": "root_upsccseoptionalhistorypaperimd_1-prehistoric-cultures",
+        "title": "1. Prehistoric Cultures",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_1-prehistoric-cultures_paleolithic-culture",
+            "title": "Paleolithic Culture",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_1-prehistoric-cultures_paleolithic-culture_lower-paleolithic-sites-in-india",
+                "title": "Lower Paleolithic sites in India",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_1-prehistoric-cultures_paleolithic-culture_middle-paleolithic-sites-in-india",
+                "title": "Middle Paleolithic sites in India",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_1-prehistoric-cultures_paleolithic-culture_upper-paleolithic-sites-in-india",
+                "title": "Upper Paleolithic sites in India",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_1-prehistoric-cultures_paleolithic-culture_stone-tool-technology",
+                "title": "Stone tool technology",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_1-prehistoric-cultures_paleolithic-culture_subsistence-patterns",
+                "title": "Subsistence patterns",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_1-prehistoric-cultures_paleolithic-culture_paleolithic-art-and-beliefs",
+                "title": "Paleolithic art and beliefs",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_1-prehistoric-cultures_mesolithic-culture",
+            "title": "Mesolithic Culture",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_1-prehistoric-cultures_mesolithic-culture_microlithic-tools",
+                "title": "Microlithic tools",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_1-prehistoric-cultures_mesolithic-culture_huntinggathering-economy",
+                "title": "Hunting\u2013gathering economy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_1-prehistoric-cultures_mesolithic-culture_domestication-of-animals",
+                "title": "Domestication of animals",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_1-prehistoric-cultures_mesolithic-culture_mesolithic-rock-art",
+                "title": "Mesolithic rock art",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_1-prehistoric-cultures_mesolithic-culture_settlement-patterns",
+                "title": "Settlement patterns",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_1-prehistoric-cultures_neolithic-culture",
+            "title": "Neolithic Culture",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_1-prehistoric-cultures_neolithic-culture_neolithic-revolution",
+                "title": "Neolithic revolution",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_1-prehistoric-cultures_neolithic-culture_domestication-of-plants-and-animals",
+                "title": "Domestication of plants and animals",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_1-prehistoric-cultures_neolithic-culture_neolithic-tools-and-pottery",
+                "title": "Neolithic tools and pottery",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_1-prehistoric-cultures_neolithic-culture_neolithic-settlements",
+                "title": "Neolithic settlements",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_1-prehistoric-cultures_neolithic-culture_regional-neolithic-cultures-in-india",
+                "title": "Regional Neolithic cultures in India",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_1-prehistoric-cultures_chalcolithic-culture",
+            "title": "Chalcolithic Culture",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_1-prehistoric-cultures_chalcolithic-culture_chalcolithic-tools",
+                "title": "Chalcolithic tools",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_1-prehistoric-cultures_chalcolithic-culture_use-of-copper",
+                "title": "Use of copper",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_1-prehistoric-cultures_chalcolithic-culture_agriculture-and-economy",
+                "title": "Agriculture and economy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_1-prehistoric-cultures_chalcolithic-culture_chalcolithic-cultures-ahar-malwa-jorwe-kayatha",
+                "title": "Chalcolithic cultures (Ahar, Malwa, Jorwe, Kayatha)",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_1-prehistoric-cultures_chalcolithic-culture_decline-of-chalcolithic-cultures",
+                "title": "Decline of Chalcolithic cultures",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalhistorypaperimd_2-indus-valley-harappan-civilization",
+        "title": "2. Indus Valley (Harappan) Civilization",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_2-indus-valley-harappan-civilization_origin-and-evolution",
+            "title": "Origin and Evolution",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_2-indus-valley-harappan-civilization_origin-and-evolution_discovery-of-harappan-civilization",
+                "title": "Discovery of Harappan civilization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_2-indus-valley-harappan-civilization_origin-and-evolution_pre-harappan-cultures",
+                "title": "Pre-Harappan cultures",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_2-indus-valley-harappan-civilization_origin-and-evolution_early-mature-and-late-harappan-phases",
+                "title": "Early, Mature, and Late Harappan phases",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_2-indus-valley-harappan-civilization_origin-and-evolution_geographical-extent",
+                "title": "Geographical extent",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_2-indus-valley-harappan-civilization_town-planning",
+            "title": "Town Planning",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_2-indus-valley-harappan-civilization_town-planning_grid-pattern-planning",
+                "title": "Grid pattern planning",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_2-indus-valley-harappan-civilization_town-planning_citadel-and-lower-town",
+                "title": "Citadel and lower town",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_2-indus-valley-harappan-civilization_town-planning_drainage-system",
+                "title": "Drainage system",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_2-indus-valley-harappan-civilization_town-planning_housing-structures",
+                "title": "Housing structures",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_2-indus-valley-harappan-civilization_economy",
+            "title": "Economy",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_2-indus-valley-harappan-civilization_economy_agriculture",
+                "title": "Agriculture",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_2-indus-valley-harappan-civilization_economy_trade-and-commerce",
+                "title": "Trade and commerce",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_2-indus-valley-harappan-civilization_economy_craft-production",
+                "title": "Craft production",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_2-indus-valley-harappan-civilization_economy_dockyard-at-lothal",
+                "title": "Dockyard at Lothal",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_2-indus-valley-harappan-civilization_economy_weights-and-measures",
+                "title": "Weights and measures",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_2-indus-valley-harappan-civilization_social-organization",
+            "title": "Social Organization",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_2-indus-valley-harappan-civilization_social-organization_social-stratification",
+                "title": "Social stratification",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_2-indus-valley-harappan-civilization_social-organization_family-structure",
+                "title": "Family structure",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_2-indus-valley-harappan-civilization_social-organization_urban-life",
+                "title": "Urban life",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_2-indus-valley-harappan-civilization_religion-and-beliefs",
+            "title": "Religion and Beliefs",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_2-indus-valley-harappan-civilization_religion-and-beliefs_mother-goddess",
+                "title": "Mother Goddess",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_2-indus-valley-harappan-civilization_religion-and-beliefs_pashupati-seal",
+                "title": "Pashupati seal",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_2-indus-valley-harappan-civilization_religion-and-beliefs_tree-and-animal-worship",
+                "title": "Tree and animal worship",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_2-indus-valley-harappan-civilization_religion-and-beliefs_burial-practices",
+                "title": "Burial practices",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_2-indus-valley-harappan-civilization_art-and-culture",
+            "title": "Art and Culture",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_2-indus-valley-harappan-civilization_art-and-culture_sculpture",
+                "title": "Sculpture",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_2-indus-valley-harappan-civilization_art-and-culture_seals",
+                "title": "Seals",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_2-indus-valley-harappan-civilization_art-and-culture_pottery",
+                "title": "Pottery",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_2-indus-valley-harappan-civilization_art-and-culture_terracotta-figures",
+                "title": "Terracotta figures",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_2-indus-valley-harappan-civilization_script-and-language",
+            "title": "Script and Language",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_2-indus-valley-harappan-civilization_script-and-language_nature-of-harappan-script",
+                "title": "Nature of Harappan script",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_2-indus-valley-harappan-civilization_script-and-language_problems-in-decipherment",
+                "title": "Problems in decipherment",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_2-indus-valley-harappan-civilization_decline",
+            "title": "Decline",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_2-indus-valley-harappan-civilization_decline_environmental-factors",
+                "title": "Environmental factors",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_2-indus-valley-harappan-civilization_decline_economic-factors",
+                "title": "Economic factors",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_2-indus-valley-harappan-civilization_decline_aryan-invasion-debate",
+                "title": "Aryan invasion debate",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_2-indus-valley-harappan-civilization_decline_continuity-and-transformation",
+                "title": "Continuity and transformation",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalhistorypaperimd_3-vedic-society",
+        "title": "3. Vedic Society",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_3-vedic-society_early-vedic-period",
+            "title": "Early Vedic Period",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_3-vedic-society_early-vedic-period_political-organization",
+                "title": "Political organization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_3-vedic-society_early-vedic-period_tribal-assemblies",
+                "title": "Tribal assemblies",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_3-vedic-society_early-vedic-period_economy",
+                "title": "Economy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_3-vedic-society_early-vedic-period_social-structure",
+                "title": "Social structure",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_3-vedic-society_early-vedic-period_religious-beliefs",
+                "title": "Religious beliefs",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_3-vedic-society_later-vedic-period",
+            "title": "Later Vedic Period",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_3-vedic-society_later-vedic-period_emergence-of-monarchy",
+                "title": "Emergence of monarchy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_3-vedic-society_later-vedic-period_varna-system",
+                "title": "Varna system",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_3-vedic-society_later-vedic-period_expansion-of-agriculture",
+                "title": "Expansion of agriculture",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_3-vedic-society_later-vedic-period_religious-rituals",
+                "title": "Religious rituals",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_3-vedic-society_vedic-literature",
+            "title": "Vedic Literature",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_3-vedic-society_vedic-literature_rigveda",
+                "title": "Rigveda",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_3-vedic-society_vedic-literature_samaveda",
+                "title": "Samaveda",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_3-vedic-society_vedic-literature_yajurveda",
+                "title": "Yajurveda",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_3-vedic-society_vedic-literature_atharvaveda",
+                "title": "Atharvaveda",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_3-vedic-society_vedic-literature_brahmanas",
+                "title": "Brahmanas",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_3-vedic-society_vedic-literature_aranyakas",
+                "title": "Aranyakas",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_3-vedic-society_vedic-literature_upanishads",
+                "title": "Upanishads",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalhistorypaperimd_4-religious-movements",
+        "title": "4. Religious Movements",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_4-religious-movements_jainism",
+            "title": "Jainism",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_4-religious-movements_jainism_life-of-mahavira",
+                "title": "Life of Mahavira",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_4-religious-movements_jainism_philosophy",
+                "title": "Philosophy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_4-religious-movements_jainism_triratna",
+                "title": "Triratna",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_4-religious-movements_jainism_jain-councils",
+                "title": "Jain councils",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_4-religious-movements_jainism_spread-of-jainism",
+                "title": "Spread of Jainism",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_4-religious-movements_buddhism",
+            "title": "Buddhism",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_4-religious-movements_buddhism_life-of-buddha",
+                "title": "Life of Buddha",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_4-religious-movements_buddhism_four-noble-truths",
+                "title": "Four Noble Truths",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_4-religious-movements_buddhism_eightfold-path",
+                "title": "Eightfold Path",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_4-religious-movements_buddhism_buddhist-councils",
+                "title": "Buddhist councils",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_4-religious-movements_buddhism_spread-of-buddhism",
+                "title": "Spread of Buddhism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_4-religious-movements_buddhism_buddhist-sects",
+                "title": "Buddhist sects",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_4-religious-movements_ajivikas-and-other-sects",
+            "title": "Ajivikas and Other Sects",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_4-religious-movements_ajivikas-and-other-sects_ajivika-philosophy",
+                "title": "Ajivika philosophy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_4-religious-movements_ajivikas-and-other-sects_other-heterodox-sects",
+                "title": "Other heterodox sects",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalhistorypaperimd_5-mauryan-empire",
+        "title": "5. Mauryan Empire",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_5-mauryan-empire_sources",
+            "title": "Sources",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_5-mauryan-empire_sources_arthashastra",
+                "title": "Arthashastra",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_5-mauryan-empire_sources_inscriptions",
+                "title": "Inscriptions",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_5-mauryan-empire_sources_megasthenes-indica",
+                "title": "Megasthenes\u2019 Indica",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_5-mauryan-empire_political-history",
+            "title": "Political History",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_5-mauryan-empire_political-history_chandragupta-maurya",
+                "title": "Chandragupta Maurya",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_5-mauryan-empire_political-history_bindusara",
+                "title": "Bindusara",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_5-mauryan-empire_political-history_ashoka",
+                "title": "Ashoka",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_5-mauryan-empire_administration",
+            "title": "Administration",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_5-mauryan-empire_administration_central-administration",
+                "title": "Central administration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_5-mauryan-empire_administration_provincial-administration",
+                "title": "Provincial administration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_5-mauryan-empire_administration_revenue-system",
+                "title": "Revenue system",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_5-mauryan-empire_administration_military-administration",
+                "title": "Military administration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_5-mauryan-empire_administration_espionage-system",
+                "title": "Espionage system",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_5-mauryan-empire_ashokas-dhamma",
+            "title": "Ashoka\u2019s Dhamma",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_5-mauryan-empire_ashokas-dhamma_principles-of-dhamma",
+                "title": "Principles of Dhamma",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_5-mauryan-empire_ashokas-dhamma_dhamma-mahamatras",
+                "title": "Dhamma Mahamatras",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_5-mauryan-empire_ashokas-dhamma_impact-of-dhamma",
+                "title": "Impact of Dhamma",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_5-mauryan-empire_economy",
+            "title": "Economy",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_5-mauryan-empire_economy_agriculture",
+                "title": "Agriculture",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_5-mauryan-empire_economy_trade",
+                "title": "Trade",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_5-mauryan-empire_economy_state-control",
+                "title": "State control",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_5-mauryan-empire_art-and-architecture",
+            "title": "Art and Architecture",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_5-mauryan-empire_art-and-architecture_pillars",
+                "title": "Pillars",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_5-mauryan-empire_art-and-architecture_rock-cut-architecture",
+                "title": "Rock-cut architecture",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_5-mauryan-empire_art-and-architecture_stupas",
+                "title": "Stupas",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_5-mauryan-empire_decline",
+            "title": "Decline",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_5-mauryan-empire_decline_causes-of-decline",
+                "title": "Causes of decline",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalhistorypaperimd_6-post-mauryan-period",
+        "title": "6. Post-Mauryan Period",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_6-post-mauryan-period_sungas-and-kanvas",
+            "title": "Sungas and Kanvas",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_6-post-mauryan-period_sungas-and-kanvas_political-developments",
+                "title": "Political developments",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_6-post-mauryan-period_sungas-and-kanvas_cultural-contributions",
+                "title": "Cultural contributions",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_6-post-mauryan-period_indo-greeks",
+            "title": "Indo-Greeks",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_6-post-mauryan-period_indo-greeks_impact-on-art-and-culture",
+                "title": "Impact on art and culture",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_6-post-mauryan-period_shakas-and-parthians",
+            "title": "Shakas and Parthians",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_6-post-mauryan-period_shakas-and-parthians_administrative-systems",
+                "title": "Administrative systems",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_6-post-mauryan-period_kushanas",
+            "title": "Kushanas",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_6-post-mauryan-period_kushanas_kanishka",
+                "title": "Kanishka",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_6-post-mauryan-period_kushanas_trade",
+                "title": "Trade",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_6-post-mauryan-period_kushanas_religion",
+                "title": "Religion",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_6-post-mauryan-period_kushanas_gandhara-and-mathura-schools-of-art",
+                "title": "Gandhara and Mathura schools of art",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_6-post-mauryan-period_satavahanas",
+            "title": "Satavahanas",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_6-post-mauryan-period_satavahanas_administration",
+                "title": "Administration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_6-post-mauryan-period_satavahanas_economy",
+                "title": "Economy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_6-post-mauryan-period_satavahanas_culture",
+                "title": "Culture",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalhistorypaperimd_7-gupta-age",
+        "title": "7. Gupta Age",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_7-gupta-age_political-history",
+            "title": "Political History",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_7-gupta-age_political-history_gupta-rulers",
+                "title": "Gupta rulers",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_7-gupta-age_political-history_territorial-expansion",
+                "title": "Territorial expansion",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_7-gupta-age_administration",
+            "title": "Administration",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_7-gupta-age_administration_central-administration",
+                "title": "Central administration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_7-gupta-age_administration_provincial-administration",
+                "title": "Provincial administration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_7-gupta-age_administration_judicial-system",
+                "title": "Judicial system",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_7-gupta-age_economy",
+            "title": "Economy",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_7-gupta-age_economy_agriculture",
+                "title": "Agriculture",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_7-gupta-age_economy_trade",
+                "title": "Trade",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_7-gupta-age_economy_coinage",
+                "title": "Coinage",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_7-gupta-age_society",
+            "title": "Society",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_7-gupta-age_society_varna-system",
+                "title": "Varna system",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_7-gupta-age_society_position-of-women",
+                "title": "Position of women",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_7-gupta-age_society_education",
+                "title": "Education",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_7-gupta-age_religion",
+            "title": "Religion",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_7-gupta-age_religion_hinduism",
+                "title": "Hinduism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_7-gupta-age_religion_buddhism",
+                "title": "Buddhism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_7-gupta-age_religion_jainism",
+                "title": "Jainism",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_7-gupta-age_science-and-technology",
+            "title": "Science and Technology",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_7-gupta-age_science-and-technology_mathematics",
+                "title": "Mathematics",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_7-gupta-age_science-and-technology_astronomy",
+                "title": "Astronomy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_7-gupta-age_science-and-technology_medicine",
+                "title": "Medicine",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_7-gupta-age_art-and-architecture",
+            "title": "Art and Architecture",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_7-gupta-age_art-and-architecture_temples",
+                "title": "Temples",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_7-gupta-age_art-and-architecture_sculpture",
+                "title": "Sculpture",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_7-gupta-age_art-and-architecture_painting",
+                "title": "Painting",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_7-gupta-age_decline",
+            "title": "Decline",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_7-gupta-age_decline_causes-of-decline",
+                "title": "Causes of decline",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalhistorypaperimd_8-harsha-and-his-times",
+        "title": "8. Harsha and His Times",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_8-harsha-and-his-times_political-history",
+            "title": "Political History",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_8-harsha-and-his-times_political-history_rise-of-harsha",
+                "title": "Rise of Harsha",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_8-harsha-and-his-times_political-history_territorial-expansion",
+                "title": "Territorial expansion",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_8-harsha-and-his-times_administration",
+            "title": "Administration",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_8-harsha-and-his-times_administration_governance-structure",
+                "title": "Governance structure",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_8-harsha-and-his-times_administration_revenue-system",
+                "title": "Revenue system",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_8-harsha-and-his-times_culture",
+            "title": "Culture",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_8-harsha-and-his-times_culture_religion",
+                "title": "Religion",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_8-harsha-and-his-times_culture_literature",
+                "title": "Literature",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_8-harsha-and-his-times_culture_art",
+                "title": "Art",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalhistorypaperimd_9-early-medieval-india",
+        "title": "9. Early Medieval India",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_9-early-medieval-india_feudalism",
+            "title": "Feudalism",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_9-early-medieval-india_feudalism_indian-feudalism-debate",
+                "title": "Indian feudalism debate",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_9-early-medieval-india_feudalism_land-grants",
+                "title": "Land grants",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_9-early-medieval-india_feudalism_agrarian-structure",
+                "title": "Agrarian structure",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_9-early-medieval-india_regional-kingdoms",
+            "title": "Regional Kingdoms",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_9-early-medieval-india_regional-kingdoms_pallavas",
+                "title": "Pallavas",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_9-early-medieval-india_regional-kingdoms_chalukyas",
+                "title": "Chalukyas",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_9-early-medieval-india_regional-kingdoms_rashtrakutas",
+                "title": "Rashtrakutas",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_9-early-medieval-india_regional-kingdoms_palas",
+                "title": "Palas",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_9-early-medieval-india_regional-kingdoms_pratiharas",
+                "title": "Pratiharas",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_9-early-medieval-india_trade-and-urban-decline",
+            "title": "Trade and Urban Decline",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_9-early-medieval-india_trade-and-urban-decline_trade-patterns",
+                "title": "Trade patterns",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_9-early-medieval-india_trade-and-urban-decline_urban-centers",
+                "title": "Urban centers",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalhistorypaperimd_section-b-medieval-india",
+        "title": "SECTION B \u2014 MEDIEVAL INDIA",
+        "type": "branch",
+        "children": []
+      },
+      {
+        "id": "root_upsccseoptionalhistorypaperimd_10-early-medieval-cultural-developments",
+        "title": "10. Early Medieval Cultural Developments",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_10-early-medieval-cultural-developments_bhakti-movement",
+            "title": "Bhakti Movement",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_10-early-medieval-cultural-developments_bhakti-movement_early-bhakti-saints",
+                "title": "Early Bhakti saints",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_10-early-medieval-cultural-developments_bhakti-movement_philosophy-of-bhakti",
+                "title": "Philosophy of Bhakti",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_10-early-medieval-cultural-developments_bhakti-movement_regional-bhakti-traditions",
+                "title": "Regional Bhakti traditions",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_10-early-medieval-cultural-developments_temple-architecture",
+            "title": "Temple Architecture",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_10-early-medieval-cultural-developments_temple-architecture_nagara-style",
+                "title": "Nagara style",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_10-early-medieval-cultural-developments_temple-architecture_dravida-style",
+                "title": "Dravida style",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_10-early-medieval-cultural-developments_temple-architecture_vesara-style",
+                "title": "Vesara style",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalhistorypaperimd_11-delhi-sultanate",
+        "title": "11. Delhi Sultanate",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_11-delhi-sultanate_foundation",
+            "title": "Foundation",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_11-delhi-sultanate_foundation_slave-dynasty",
+                "title": "Slave dynasty",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_11-delhi-sultanate_foundation_khalji-dynasty",
+                "title": "Khalji dynasty",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_11-delhi-sultanate_foundation_tughlaq-dynasty",
+                "title": "Tughlaq dynasty",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_11-delhi-sultanate_foundation_sayyid-dynasty",
+                "title": "Sayyid dynasty",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_11-delhi-sultanate_foundation_lodi-dynasty",
+                "title": "Lodi dynasty",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_11-delhi-sultanate_administration",
+            "title": "Administration",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_11-delhi-sultanate_administration_iqta-system",
+                "title": "Iqta system",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_11-delhi-sultanate_administration_revenue-system",
+                "title": "Revenue system",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_11-delhi-sultanate_administration_military-organization",
+                "title": "Military organization",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_11-delhi-sultanate_economic-policies",
+            "title": "Economic Policies",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_11-delhi-sultanate_economic-policies_market-reforms-of-alauddin-khalji",
+                "title": "Market reforms of Alauddin Khalji",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_11-delhi-sultanate_economic-policies_agrarian-reforms",
+                "title": "Agrarian reforms",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_11-delhi-sultanate_society-and-culture",
+            "title": "Society and Culture",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_11-delhi-sultanate_society-and-culture_social-structure",
+                "title": "Social structure",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_11-delhi-sultanate_society-and-culture_religious-policies",
+                "title": "Religious policies",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_11-delhi-sultanate_society-and-culture_art-and-architecture",
+                "title": "Art and architecture",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_11-delhi-sultanate_decline",
+            "title": "Decline",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_11-delhi-sultanate_decline_causes-of-decline",
+                "title": "Causes of decline",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalhistorypaperimd_12-vijayanagara-and-bahmani-kingdoms",
+        "title": "12. Vijayanagara and Bahmani Kingdoms",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_12-vijayanagara-and-bahmani-kingdoms_vijayanagara-empire",
+            "title": "Vijayanagara Empire",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_12-vijayanagara-and-bahmani-kingdoms_vijayanagara-empire_foundation",
+                "title": "Foundation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_12-vijayanagara-and-bahmani-kingdoms_vijayanagara-empire_administration",
+                "title": "Administration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_12-vijayanagara-and-bahmani-kingdoms_vijayanagara-empire_economy",
+                "title": "Economy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_12-vijayanagara-and-bahmani-kingdoms_vijayanagara-empire_culture-and-architecture",
+                "title": "Culture and architecture",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_12-vijayanagara-and-bahmani-kingdoms_vijayanagara-empire_decline",
+                "title": "Decline",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_12-vijayanagara-and-bahmani-kingdoms_bahmani-kingdom",
+            "title": "Bahmani Kingdom",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_12-vijayanagara-and-bahmani-kingdoms_bahmani-kingdom_political-history",
+                "title": "Political history",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_12-vijayanagara-and-bahmani-kingdoms_bahmani-kingdom_cultural-contributions",
+                "title": "Cultural contributions",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalhistorypaperimd_13-mughal-empire",
+        "title": "13. Mughal Empire",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_13-mughal-empire_babur-and-humayun",
+            "title": "Babur and Humayun",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_13-mughal-empire_babur-and-humayun_foundation-of-mughal-rule",
+                "title": "Foundation of Mughal rule",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_13-mughal-empire_babur-and-humayun_afghan-interlude",
+                "title": "Afghan interlude",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_13-mughal-empire_sher-shah-suri",
+            "title": "Sher Shah Suri",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_13-mughal-empire_sher-shah-suri_administrative-reforms",
+                "title": "Administrative reforms",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_13-mughal-empire_sher-shah-suri_revenue-system",
+                "title": "Revenue system",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_13-mughal-empire_sher-shah-suri_road-network",
+                "title": "Road network",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_13-mughal-empire_akbar",
+            "title": "Akbar",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_13-mughal-empire_akbar_expansion-of-empire",
+                "title": "Expansion of empire",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_13-mughal-empire_akbar_mansabdari-system",
+                "title": "Mansabdari system",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_13-mughal-empire_akbar_religious-policy",
+                "title": "Religious policy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_13-mughal-empire_akbar_administrative-reforms",
+                "title": "Administrative reforms",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_13-mughal-empire_jahangir-and-shah-jahan",
+            "title": "Jahangir and Shah Jahan",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_13-mughal-empire_jahangir-and-shah-jahan_administration",
+                "title": "Administration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_13-mughal-empire_jahangir-and-shah-jahan_culture",
+                "title": "Culture",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_13-mughal-empire_jahangir-and-shah-jahan_architecture",
+                "title": "Architecture",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_13-mughal-empire_aurangzeb",
+            "title": "Aurangzeb",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_13-mughal-empire_aurangzeb_religious-policy",
+                "title": "Religious policy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_13-mughal-empire_aurangzeb_administrative-challenges",
+                "title": "Administrative challenges",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_13-mughal-empire_aurangzeb_deccan-policy",
+                "title": "Deccan policy",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_13-mughal-empire_mughal-administration",
+            "title": "Mughal Administration",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_13-mughal-empire_mughal-administration_mansabdari-system",
+                "title": "Mansabdari system",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_13-mughal-empire_mughal-administration_jagirdari-system",
+                "title": "Jagirdari system",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_13-mughal-empire_mughal-administration_revenue-administration",
+                "title": "Revenue administration",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_13-mughal-empire_economy",
+            "title": "Economy",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_13-mughal-empire_economy_agriculture",
+                "title": "Agriculture",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_13-mughal-empire_economy_trade",
+                "title": "Trade",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_13-mughal-empire_economy_urban-centers",
+                "title": "Urban centers",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_13-mughal-empire_society",
+            "title": "Society",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_13-mughal-empire_society_social-classes",
+                "title": "Social classes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_13-mughal-empire_society_status-of-women",
+                "title": "Status of women",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_13-mughal-empire_art-and-culture",
+            "title": "Art and Culture",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_13-mughal-empire_art-and-culture_painting",
+                "title": "Painting",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_13-mughal-empire_art-and-culture_architecture",
+                "title": "Architecture",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_13-mughal-empire_art-and-culture_literature",
+                "title": "Literature",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_13-mughal-empire_decline",
+            "title": "Decline",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_13-mughal-empire_decline_causes-of-decline",
+                "title": "Causes of decline",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalhistorypaperimd_14-society-culture-and-economy-in-medieval-india",
+        "title": "14. Society, Culture and Economy in Medieval India",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_14-society-culture-and-economy-in-medieval-india_agrarian-structure",
+            "title": "Agrarian Structure",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_14-society-culture-and-economy-in-medieval-india_agrarian-structure_land-revenue-systems",
+                "title": "Land revenue systems",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_14-society-culture-and-economy-in-medieval-india_agrarian-structure_zamindari-system",
+                "title": "Zamindari system",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_14-society-culture-and-economy-in-medieval-india_trade-and-commerce",
+            "title": "Trade and Commerce",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_14-society-culture-and-economy-in-medieval-india_trade-and-commerce_inland-trade",
+                "title": "Inland trade",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_14-society-culture-and-economy-in-medieval-india_trade-and-commerce_overseas-trade",
+                "title": "Overseas trade",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_14-society-culture-and-economy-in-medieval-india_social-life",
+            "title": "Social Life",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_14-society-culture-and-economy-in-medieval-india_social-life_caste-system",
+                "title": "Caste system",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_14-society-culture-and-economy-in-medieval-india_social-life_religious-communities",
+                "title": "Religious communities",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalhistorypaperimd_14-society-culture-and-economy-in-medieval-india_cultural-synthesis",
+            "title": "Cultural Synthesis",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalhistorypaperimd_14-society-culture-and-economy-in-medieval-india_cultural-synthesis_indo-islamic-culture",
+                "title": "Indo-Islamic culture",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

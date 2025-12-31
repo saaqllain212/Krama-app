@@ -1,0 +1,1610 @@
+[
+  {
+    "id": "root_sscexamssyllabusdetailedmd",
+    "title": "SSC_EXAMS_SYLLABUS_DETAILED.md",
+    "type": "branch",
+    "children": []
+  },
+  {
+    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only",
+    "title": "(SSC CGL / CHSL / CPO / MTS / GD / Stenographer \u2013 Syllabus Only)",
+    "type": "branch",
+    "children": [
+      {
+        "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude",
+        "title": "1. Quantitative Aptitude",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_number-system",
+            "title": "Number System",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_number-system_natural-numbers",
+                "title": "Natural numbers",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_number-system_whole-numbers",
+                "title": "Whole numbers",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_number-system_integers",
+                "title": "Integers",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_number-system_rational-and-irrational-numbers",
+                "title": "Rational and irrational numbers",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_number-system_real-numbers",
+                "title": "Real numbers",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_number-system_properties-of-numbers",
+                "title": "Properties of numbers",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_number-system_divisibility-rules",
+                "title": "Divisibility rules",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_number-system_factors-and-multiples",
+                "title": "Factors and multiples",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_number-system_hcf-and-lcm",
+                "title": "HCF and LCM",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_number-system_remainders",
+                "title": "Remainders",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_number-system_surds-and-indices",
+                "title": "Surds and indices",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_simplification",
+            "title": "Simplification",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_simplification_bodmas",
+                "title": "BODMAS",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_simplification_fractions-and-decimals",
+                "title": "Fractions and decimals",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_simplification_square-roots",
+                "title": "Square roots",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_simplification_cube-roots",
+                "title": "Cube roots",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_simplification_approximation",
+                "title": "Approximation",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_percentage",
+            "title": "Percentage",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_percentage_percentage-basics",
+                "title": "Percentage basics",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_percentage_increase-and-decrease",
+                "title": "Increase and decrease",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_percentage_successive-percentage-change",
+                "title": "Successive percentage change",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_percentage_applications-of-percentage",
+                "title": "Applications of percentage",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_ratio-and-proportion",
+            "title": "Ratio and Proportion",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_ratio-and-proportion_ratio-concepts",
+                "title": "Ratio concepts",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_ratio-and-proportion_proportion",
+                "title": "Proportion",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_ratio-and-proportion_continued-proportion",
+                "title": "Continued proportion",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_ratio-and-proportion_partnership",
+                "title": "Partnership",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_average",
+            "title": "Average",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_average_simple-average",
+                "title": "Simple average",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_average_weighted-average",
+                "title": "Weighted average",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_average_applications",
+                "title": "Applications",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_profit-and-loss",
+            "title": "Profit and Loss",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_profit-and-loss_cost-price",
+                "title": "Cost price",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_profit-and-loss_selling-price",
+                "title": "Selling price",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_profit-and-loss_profit",
+                "title": "Profit",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_profit-and-loss_loss",
+                "title": "Loss",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_profit-and-loss_discount",
+                "title": "Discount",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_profit-and-loss_marked-price",
+                "title": "Marked price",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_simple-interest-and-compound-interest",
+            "title": "Simple Interest and Compound Interest",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_simple-interest-and-compound-interest_simple-interest",
+                "title": "Simple interest",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_simple-interest-and-compound-interest_compound-interest",
+                "title": "Compound interest",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_simple-interest-and-compound-interest_difference-between-si-and-ci",
+                "title": "Difference between SI and CI",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_simple-interest-and-compound-interest_applications",
+                "title": "Applications",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_time-and-work",
+            "title": "Time and Work",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_time-and-work_work-efficiency",
+                "title": "Work efficiency",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_time-and-work_combined-work",
+                "title": "Combined work",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_time-and-work_pipes-and-cisterns",
+                "title": "Pipes and cisterns",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_time-speed-and-distance",
+            "title": "Time, Speed and Distance",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_time-speed-and-distance_speed-concepts",
+                "title": "Speed concepts",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_time-speed-and-distance_relative-speed",
+                "title": "Relative speed",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_time-speed-and-distance_trains",
+                "title": "Trains",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_time-speed-and-distance_boats-and-streams",
+                "title": "Boats and streams",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_mixture-and-alligation",
+            "title": "Mixture and Alligation",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_mixture-and-alligation_mixture-problems",
+                "title": "Mixture problems",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_mixture-and-alligation_replacement",
+                "title": "Replacement",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_mixture-and-alligation_alligation-rule",
+                "title": "Alligation rule",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_mensuration",
+            "title": "Mensuration",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_mensuration_plane-figures-square-rectangle-triangle-circle",
+                "title": "Plane figures (square, rectangle, triangle, circle)",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_mensuration_solid-figures-cube-cuboid-cylinder-cone-sphere",
+                "title": "Solid figures (cube, cuboid, cylinder, cone, sphere)",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_mensuration_area",
+                "title": "Area",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_mensuration_perimeter",
+                "title": "Perimeter",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_mensuration_volume",
+                "title": "Volume",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_mensuration_surface-area",
+                "title": "Surface area",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_algebra",
+            "title": "Algebra",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_algebra_basic-algebraic-identities",
+                "title": "Basic algebraic identities",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_algebra_linear-equations",
+                "title": "Linear equations",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_algebra_quadratic-equations",
+                "title": "Quadratic equations",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_algebra_simplification-of-algebraic-expressions",
+                "title": "Simplification of algebraic expressions",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_geometry",
+            "title": "Geometry",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_geometry_lines-and-angles",
+                "title": "Lines and angles",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_geometry_triangles",
+                "title": "Triangles",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_geometry_congruence-and-similarity",
+                "title": "Congruence and similarity",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_geometry_circles",
+                "title": "Circles",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_geometry_polygons",
+                "title": "Polygons",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_trigonometry",
+            "title": "Trigonometry",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_trigonometry_trigonometric-ratios",
+                "title": "Trigonometric ratios",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_trigonometry_standard-identities",
+                "title": "Standard identities",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_trigonometry_heights-and-distances",
+                "title": "Heights and distances",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_trigonometry_trigonometric-values",
+                "title": "Trigonometric values",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_data-interpretation",
+            "title": "Data Interpretation",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_data-interpretation_table",
+                "title": "Table",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_data-interpretation_bar-graph",
+                "title": "Bar graph",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_data-interpretation_line-graph",
+                "title": "Line graph",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_1-quantitative-aptitude_data-interpretation_pie-chart",
+                "title": "Pie chart",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability",
+        "title": "2. Reasoning Ability",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_verbal-reasoning",
+            "title": "Verbal Reasoning",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_verbal-reasoning_analogy",
+                "title": "Analogy",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_verbal-reasoning_analogy_word-analogy",
+                    "title": "Word analogy",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_verbal-reasoning_analogy_number-analogy",
+                    "title": "Number analogy",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_verbal-reasoning_analogy_alphabet-analogy",
+                    "title": "Alphabet analogy",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_verbal-reasoning_classification",
+                "title": "Classification",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_verbal-reasoning_classification_odd-one-out-word-number-alphabet",
+                    "title": "Odd one out (word, number, alphabet)",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_verbal-reasoning_series",
+                "title": "Series",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_verbal-reasoning_series_number-series",
+                    "title": "Number series",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_verbal-reasoning_series_alphabet-series",
+                    "title": "Alphabet series",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_verbal-reasoning_series_alphanumeric-series",
+                    "title": "Alphanumeric series",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_verbal-reasoning_codingdecoding",
+                "title": "Coding\u2013Decoding",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_verbal-reasoning_codingdecoding_letter-coding",
+                    "title": "Letter coding",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_verbal-reasoning_codingdecoding_number-coding",
+                    "title": "Number coding",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_verbal-reasoning_codingdecoding_mixed-coding",
+                    "title": "Mixed coding",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_verbal-reasoning_codingdecoding_matrix-coding",
+                    "title": "Matrix coding",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_verbal-reasoning_blood-relations",
+                "title": "Blood Relations",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_verbal-reasoning_blood-relations_direct-relations",
+                    "title": "Direct relations",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_verbal-reasoning_blood-relations_coded-relations",
+                    "title": "Coded relations",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_verbal-reasoning_blood-relations_family-tree-problems",
+                    "title": "Family tree problems",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_verbal-reasoning_direction-sense",
+                "title": "Direction Sense",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_verbal-reasoning_direction-sense_direction-based-problems",
+                    "title": "Direction-based problems",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_verbal-reasoning_direction-sense_distance-calculation",
+                    "title": "Distance calculation",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_verbal-reasoning_order-and-ranking",
+                "title": "Order and Ranking",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_verbal-reasoning_order-and-ranking_ranking-and-ordering",
+                    "title": "Ranking and ordering",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_verbal-reasoning_order-and-ranking_age-based-ranking",
+                    "title": "Age-based ranking",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_verbal-reasoning_syllogism",
+                "title": "Syllogism",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_verbal-reasoning_syllogism_traditional-syllogism",
+                    "title": "Traditional syllogism",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_verbal-reasoning_syllogism_venn-diagram-based-syllogism",
+                    "title": "Venn diagram based syllogism",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_verbal-reasoning_statementconclusion",
+                "title": "Statement\u2013Conclusion",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_verbal-reasoning_statementconclusion_logical-conclusions",
+                    "title": "Logical conclusions",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_verbal-reasoning_statementconclusion_cause-and-effect",
+                    "title": "Cause and effect",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_non-verbal-reasoning",
+            "title": "Non-Verbal Reasoning",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_non-verbal-reasoning_figure-classification",
+                "title": "Figure Classification",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_non-verbal-reasoning_figure-classification_odd-figure-out",
+                    "title": "Odd figure out",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_non-verbal-reasoning_figure-series",
+                "title": "Figure Series",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_non-verbal-reasoning_figure-series_pattern-based-figures",
+                    "title": "Pattern-based figures",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_non-verbal-reasoning_mirror-images",
+                "title": "Mirror Images",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_non-verbal-reasoning_mirror-images_mirror-image-problems",
+                    "title": "Mirror image problems",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_non-verbal-reasoning_water-images",
+                "title": "Water Images",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_non-verbal-reasoning_water-images_water-reflection-problems",
+                    "title": "Water reflection problems",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_non-verbal-reasoning_paper-folding-and-cutting",
+                "title": "Paper Folding and Cutting",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_non-verbal-reasoning_paper-folding-and-cutting_paper-folding",
+                    "title": "Paper folding",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_non-verbal-reasoning_paper-folding-and-cutting_paper-cutting",
+                    "title": "Paper cutting",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_non-verbal-reasoning_embedded-figures",
+                "title": "Embedded Figures",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_2-reasoning-ability_non-verbal-reasoning_embedded-figures_figure-identification",
+                    "title": "Figure identification",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language",
+        "title": "3. English Language",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language_vocabulary",
+            "title": "Vocabulary",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language_vocabulary_synonyms",
+                "title": "Synonyms",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language_vocabulary_antonyms",
+                "title": "Antonyms",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language_vocabulary_one-word-substitution",
+                "title": "One-word substitution",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language_vocabulary_idioms-and-phrases",
+                "title": "Idioms and phrases",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language_grammar",
+            "title": "Grammar",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language_grammar_parts-of-speech",
+                "title": "Parts of Speech",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language_grammar_parts-of-speech_noun",
+                    "title": "Noun",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language_grammar_parts-of-speech_pronoun",
+                    "title": "Pronoun",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language_grammar_parts-of-speech_verb",
+                    "title": "Verb",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language_grammar_parts-of-speech_adjective",
+                    "title": "Adjective",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language_grammar_parts-of-speech_adverb",
+                    "title": "Adverb",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language_grammar_parts-of-speech_preposition",
+                    "title": "Preposition",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language_grammar_parts-of-speech_conjunction",
+                    "title": "Conjunction",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language_grammar_parts-of-speech_article",
+                    "title": "Article",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language_grammar_tenses",
+                "title": "Tenses",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language_grammar_tenses_present",
+                    "title": "Present",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language_grammar_tenses_past",
+                    "title": "Past",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language_grammar_tenses_future",
+                    "title": "Future",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language_grammar_voice",
+                "title": "Voice",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language_grammar_voice_active-voice",
+                    "title": "Active voice",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language_grammar_voice_passive-voice",
+                    "title": "Passive voice",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language_grammar_speech",
+                "title": "Speech",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language_grammar_speech_direct-speech",
+                    "title": "Direct speech",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language_grammar_speech_indirect-speech",
+                    "title": "Indirect speech",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language_grammar_sentence-structure",
+                "title": "Sentence Structure",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language_grammar_sentence-structure_subjectverb-agreement",
+                    "title": "Subject\u2013verb agreement",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language_grammar_sentence-structure_error-spotting",
+                    "title": "Error spotting",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language_grammar_sentence-structure_sentence-correction",
+                    "title": "Sentence correction",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language_comprehension",
+            "title": "Comprehension",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language_comprehension_reading-comprehension",
+                "title": "Reading comprehension",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language_comprehension_passage-based-questions",
+                "title": "Passage-based questions",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language_cloze-test",
+            "title": "Cloze Test",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language_cloze-test_grammar-based-cloze",
+                "title": "Grammar-based cloze",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language_cloze-test_vocabulary-based-cloze",
+                "title": "Vocabulary-based cloze",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language_para-jumbles",
+            "title": "Para Jumbles",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language_para-jumbles_sentence-rearrangement",
+                "title": "Sentence rearrangement",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language_fill-in-the-blanks",
+            "title": "Fill in the Blanks",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language_fill-in-the-blanks_single-blank",
+                "title": "Single blank",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_3-english-language_fill-in-the-blanks_multiple-blanks",
+                "title": "Multiple blanks",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness",
+        "title": "4. General Awareness",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_history",
+            "title": "History",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_history_ancient-indian-history-basic",
+                "title": "Ancient Indian history (basic)",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_history_medieval-indian-history-basic",
+                "title": "Medieval Indian history (basic)",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_history_modern-indian-history",
+                "title": "Modern Indian history",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_history_freedom-struggle",
+                "title": "Freedom struggle",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_history_post-independence-india",
+                "title": "Post-independence India",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_geography",
+            "title": "Geography",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_geography_physical-geography",
+                "title": "Physical geography",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_geography_indian-geography",
+                "title": "Indian geography",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_geography_world-geography",
+                "title": "World geography",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_geography_climate",
+                "title": "Climate",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_geography_rivers",
+                "title": "Rivers",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_geography_mountains",
+                "title": "Mountains",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_polity",
+            "title": "Polity",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_polity_constitution-basics",
+                "title": "Constitution basics",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_polity_fundamental-rights",
+                "title": "Fundamental rights",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_polity_directive-principles",
+                "title": "Directive principles",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_polity_union-government",
+                "title": "Union government",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_polity_state-government",
+                "title": "State government",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_economy",
+            "title": "Economy",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_economy_indian-economy-basics",
+                "title": "Indian economy basics",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_economy_agriculture",
+                "title": "Agriculture",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_economy_industry",
+                "title": "Industry",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_economy_services",
+                "title": "Services",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_economy_budget-basics",
+                "title": "Budget basics",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_science",
+            "title": "Science",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_science_physics",
+                "title": "Physics",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_science_physics_motion",
+                    "title": "Motion",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_science_physics_force",
+                    "title": "Force",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_science_physics_energy",
+                    "title": "Energy",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_science_physics_light",
+                    "title": "Light",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_science_physics_sound",
+                    "title": "Sound",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_science_physics_electricity",
+                    "title": "Electricity",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_science_chemistry",
+                "title": "Chemistry",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_science_chemistry_matter",
+                    "title": "Matter",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_science_chemistry_acids-bases-salts",
+                    "title": "Acids, bases, salts",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_science_chemistry_metals-and-non-metals",
+                    "title": "Metals and non-metals",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_science_chemistry_chemical-reactions",
+                    "title": "Chemical reactions",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_science_biology",
+                "title": "Biology",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_science_biology_human-body-systems",
+                    "title": "Human body systems",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_science_biology_plants",
+                    "title": "Plants",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_science_biology_animals",
+                    "title": "Animals",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_science_biology_nutrition",
+                    "title": "Nutrition",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_science_biology_diseases",
+                    "title": "Diseases",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_environment",
+            "title": "Environment",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_environment_ecosystem-basics",
+                "title": "Ecosystem basics",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_environment_biodiversity",
+                "title": "Biodiversity",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_environment_environmental-issues",
+                "title": "Environmental issues",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_current-affairs",
+            "title": "Current Affairs",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_current-affairs_national-events",
+                "title": "National events",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_current-affairs_international-events",
+                "title": "International events",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_current-affairs_government-schemes",
+                "title": "Government schemes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_current-affairs_awards",
+                "title": "Awards",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_current-affairs_sports",
+                "title": "Sports",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_4-general-awareness_current-affairs_books-and-authors",
+                "title": "Books and authors",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_5-computer-awareness-where-applicable",
+        "title": "5. Computer Awareness (Where Applicable)",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_5-computer-awareness-where-applicable_basics",
+            "title": "Basics",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_5-computer-awareness-where-applicable_basics_computer-fundamentals",
+                "title": "Computer fundamentals",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_5-computer-awareness-where-applicable_basics_hardware",
+                "title": "Hardware",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_5-computer-awareness-where-applicable_basics_software",
+                "title": "Software",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_5-computer-awareness-where-applicable_operating-systems",
+            "title": "Operating Systems",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_5-computer-awareness-where-applicable_operating-systems_windows-basics",
+                "title": "Windows basics",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_5-computer-awareness-where-applicable_operating-systems_file-management",
+                "title": "File management",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_5-computer-awareness-where-applicable_ms-office",
+            "title": "MS Office",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_5-computer-awareness-where-applicable_ms-office_ms-word",
+                "title": "MS Word",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_5-computer-awareness-where-applicable_ms-office_ms-excel",
+                "title": "MS Excel",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_5-computer-awareness-where-applicable_ms-office_ms-powerpoint",
+                "title": "MS PowerPoint",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_5-computer-awareness-where-applicable_internet",
+            "title": "Internet",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_5-computer-awareness-where-applicable_internet_internet-basics",
+                "title": "Internet basics",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_5-computer-awareness-where-applicable_internet_email",
+                "title": "Email",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_5-computer-awareness-where-applicable_internet_browsers",
+                "title": "Browsers",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_5-computer-awareness-where-applicable_internet_cyber-security-basics",
+                "title": "Cyber security basics",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_6-miscellaneous-exam-specific-areas",
+        "title": "6. Miscellaneous / Exam-Specific Areas",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_6-miscellaneous-exam-specific-areas_general-intelligence",
+            "title": "General Intelligence",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_6-miscellaneous-exam-specific-areas_general-intelligence_logical-reasoning",
+                "title": "Logical reasoning",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_6-miscellaneous-exam-specific-areas_general-intelligence_analytical-reasoning",
+                "title": "Analytical reasoning",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_6-miscellaneous-exam-specific-areas_typing-skill-areas-steno-chsl",
+            "title": "Typing / Skill Areas (Steno / CHSL)",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_6-miscellaneous-exam-specific-areas_typing-skill-areas-steno-chsl_english-typing",
+                "title": "English typing",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_6-miscellaneous-exam-specific-areas_typing-skill-areas-steno-chsl_hindi-typing",
+                "title": "Hindi typing",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ssc-cgl-chsl-cpo-mts-gd-stenographer-syllabus-only_6-miscellaneous-exam-specific-areas_typing-skill-areas-steno-chsl_shorthand-basics",
+                "title": "Shorthand basics",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

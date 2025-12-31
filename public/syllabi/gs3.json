@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "root_upsccsegspaperiiidetailedmd",
+    "title": "UPSC_CSE_GS_PAPER_III_DETAILED.md",
+    "type": "branch",
+    "children": []
+  },
+  {
+    "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management",
+    "title": "Technology, Economic Development, Biodiversity, Environment, Security & Disaster Management",
+    "type": "branch",
+    "children": [
+      {
+        "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_1-indian-economy-and-planning",
+        "title": "1. Indian Economy and Planning",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_1-indian-economy-and-planning_growth-and-development",
+            "title": "Growth and Development",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_1-indian-economy-and-planning_growth-and-development_economic-growth-vs-economic-development",
+                "title": "Economic growth vs economic development",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_1-indian-economy-and-planning_growth-and-development_indicators-of-development",
+                "title": "Indicators of development",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_1-indian-economy-and-planning_growth-and-development_structural-transformation",
+                "title": "Structural transformation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_1-indian-economy-and-planning_growth-and-development_inclusive-growth",
+                "title": "Inclusive growth",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_1-indian-economy-and-planning_planning-and-policy",
+            "title": "Planning and Policy",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_1-indian-economy-and-planning_planning-and-policy_planning-in-india",
+                "title": "Planning in India",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_1-indian-economy-and-planning_planning-and-policy_five-year-plans",
+                "title": "Five-Year Plans",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_1-indian-economy-and-planning_planning-and-policy_post-planning-era",
+                "title": "Post-planning era",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_1-indian-economy-and-planning_planning-and-policy_role-of-niti-aayog",
+                "title": "Role of NITI Aayog",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_1-indian-economy-and-planning_planning-and-policy_policy-reforms",
+                "title": "Policy reforms",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_1-indian-economy-and-planning_economic-reforms",
+            "title": "Economic Reforms",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_1-indian-economy-and-planning_economic-reforms_liberalization",
+                "title": "Liberalization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_1-indian-economy-and-planning_economic-reforms_privatization",
+                "title": "Privatization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_1-indian-economy-and-planning_economic-reforms_globalization",
+                "title": "Globalization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_1-indian-economy-and-planning_economic-reforms_structural-reforms",
+                "title": "Structural reforms",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_2-mobilization-of-resources",
+        "title": "2. Mobilization of Resources",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_2-mobilization-of-resources_public-finance",
+            "title": "Public Finance",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_2-mobilization-of-resources_public-finance_revenue-receipts",
+                "title": "Revenue receipts",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_2-mobilization-of-resources_public-finance_capital-receipts",
+                "title": "Capital receipts",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_2-mobilization-of-resources_public-finance_taxation-structure",
+                "title": "Taxation structure",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_2-mobilization-of-resources_taxation",
+            "title": "Taxation",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_2-mobilization-of-resources_taxation_direct-taxes",
+                "title": "Direct taxes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_2-mobilization-of-resources_taxation_indirect-taxes",
+                "title": "Indirect taxes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_2-mobilization-of-resources_taxation_goods-and-services-tax-gst",
+                "title": "Goods and Services Tax (GST)",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_2-mobilization-of-resources_taxation_tax-reforms",
+                "title": "Tax reforms",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_2-mobilization-of-resources_budgeting",
+            "title": "Budgeting",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_2-mobilization-of-resources_budgeting_budgetary-process",
+                "title": "Budgetary process",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_2-mobilization-of-resources_budgeting_fiscal-deficit",
+                "title": "Fiscal deficit",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_2-mobilization-of-resources_budgeting_revenue-deficit",
+                "title": "Revenue deficit",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_2-mobilization-of-resources_budgeting_primary-deficit",
+                "title": "Primary deficit",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_3-inclusive-growth",
+        "title": "3. Inclusive Growth",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_3-inclusive-growth_poverty",
+            "title": "Poverty",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_3-inclusive-growth_poverty_poverty-measurement",
+                "title": "Poverty measurement",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_3-inclusive-growth_poverty_poverty-alleviation-programs",
+                "title": "Poverty alleviation programs",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_3-inclusive-growth_employment",
+            "title": "Employment",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_3-inclusive-growth_employment_employment-trends",
+                "title": "Employment trends",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_3-inclusive-growth_employment_unemployment-types",
+                "title": "Unemployment types",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_3-inclusive-growth_employment_job-creation-strategies",
+                "title": "Job creation strategies",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_3-inclusive-growth_financial-inclusion",
+            "title": "Financial Inclusion",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_3-inclusive-growth_financial-inclusion_banking-access",
+                "title": "Banking access",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_3-inclusive-growth_financial-inclusion_credit-inclusion",
+                "title": "Credit inclusion",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_3-inclusive-growth_financial-inclusion_digital-financial-services",
+                "title": "Digital financial services",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_3-inclusive-growth_social-sector",
+            "title": "Social Sector",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_3-inclusive-growth_social-sector_health",
+                "title": "Health",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_3-inclusive-growth_social-sector_education",
+                "title": "Education",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_3-inclusive-growth_social-sector_nutrition",
+                "title": "Nutrition",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_4-agriculture",
+        "title": "4. Agriculture",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_4-agriculture_agriculture-structure",
+            "title": "Agriculture Structure",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_4-agriculture_agriculture-structure_role-of-agriculture-in-economy",
+                "title": "Role of agriculture in economy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_4-agriculture_agriculture-structure_landholding-patterns",
+                "title": "Landholding patterns",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_4-agriculture_cropping-patterns",
+            "title": "Cropping Patterns",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_4-agriculture_cropping-patterns_kharif-crops",
+                "title": "Kharif crops",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_4-agriculture_cropping-patterns_rabi-crops",
+                "title": "Rabi crops",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_4-agriculture_cropping-patterns_zaid-crops",
+                "title": "Zaid crops",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_4-agriculture_cropping-patterns_regional-cropping-patterns",
+                "title": "Regional cropping patterns",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_4-agriculture_irrigation",
+            "title": "Irrigation",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_4-agriculture_irrigation_canal-irrigation",
+                "title": "Canal irrigation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_4-agriculture_irrigation_groundwater-irrigation",
+                "title": "Groundwater irrigation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_4-agriculture_irrigation_micro-irrigation",
+                "title": "Micro-irrigation",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_4-agriculture_agricultural-inputs",
+            "title": "Agricultural Inputs",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_4-agriculture_agricultural-inputs_seeds",
+                "title": "Seeds",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_4-agriculture_agricultural-inputs_fertilizers",
+                "title": "Fertilizers",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_4-agriculture_agricultural-inputs_pesticides",
+                "title": "Pesticides",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_4-agriculture_agricultural-inputs_mechanization",
+                "title": "Mechanization",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_4-agriculture_agricultural-marketing",
+            "title": "Agricultural Marketing",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_4-agriculture_agricultural-marketing_apmc-system",
+                "title": "APMC system",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_4-agriculture_agricultural-marketing_msp",
+                "title": "MSP",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_4-agriculture_agricultural-marketing_procurement-and-storage",
+                "title": "Procurement and storage",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_4-agriculture_agricultural-marketing_agricultural-reforms",
+                "title": "Agricultural reforms",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_4-agriculture_food-security",
+            "title": "Food Security",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_4-agriculture_food-security_food-grains-management",
+                "title": "Food grains management",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_4-agriculture_food-security_public-distribution-system",
+                "title": "Public Distribution System",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_5-industry-and-infrastructure",
+        "title": "5. Industry and Infrastructure",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_5-industry-and-infrastructure_industrial-sector",
+            "title": "Industrial Sector",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_5-industry-and-infrastructure_industrial-sector_manufacturing-sector",
+                "title": "Manufacturing sector",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_5-industry-and-infrastructure_industrial-sector_msmes",
+                "title": "MSMEs",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_5-industry-and-infrastructure_industrial-sector_industrial-corridors",
+                "title": "Industrial corridors",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_5-industry-and-infrastructure_industrial-policy",
+            "title": "Industrial Policy",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_5-industry-and-infrastructure_industrial-policy_industrial-policy-framework",
+                "title": "Industrial policy framework",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_5-industry-and-infrastructure_industrial-policy_ease-of-doing-business",
+                "title": "Ease of doing business",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_5-industry-and-infrastructure_infrastructure",
+            "title": "Infrastructure",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_5-industry-and-infrastructure_infrastructure_power-sector",
+                "title": "Power sector",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_5-industry-and-infrastructure_infrastructure_transport-roads-railways-ports-airports",
+                "title": "Transport (roads, railways, ports, airports)",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_5-industry-and-infrastructure_infrastructure_urban-infrastructure",
+                "title": "Urban infrastructure",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_6-science-and-technology",
+        "title": "6. Science and Technology",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_6-science-and-technology_science-policy",
+            "title": "Science Policy",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_6-science-and-technology_science-policy_science-and-technology-development-in-india",
+                "title": "Science and technology development in India",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_6-science-and-technology_science-policy_research-institutions",
+                "title": "Research institutions",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_6-science-and-technology_science-policy_innovation-ecosystem",
+                "title": "Innovation ecosystem",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_6-science-and-technology_emerging-technologies",
+            "title": "Emerging Technologies",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_6-science-and-technology_emerging-technologies_artificial-intelligence",
+                "title": "Artificial intelligence",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_6-science-and-technology_emerging-technologies_biotechnology",
+                "title": "Biotechnology",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_6-science-and-technology_emerging-technologies_nanotechnology",
+                "title": "Nanotechnology",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_6-science-and-technology_emerging-technologies_robotics",
+                "title": "Robotics",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_6-science-and-technology_emerging-technologies_space-technology",
+                "title": "Space technology",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_6-science-and-technology_it-and-digital-technology",
+            "title": "IT and Digital Technology",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_6-science-and-technology_it-and-digital-technology_information-technology",
+                "title": "Information technology",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_6-science-and-technology_it-and-digital-technology_digital-governance",
+                "title": "Digital governance",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_6-science-and-technology_it-and-digital-technology_cyber-space",
+                "title": "Cyber space",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_7-environmental-conservation",
+        "title": "7. Environmental Conservation",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_7-environmental-conservation_ecology",
+            "title": "Ecology",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_7-environmental-conservation_ecology_ecosystems",
+                "title": "Ecosystems",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_7-environmental-conservation_ecology_biodiversity",
+                "title": "Biodiversity",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_7-environmental-conservation_ecology_food-chains",
+                "title": "Food chains",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_7-environmental-conservation_ecology_food-webs",
+                "title": "Food webs",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_7-environmental-conservation_biodiversity-conservation",
+            "title": "Biodiversity Conservation",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_7-environmental-conservation_biodiversity-conservation_protected-areas",
+                "title": "Protected areas",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_7-environmental-conservation_biodiversity-conservation_national-parks",
+                "title": "National parks",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_7-environmental-conservation_biodiversity-conservation_wildlife-sanctuaries",
+                "title": "Wildlife sanctuaries",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_7-environmental-conservation_biodiversity-conservation_biosphere-reserves",
+                "title": "Biosphere reserves",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_7-environmental-conservation_environmental-pollution",
+            "title": "Environmental Pollution",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_7-environmental-conservation_environmental-pollution_air-pollution",
+                "title": "Air pollution",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_7-environmental-conservation_environmental-pollution_water-pollution",
+                "title": "Water pollution",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_7-environmental-conservation_environmental-pollution_soil-pollution",
+                "title": "Soil pollution",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_7-environmental-conservation_environmental-pollution_noise-pollution",
+                "title": "Noise pollution",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_7-environmental-conservation_climate-change",
+            "title": "Climate Change",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_7-environmental-conservation_climate-change_global-warming",
+                "title": "Global warming",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_7-environmental-conservation_climate-change_climate-change-impacts",
+                "title": "Climate change impacts",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_7-environmental-conservation_climate-change_climate-mitigation",
+                "title": "Climate mitigation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_7-environmental-conservation_climate-change_climate-adaptation",
+                "title": "Climate adaptation",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_8-environmental-impact-and-laws",
+        "title": "8. Environmental Impact and Laws",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_8-environmental-impact-and-laws_environmental-governance",
+            "title": "Environmental Governance",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_8-environmental-impact-and-laws_environmental-governance_environmental-impact-assessment",
+                "title": "Environmental Impact Assessment",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_8-environmental-impact-and-laws_environmental-governance_environmental-regulations",
+                "title": "Environmental regulations",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_8-environmental-impact-and-laws_environmental-governance_sustainable-development",
+                "title": "Sustainable development",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_8-environmental-impact-and-laws_conservation-laws",
+            "title": "Conservation Laws",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_8-environmental-impact-and-laws_conservation-laws_wildlife-protection",
+                "title": "Wildlife protection",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_8-environmental-impact-and-laws_conservation-laws_forest-conservation",
+                "title": "Forest conservation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_8-environmental-impact-and-laws_conservation-laws_biodiversity-laws",
+                "title": "Biodiversity laws",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_9-disaster-management",
+        "title": "9. Disaster Management",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_9-disaster-management_disaster-types",
+            "title": "Disaster Types",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_9-disaster-management_disaster-types_natural-disasters",
+                "title": "Natural disasters",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_9-disaster-management_disaster-types_man-made-disasters",
+                "title": "Man-made disasters",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_9-disaster-management_disaster-management-cycle",
+            "title": "Disaster Management Cycle",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_9-disaster-management_disaster-management-cycle_prevention",
+                "title": "Prevention",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_9-disaster-management_disaster-management-cycle_mitigation",
+                "title": "Mitigation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_9-disaster-management_disaster-management-cycle_preparedness",
+                "title": "Preparedness",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_9-disaster-management_disaster-management-cycle_response",
+                "title": "Response",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_9-disaster-management_disaster-management-cycle_recovery",
+                "title": "Recovery",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_9-disaster-management_institutional-framework",
+            "title": "Institutional Framework",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_9-disaster-management_institutional-framework_disaster-management-authorities",
+                "title": "Disaster management authorities",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_9-disaster-management_institutional-framework_community-participation",
+                "title": "Community participation",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_10-internal-security",
+        "title": "10. Internal Security",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_10-internal-security_security-challenges",
+            "title": "Security Challenges",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_10-internal-security_security-challenges_terrorism",
+                "title": "Terrorism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_10-internal-security_security-challenges_insurgency",
+                "title": "Insurgency",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_10-internal-security_security-challenges_left-wing-extremism",
+                "title": "Left-wing extremism",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_10-internal-security_border-security",
+            "title": "Border Security",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_10-internal-security_border-security_land-borders",
+                "title": "Land borders",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_10-internal-security_border-security_coastal-security",
+                "title": "Coastal security",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_10-internal-security_cyber-security",
+            "title": "Cyber Security",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_10-internal-security_cyber-security_cyber-threats",
+                "title": "Cyber threats",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_10-internal-security_cyber-security_cyber-warfare",
+                "title": "Cyber warfare",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_10-internal-security_cyber-security_data-protection",
+                "title": "Data protection",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_10-internal-security_organized-crime",
+            "title": "Organized Crime",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_10-internal-security_organized-crime_drug-trafficking",
+                "title": "Drug trafficking",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_10-internal-security_organized-crime_human-trafficking",
+                "title": "Human trafficking",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_10-internal-security_organized-crime_money-laundering",
+                "title": "Money laundering",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_11-role-of-security-forces",
+        "title": "11. Role of Security Forces",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_11-role-of-security-forces_police-forces",
+            "title": "Police Forces",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_11-role-of-security-forces_police-forces_state-police",
+                "title": "State police",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_11-role-of-security-forces_police-forces_central-armed-police-forces",
+                "title": "Central armed police forces",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_11-role-of-security-forces_armed-forces",
+            "title": "Armed Forces",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_11-role-of-security-forces_armed-forces_army",
+                "title": "Army",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_11-role-of-security-forces_armed-forces_navy",
+                "title": "Navy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_11-role-of-security-forces_armed-forces_air-force",
+                "title": "Air Force",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_11-role-of-security-forces_intelligence-agencies",
+            "title": "Intelligence Agencies",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_11-role-of-security-forces_intelligence-agencies_internal-intelligence",
+                "title": "Internal intelligence",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_11-role-of-security-forces_intelligence-agencies_external-intelligence",
+                "title": "External intelligence",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_12-money-laundering-and-terror-financing",
+        "title": "12. Money Laundering and Terror Financing",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_12-money-laundering-and-terror-financing_financial-crimes",
+            "title": "Financial Crimes",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_12-money-laundering-and-terror-financing_financial-crimes_money-laundering-mechanisms",
+                "title": "Money laundering mechanisms",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_12-money-laundering-and-terror-financing_financial-crimes_terror-financing",
+                "title": "Terror financing",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_12-money-laundering-and-terror-financing_regulatory-framework",
+            "title": "Regulatory Framework",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_12-money-laundering-and-terror-financing_regulatory-framework_financial-intelligence",
+                "title": "Financial intelligence",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_12-money-laundering-and-terror-financing_regulatory-framework_international-cooperation",
+                "title": "International cooperation",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_13-security-agencies-and-reforms",
+        "title": "13. Security Agencies and Reforms",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_13-security-agencies-and-reforms_security-architecture",
+            "title": "Security Architecture",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_13-security-agencies-and-reforms_security-architecture_national-security-framework",
+                "title": "National security framework",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_13-security-agencies-and-reforms_security-architecture_security-coordination",
+                "title": "Security coordination",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_13-security-agencies-and-reforms_reforms",
+            "title": "Reforms",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_13-security-agencies-and-reforms_reforms_police-reforms",
+                "title": "Police reforms",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_13-security-agencies-and-reforms_reforms_intelligence-reforms",
+                "title": "Intelligence reforms",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_14-achievements-and-challenges-in-science-tech",
+        "title": "14. Achievements and Challenges in Science & Tech",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_14-achievements-and-challenges-in-science-tech_indigenous-technology",
+            "title": "Indigenous Technology",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_14-achievements-and-challenges-in-science-tech_indigenous-technology_space-missions",
+                "title": "Space missions",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_14-achievements-and-challenges-in-science-tech_indigenous-technology_defence-technology",
+                "title": "Defence technology",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_14-achievements-and-challenges-in-science-tech_research-and-development",
+            "title": "Research and Development",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_14-achievements-and-challenges-in-science-tech_research-and-development_public-rd",
+                "title": "Public R&D",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_14-achievements-and-challenges-in-science-tech_research-and-development_private-rd",
+                "title": "Private R&D",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_14-achievements-and-challenges-in-science-tech_challenges",
+            "title": "Challenges",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_14-achievements-and-challenges-in-science-tech_challenges_technology-gaps",
+                "title": "Technology gaps",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_technology-economic-development-biodiversity-environment-security-disaster-management_14-achievements-and-challenges-in-science-tech_challenges_skill-gaps",
+                "title": "Skill gaps",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

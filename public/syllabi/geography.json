@@ -1,0 +1,1606 @@
+[
+  {
+    "id": "root_upsccseoptionalgeographypaperimd",
+    "title": "UPSC_CSE_OPTIONAL_GEOGRAPHY_PAPER_I.md",
+    "type": "branch",
+    "children": [
+      {
+        "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology",
+        "title": "1. Geomorphology",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_earth-structure-and-origin",
+            "title": "Earth Structure and Origin",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_earth-structure-and-origin_origin-of-the-earth",
+                "title": "Origin of the earth",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_earth-structure-and-origin_age-of-the-earth",
+                "title": "Age of the earth",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_earth-structure-and-origin_interior-structure-of-the-earth",
+                "title": "Interior structure of the earth",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_earth-structure-and-origin_seismic-waves-and-earths-interior",
+                "title": "Seismic waves and earth\u2019s interior",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_plate-tectonics",
+            "title": "Plate Tectonics",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_plate-tectonics_continental-drift-theory",
+                "title": "Continental drift theory",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_plate-tectonics_sea-floor-spreading",
+                "title": "Sea floor spreading",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_plate-tectonics_plate-tectonic-theory",
+                "title": "Plate tectonic theory",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_plate-tectonics_types-of-plate-boundaries",
+                "title": "Types of plate boundaries",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_plate-tectonics_plate-movements-and-evidences",
+                "title": "Plate movements and evidences",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_plate-tectonics_plate-tectonics-and-mountain-building",
+                "title": "Plate tectonics and mountain building",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_earth-movements",
+            "title": "Earth Movements",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_earth-movements_endogenic-forces",
+                "title": "Endogenic forces",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_earth-movements_exogenic-forces",
+                "title": "Exogenic forces",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_earth-movements_orogenic-movements",
+                "title": "Orogenic movements",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_earth-movements_epeirogenic-movements",
+                "title": "Epeirogenic movements",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_landform-development",
+            "title": "Landform Development",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_landform-development_weathering-processes",
+                "title": "Weathering processes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_landform-development_mass-wasting",
+                "title": "Mass wasting",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_landform-development_erosion-and-deposition",
+                "title": "Erosion and deposition",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_landform-development_cycle-of-erosion-davis-penck-king",
+                "title": "Cycle of erosion (Davis, Penck, King)",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_fluvial-landforms",
+            "title": "Fluvial Landforms",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_fluvial-landforms_river-erosion-processes",
+                "title": "River erosion processes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_fluvial-landforms_valley-development",
+                "title": "Valley development",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_fluvial-landforms_flood-plains",
+                "title": "Flood plains",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_fluvial-landforms_meanders",
+                "title": "Meanders",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_fluvial-landforms_ox-bow-lakes",
+                "title": "Ox-bow lakes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_fluvial-landforms_deltas-and-alluvial-fans",
+                "title": "Deltas and alluvial fans",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_glacial-landforms",
+            "title": "Glacial Landforms",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_glacial-landforms_glacial-erosion",
+                "title": "Glacial erosion",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_glacial-landforms_cirques",
+                "title": "Cirques",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_glacial-landforms_aretes",
+                "title": "Aretes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_glacial-landforms_horns",
+                "title": "Horns",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_glacial-landforms_moraines",
+                "title": "Moraines",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_glacial-landforms_glacial-valleys",
+                "title": "Glacial valleys",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_glacial-landforms_fjords",
+                "title": "Fjords",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_aeolian-landforms",
+            "title": "Aeolian Landforms",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_aeolian-landforms_wind-erosion",
+                "title": "Wind erosion",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_aeolian-landforms_deflation-hollows",
+                "title": "Deflation hollows",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_aeolian-landforms_yardangs",
+                "title": "Yardangs",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_aeolian-landforms_sand-dunes",
+                "title": "Sand dunes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_aeolian-landforms_loess-deposits",
+                "title": "Loess deposits",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_coastal-landforms",
+            "title": "Coastal Landforms",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_coastal-landforms_waves-and-currents",
+                "title": "Waves and currents",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_coastal-landforms_cliffs",
+                "title": "Cliffs",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_coastal-landforms_beaches",
+                "title": "Beaches",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_coastal-landforms_spits",
+                "title": "Spits",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_coastal-landforms_bars",
+                "title": "Bars",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_coastal-landforms_lagoons",
+                "title": "Lagoons",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_coastal-landforms_coral-reefs",
+                "title": "Coral reefs",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_karst-topography",
+            "title": "Karst Topography",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_karst-topography_limestone-landscapes",
+                "title": "Limestone landscapes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_karst-topography_sinkholes",
+                "title": "Sinkholes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_karst-topography_caves",
+                "title": "Caves",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_karst-topography_stalactites-and-stalagmites",
+                "title": "Stalactites and stalagmites",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_volcanism",
+            "title": "Volcanism",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_volcanism_types-of-volcanoes",
+                "title": "Types of volcanoes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_volcanism_volcanic-materials",
+                "title": "Volcanic materials",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_volcanism_volcanic-landforms",
+                "title": "Volcanic landforms",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_volcanism_volcanism-and-plate-boundaries",
+                "title": "Volcanism and plate boundaries",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_earthquakes",
+            "title": "Earthquakes",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_earthquakes_causes-of-earthquakes",
+                "title": "Causes of earthquakes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_earthquakes_seismic-waves",
+                "title": "Seismic waves",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_earthquakes_earthquake-zones",
+                "title": "Earthquake zones",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_1-geomorphology_earthquakes_effects-of-earthquakes",
+                "title": "Effects of earthquakes",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalgeographypaperimd_2-climatology",
+        "title": "2. Climatology",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_2-climatology_composition-of-atmosphere",
+            "title": "Composition of Atmosphere",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_2-climatology_composition-of-atmosphere_atmospheric-gases",
+                "title": "Atmospheric gases",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_2-climatology_composition-of-atmosphere_vertical-structure-of-atmosphere",
+                "title": "Vertical structure of atmosphere",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_2-climatology_insolation",
+            "title": "Insolation",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_2-climatology_insolation_solar-radiation",
+                "title": "Solar radiation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_2-climatology_insolation_heat-budget-of-the-earth",
+                "title": "Heat budget of the earth",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_2-climatology_insolation_albedo",
+                "title": "Albedo",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_2-climatology_temperature",
+            "title": "Temperature",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_2-climatology_temperature_horizontal-distribution-of-temperature",
+                "title": "Horizontal distribution of temperature",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_2-climatology_temperature_vertical-distribution-of-temperature",
+                "title": "Vertical distribution of temperature",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_2-climatology_temperature_temperature-inversion",
+                "title": "Temperature inversion",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_2-climatology_atmospheric-pressure",
+            "title": "Atmospheric Pressure",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_2-climatology_atmospheric-pressure_pressure-belts",
+                "title": "Pressure belts",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_2-climatology_atmospheric-pressure_pressure-gradients",
+                "title": "Pressure gradients",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_2-climatology_atmospheric-pressure_wind-systems",
+                "title": "Wind systems",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_2-climatology_winds",
+            "title": "Winds",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_2-climatology_winds_planetary-winds",
+                "title": "Planetary winds",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_2-climatology_winds_seasonal-winds",
+                "title": "Seasonal winds",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_2-climatology_winds_local-winds",
+                "title": "Local winds",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_2-climatology_monsoons",
+            "title": "Monsoons",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_2-climatology_monsoons_mechanism-of-monsoon",
+                "title": "Mechanism of monsoon",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_2-climatology_monsoons_indian-monsoon-system",
+                "title": "Indian monsoon system",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_2-climatology_monsoons_variability-of-monsoons",
+                "title": "Variability of monsoons",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_2-climatology_air-masses",
+            "title": "Air Masses",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_2-climatology_air-masses_types-of-air-masses",
+                "title": "Types of air masses",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_2-climatology_air-masses_source-regions",
+                "title": "Source regions",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_2-climatology_air-masses_air-mass-modification",
+                "title": "Air mass modification",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_2-climatology_fronts",
+            "title": "Fronts",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_2-climatology_fronts_cold-fronts",
+                "title": "Cold fronts",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_2-climatology_fronts_warm-fronts",
+                "title": "Warm fronts",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_2-climatology_fronts_occluded-fronts",
+                "title": "Occluded fronts",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_2-climatology_cyclones",
+            "title": "Cyclones",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_2-climatology_cyclones_tropical-cyclones",
+                "title": "Tropical cyclones",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_2-climatology_cyclones_temperate-cyclones",
+                "title": "Temperate cyclones",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_2-climatology_cyclones_anticyclones",
+                "title": "Anticyclones",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_2-climatology_precipitation",
+            "title": "Precipitation",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_2-climatology_precipitation_types-of-precipitation",
+                "title": "Types of precipitation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_2-climatology_precipitation_rainfall-distribution",
+                "title": "Rainfall distribution",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_2-climatology_precipitation_global-rainfall-patterns",
+                "title": "Global rainfall patterns",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_2-climatology_climate-classification",
+            "title": "Climate Classification",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_2-climatology_climate-classification_kppen-classification",
+                "title": "K\u00f6ppen classification",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_2-climatology_climate-classification_thornthwaite-classification",
+                "title": "Thornthwaite classification",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_2-climatology_climate-classification_climatic-regions-of-the-world",
+                "title": "Climatic regions of the world",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_2-climatology_climate-change",
+            "title": "Climate Change",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_2-climatology_climate-change_global-warming",
+                "title": "Global warming",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_2-climatology_climate-change_greenhouse-effect",
+                "title": "Greenhouse effect",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_2-climatology_climate-change_climate-variability",
+                "title": "Climate variability",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_2-climatology_climate-change_el-nio-and-la-nia",
+                "title": "El Ni\u00f1o and La Ni\u00f1a",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalgeographypaperimd_3-oceanography",
+        "title": "3. Oceanography",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_3-oceanography_ocean-relief",
+            "title": "Ocean Relief",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_3-oceanography_ocean-relief_continental-shelf",
+                "title": "Continental shelf",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_3-oceanography_ocean-relief_continental-slope",
+                "title": "Continental slope",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_3-oceanography_ocean-relief_deep-sea-plains",
+                "title": "Deep sea plains",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_3-oceanography_ocean-relief_oceanic-ridges",
+                "title": "Oceanic ridges",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_3-oceanography_ocean-relief_trenches",
+                "title": "Trenches",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_3-oceanography_ocean-water-properties",
+            "title": "Ocean Water Properties",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_3-oceanography_ocean-water-properties_temperature",
+                "title": "Temperature",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_3-oceanography_ocean-water-properties_salinity",
+                "title": "Salinity",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_3-oceanography_ocean-water-properties_density",
+                "title": "Density",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_3-oceanography_ocean-movements",
+            "title": "Ocean Movements",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_3-oceanography_ocean-movements_ocean-currents",
+                "title": "Ocean currents",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_3-oceanography_ocean-movements_causes-of-currents",
+                "title": "Causes of currents",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_3-oceanography_ocean-movements_warm-and-cold-currents",
+                "title": "Warm and cold currents",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_3-oceanography_ocean-movements_upwelling-and-downwelling",
+                "title": "Upwelling and downwelling",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_3-oceanography_waves-and-tides",
+            "title": "Waves and Tides",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_3-oceanography_waves-and-tides_ocean-waves",
+                "title": "Ocean waves",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_3-oceanography_waves-and-tides_tides",
+                "title": "Tides",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_3-oceanography_waves-and-tides_tidal-types",
+                "title": "Tidal types",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_3-oceanography_waves-and-tides_tsunamis",
+                "title": "Tsunamis",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_3-oceanography_marine-resources",
+            "title": "Marine Resources",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_3-oceanography_marine-resources_living-resources",
+                "title": "Living resources",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_3-oceanography_marine-resources_non-living-resources",
+                "title": "Non-living resources",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_3-oceanography_marine-resources_marine-pollution",
+                "title": "Marine pollution",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalgeographypaperimd_4-biogeography",
+        "title": "4. Biogeography",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_4-biogeography_biosphere",
+            "title": "Biosphere",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_4-biogeography_biosphere_concept-of-biosphere",
+                "title": "Concept of biosphere",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_4-biogeography_biosphere_ecosystems",
+                "title": "Ecosystems",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_4-biogeography_biosphere_energy-flow",
+                "title": "Energy flow",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_4-biogeography_biosphere_food-chains-and-food-webs",
+                "title": "Food chains and food webs",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_4-biogeography_biodiversity",
+            "title": "Biodiversity",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_4-biogeography_biodiversity_types-of-biodiversity",
+                "title": "Types of biodiversity",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_4-biogeography_biodiversity_species-diversity",
+                "title": "Species diversity",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_4-biogeography_biodiversity_genetic-diversity",
+                "title": "Genetic diversity",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_4-biogeography_biodiversity_ecosystem-diversity",
+                "title": "Ecosystem diversity",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_4-biogeography_plant-geography",
+            "title": "Plant Geography",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_4-biogeography_plant-geography_factors-influencing-vegetation",
+                "title": "Factors influencing vegetation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_4-biogeography_plant-geography_major-vegetation-types-of-the-world",
+                "title": "Major vegetation types of the world",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_4-biogeography_animal-geography",
+            "title": "Animal Geography",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_4-biogeography_animal-geography_distribution-of-fauna",
+                "title": "Distribution of fauna",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_4-biogeography_animal-geography_zoogeographical-regions",
+                "title": "Zoogeographical regions",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_4-biogeography_ecological-succession",
+            "title": "Ecological Succession",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_4-biogeography_ecological-succession_types-of-succession",
+                "title": "Types of succession",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_4-biogeography_ecological-succession_climatic-climax",
+                "title": "Climatic climax",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_4-biogeography_ecological-succession_edaphic-climax",
+                "title": "Edaphic climax",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_4-biogeography_environmental-issues",
+            "title": "Environmental Issues",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_4-biogeography_environmental-issues_deforestation",
+                "title": "Deforestation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_4-biogeography_environmental-issues_desertification",
+                "title": "Desertification",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_4-biogeography_environmental-issues_soil-degradation",
+                "title": "Soil degradation",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalgeographypaperimd_5-environmental-geography",
+        "title": "5. Environmental Geography",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_5-environmental-geography_humanenvironment-interaction",
+            "title": "Human\u2013Environment Interaction",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_5-environmental-geography_humanenvironment-interaction_manenvironment-relationship",
+                "title": "Man\u2013environment relationship",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_5-environmental-geography_humanenvironment-interaction_environmental-determinism",
+                "title": "Environmental determinism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_5-environmental-geography_humanenvironment-interaction_possibilism",
+                "title": "Possibilism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_5-environmental-geography_humanenvironment-interaction_neo-determinism",
+                "title": "Neo-determinism",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_5-environmental-geography_environmental-degradation",
+            "title": "Environmental Degradation",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_5-environmental-geography_environmental-degradation_pollution-air-water-soil",
+                "title": "Pollution (air, water, soil)",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_5-environmental-geography_environmental-degradation_resource-depletion",
+                "title": "Resource depletion",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_5-environmental-geography_conservation",
+            "title": "Conservation",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_5-environmental-geography_conservation_wildlife-conservation",
+                "title": "Wildlife conservation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_5-environmental-geography_conservation_forest-conservation",
+                "title": "Forest conservation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_5-environmental-geography_conservation_sustainable-development",
+                "title": "Sustainable development",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalgeographypaperimd_6-perspectives-in-human-geography",
+        "title": "6. Perspectives in Human Geography",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_6-perspectives-in-human-geography_nature-of-human-geography",
+            "title": "Nature of Human Geography",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_6-perspectives-in-human-geography_nature-of-human-geography_scope-of-human-geography",
+                "title": "Scope of human geography",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_6-perspectives-in-human-geography_nature-of-human-geography_approaches-to-human-geography",
+                "title": "Approaches to human geography",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_6-perspectives-in-human-geography_dichotomy",
+            "title": "Dichotomy",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_6-perspectives-in-human-geography_dichotomy_physical-vs-human-geography",
+                "title": "Physical vs human geography",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_6-perspectives-in-human-geography_dichotomy_regional-vs-systematic-geography",
+                "title": "Regional vs systematic geography",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_6-perspectives-in-human-geography_areal-differentiation",
+            "title": "Areal Differentiation",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_6-perspectives-in-human-geography_areal-differentiation_concept-of-regions",
+                "title": "Concept of regions",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_6-perspectives-in-human-geography_areal-differentiation_regional-synthesis",
+                "title": "Regional synthesis",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalgeographypaperimd_7-economic-geography",
+        "title": "7. Economic Geography",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_7-economic-geography_resources",
+            "title": "Resources",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_7-economic-geography_resources_concept-of-resources",
+                "title": "Concept of resources",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_7-economic-geography_resources_types-of-resources",
+                "title": "Types of resources",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_7-economic-geography_resources_resource-utilization",
+                "title": "Resource utilization",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_7-economic-geography_agriculture",
+            "title": "Agriculture",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_7-economic-geography_agriculture_agricultural-systems",
+                "title": "Agricultural systems",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_7-economic-geography_agriculture_types-of-farming",
+                "title": "Types of farming",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_7-economic-geography_agriculture_crop-distribution-patterns",
+                "title": "Crop distribution patterns",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_7-economic-geography_industry",
+            "title": "Industry",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_7-economic-geography_industry_industrial-location-theories",
+                "title": "Industrial location theories",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_7-economic-geography_industry_webers-theory",
+                "title": "Weber\u2019s theory",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_7-economic-geography_industry_losch-theory",
+                "title": "Losch theory",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_7-economic-geography_industry_raw-material-orientation",
+                "title": "Raw material orientation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_7-economic-geography_industry_market-orientation",
+                "title": "Market orientation",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_7-economic-geography_transport",
+            "title": "Transport",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_7-economic-geography_transport_transport-networks",
+                "title": "Transport networks",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_7-economic-geography_transport_transport-and-development",
+                "title": "Transport and development",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_7-economic-geography_trade",
+            "title": "Trade",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_7-economic-geography_trade_international-trade",
+                "title": "International trade",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_7-economic-geography_trade_trade-patterns",
+                "title": "Trade patterns",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_7-economic-geography_trade_trade-blocs",
+                "title": "Trade blocs",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalgeographypaperimd_8-population-geography",
+        "title": "8. Population Geography",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_8-population-geography_population-distribution",
+            "title": "Population Distribution",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_8-population-geography_population-distribution_global-population-distribution",
+                "title": "Global population distribution",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_8-population-geography_population-distribution_factors-affecting-distribution",
+                "title": "Factors affecting distribution",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_8-population-geography_population-growth",
+            "title": "Population Growth",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_8-population-geography_population-growth_growth-patterns",
+                "title": "Growth patterns",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_8-population-geography_population-growth_demographic-transition-theory",
+                "title": "Demographic transition theory",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_8-population-geography_population-composition",
+            "title": "Population Composition",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_8-population-geography_population-composition_age-structure",
+                "title": "Age structure",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_8-population-geography_population-composition_sex-ratio",
+                "title": "Sex ratio",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_8-population-geography_population-composition_occupational-structure",
+                "title": "Occupational structure",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_8-population-geography_migration",
+            "title": "Migration",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_8-population-geography_migration_types-of-migration",
+                "title": "Types of migration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_8-population-geography_migration_causes-of-migration",
+                "title": "Causes of migration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_8-population-geography_migration_effects-of-migration",
+                "title": "Effects of migration",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalgeographypaperimd_9-settlement-geography",
+        "title": "9. Settlement Geography",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_9-settlement-geography_rural-settlements",
+            "title": "Rural Settlements",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_9-settlement-geography_rural-settlements_types-of-rural-settlements",
+                "title": "Types of rural settlements",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_9-settlement-geography_rural-settlements_settlement-patterns",
+                "title": "Settlement patterns",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_9-settlement-geography_urban-settlements",
+            "title": "Urban Settlements",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_9-settlement-geography_urban-settlements_urban-morphology",
+                "title": "Urban morphology",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_9-settlement-geography_urban-settlements_city-types",
+                "title": "City types",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_9-settlement-geography_urban-settlements_urbanization-process",
+                "title": "Urbanization process",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_9-settlement-geography_urban-settlements_urban-problems",
+                "title": "Urban problems",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalgeographypaperimd_10-regional-planning",
+        "title": "10. Regional Planning",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_10-regional-planning_concept-of-planning",
+            "title": "Concept of Planning",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_10-regional-planning_concept-of-planning_regional-planning",
+                "title": "Regional planning",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_10-regional-planning_concept-of-planning_spatial-planning",
+                "title": "Spatial planning",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_10-regional-planning_models-and-theories",
+            "title": "Models and Theories",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_10-regional-planning_models-and-theories_growth-pole-theory",
+                "title": "Growth pole theory",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_10-regional-planning_models-and-theories_central-place-theory",
+                "title": "Central place theory",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_10-regional-planning_models-and-theories_coreperiphery-model",
+                "title": "Core\u2013periphery model",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalgeographypaperimd_11-models-theories-and-laws-in-geography",
+        "title": "11. Models, Theories and Laws in Geography",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_11-models-theories-and-laws-in-geography_classical-models",
+            "title": "Classical Models",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_11-models-theories-and-laws-in-geography_classical-models_von-thunen-model",
+                "title": "Von Thunen model",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_11-models-theories-and-laws-in-geography_classical-models_webers-industrial-location-theory",
+                "title": "Weber\u2019s industrial location theory",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_11-models-theories-and-laws-in-geography_classical-models_christallers-central-place-theory",
+                "title": "Christaller\u2019s central place theory",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_11-models-theories-and-laws-in-geography_modern-approaches",
+            "title": "Modern Approaches",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_11-models-theories-and-laws-in-geography_modern-approaches_quantitative-revolution",
+                "title": "Quantitative revolution",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_11-models-theories-and-laws-in-geography_modern-approaches_behavioral-geography",
+                "title": "Behavioral geography",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_11-models-theories-and-laws-in-geography_modern-approaches_systems-approach",
+                "title": "Systems approach",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperimd_11-models-theories-and-laws-in-geography_applied-geography",
+            "title": "Applied Geography",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_11-models-theories-and-laws-in-geography_applied-geography_planning-geography",
+                "title": "Planning geography",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperimd_11-models-theories-and-laws-in-geography_applied-geography_development-geography",
+                "title": "Development geography",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

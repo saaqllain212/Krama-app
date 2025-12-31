@@ -1,0 +1,1329 @@
+[
+  {
+    "id": "root_upsccseoptionalsociologypaperimd",
+    "title": "UPSC_CSE_OPTIONAL_SOCIOLOGY_PAPER_I.md",
+    "type": "branch",
+    "children": [
+      {
+        "id": "root_upsccseoptionalsociologypaperimd_1-sociology-the-discipline",
+        "title": "1. Sociology \u2013 The Discipline",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_1-sociology-the-discipline_sociology-as-a-science",
+            "title": "Sociology as a Science",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_1-sociology-the-discipline_sociology-as-a-science_meaning-and-definition-of-sociology",
+                "title": "Meaning and definition of sociology",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_1-sociology-the-discipline_sociology-as-a-science_subject-matter-of-sociology",
+                "title": "Subject matter of sociology",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_1-sociology-the-discipline_sociology-as-a-science_sociology-as-a-scientific-study-of-society",
+                "title": "Sociology as a scientific study of society",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_1-sociology-the-discipline_sociology-as-a-science_scientific-method-in-sociology",
+                "title": "Scientific method in sociology",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_1-sociology-the-discipline_sociology-as-a-science_objectivity-and-value-neutrality",
+                "title": "Objectivity and value neutrality",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_1-sociology-the-discipline_sociology-as-an-interpretative-discipline",
+            "title": "Sociology as an Interpretative Discipline",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_1-sociology-the-discipline_sociology-as-an-interpretative-discipline_sociology-as-a-social-science",
+                "title": "Sociology as a social science",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_1-sociology-the-discipline_sociology-as-an-interpretative-discipline_meaningful-social-action",
+                "title": "Meaningful social action",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_1-sociology-the-discipline_sociology-as-an-interpretative-discipline_subjective-meanings-in-social-behaviour",
+                "title": "Subjective meanings in social behaviour",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_1-sociology-the-discipline_sociology-and-common-sense",
+            "title": "Sociology and Common Sense",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_1-sociology-the-discipline_sociology-and-common-sense_difference-between-sociology-and-common-sense",
+                "title": "Difference between sociology and common sense",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_1-sociology-the-discipline_sociology-and-common-sense_sociological-imagination",
+                "title": "Sociological imagination",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalsociologypaperimd_2-sociology-and-other-social-sciences",
+        "title": "2. Sociology and Other Social Sciences",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_2-sociology-and-other-social-sciences_sociology-and-anthropology",
+            "title": "Sociology and Anthropology",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_2-sociology-and-other-social-sciences_sociology-and-anthropology_similarities-and-differences",
+                "title": "Similarities and differences",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_2-sociology-and-other-social-sciences_sociology-and-anthropology_overlapping-areas-of-study",
+                "title": "Overlapping areas of study",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_2-sociology-and-other-social-sciences_sociology-and-psychology",
+            "title": "Sociology and Psychology",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_2-sociology-and-other-social-sciences_sociology-and-psychology_individual-vs-society",
+                "title": "Individual vs society",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_2-sociology-and-other-social-sciences_sociology-and-psychology_social-psychology",
+                "title": "Social psychology",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_2-sociology-and-other-social-sciences_sociology-and-history",
+            "title": "Sociology and History",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_2-sociology-and-other-social-sciences_sociology-and-history_historical-sociology",
+                "title": "Historical sociology",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_2-sociology-and-other-social-sciences_sociology-and-history_use-of-historical-methods",
+                "title": "Use of historical methods",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_2-sociology-and-other-social-sciences_sociology-and-economics",
+            "title": "Sociology and Economics",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_2-sociology-and-other-social-sciences_sociology-and-economics_economic-behaviour-and-social-structure",
+                "title": "Economic behaviour and social structure",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_2-sociology-and-other-social-sciences_sociology-and-political-science",
+            "title": "Sociology and Political Science",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_2-sociology-and-other-social-sciences_sociology-and-political-science_power",
+                "title": "Power",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_2-sociology-and-other-social-sciences_sociology-and-political-science_authority",
+                "title": "Authority",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_2-sociology-and-other-social-sciences_sociology-and-political-science_state-and-society",
+                "title": "State and society",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalsociologypaperimd_3-basic-concepts-and-terms",
+        "title": "3. Basic Concepts and Terms",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_3-basic-concepts-and-terms_social-structure",
+            "title": "Social Structure",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_3-basic-concepts-and-terms_social-structure_meaning-of-social-structure",
+                "title": "Meaning of social structure",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_3-basic-concepts-and-terms_social-structure_structural-elements",
+                "title": "Structural elements",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_3-basic-concepts-and-terms_social-structure_structure-and-agency",
+                "title": "Structure and agency",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_3-basic-concepts-and-terms_social-system",
+            "title": "Social System",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_3-basic-concepts-and-terms_social-system_meaning-of-social-system",
+                "title": "Meaning of social system",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_3-basic-concepts-and-terms_social-system_components-of-social-system",
+                "title": "Components of social system",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_3-basic-concepts-and-terms_social-organization",
+            "title": "Social Organization",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_3-basic-concepts-and-terms_social-organization_formal-organization",
+                "title": "Formal organization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_3-basic-concepts-and-terms_social-organization_informal-organization",
+                "title": "Informal organization",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_3-basic-concepts-and-terms_social-institutions",
+            "title": "Social Institutions",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_3-basic-concepts-and-terms_social-institutions_family",
+                "title": "Family",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_3-basic-concepts-and-terms_social-institutions_marriage",
+                "title": "Marriage",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_3-basic-concepts-and-terms_social-institutions_religion",
+                "title": "Religion",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_3-basic-concepts-and-terms_social-institutions_economy",
+                "title": "Economy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_3-basic-concepts-and-terms_social-institutions_polity",
+                "title": "Polity",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_3-basic-concepts-and-terms_social-institutions_education",
+                "title": "Education",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_3-basic-concepts-and-terms_culture",
+            "title": "Culture",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_3-basic-concepts-and-terms_culture_meaning-of-culture",
+                "title": "Meaning of culture",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_3-basic-concepts-and-terms_culture_material-culture",
+                "title": "Material culture",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_3-basic-concepts-and-terms_culture_non-material-culture",
+                "title": "Non-material culture",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_3-basic-concepts-and-terms_culture_culture-and-society",
+                "title": "Culture and society",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_3-basic-concepts-and-terms_culture_cultural-diversity",
+                "title": "Cultural diversity",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_3-basic-concepts-and-terms_social-groups",
+            "title": "Social Groups",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_3-basic-concepts-and-terms_social-groups_primary-groups",
+                "title": "Primary groups",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_3-basic-concepts-and-terms_social-groups_secondary-groups",
+                "title": "Secondary groups",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_3-basic-concepts-and-terms_social-groups_in-groups-and-out-groups",
+                "title": "In-groups and out-groups",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_3-basic-concepts-and-terms_social-groups_reference-groups",
+                "title": "Reference groups",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalsociologypaperimd_4-social-stratification",
+        "title": "4. Social Stratification",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_4-social-stratification_concept-of-stratification",
+            "title": "Concept of Stratification",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_4-social-stratification_concept-of-stratification_meaning-and-characteristics",
+                "title": "Meaning and characteristics",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_4-social-stratification_concept-of-stratification_forms-of-social-inequality",
+                "title": "Forms of social inequality",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_4-social-stratification_class",
+            "title": "Class",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_4-social-stratification_class_concept-of-social-class",
+                "title": "Concept of social class",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_4-social-stratification_class_class-structure",
+                "title": "Class structure",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_4-social-stratification_class_class-consciousness",
+                "title": "Class consciousness",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_4-social-stratification_status",
+            "title": "Status",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_4-social-stratification_status_ascribed-status",
+                "title": "Ascribed status",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_4-social-stratification_status_achieved-status",
+                "title": "Achieved status",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_4-social-stratification_power",
+            "title": "Power",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_4-social-stratification_power_meaning-of-power",
+                "title": "Meaning of power",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_4-social-stratification_power_authority",
+                "title": "Authority",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_4-social-stratification_power_legitimacy",
+                "title": "Legitimacy",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_4-social-stratification_social-mobility",
+            "title": "Social Mobility",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_4-social-stratification_social-mobility_vertical-mobility",
+                "title": "Vertical mobility",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_4-social-stratification_social-mobility_horizontal-mobility",
+                "title": "Horizontal mobility",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_4-social-stratification_social-mobility_open-and-closed-systems",
+                "title": "Open and closed systems",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalsociologypaperimd_5-works-and-economic-life",
+        "title": "5. Works and Economic Life",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_5-works-and-economic-life_social-organization-of-work",
+            "title": "Social Organization of Work",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_5-works-and-economic-life_social-organization-of-work_division-of-labour",
+                "title": "Division of labour",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_5-works-and-economic-life_social-organization-of-work_occupational-structure",
+                "title": "Occupational structure",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_5-works-and-economic-life_industrial-sociology",
+            "title": "Industrial Sociology",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_5-works-and-economic-life_industrial-sociology_industrial-organization",
+                "title": "Industrial organization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_5-works-and-economic-life_industrial-sociology_informal-sector",
+                "title": "Informal sector",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_5-works-and-economic-life_industrial-sociology_formal-sector",
+                "title": "Formal sector",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_5-works-and-economic-life_work-and-alienation",
+            "title": "Work and Alienation",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_5-works-and-economic-life_work-and-alienation_marxs-concept-of-alienation",
+                "title": "Marx\u2019s concept of alienation",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_5-works-and-economic-life_impact-of-globalization",
+            "title": "Impact of Globalization",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_5-works-and-economic-life_impact-of-globalization_changing-nature-of-work",
+                "title": "Changing nature of work",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_5-works-and-economic-life_impact-of-globalization_precarious-labour",
+                "title": "Precarious labour",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalsociologypaperimd_6-politics-and-society",
+        "title": "6. Politics and Society",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_6-politics-and-society_power-and-authority",
+            "title": "Power and Authority",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_6-politics-and-society_power-and-authority_types-of-authority",
+                "title": "Types of authority",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_6-politics-and-society_power-and-authority_sources-of-power",
+                "title": "Sources of power",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_6-politics-and-society_state",
+            "title": "State",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_6-politics-and-society_state_state-and-society",
+                "title": "State and society",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_6-politics-and-society_state_nation-state",
+                "title": "Nation-state",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_6-politics-and-society_political-sociology",
+            "title": "Political Sociology",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_6-politics-and-society_political-sociology_political-participation",
+                "title": "Political participation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_6-politics-and-society_political-sociology_democracy-and-society",
+                "title": "Democracy and society",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalsociologypaperimd_7-religion-and-society",
+        "title": "7. Religion and Society",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_7-religion-and-society_sociological-approaches-to-religion",
+            "title": "Sociological Approaches to Religion",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_7-religion-and-society_sociological-approaches-to-religion_functional-approach",
+                "title": "Functional approach",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_7-religion-and-society_sociological-approaches-to-religion_conflict-approach",
+                "title": "Conflict approach",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_7-religion-and-society_sociological-approaches-to-religion_interpretative-approach",
+                "title": "Interpretative approach",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_7-religion-and-society_religion-and-social-change",
+            "title": "Religion and Social Change",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_7-religion-and-society_religion-and-social-change_religion-as-an-agent-of-change",
+                "title": "Religion as an agent of change",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_7-religion-and-society_religion-and-social-change_religion-as-a-conservative-force",
+                "title": "Religion as a conservative force",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_7-religion-and-society_secularization",
+            "title": "Secularization",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_7-religion-and-society_secularization_concept-of-secularization",
+                "title": "Concept of secularization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_7-religion-and-society_secularization_debate-on-secularization",
+                "title": "Debate on secularization",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalsociologypaperimd_8-systems-of-kinship",
+        "title": "8. Systems of Kinship",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_8-systems-of-kinship_kinship-terminology",
+            "title": "Kinship Terminology",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_8-systems-of-kinship_kinship-terminology_descriptive-terminology",
+                "title": "Descriptive terminology",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_8-systems-of-kinship_kinship-terminology_classificatory-terminology",
+                "title": "Classificatory terminology",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_8-systems-of-kinship_descent",
+            "title": "Descent",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_8-systems-of-kinship_descent_unilineal-descent",
+                "title": "Unilineal descent",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_8-systems-of-kinship_descent_bilateral-descent",
+                "title": "Bilateral descent",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_8-systems-of-kinship_descent_double-descent",
+                "title": "Double descent",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_8-systems-of-kinship_marriage",
+            "title": "Marriage",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_8-systems-of-kinship_marriage_forms-of-marriage",
+                "title": "Forms of marriage",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_8-systems-of-kinship_marriage_rules-of-marriage",
+                "title": "Rules of marriage",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_8-systems-of-kinship_marriage_marriage-payments",
+                "title": "Marriage payments",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_8-systems-of-kinship_family",
+            "title": "Family",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_8-systems-of-kinship_family_types-of-family",
+                "title": "Types of family",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_8-systems-of-kinship_family_functions-of-family",
+                "title": "Functions of family",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_8-systems-of-kinship_family_changing-family-patterns",
+                "title": "Changing family patterns",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalsociologypaperimd_9-social-change-in-modern-society",
+        "title": "9. Social Change in Modern Society",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_9-social-change-in-modern-society_social-change",
+            "title": "Social Change",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_9-social-change-in-modern-society_social-change_meaning-and-characteristics",
+                "title": "Meaning and characteristics",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_9-social-change-in-modern-society_social-change_sources-of-social-change",
+                "title": "Sources of social change",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_9-social-change-in-modern-society_development-and-dependency",
+            "title": "Development and Dependency",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_9-social-change-in-modern-society_development-and-dependency_development-theories",
+                "title": "Development theories",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_9-social-change-in-modern-society_development-and-dependency_dependency-theory",
+                "title": "Dependency theory",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_9-social-change-in-modern-society_modernization",
+            "title": "Modernization",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_9-social-change-in-modern-society_modernization_concept-of-modernization",
+                "title": "Concept of modernization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_9-social-change-in-modern-society_modernization_critiques-of-modernization",
+                "title": "Critiques of modernization",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_9-social-change-in-modern-society_globalization",
+            "title": "Globalization",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_9-social-change-in-modern-society_globalization_cultural-globalization",
+                "title": "Cultural globalization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_9-social-change-in-modern-society_globalization_economic-globalization",
+                "title": "Economic globalization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_9-social-change-in-modern-society_globalization_political-globalization",
+                "title": "Political globalization",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalsociologypaperimd_10-population-and-society",
+        "title": "10. Population and Society",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_10-population-and-society_population-studies",
+            "title": "Population Studies",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_10-population-and-society_population-studies_fertility",
+                "title": "Fertility",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_10-population-and-society_population-studies_mortality",
+                "title": "Mortality",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_10-population-and-society_population-studies_migration",
+                "title": "Migration",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_10-population-and-society_demographic-transition-theory",
+            "title": "Demographic Transition Theory",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_10-population-and-society_demographic-transition-theory_stages-of-demographic-transition",
+                "title": "Stages of demographic transition",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_10-population-and-society_population-problems",
+            "title": "Population Problems",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_10-population-and-society_population-problems_overpopulation",
+                "title": "Overpopulation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_10-population-and-society_population-problems_ageing",
+                "title": "Ageing",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_10-population-and-society_population-problems_migration-issues",
+                "title": "Migration issues",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalsociologypaperimd_11-sociological-thinkers-foundations",
+        "title": "11. Sociological Thinkers (Foundations)",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_11-sociological-thinkers-foundations_karl-marx",
+            "title": "Karl Marx",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_11-sociological-thinkers-foundations_karl-marx_historical-materialism",
+                "title": "Historical materialism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_11-sociological-thinkers-foundations_karl-marx_mode-of-production",
+                "title": "Mode of production",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_11-sociological-thinkers-foundations_karl-marx_class-struggle",
+                "title": "Class struggle",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_11-sociological-thinkers-foundations_karl-marx_alienation",
+                "title": "Alienation",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_11-sociological-thinkers-foundations_emile-durkheim",
+            "title": "Emile Durkheim",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_11-sociological-thinkers-foundations_emile-durkheim_social-facts",
+                "title": "Social facts",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_11-sociological-thinkers-foundations_emile-durkheim_division-of-labour",
+                "title": "Division of labour",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_11-sociological-thinkers-foundations_emile-durkheim_mechanical-and-organic-solidarity",
+                "title": "Mechanical and organic solidarity",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_11-sociological-thinkers-foundations_emile-durkheim_anomie",
+                "title": "Anomie",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_11-sociological-thinkers-foundations_max-weber",
+            "title": "Max Weber",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_11-sociological-thinkers-foundations_max-weber_social-action",
+                "title": "Social action",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_11-sociological-thinkers-foundations_max-weber_types-of-authority",
+                "title": "Types of authority",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_11-sociological-thinkers-foundations_max-weber_bureaucracy",
+                "title": "Bureaucracy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_11-sociological-thinkers-foundations_max-weber_protestant-ethic",
+                "title": "Protestant ethic",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalsociologypaperimd_12-modern-sociological-thinkers",
+        "title": "12. Modern Sociological Thinkers",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_12-modern-sociological-thinkers_talcott-parsons",
+            "title": "Talcott Parsons",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_12-modern-sociological-thinkers_talcott-parsons_social-system-theory",
+                "title": "Social system theory",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_12-modern-sociological-thinkers_talcott-parsons_pattern-variables",
+                "title": "Pattern variables",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_12-modern-sociological-thinkers_talcott-parsons_functional-prerequisites",
+                "title": "Functional prerequisites",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_12-modern-sociological-thinkers_robert-k-merton",
+            "title": "Robert K. Merton",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_12-modern-sociological-thinkers_robert-k-merton_manifest-and-latent-functions",
+                "title": "Manifest and latent functions",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_12-modern-sociological-thinkers_robert-k-merton_dysfunction",
+                "title": "Dysfunction",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_12-modern-sociological-thinkers_robert-k-merton_anomie",
+                "title": "Anomie",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_12-modern-sociological-thinkers_mead",
+            "title": "Mead",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_12-modern-sociological-thinkers_mead_self-and-society",
+                "title": "Self and society",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_12-modern-sociological-thinkers_mead_symbolic-interactionism",
+                "title": "Symbolic interactionism",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_12-modern-sociological-thinkers_schutz",
+            "title": "Schutz",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_12-modern-sociological-thinkers_schutz_phenomenology",
+                "title": "Phenomenology",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_12-modern-sociological-thinkers_schutz_life-world",
+                "title": "Life-world",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalsociologypaperimd_13-research-methods-and-analysis",
+        "title": "13. Research Methods and Analysis",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_13-research-methods-and-analysis_scientific-method",
+            "title": "Scientific Method",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_13-research-methods-and-analysis_scientific-method_hypothesis",
+                "title": "Hypothesis",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_13-research-methods-and-analysis_scientific-method_theory",
+                "title": "Theory",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_13-research-methods-and-analysis_scientific-method_conceptualization",
+                "title": "Conceptualization",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_13-research-methods-and-analysis_research-designs",
+            "title": "Research Designs",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_13-research-methods-and-analysis_research-designs_exploratory-research",
+                "title": "Exploratory research",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_13-research-methods-and-analysis_research-designs_descriptive-research",
+                "title": "Descriptive research",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_13-research-methods-and-analysis_research-designs_experimental-research",
+                "title": "Experimental research",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_13-research-methods-and-analysis_methods-of-data-collection",
+            "title": "Methods of Data Collection",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_13-research-methods-and-analysis_methods-of-data-collection_observation",
+                "title": "Observation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_13-research-methods-and-analysis_methods-of-data-collection_interview",
+                "title": "Interview",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_13-research-methods-and-analysis_methods-of-data-collection_questionnaire",
+                "title": "Questionnaire",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_13-research-methods-and-analysis_methods-of-data-collection_schedule",
+                "title": "Schedule",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_13-research-methods-and-analysis_methods-of-data-collection_case-study",
+                "title": "Case study",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_13-research-methods-and-analysis_sampling",
+            "title": "Sampling",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_13-research-methods-and-analysis_sampling_probability-sampling",
+                "title": "Probability sampling",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_13-research-methods-and-analysis_sampling_non-probability-sampling",
+                "title": "Non-probability sampling",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_13-research-methods-and-analysis_analysis",
+            "title": "Analysis",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_13-research-methods-and-analysis_analysis_qualitative-analysis",
+                "title": "Qualitative analysis",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_13-research-methods-and-analysis_analysis_quantitative-analysis",
+                "title": "Quantitative analysis",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalsociologypaperimd_13-research-methods-and-analysis_ethics-in-research",
+            "title": "Ethics in Research",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_13-research-methods-and-analysis_ethics-in-research_objectivity",
+                "title": "Objectivity",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_13-research-methods-and-analysis_ethics-in-research_informed-consent",
+                "title": "Informed consent",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalsociologypaperimd_13-research-methods-and-analysis_ethics-in-research_confidentiality",
+                "title": "Confidentiality",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

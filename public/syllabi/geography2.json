@@ -1,0 +1,1892 @@
+[
+  {
+    "id": "root_upsccseoptionalgeographypaperiimd",
+    "title": "UPSC_CSE_OPTIONAL_GEOGRAPHY_PAPER_II.md",
+    "type": "branch",
+    "children": [
+      {
+        "id": "root_upsccseoptionalgeographypaperiimd_1-physical-setting-of-india",
+        "title": "1. Physical Setting of India",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_1-physical-setting-of-india_location",
+            "title": "Location",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_1-physical-setting-of-india_location_absolute-location-of-india",
+                "title": "Absolute location of India",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_1-physical-setting-of-india_location_latitudinal-and-longitudinal-extent",
+                "title": "Latitudinal and longitudinal extent",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_1-physical-setting-of-india_location_indian-subcontinent-concept",
+                "title": "Indian subcontinent concept",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_1-physical-setting-of-india_location_strategic-location-of-india",
+                "title": "Strategic location of India",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_1-physical-setting-of-india_geological-structure",
+            "title": "Geological Structure",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_1-physical-setting-of-india_geological-structure_geological-history-of-india",
+                "title": "Geological history of India",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_1-physical-setting-of-india_geological-structure_gondwanaland-origin",
+                "title": "Gondwanaland origin",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_1-physical-setting-of-india_geological-structure_peninsular-block",
+                "title": "Peninsular block",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_1-physical-setting-of-india_geological-structure_himalayan-orogeny",
+                "title": "Himalayan orogeny",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_1-physical-setting-of-india_geological-structure_tectonic-framework",
+                "title": "Tectonic framework",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_1-physical-setting-of-india_physiographic-divisions",
+            "title": "Physiographic Divisions",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_1-physical-setting-of-india_physiographic-divisions_himalayan-mountains",
+                "title": "Himalayan mountains",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_1-physical-setting-of-india_physiographic-divisions_northern-plains",
+                "title": "Northern plains",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_1-physical-setting-of-india_physiographic-divisions_peninsular-plateau",
+                "title": "Peninsular plateau",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_1-physical-setting-of-india_physiographic-divisions_indian-desert",
+                "title": "Indian desert",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_1-physical-setting-of-india_physiographic-divisions_coastal-plains",
+                "title": "Coastal plains",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_1-physical-setting-of-india_physiographic-divisions_islands-andaman-nicobar-lakshadweep",
+                "title": "Islands (Andaman & Nicobar, Lakshadweep)",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalgeographypaperiimd_2-relief-and-structure",
+        "title": "2. Relief and Structure",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_2-relief-and-structure_himalayas",
+            "title": "Himalayas",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_2-relief-and-structure_himalayas_trans-himalayas",
+                "title": "Trans-Himalayas",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_2-relief-and-structure_himalayas_greater-himalayas-himadri",
+                "title": "Greater Himalayas (Himadri)",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_2-relief-and-structure_himalayas_lesser-himalayas-himachal",
+                "title": "Lesser Himalayas (Himachal)",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_2-relief-and-structure_himalayas_shiwalik-ranges",
+                "title": "Shiwalik ranges",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_2-relief-and-structure_himalayas_longitudinal-divisions",
+                "title": "Longitudinal divisions",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_2-relief-and-structure_himalayas_regional-divisions",
+                "title": "Regional divisions",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_2-relief-and-structure_peninsular-plateau",
+            "title": "Peninsular Plateau",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_2-relief-and-structure_peninsular-plateau_central-highlands",
+                "title": "Central Highlands",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_2-relief-and-structure_peninsular-plateau_deccan-plateau",
+                "title": "Deccan Plateau",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_2-relief-and-structure_peninsular-plateau_vindhya-and-satpura-ranges",
+                "title": "Vindhya and Satpura ranges",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_2-relief-and-structure_peninsular-plateau_eastern-and-western-ghats",
+                "title": "Eastern and Western Ghats",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_2-relief-and-structure_peninsular-plateau_plateau-erosion-surfaces",
+                "title": "Plateau erosion surfaces",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_2-relief-and-structure_plains",
+            "title": "Plains",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_2-relief-and-structure_plains_indus-plains",
+                "title": "Indus plains",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_2-relief-and-structure_plains_ganga-plains",
+                "title": "Ganga plains",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_2-relief-and-structure_plains_brahmaputra-plains",
+                "title": "Brahmaputra plains",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_2-relief-and-structure_plains_alluvial-features",
+                "title": "Alluvial features",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_2-relief-and-structure_coastal-plains",
+            "title": "Coastal Plains",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_2-relief-and-structure_coastal-plains_western-coastal-plain",
+                "title": "Western Coastal Plain",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_2-relief-and-structure_coastal-plains_eastern-coastal-plain",
+                "title": "Eastern Coastal Plain",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_2-relief-and-structure_coastal-plains_deltas-and-estuaries",
+                "title": "Deltas and estuaries",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_2-relief-and-structure_islands",
+            "title": "Islands",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_2-relief-and-structure_islands_andaman-and-nicobar-islands",
+                "title": "Andaman and Nicobar Islands",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_2-relief-and-structure_islands_lakshadweep-islands",
+                "title": "Lakshadweep Islands",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_2-relief-and-structure_islands_coral-reefs-and-volcanic-islands",
+                "title": "Coral reefs and volcanic islands",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalgeographypaperiimd_3-drainage-system",
+        "title": "3. Drainage System",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_3-drainage-system_himalayan-rivers",
+            "title": "Himalayan Rivers",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_3-drainage-system_himalayan-rivers_indus-river-system",
+                "title": "Indus river system",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_3-drainage-system_himalayan-rivers_ganga-river-system",
+                "title": "Ganga river system",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_3-drainage-system_himalayan-rivers_brahmaputra-river-system",
+                "title": "Brahmaputra river system",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_3-drainage-system_peninsular-rivers",
+            "title": "Peninsular Rivers",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_3-drainage-system_peninsular-rivers_east-flowing-rivers",
+                "title": "East-flowing rivers",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_3-drainage-system_peninsular-rivers_west-flowing-rivers",
+                "title": "West-flowing rivers",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_3-drainage-system_peninsular-rivers_river-basin-characteristics",
+                "title": "River basin characteristics",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_3-drainage-system_drainage-patterns",
+            "title": "Drainage Patterns",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_3-drainage-system_drainage-patterns_dendritic",
+                "title": "Dendritic",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_3-drainage-system_drainage-patterns_trellis",
+                "title": "Trellis",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_3-drainage-system_drainage-patterns_radial",
+                "title": "Radial",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_3-drainage-system_drainage-patterns_rectangular",
+                "title": "Rectangular",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_3-drainage-system_river-management",
+            "title": "River Management",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_3-drainage-system_river-management_flood-control",
+                "title": "Flood control",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_3-drainage-system_river-management_river-linking-projects",
+                "title": "River linking projects",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_3-drainage-system_river-management_inter-basin-transfer",
+                "title": "Inter-basin transfer",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalgeographypaperiimd_4-climate-of-india",
+        "title": "4. Climate of India",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_4-climate-of-india_climatic-factors",
+            "title": "Climatic Factors",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_4-climate-of-india_climatic-factors_latitude",
+                "title": "Latitude",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_4-climate-of-india_climatic-factors_altitude",
+                "title": "Altitude",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_4-climate-of-india_climatic-factors_pressure-and-wind-systems",
+                "title": "Pressure and wind systems",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_4-climate-of-india_climatic-factors_distance-from-sea",
+                "title": "Distance from sea",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_4-climate-of-india_indian-monsoon",
+            "title": "Indian Monsoon",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_4-climate-of-india_indian-monsoon_south-west-monsoon",
+                "title": "South-west monsoon",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_4-climate-of-india_indian-monsoon_north-east-monsoon",
+                "title": "North-east monsoon",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_4-climate-of-india_indian-monsoon_mechanism-of-monsoon",
+                "title": "Mechanism of monsoon",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_4-climate-of-india_indian-monsoon_burst-and-retreat-of-monsoon",
+                "title": "Burst and retreat of monsoon",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_4-climate-of-india_rainfall-distribution",
+            "title": "Rainfall Distribution",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_4-climate-of-india_rainfall-distribution_regional-rainfall-patterns",
+                "title": "Regional rainfall patterns",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_4-climate-of-india_rainfall-distribution_orographic-rainfall",
+                "title": "Orographic rainfall",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_4-climate-of-india_rainfall-distribution_cyclonic-rainfall",
+                "title": "Cyclonic rainfall",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_4-climate-of-india_climatic-regions",
+            "title": "Climatic Regions",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_4-climate-of-india_climatic-regions_kppen-climatic-classification-india",
+                "title": "K\u00f6ppen climatic classification (India)",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_4-climate-of-india_climatic-regions_agro-climatic-regions",
+                "title": "Agro-climatic regions",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_4-climate-of-india_climate-variability",
+            "title": "Climate Variability",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_4-climate-of-india_climate-variability_droughts",
+                "title": "Droughts",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_4-climate-of-india_climate-variability_floods",
+                "title": "Floods",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_4-climate-of-india_climate-variability_climate-change-impact-on-india",
+                "title": "Climate change impact on India",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_4-climate-of-india_climate-variability_el-nio-and-la-nia-effects",
+                "title": "El Ni\u00f1o and La Ni\u00f1a effects",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalgeographypaperiimd_5-soils-of-india",
+        "title": "5. Soils of India",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_5-soils-of-india_soil-formation",
+            "title": "Soil Formation",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_5-soils-of-india_soil-formation_factors-of-soil-formation",
+                "title": "Factors of soil formation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_5-soils-of-india_soil-formation_pedogenesis",
+                "title": "Pedogenesis",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_5-soils-of-india_soil-types",
+            "title": "Soil Types",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_5-soils-of-india_soil-types_alluvial-soils",
+                "title": "Alluvial soils",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_5-soils-of-india_soil-types_black-soils",
+                "title": "Black soils",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_5-soils-of-india_soil-types_red-soils",
+                "title": "Red soils",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_5-soils-of-india_soil-types_laterite-soils",
+                "title": "Laterite soils",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_5-soils-of-india_soil-types_desert-soils",
+                "title": "Desert soils",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_5-soils-of-india_soil-types_forest-and-mountain-soils",
+                "title": "Forest and mountain soils",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_5-soils-of-india_soil-types_peaty-and-marshy-soils",
+                "title": "Peaty and marshy soils",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_5-soils-of-india_soil-degradation",
+            "title": "Soil Degradation",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_5-soils-of-india_soil-degradation_soil-erosion",
+                "title": "Soil erosion",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_5-soils-of-india_soil-degradation_salinization",
+                "title": "Salinization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_5-soils-of-india_soil-degradation_desertification",
+                "title": "Desertification",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_5-soils-of-india_soil-conservation",
+            "title": "Soil Conservation",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_5-soils-of-india_soil-conservation_soil-management-practices",
+                "title": "Soil management practices",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_5-soils-of-india_soil-conservation_sustainable-land-use",
+                "title": "Sustainable land use",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalgeographypaperiimd_6-natural-vegetation",
+        "title": "6. Natural Vegetation",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_6-natural-vegetation_forest-types",
+            "title": "Forest Types",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_6-natural-vegetation_forest-types_tropical-evergreen-forests",
+                "title": "Tropical evergreen forests",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_6-natural-vegetation_forest-types_tropical-deciduous-forests",
+                "title": "Tropical deciduous forests",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_6-natural-vegetation_forest-types_thorn-forests",
+                "title": "Thorn forests",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_6-natural-vegetation_forest-types_montane-forests",
+                "title": "Montane forests",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_6-natural-vegetation_forest-types_mangrove-forests",
+                "title": "Mangrove forests",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_6-natural-vegetation_grasslands",
+            "title": "Grasslands",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_6-natural-vegetation_grasslands_savanna-grasslands",
+                "title": "Savanna grasslands",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_6-natural-vegetation_grasslands_alpine-grasslands",
+                "title": "Alpine grasslands",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_6-natural-vegetation_biodiversity",
+            "title": "Biodiversity",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_6-natural-vegetation_biodiversity_biodiversity-hotspots",
+                "title": "Biodiversity hotspots",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_6-natural-vegetation_biodiversity_endemic-species",
+                "title": "Endemic species",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_6-natural-vegetation_biodiversity_wildlife-distribution",
+                "title": "Wildlife distribution",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_6-natural-vegetation_conservation",
+            "title": "Conservation",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_6-natural-vegetation_conservation_protected-areas",
+                "title": "Protected areas",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_6-natural-vegetation_conservation_national-parks",
+                "title": "National parks",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_6-natural-vegetation_conservation_wildlife-sanctuaries",
+                "title": "Wildlife sanctuaries",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_6-natural-vegetation_conservation_biosphere-reserves",
+                "title": "Biosphere reserves",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalgeographypaperiimd_7-agriculture",
+        "title": "7. Agriculture",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_7-agriculture_agricultural-characteristics",
+            "title": "Agricultural Characteristics",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_7-agriculture_agricultural-characteristics_subsistence-agriculture",
+                "title": "Subsistence agriculture",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_7-agriculture_agricultural-characteristics_commercial-agriculture",
+                "title": "Commercial agriculture",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_7-agriculture_agricultural-characteristics_plantation-agriculture",
+                "title": "Plantation agriculture",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_7-agriculture_cropping-patterns",
+            "title": "Cropping Patterns",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_7-agriculture_cropping-patterns_kharif-crops",
+                "title": "Kharif crops",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_7-agriculture_cropping-patterns_rabi-crops",
+                "title": "Rabi crops",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_7-agriculture_cropping-patterns_zaid-crops",
+                "title": "Zaid crops",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_7-agriculture_cropping-patterns_regional-cropping-patterns",
+                "title": "Regional cropping patterns",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_7-agriculture_major-crops",
+            "title": "Major Crops",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_7-agriculture_major-crops_rice",
+                "title": "Rice",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_7-agriculture_major-crops_wheat",
+                "title": "Wheat",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_7-agriculture_major-crops_millets",
+                "title": "Millets",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_7-agriculture_major-crops_pulses",
+                "title": "Pulses",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_7-agriculture_major-crops_sugarcane",
+                "title": "Sugarcane",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_7-agriculture_major-crops_cotton",
+                "title": "Cotton",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_7-agriculture_major-crops_oilseeds",
+                "title": "Oilseeds",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_7-agriculture_major-crops_tea",
+                "title": "Tea",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_7-agriculture_major-crops_coffee",
+                "title": "Coffee",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_7-agriculture_major-crops_rubber",
+                "title": "Rubber",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_7-agriculture_agricultural-inputs",
+            "title": "Agricultural Inputs",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_7-agriculture_agricultural-inputs_irrigation",
+                "title": "Irrigation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_7-agriculture_agricultural-inputs_fertilizers",
+                "title": "Fertilizers",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_7-agriculture_agricultural-inputs_hyv-seeds",
+                "title": "HYV seeds",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_7-agriculture_agricultural-inputs_mechanization",
+                "title": "Mechanization",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_7-agriculture_agricultural-issues",
+            "title": "Agricultural Issues",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_7-agriculture_agricultural-issues_productivity-issues",
+                "title": "Productivity issues",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_7-agriculture_agricultural-issues_green-revolution",
+                "title": "Green Revolution",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_7-agriculture_agricultural-issues_white-revolution",
+                "title": "White Revolution",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_7-agriculture_agricultural-issues_blue-revolution",
+                "title": "Blue Revolution",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_7-agriculture_agricultural-issues_sustainable-agriculture",
+                "title": "Sustainable agriculture",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalgeographypaperiimd_8-irrigation",
+        "title": "8. Irrigation",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_8-irrigation_sources-of-irrigation",
+            "title": "Sources of Irrigation",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_8-irrigation_sources-of-irrigation_canal-irrigation",
+                "title": "Canal irrigation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_8-irrigation_sources-of-irrigation_well-and-tube-well-irrigation",
+                "title": "Well and tube well irrigation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_8-irrigation_sources-of-irrigation_tank-irrigation",
+                "title": "Tank irrigation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_8-irrigation_sources-of-irrigation_micro-irrigation",
+                "title": "Micro-irrigation",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_8-irrigation_irrigation-projects",
+            "title": "Irrigation Projects",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_8-irrigation_irrigation-projects_multipurpose-river-valley-projects",
+                "title": "Multipurpose river valley projects",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_8-irrigation_irrigation-projects_major-dams",
+                "title": "Major dams",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_8-irrigation_irrigation-projects_interlinking-of-rivers",
+                "title": "Interlinking of rivers",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_8-irrigation_issues",
+            "title": "Issues",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_8-irrigation_issues_waterlogging",
+                "title": "Waterlogging",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_8-irrigation_issues_salinity",
+                "title": "Salinity",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_8-irrigation_issues_regional-imbalance",
+                "title": "Regional imbalance",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalgeographypaperiimd_9-minerals-and-energy-resources",
+        "title": "9. Minerals and Energy Resources",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_9-minerals-and-energy-resources_metallic-minerals",
+            "title": "Metallic Minerals",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_9-minerals-and-energy-resources_metallic-minerals_iron-ore",
+                "title": "Iron ore",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_9-minerals-and-energy-resources_metallic-minerals_manganese",
+                "title": "Manganese",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_9-minerals-and-energy-resources_metallic-minerals_bauxite",
+                "title": "Bauxite",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_9-minerals-and-energy-resources_metallic-minerals_copper",
+                "title": "Copper",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_9-minerals-and-energy-resources_metallic-minerals_gold",
+                "title": "Gold",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_9-minerals-and-energy-resources_non-metallic-minerals",
+            "title": "Non-Metallic Minerals",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_9-minerals-and-energy-resources_non-metallic-minerals_coal",
+                "title": "Coal",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_9-minerals-and-energy-resources_non-metallic-minerals_limestone",
+                "title": "Limestone",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_9-minerals-and-energy-resources_non-metallic-minerals_mica",
+                "title": "Mica",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_9-minerals-and-energy-resources_non-metallic-minerals_gypsum",
+                "title": "Gypsum",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_9-minerals-and-energy-resources_energy-resources",
+            "title": "Energy Resources",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_9-minerals-and-energy-resources_energy-resources_thermal-power",
+                "title": "Thermal power",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_9-minerals-and-energy-resources_energy-resources_hydroelectric-power",
+                "title": "Hydroelectric power",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_9-minerals-and-energy-resources_energy-resources_nuclear-power",
+                "title": "Nuclear power",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_9-minerals-and-energy-resources_energy-resources_renewable-energy-solar-wind-biomass",
+                "title": "Renewable energy (solar, wind, biomass)",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_9-minerals-and-energy-resources_distribution",
+            "title": "Distribution",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_9-minerals-and-energy-resources_distribution_mineral-belts-of-india",
+                "title": "Mineral belts of India",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_9-minerals-and-energy-resources_distribution_energy-production-regions",
+                "title": "Energy production regions",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalgeographypaperiimd_10-industries",
+        "title": "10. Industries",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_10-industries_industrial-development",
+            "title": "Industrial Development",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_10-industries_industrial-development_industrialization-history",
+                "title": "Industrialization history",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_10-industries_industrial-development_industrial-policies",
+                "title": "Industrial policies",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_10-industries_major-industries",
+            "title": "Major Industries",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_10-industries_major-industries_iron-and-steel-industry",
+                "title": "Iron and steel industry",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_10-industries_major-industries_cotton-textile-industry",
+                "title": "Cotton textile industry",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_10-industries_major-industries_jute-industry",
+                "title": "Jute industry",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_10-industries_major-industries_sugar-industry",
+                "title": "Sugar industry",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_10-industries_major-industries_cement-industry",
+                "title": "Cement industry",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_10-industries_major-industries_petrochemical-industry",
+                "title": "Petrochemical industry",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_10-industries_major-industries_automobile-industry",
+                "title": "Automobile industry",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_10-industries_major-industries_it-industry",
+                "title": "IT industry",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_10-industries_industrial-regions",
+            "title": "Industrial Regions",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_10-industries_industrial-regions_mumbaipune-region",
+                "title": "Mumbai\u2013Pune region",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_10-industries_industrial-regions_chota-nagpur-region",
+                "title": "Chota Nagpur region",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_10-industries_industrial-regions_ahmedabadvadodara-region",
+                "title": "Ahmedabad\u2013Vadodara region",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_10-industries_industrial-regions_bangaloretamil-nadu-region",
+                "title": "Bangalore\u2013Tamil Nadu region",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_10-industries_industrial-regions_gurgaondelhi-region",
+                "title": "Gurgaon\u2013Delhi region",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_10-industries_industrial-problems",
+            "title": "Industrial Problems",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_10-industries_industrial-problems_regional-imbalance",
+                "title": "Regional imbalance",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_10-industries_industrial-problems_environmental-pollution",
+                "title": "Environmental pollution",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_10-industries_industrial-problems_infrastructure-constraints",
+                "title": "Infrastructure constraints",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalgeographypaperiimd_11-transport-communication-and-trade",
+        "title": "11. Transport, Communication and Trade",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_11-transport-communication-and-trade_transport",
+            "title": "Transport",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_11-transport-communication-and-trade_transport_roadways",
+                "title": "Roadways",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_11-transport-communication-and-trade_transport_railways",
+                "title": "Railways",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_11-transport-communication-and-trade_transport_waterways",
+                "title": "Waterways",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_11-transport-communication-and-trade_transport_airways",
+                "title": "Airways",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_11-transport-communication-and-trade_communication",
+            "title": "Communication",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_11-transport-communication-and-trade_communication_postal-services",
+                "title": "Postal services",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_11-transport-communication-and-trade_communication_telecommunications",
+                "title": "Telecommunications",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_11-transport-communication-and-trade_communication_digital-infrastructure",
+                "title": "Digital infrastructure",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_11-transport-communication-and-trade_trade",
+            "title": "Trade",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_11-transport-communication-and-trade_trade_internal-trade",
+                "title": "Internal trade",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_11-transport-communication-and-trade_trade_external-trade",
+                "title": "External trade",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_11-transport-communication-and-trade_trade_major-exports-and-imports",
+                "title": "Major exports and imports",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_11-transport-communication-and-trade_trade_trade-routes",
+                "title": "Trade routes",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalgeographypaperiimd_12-population-geography-of-india",
+        "title": "12. Population Geography of India",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_12-population-geography-of-india_population-distribution",
+            "title": "Population Distribution",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_12-population-geography-of-india_population-distribution_regional-distribution",
+                "title": "Regional distribution",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_12-population-geography-of-india_population-distribution_density-patterns",
+                "title": "Density patterns",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_12-population-geography-of-india_population-growth",
+            "title": "Population Growth",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_12-population-geography-of-india_population-growth_growth-trends",
+                "title": "Growth trends",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_12-population-geography-of-india_population-growth_census-trends",
+                "title": "Census trends",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_12-population-geography-of-india_population-composition",
+            "title": "Population Composition",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_12-population-geography-of-india_population-composition_age-structure",
+                "title": "Age structure",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_12-population-geography-of-india_population-composition_sex-ratio",
+                "title": "Sex ratio",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_12-population-geography-of-india_population-composition_literacy",
+                "title": "Literacy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_12-population-geography-of-india_population-composition_occupational-structure",
+                "title": "Occupational structure",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_12-population-geography-of-india_migration",
+            "title": "Migration",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_12-population-geography-of-india_migration_internal-migration",
+                "title": "Internal migration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_12-population-geography-of-india_migration_international-migration",
+                "title": "International migration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_12-population-geography-of-india_migration_causes-and-effects",
+                "title": "Causes and effects",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalgeographypaperiimd_13-settlement-geography-of-india",
+        "title": "13. Settlement Geography of India",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_13-settlement-geography-of-india_rural-settlements",
+            "title": "Rural Settlements",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_13-settlement-geography-of-india_rural-settlements_settlement-patterns",
+                "title": "Settlement patterns",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_13-settlement-geography-of-india_rural-settlements_village-morphology",
+                "title": "Village morphology",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_13-settlement-geography-of-india_rural-settlements_rural-housing-types",
+                "title": "Rural housing types",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_13-settlement-geography-of-india_urban-settlements",
+            "title": "Urban Settlements",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_13-settlement-geography-of-india_urban-settlements_urbanization-process",
+                "title": "Urbanization process",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_13-settlement-geography-of-india_urban-settlements_city-size-distribution",
+                "title": "City size distribution",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_13-settlement-geography-of-india_urban-settlements_metropolitan-regions",
+                "title": "Metropolitan regions",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_13-settlement-geography-of-india_urban-settlements_urban-sprawl",
+                "title": "Urban sprawl",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_13-settlement-geography-of-india_urban-problems",
+            "title": "Urban Problems",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_13-settlement-geography-of-india_urban-problems_housing",
+                "title": "Housing",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_13-settlement-geography-of-india_urban-problems_slums",
+                "title": "Slums",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_13-settlement-geography-of-india_urban-problems_transport",
+                "title": "Transport",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_13-settlement-geography-of-india_urban-problems_pollution",
+                "title": "Pollution",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalgeographypaperiimd_14-regional-development-and-planning",
+        "title": "14. Regional Development and Planning",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_14-regional-development-and-planning_regional-disparities",
+            "title": "Regional Disparities",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_14-regional-development-and-planning_regional-disparities_inter-state-disparities",
+                "title": "Inter-state disparities",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_14-regional-development-and-planning_regional-disparities_intra-state-disparities",
+                "title": "Intra-state disparities",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_14-regional-development-and-planning_planning-regions",
+            "title": "Planning Regions",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_14-regional-development-and-planning_planning-regions_planning-commissions",
+                "title": "Planning commissions",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_14-regional-development-and-planning_planning-regions_development-authorities",
+                "title": "Development authorities",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_14-regional-development-and-planning_backward-regions",
+            "title": "Backward Regions",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_14-regional-development-and-planning_backward-regions_identification-of-backward-areas",
+                "title": "Identification of backward areas",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_14-regional-development-and-planning_backward-regions_development-programs",
+                "title": "Development programs",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_14-regional-development-and-planning_special-area-planning",
+            "title": "Special Area Planning",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_14-regional-development-and-planning_special-area-planning_hill-areas",
+                "title": "Hill areas",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_14-regional-development-and-planning_special-area-planning_tribal-areas",
+                "title": "Tribal areas",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_14-regional-development-and-planning_special-area-planning_coastal-areas",
+                "title": "Coastal areas",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_14-regional-development-and-planning_special-area-planning_desert-areas",
+                "title": "Desert areas",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalgeographypaperiimd_15-environmental-issues-in-india",
+        "title": "15. Environmental Issues in India",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_15-environmental-issues-in-india_environmental-degradation",
+            "title": "Environmental Degradation",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_15-environmental-issues-in-india_environmental-degradation_deforestation",
+                "title": "Deforestation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_15-environmental-issues-in-india_environmental-degradation_pollution",
+                "title": "Pollution",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_15-environmental-issues-in-india_environmental-degradation_land-degradation",
+                "title": "Land degradation",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_15-environmental-issues-in-india_natural-hazards",
+            "title": "Natural Hazards",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_15-environmental-issues-in-india_natural-hazards_earthquakes",
+                "title": "Earthquakes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_15-environmental-issues-in-india_natural-hazards_floods",
+                "title": "Floods",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_15-environmental-issues-in-india_natural-hazards_cyclones",
+                "title": "Cyclones",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_15-environmental-issues-in-india_natural-hazards_landslides",
+                "title": "Landslides",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_15-environmental-issues-in-india_natural-hazards_droughts",
+                "title": "Droughts",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_15-environmental-issues-in-india_environmental-management",
+            "title": "Environmental Management",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_15-environmental-issues-in-india_environmental-management_disaster-management",
+                "title": "Disaster management",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_15-environmental-issues-in-india_environmental-management_environmental-policies",
+                "title": "Environmental policies",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_15-environmental-issues-in-india_environmental-management_sustainable-development",
+                "title": "Sustainable development",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalgeographypaperiimd_16-contemporary-issues",
+        "title": "16. Contemporary Issues",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_16-contemporary-issues_globalization",
+            "title": "Globalization",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_16-contemporary-issues_globalization_impact-on-indian-economy",
+                "title": "Impact on Indian economy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_16-contemporary-issues_globalization_impact-on-regions",
+                "title": "Impact on regions",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_16-contemporary-issues_climate-change",
+            "title": "Climate Change",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_16-contemporary-issues_climate-change_impact-on-agriculture",
+                "title": "Impact on agriculture",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_16-contemporary-issues_climate-change_impact-on-coastal-areas",
+                "title": "Impact on coastal areas",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_16-contemporary-issues_climate-change_adaptation-strategies",
+                "title": "Adaptation strategies",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalgeographypaperiimd_16-contemporary-issues_resource-conflicts",
+            "title": "Resource Conflicts",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_16-contemporary-issues_resource-conflicts_water-disputes",
+                "title": "Water disputes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalgeographypaperiimd_16-contemporary-issues_resource-conflicts_land-use-conflicts",
+                "title": "Land use conflicts",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

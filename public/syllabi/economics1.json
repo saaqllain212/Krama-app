@@ -1,0 +1,1466 @@
+[
+  {
+    "id": "root_upsccseoptionaleconomicspaperimd",
+    "title": "UPSC_CSE_OPTIONAL_ECONOMICS_PAPER_I.md",
+    "type": "branch",
+    "children": [
+      {
+        "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory",
+        "title": "1. Microeconomic Theory",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_consumer-behaviour",
+            "title": "Consumer Behaviour",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_consumer-behaviour_utility-analysis",
+                "title": "Utility Analysis",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_consumer-behaviour_utility-analysis_concept-of-utility",
+                    "title": "Concept of utility",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_consumer-behaviour_utility-analysis_cardinal-utility-theory",
+                    "title": "Cardinal utility theory",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_consumer-behaviour_utility-analysis_law-of-diminishing-marginal-utility",
+                    "title": "Law of diminishing marginal utility",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_consumer-behaviour_utility-analysis_consumer-surplus",
+                    "title": "Consumer surplus",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_consumer-behaviour_indifference-curve-analysis",
+                "title": "Indifference Curve Analysis",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_consumer-behaviour_indifference-curve-analysis_indifference-curves",
+                    "title": "Indifference curves",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_consumer-behaviour_indifference-curve-analysis_budget-constraint",
+                    "title": "Budget constraint",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_consumer-behaviour_indifference-curve-analysis_consumer-equilibrium",
+                    "title": "Consumer equilibrium",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_consumer-behaviour_indifference-curve-analysis_income-effect",
+                    "title": "Income effect",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_consumer-behaviour_indifference-curve-analysis_substitution-effect",
+                    "title": "Substitution effect",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_consumer-behaviour_indifference-curve-analysis_price-effect",
+                    "title": "Price effect",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_consumer-behaviour_revealed-preference-theory",
+                "title": "Revealed Preference Theory",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_consumer-behaviour_revealed-preference-theory_samuelsons-revealed-preference",
+                    "title": "Samuelson\u2019s revealed preference",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_consumer-behaviour_revealed-preference-theory_weak-and-strong-axioms",
+                    "title": "Weak and strong axioms",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_consumer-behaviour_revealed-preference-theory_criticism-of-revealed-preference-theory",
+                    "title": "Criticism of revealed preference theory",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_demand",
+            "title": "Demand",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_demand_demand-theory",
+                "title": "Demand Theory",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_demand_demand-theory_meaning-of-demand",
+                    "title": "Meaning of demand",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_demand_demand-theory_law-of-demand",
+                    "title": "Law of demand",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_demand_demand-theory_determinants-of-demand",
+                    "title": "Determinants of demand",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_demand_demand-theory_demand-function",
+                    "title": "Demand function",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_demand_elasticity-of-demand",
+                "title": "Elasticity of Demand",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_demand_elasticity-of-demand_price-elasticity",
+                    "title": "Price elasticity",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_demand_elasticity-of-demand_income-elasticity",
+                    "title": "Income elasticity",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_demand_elasticity-of-demand_cross-elasticity",
+                    "title": "Cross elasticity",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_demand_elasticity-of-demand_measurement-of-elasticity",
+                    "title": "Measurement of elasticity",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_demand_elasticity-of-demand_applications-of-elasticity",
+                    "title": "Applications of elasticity",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_production",
+            "title": "Production",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_production_theory-of-production",
+                "title": "Theory of Production",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_production_theory-of-production_production-function",
+                    "title": "Production function",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_production_theory-of-production_short-run-production",
+                    "title": "Short-run production",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_production_theory-of-production_law-of-diminishing-returns",
+                    "title": "Law of diminishing returns",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_production_theory-of-production_long-run-production",
+                    "title": "Long-run production",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_production_theory-of-production_returns-to-scale",
+                    "title": "Returns to scale",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_production_isoquant-analysis",
+                "title": "Isoquant Analysis",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_production_isoquant-analysis_isoquants",
+                    "title": "Isoquants",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_production_isoquant-analysis_isocost-lines",
+                    "title": "Isocost lines",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_production_isoquant-analysis_producer-equilibrium",
+                    "title": "Producer equilibrium",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_costs",
+            "title": "Costs",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_costs_cost-concepts",
+                "title": "Cost Concepts",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_costs_cost-concepts_fixed-and-variable-costs",
+                    "title": "Fixed and variable costs",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_costs_cost-concepts_average-and-marginal-cost",
+                    "title": "Average and marginal cost",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_costs_cost-concepts_short-run-cost-curves",
+                    "title": "Short-run cost curves",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_costs_cost-concepts_long-run-cost-curves",
+                    "title": "Long-run cost curves",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_market-structures",
+            "title": "Market Structures",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_market-structures_perfect-competition",
+                "title": "Perfect Competition",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_market-structures_perfect-competition_features",
+                    "title": "Features",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_market-structures_perfect-competition_price-determination",
+                    "title": "Price determination",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_market-structures_perfect-competition_short-run-equilibrium",
+                    "title": "Short-run equilibrium",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_market-structures_perfect-competition_long-run-equilibrium",
+                    "title": "Long-run equilibrium",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_market-structures_monopoly",
+                "title": "Monopoly",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_market-structures_monopoly_features",
+                    "title": "Features",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_market-structures_monopoly_price-and-output-determination",
+                    "title": "Price and output determination",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_market-structures_monopoly_price-discrimination",
+                    "title": "Price discrimination",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_market-structures_monopoly_welfare-implications",
+                    "title": "Welfare implications",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_market-structures_monopolistic-competition",
+                "title": "Monopolistic Competition",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_market-structures_monopolistic-competition_features",
+                    "title": "Features",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_market-structures_monopolistic-competition_product-differentiation",
+                    "title": "Product differentiation",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_market-structures_monopolistic-competition_short-run-and-long-run-equilibrium",
+                    "title": "Short-run and long-run equilibrium",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_market-structures_oligopoly",
+                "title": "Oligopoly",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_market-structures_oligopoly_features",
+                    "title": "Features",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_market-structures_oligopoly_kinked-demand-curve",
+                    "title": "Kinked demand curve",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_market-structures_oligopoly_cartels",
+                    "title": "Cartels",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_market-structures_oligopoly_price-leadership",
+                    "title": "Price leadership",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_factor-pricing",
+            "title": "Factor Pricing",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_factor-pricing_theory-of-distribution",
+                "title": "Theory of Distribution",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_factor-pricing_theory-of-distribution_marginal-productivity-theory",
+                    "title": "Marginal productivity theory",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_factor-pricing_theory-of-distribution_modern-theory-of-distribution",
+                    "title": "Modern theory of distribution",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_factor-pricing_wages",
+                "title": "Wages",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_factor-pricing_wages_determination-of-wages",
+                    "title": "Determination of wages",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_factor-pricing_wages_trade-unions",
+                    "title": "Trade unions",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_factor-pricing_wages_wage-differentials",
+                    "title": "Wage differentials",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_factor-pricing_rent",
+                "title": "Rent",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_factor-pricing_rent_ricardian-theory-of-rent",
+                    "title": "Ricardian theory of rent",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_factor-pricing_rent_modern-theory-of-rent",
+                    "title": "Modern theory of rent",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_factor-pricing_interest",
+                "title": "Interest",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_factor-pricing_interest_classical-theory",
+                    "title": "Classical theory",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_factor-pricing_interest_keynes-liquidity-preference-theory",
+                    "title": "Keynes\u2019 liquidity preference theory",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_factor-pricing_profit",
+                "title": "Profit",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_factor-pricing_profit_risk-theory",
+                    "title": "Risk theory",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_factor-pricing_profit_uncertainty-theory",
+                    "title": "Uncertainty theory",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_factor-pricing_profit_innovation-theory",
+                    "title": "Innovation theory",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_welfare-economics",
+            "title": "Welfare Economics",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_welfare-economics_concepts",
+                "title": "Concepts",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_welfare-economics_concepts_economic-welfare",
+                    "title": "Economic welfare",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_welfare-economics_concepts_social-welfare",
+                    "title": "Social welfare",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_welfare-economics_pareto-optimality",
+                "title": "Pareto Optimality",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_welfare-economics_pareto-optimality_pareto-efficiency",
+                    "title": "Pareto efficiency",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_welfare-economics_pareto-optimality_pareto-improvement",
+                    "title": "Pareto improvement",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_welfare-economics_market-failure",
+                "title": "Market Failure",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_welfare-economics_market-failure_externalities",
+                    "title": "Externalities",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_welfare-economics_market-failure_public-goods",
+                    "title": "Public goods",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_welfare-economics_market-failure_merit-goods",
+                    "title": "Merit goods",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_welfare-economics_market-failure_demerit-goods",
+                    "title": "Demerit goods",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_welfare-economics_government-intervention",
+                "title": "Government Intervention",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_welfare-economics_government-intervention_taxes",
+                    "title": "Taxes",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_welfare-economics_government-intervention_subsidies",
+                    "title": "Subsidies",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_1-microeconomic-theory_welfare-economics_government-intervention_regulation",
+                    "title": "Regulation",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory",
+        "title": "2. Macroeconomic Theory",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_national-income",
+            "title": "National Income",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_national-income_concepts",
+                "title": "Concepts",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_national-income_concepts_gdp",
+                    "title": "GDP",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_national-income_concepts_gnp",
+                    "title": "GNP",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_national-income_concepts_ndp",
+                    "title": "NDP",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_national-income_concepts_national-income",
+                    "title": "National income",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_national-income_concepts_per-capita-income",
+                    "title": "Per capita income",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_national-income_measurement",
+                "title": "Measurement",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_national-income_measurement_product-method",
+                    "title": "Product method",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_national-income_measurement_income-method",
+                    "title": "Income method",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_national-income_measurement_expenditure-method",
+                    "title": "Expenditure method",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_classical-and-keynesian-macroeconomics",
+            "title": "Classical and Keynesian Macroeconomics",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_classical-and-keynesian-macroeconomics_classical-theory",
+                "title": "Classical Theory",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_classical-and-keynesian-macroeconomics_classical-theory_says-law",
+                    "title": "Say\u2019s law",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_classical-and-keynesian-macroeconomics_classical-theory_classical-employment-theory",
+                    "title": "Classical employment theory",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_classical-and-keynesian-macroeconomics_keynesian-theory",
+                "title": "Keynesian Theory",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_classical-and-keynesian-macroeconomics_keynesian-theory_effective-demand",
+                    "title": "Effective demand",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_classical-and-keynesian-macroeconomics_keynesian-theory_consumption-function",
+                    "title": "Consumption function",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_classical-and-keynesian-macroeconomics_keynesian-theory_investment-function",
+                    "title": "Investment function",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_classical-and-keynesian-macroeconomics_keynesian-theory_multiplier",
+                    "title": "Multiplier",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_classical-and-keynesian-macroeconomics_keynesian-theory_accelerator",
+                    "title": "Accelerator",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_money-and-banking",
+            "title": "Money and Banking",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_money-and-banking_money",
+                "title": "Money",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_money-and-banking_money_functions-of-money",
+                    "title": "Functions of money",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_money-and-banking_money_demand-for-money",
+                    "title": "Demand for money",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_money-and-banking_money_supply-of-money",
+                    "title": "Supply of money",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_money-and-banking_monetary-theories",
+                "title": "Monetary Theories",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_money-and-banking_monetary-theories_quantity-theory-of-money",
+                    "title": "Quantity theory of money",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_money-and-banking_monetary-theories_keynes-theory-of-money",
+                    "title": "Keynes\u2019 theory of money",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_money-and-banking_monetary-theories_friedmans-monetarism",
+                    "title": "Friedman\u2019s monetarism",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_money-and-banking_banking",
+                "title": "Banking",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_money-and-banking_banking_commercial-banks",
+                    "title": "Commercial banks",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_money-and-banking_banking_central-banking",
+                    "title": "Central banking",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_money-and-banking_banking_credit-creation",
+                    "title": "Credit creation",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_inflation",
+            "title": "Inflation",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_inflation_concept",
+                "title": "Concept",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_inflation_concept_meaning-of-inflation",
+                    "title": "Meaning of inflation",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_inflation_concept_types-of-inflation",
+                    "title": "Types of inflation",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_inflation_causes",
+                "title": "Causes",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_inflation_causes_demand-pull-inflation",
+                    "title": "Demand-pull inflation",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_inflation_causes_cost-push-inflation",
+                    "title": "Cost-push inflation",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_inflation_effects",
+                "title": "Effects",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_inflation_effects_inflation-on-growth",
+                    "title": "Inflation on growth",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_inflation_effects_inflation-on-income-distribution",
+                    "title": "Inflation on income distribution",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_inflation_control",
+                "title": "Control",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_inflation_control_monetary-measures",
+                    "title": "Monetary measures",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_inflation_control_fiscal-measures",
+                    "title": "Fiscal measures",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_business-cycles",
+            "title": "Business Cycles",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_business-cycles_trade-cycles",
+                "title": "Trade Cycles",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_business-cycles_trade-cycles_phases-of-business-cycle",
+                    "title": "Phases of business cycle",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_business-cycles_trade-cycles_theories-of-business-cycles",
+                    "title": "Theories of business cycles",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_macroeconomic-policies",
+            "title": "Macroeconomic Policies",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_macroeconomic-policies_fiscal-policy",
+                "title": "Fiscal Policy",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_macroeconomic-policies_fiscal-policy_public-expenditure",
+                    "title": "Public expenditure",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_macroeconomic-policies_fiscal-policy_taxation",
+                    "title": "Taxation",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_macroeconomic-policies_fiscal-policy_budget-deficits",
+                    "title": "Budget deficits",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_macroeconomic-policies_monetary-policy",
+                "title": "Monetary Policy",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_macroeconomic-policies_monetary-policy_policy-instruments",
+                    "title": "Policy instruments",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_2-macroeconomic-theory_macroeconomic-policies_monetary-policy_interest-rate-policy",
+                    "title": "Interest rate policy",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionaleconomicspaperimd_3-growth-and-development",
+        "title": "3. Growth and Development",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionaleconomicspaperimd_3-growth-and-development_economic-growth",
+            "title": "Economic Growth",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_3-growth-and-development_economic-growth_concepts",
+                "title": "Concepts",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_3-growth-and-development_economic-growth_concepts_growth-vs-development",
+                    "title": "Growth vs development",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_3-growth-and-development_economic-growth_concepts_indicators-of-growth",
+                    "title": "Indicators of growth",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_3-growth-and-development_economic-growth_growth-models",
+                "title": "Growth Models",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_3-growth-and-development_economic-growth_growth-models_harroddomar-model",
+                    "title": "Harrod\u2013Domar model",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_3-growth-and-development_economic-growth_growth-models_solow-growth-model",
+                    "title": "Solow growth model",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_3-growth-and-development_economic-growth_growth-models_endogenous-growth-theory",
+                    "title": "Endogenous growth theory",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperimd_3-growth-and-development_economic-development",
+            "title": "Economic Development",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_3-growth-and-development_economic-development_development-indicators",
+                "title": "Development Indicators",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_3-growth-and-development_economic-development_development-indicators_hdi",
+                    "title": "HDI",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_3-growth-and-development_economic-development_development-indicators_poverty-indices",
+                    "title": "Poverty indices",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_3-growth-and-development_economic-development_development-indicators_inequality-measures",
+                    "title": "Inequality measures",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_3-growth-and-development_economic-development_structural-change",
+                "title": "Structural Change",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_3-growth-and-development_economic-development_structural-change_lewis-model",
+                    "title": "Lewis model",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_3-growth-and-development_economic-development_structural-change_kuznets-hypothesis",
+                    "title": "Kuznets hypothesis",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperimd_3-growth-and-development_poverty-and-inequality",
+            "title": "Poverty and Inequality",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_3-growth-and-development_poverty-and-inequality_poverty",
+                "title": "Poverty",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_3-growth-and-development_poverty-and-inequality_poverty_absolute-poverty",
+                    "title": "Absolute poverty",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_3-growth-and-development_poverty-and-inequality_poverty_relative-poverty",
+                    "title": "Relative poverty",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_3-growth-and-development_poverty-and-inequality_poverty_poverty-traps",
+                    "title": "Poverty traps",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_3-growth-and-development_poverty-and-inequality_inequality",
+                "title": "Inequality",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_3-growth-and-development_poverty-and-inequality_inequality_lorenz-curve",
+                    "title": "Lorenz curve",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_3-growth-and-development_poverty-and-inequality_inequality_gini-coefficient",
+                    "title": "Gini coefficient",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperimd_3-growth-and-development_population-and-development",
+            "title": "Population and Development",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_3-growth-and-development_population-and-development_population-growth",
+                "title": "Population growth",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_3-growth-and-development_population-and-development_demographic-transition-theory",
+                "title": "Demographic transition theory",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_3-growth-and-development_population-and-development_population-policy",
+                "title": "Population policy",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionaleconomicspaperimd_4-international-economics",
+        "title": "4. International Economics",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionaleconomicspaperimd_4-international-economics_international-trade-theory",
+            "title": "International Trade Theory",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_4-international-economics_international-trade-theory_classical-theories",
+                "title": "Classical Theories",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_4-international-economics_international-trade-theory_classical-theories_absolute-advantage",
+                    "title": "Absolute advantage",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_4-international-economics_international-trade-theory_classical-theories_comparative-advantage",
+                    "title": "Comparative advantage",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_4-international-economics_international-trade-theory_modern-theories",
+                "title": "Modern Theories",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_4-international-economics_international-trade-theory_modern-theories_heckscherohlin-theory",
+                    "title": "Heckscher\u2013Ohlin theory",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_4-international-economics_international-trade-theory_modern-theories_factor-price-equalization",
+                    "title": "Factor price equalization",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_4-international-economics_international-trade-theory_modern-theories_terms-of-trade",
+                    "title": "Terms of trade",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperimd_4-international-economics_trade-policy",
+            "title": "Trade Policy",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_4-international-economics_trade-policy_instruments",
+                "title": "Instruments",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_4-international-economics_trade-policy_instruments_tariffs",
+                    "title": "Tariffs",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_4-international-economics_trade-policy_instruments_quotas",
+                    "title": "Quotas",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_4-international-economics_trade-policy_instruments_non-tariff-barriers",
+                    "title": "Non-tariff barriers",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_4-international-economics_trade-policy_trade-policy-regimes",
+                "title": "Trade Policy Regimes",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_4-international-economics_trade-policy_trade-policy-regimes_free-trade",
+                    "title": "Free trade",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_4-international-economics_trade-policy_trade-policy-regimes_protectionism",
+                    "title": "Protectionism",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperimd_4-international-economics_balance-of-payments",
+            "title": "Balance of Payments",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_4-international-economics_balance-of-payments_structure",
+                "title": "Structure",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_4-international-economics_balance-of-payments_structure_current-account",
+                    "title": "Current account",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_4-international-economics_balance-of-payments_structure_capital-account",
+                    "title": "Capital account",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_4-international-economics_balance-of-payments_disequilibrium",
+                "title": "Disequilibrium",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_4-international-economics_balance-of-payments_disequilibrium_causes-of-bop-disequilibrium",
+                    "title": "Causes of BOP disequilibrium",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_4-international-economics_balance-of-payments_disequilibrium_adjustment-mechanisms",
+                    "title": "Adjustment mechanisms",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperimd_4-international-economics_exchange-rate",
+            "title": "Exchange Rate",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_4-international-economics_exchange-rate_exchange-rate-systems",
+                "title": "Exchange Rate Systems",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_4-international-economics_exchange-rate_exchange-rate-systems_fixed-exchange-rate",
+                    "title": "Fixed exchange rate",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_4-international-economics_exchange-rate_exchange-rate-systems_flexible-exchange-rate",
+                    "title": "Flexible exchange rate",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_4-international-economics_exchange-rate_exchange-rate-systems_managed-float",
+                    "title": "Managed float",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_4-international-economics_exchange-rate_determination",
+                "title": "Determination",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_4-international-economics_exchange-rate_determination_purchasing-power-parity",
+                    "title": "Purchasing power parity",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_4-international-economics_exchange-rate_determination_balance-of-payments-theory",
+                    "title": "Balance of payments theory",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperimd_4-international-economics_international-monetary-system",
+            "title": "International Monetary System",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_4-international-economics_international-monetary-system_institutions",
+                "title": "Institutions",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_4-international-economics_international-monetary-system_institutions_imf",
+                    "title": "IMF",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_4-international-economics_international-monetary-system_institutions_world-bank",
+                    "title": "World Bank",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_4-international-economics_international-monetary-system_institutions_wto",
+                    "title": "WTO",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperimd_4-international-economics_international-monetary-system_global-financial-system",
+                "title": "Global Financial System",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_4-international-economics_international-monetary-system_global-financial-system_capital-flows",
+                    "title": "Capital flows",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionaleconomicspaperimd_4-international-economics_international-monetary-system_global-financial-system_financial-crises",
+                    "title": "Financial crises",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

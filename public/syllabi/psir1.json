@@ -1,0 +1,1486 @@
+[
+  {
+    "id": "root_upsccseoptionalpsirpaperimd",
+    "title": "UPSC_CSE_OPTIONAL_PSIR_PAPER_I.md",
+    "type": "branch",
+    "children": [
+      {
+        "id": "root_upsccseoptionalpsirpaperimd_section-a-political-theory",
+        "title": "SECTION A \u2014 POLITICAL THEORY",
+        "type": "branch",
+        "children": []
+      },
+      {
+        "id": "root_upsccseoptionalpsirpaperimd_1-political-theory-meaning-and-approaches",
+        "title": "1. Political Theory: Meaning and Approaches",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_1-political-theory-meaning-and-approaches_meaning-of-political-theory",
+            "title": "Meaning of political theory",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_1-political-theory-meaning-and-approaches_nature-and-scope-of-political-theory",
+            "title": "Nature and scope of political theory",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_1-political-theory-meaning-and-approaches_traditional-approaches",
+            "title": "Traditional approaches",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_1-political-theory-meaning-and-approaches_modern-approaches",
+            "title": "Modern approaches",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_1-political-theory-meaning-and-approaches_normative-political-theory",
+            "title": "Normative political theory",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_1-political-theory-meaning-and-approaches_empirical-political-theory",
+            "title": "Empirical political theory",
+            "type": "leaf",
+            "status": "locked"
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpsirpaperimd_2-concepts-of-politics",
+        "title": "2. Concepts of Politics",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_2-concepts-of-politics_state",
+            "title": "State",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_2-concepts-of-politics_state_meaning-of-state",
+                "title": "Meaning of state",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_2-concepts-of-politics_state_elements-of-state",
+                "title": "Elements of state",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_2-concepts-of-politics_state_theories-of-origin-of-state",
+                "title": "Theories of origin of state",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_2-concepts-of-politics_state_functions-of-state",
+                "title": "Functions of state",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_2-concepts-of-politics_state_state-and-society",
+                "title": "State and society",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_2-concepts-of-politics_nation",
+            "title": "Nation",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_2-concepts-of-politics_nation_concept-of-nation",
+                "title": "Concept of nation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_2-concepts-of-politics_nation_nation-vs-state",
+                "title": "Nation vs state",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_2-concepts-of-politics_nation_nationalism",
+                "title": "Nationalism",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_2-concepts-of-politics_sovereignty",
+            "title": "Sovereignty",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_2-concepts-of-politics_sovereignty_meaning-of-sovereignty",
+                "title": "Meaning of sovereignty",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_2-concepts-of-politics_sovereignty_legal-sovereignty",
+                "title": "Legal sovereignty",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_2-concepts-of-politics_sovereignty_political-sovereignty",
+                "title": "Political sovereignty",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_2-concepts-of-politics_sovereignty_popular-sovereignty",
+                "title": "Popular sovereignty",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_2-concepts-of-politics_sovereignty_pluralist-theory-of-sovereignty",
+                "title": "Pluralist theory of sovereignty",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_2-concepts-of-politics_power",
+            "title": "Power",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_2-concepts-of-politics_power_concept-of-power",
+                "title": "Concept of power",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_2-concepts-of-politics_power_authority",
+                "title": "Authority",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_2-concepts-of-politics_power_legitimacy",
+                "title": "Legitimacy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_2-concepts-of-politics_power_force",
+                "title": "Force",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_2-concepts-of-politics_power_influence",
+                "title": "Influence",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpsirpaperimd_3-liberty",
+        "title": "3. Liberty",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_3-liberty_concept-of-liberty",
+            "title": "Concept of Liberty",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_3-liberty_concept-of-liberty_meaning-of-liberty",
+                "title": "Meaning of liberty",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_3-liberty_concept-of-liberty_negative-liberty",
+                "title": "Negative liberty",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_3-liberty_concept-of-liberty_positive-liberty",
+                "title": "Positive liberty",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_3-liberty_safeguards-of-liberty",
+            "title": "Safeguards of Liberty",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_3-liberty_safeguards-of-liberty_constitutional-safeguards",
+                "title": "Constitutional safeguards",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_3-liberty_safeguards-of-liberty_rule-of-law",
+                "title": "Rule of law",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_3-liberty_safeguards-of-liberty_separation-of-powers",
+                "title": "Separation of powers",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_3-liberty_liberty-and-responsibility",
+            "title": "Liberty and Responsibility",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_3-liberty_liberty-and-responsibility_limits-on-liberty",
+                "title": "Limits on liberty",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_3-liberty_liberty-and-responsibility_liberty-and-equality",
+                "title": "Liberty and equality",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpsirpaperimd_4-equality",
+        "title": "4. Equality",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_4-equality_concept-of-equality",
+            "title": "Concept of Equality",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_4-equality_concept-of-equality_meaning-of-equality",
+                "title": "Meaning of equality",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_4-equality_concept-of-equality_types-of-equality",
+                "title": "Types of equality",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_4-equality_concept-of-equality_formal-equality",
+                "title": "Formal equality",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_4-equality_concept-of-equality_substantive-equality",
+                "title": "Substantive equality",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_4-equality_equality-and-justice",
+            "title": "Equality and Justice",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_4-equality_equality-and-justice_equality-of-opportunity",
+                "title": "Equality of opportunity",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_4-equality_equality-and-justice_equality-of-outcome",
+                "title": "Equality of outcome",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpsirpaperimd_5-justice",
+        "title": "5. Justice",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_5-justice_concept-of-justice",
+            "title": "Concept of Justice",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_5-justice_concept-of-justice_meaning-of-justice",
+                "title": "Meaning of justice",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_5-justice_concept-of-justice_social-justice",
+                "title": "Social justice",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_5-justice_concept-of-justice_economic-justice",
+                "title": "Economic justice",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_5-justice_concept-of-justice_political-justice",
+                "title": "Political justice",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_5-justice_theories-of-justice",
+            "title": "Theories of Justice",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_5-justice_theories-of-justice_liberal-theory-of-justice",
+                "title": "Liberal theory of justice",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_5-justice_theories-of-justice_marxist-theory-of-justice",
+                "title": "Marxist theory of justice",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_5-justice_theories-of-justice_rawls-theory-of-justice",
+                "title": "Rawls\u2019 theory of justice",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpsirpaperimd_6-rights",
+        "title": "6. Rights",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_6-rights_concept-of-rights",
+            "title": "Concept of Rights",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_6-rights_concept-of-rights_meaning-of-rights",
+                "title": "Meaning of rights",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_6-rights_concept-of-rights_moral-rights",
+                "title": "Moral rights",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_6-rights_concept-of-rights_legal-rights",
+                "title": "Legal rights",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_6-rights_kinds-of-rights",
+            "title": "Kinds of Rights",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_6-rights_kinds-of-rights_civil-rights",
+                "title": "Civil rights",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_6-rights_kinds-of-rights_political-rights",
+                "title": "Political rights",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_6-rights_kinds-of-rights_economic-rights",
+                "title": "Economic rights",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_6-rights_kinds-of-rights_social-rights",
+                "title": "Social rights",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_6-rights_human-rights",
+            "title": "Human Rights",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_6-rights_human-rights_universal-declaration-of-human-rights",
+                "title": "Universal Declaration of Human Rights",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_6-rights_human-rights_human-rights-debates",
+                "title": "Human rights debates",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpsirpaperimd_7-democracy",
+        "title": "7. Democracy",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_7-democracy_concept-of-democracy",
+            "title": "Concept of Democracy",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_7-democracy_concept-of-democracy_meaning-of-democracy",
+                "title": "Meaning of democracy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_7-democracy_concept-of-democracy_direct-democracy",
+                "title": "Direct democracy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_7-democracy_concept-of-democracy_representative-democracy",
+                "title": "Representative democracy",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_7-democracy_models-of-democracy",
+            "title": "Models of Democracy",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_7-democracy_models-of-democracy_liberal-democracy",
+                "title": "Liberal democracy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_7-democracy_models-of-democracy_participatory-democracy",
+                "title": "Participatory democracy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_7-democracy_models-of-democracy_deliberative-democracy",
+                "title": "Deliberative democracy",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_7-democracy_democracy-and-development",
+            "title": "Democracy and Development",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_7-democracy_democracy-and-development_democracy-and-inequality",
+                "title": "Democracy and inequality",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_7-democracy_democracy-and-development_challenges-to-democracy",
+                "title": "Challenges to democracy",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpsirpaperimd_8-ideologies",
+        "title": "8. Ideologies",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_8-ideologies_liberalism",
+            "title": "Liberalism",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_8-ideologies_liberalism_classical-liberalism",
+                "title": "Classical liberalism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_8-ideologies_liberalism_modern-liberalism",
+                "title": "Modern liberalism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_8-ideologies_liberalism_neo-liberalism",
+                "title": "Neo-liberalism",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_8-ideologies_socialism",
+            "title": "Socialism",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_8-ideologies_socialism_utopian-socialism",
+                "title": "Utopian socialism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_8-ideologies_socialism_democratic-socialism",
+                "title": "Democratic socialism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_8-ideologies_socialism_scientific-socialism",
+                "title": "Scientific socialism",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_8-ideologies_marxism",
+            "title": "Marxism",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_8-ideologies_marxism_historical-materialism",
+                "title": "Historical materialism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_8-ideologies_marxism_class-struggle",
+                "title": "Class struggle",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_8-ideologies_marxism_dictatorship-of-proletariat",
+                "title": "Dictatorship of proletariat",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_8-ideologies_fascism",
+            "title": "Fascism",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_8-ideologies_fascism_features-of-fascism",
+                "title": "Features of fascism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_8-ideologies_fascism_critique-of-fascism",
+                "title": "Critique of fascism",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_8-ideologies_feminism",
+            "title": "Feminism",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_8-ideologies_feminism_liberal-feminism",
+                "title": "Liberal feminism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_8-ideologies_feminism_radical-feminism",
+                "title": "Radical feminism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_8-ideologies_feminism_socialist-feminism",
+                "title": "Socialist feminism",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_8-ideologies_gandhism",
+            "title": "Gandhism",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_8-ideologies_gandhism_gandhian-philosophy",
+                "title": "Gandhian philosophy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_8-ideologies_gandhism_non-violence",
+                "title": "Non-violence",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_8-ideologies_gandhism_satyagraha",
+                "title": "Satyagraha",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpsirpaperimd_9-political-thinkers",
+        "title": "9. Political Thinkers",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_9-political-thinkers_western-thinkers",
+            "title": "Western Thinkers",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_9-political-thinkers_western-thinkers_plato",
+                "title": "Plato",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_9-political-thinkers_western-thinkers_aristotle",
+                "title": "Aristotle",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_9-political-thinkers_western-thinkers_machiavelli",
+                "title": "Machiavelli",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_9-political-thinkers_western-thinkers_hobbes",
+                "title": "Hobbes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_9-political-thinkers_western-thinkers_locke",
+                "title": "Locke",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_9-political-thinkers_western-thinkers_rousseau",
+                "title": "Rousseau",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_9-political-thinkers_western-thinkers_bentham",
+                "title": "Bentham",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_9-political-thinkers_western-thinkers_js-mill",
+                "title": "J.S. Mill",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_9-political-thinkers_western-thinkers_hegel",
+                "title": "Hegel",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_9-political-thinkers_western-thinkers_marx",
+                "title": "Marx",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_9-political-thinkers_western-thinkers_gramsci",
+                "title": "Gramsci",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_9-political-thinkers_western-thinkers_hannah-arendt",
+                "title": "Hannah Arendt",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_9-political-thinkers_indian-thinkers",
+            "title": "Indian Thinkers",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_9-political-thinkers_indian-thinkers_kautilya",
+                "title": "Kautilya",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_9-political-thinkers_indian-thinkers_mahatma-gandhi",
+                "title": "Mahatma Gandhi",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_9-political-thinkers_indian-thinkers_br-ambedkar",
+                "title": "B.R. Ambedkar",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_9-political-thinkers_indian-thinkers_jawaharlal-nehru",
+                "title": "Jawaharlal Nehru",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_9-political-thinkers_indian-thinkers_mn-roy",
+                "title": "M.N. Roy",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpsirpaperimd_section-b-indian-government-and-politics",
+        "title": "SECTION B \u2014 INDIAN GOVERNMENT AND POLITICS",
+        "type": "branch",
+        "children": []
+      },
+      {
+        "id": "root_upsccseoptionalpsirpaperimd_10-indian-constitution",
+        "title": "10. Indian Constitution",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_10-indian-constitution_constitutional-framework",
+            "title": "Constitutional Framework",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_10-indian-constitution_constitutional-framework_making-of-the-constitution",
+                "title": "Making of the Constitution",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_10-indian-constitution_constitutional-framework_philosophy-of-the-constitution",
+                "title": "Philosophy of the Constitution",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_10-indian-constitution_constitutional-framework_preamble",
+                "title": "Preamble",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_10-indian-constitution_constitutional-framework_salient-features",
+                "title": "Salient features",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_10-indian-constitution_fundamental-rights",
+            "title": "Fundamental Rights",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_10-indian-constitution_fundamental-rights_right-to-equality",
+                "title": "Right to equality",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_10-indian-constitution_fundamental-rights_right-to-freedom",
+                "title": "Right to freedom",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_10-indian-constitution_fundamental-rights_right-against-exploitation",
+                "title": "Right against exploitation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_10-indian-constitution_fundamental-rights_right-to-religion",
+                "title": "Right to religion",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_10-indian-constitution_fundamental-rights_cultural-and-educational-rights",
+                "title": "Cultural and educational rights",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_10-indian-constitution_fundamental-rights_right-to-constitutional-remedies",
+                "title": "Right to constitutional remedies",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_10-indian-constitution_directive-principles",
+            "title": "Directive Principles",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_10-indian-constitution_directive-principles_nature-of-dpsps",
+                "title": "Nature of DPSPs",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_10-indian-constitution_directive-principles_classification-of-dpsps",
+                "title": "Classification of DPSPs",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_10-indian-constitution_directive-principles_dpsps-and-fundamental-rights",
+                "title": "DPSPs and Fundamental Rights",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_10-indian-constitution_fundamental-duties",
+            "title": "Fundamental Duties",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_10-indian-constitution_fundamental-duties_nature-and-significance",
+                "title": "Nature and significance",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpsirpaperimd_11-federalism-in-india",
+        "title": "11. Federalism in India",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_11-federalism-in-india_centrestate-relations",
+            "title": "Centre\u2013State Relations",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_11-federalism-in-india_centrestate-relations_legislative-relations",
+                "title": "Legislative relations",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_11-federalism-in-india_centrestate-relations_administrative-relations",
+                "title": "Administrative relations",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_11-federalism-in-india_centrestate-relations_financial-relations",
+                "title": "Financial relations",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_11-federalism-in-india_issues-in-federalism",
+            "title": "Issues in Federalism",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_11-federalism-in-india_issues-in-federalism_role-of-governor",
+                "title": "Role of Governor",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_11-federalism-in-india_issues-in-federalism_presidents-rule",
+                "title": "President\u2019s rule",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_11-federalism-in-india_issues-in-federalism_interstate-disputes",
+                "title": "Interstate disputes",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_11-federalism-in-india_devolution",
+            "title": "Devolution",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_11-federalism-in-india_devolution_panchayati-raj-institutions",
+                "title": "Panchayati Raj institutions",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_11-federalism-in-india_devolution_urban-local-bodies",
+                "title": "Urban local bodies",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_11-federalism-in-india_devolution_finance-commissions",
+                "title": "Finance Commissions",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpsirpaperimd_12-union-government",
+        "title": "12. Union Government",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_12-union-government_executive",
+            "title": "Executive",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_12-union-government_executive_president",
+                "title": "President",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_12-union-government_executive_prime-minister",
+                "title": "Prime Minister",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_12-union-government_executive_council-of-ministers",
+                "title": "Council of Ministers",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_12-union-government_executive_cabinet-system",
+                "title": "Cabinet system",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_12-union-government_legislature",
+            "title": "Legislature",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_12-union-government_legislature_parliament",
+                "title": "Parliament",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_12-union-government_legislature_lok-sabha",
+                "title": "Lok Sabha",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_12-union-government_legislature_rajya-sabha",
+                "title": "Rajya Sabha",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_12-union-government_legislature_parliamentary-committees",
+                "title": "Parliamentary committees",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_12-union-government_judiciary",
+            "title": "Judiciary",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_12-union-government_judiciary_supreme-court",
+                "title": "Supreme Court",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_12-union-government_judiciary_judicial-review",
+                "title": "Judicial review",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_12-union-government_judiciary_judicial-activism",
+                "title": "Judicial activism",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpsirpaperimd_13-state-government",
+        "title": "13. State Government",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_13-state-government_executive",
+            "title": "Executive",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_13-state-government_executive_governor",
+                "title": "Governor",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_13-state-government_executive_chief-minister",
+                "title": "Chief Minister",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_13-state-government_executive_council-of-ministers",
+                "title": "Council of Ministers",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_13-state-government_legislature",
+            "title": "Legislature",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_13-state-government_legislature_state-legislature",
+                "title": "State legislature",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_13-state-government_legislature_legislative-procedures",
+                "title": "Legislative procedures",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_13-state-government_judiciary",
+            "title": "Judiciary",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_13-state-government_judiciary_high-courts",
+                "title": "High Courts",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_13-state-government_judiciary_subordinate-courts",
+                "title": "Subordinate courts",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpsirpaperimd_14-party-system-in-india",
+        "title": "14. Party System in India",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_14-party-system-in-india_political-parties",
+            "title": "Political Parties",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_14-party-system-in-india_political-parties_national-parties",
+                "title": "National parties",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_14-party-system-in-india_political-parties_regional-parties",
+                "title": "Regional parties",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_14-party-system-in-india_party-system",
+            "title": "Party System",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_14-party-system-in-india_party-system_one-party-dominance",
+                "title": "One-party dominance",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_14-party-system-in-india_party-system_coalition-politics",
+                "title": "Coalition politics",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_14-party-system-in-india_pressure-groups",
+            "title": "Pressure Groups",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_14-party-system-in-india_pressure-groups_trade-unions",
+                "title": "Trade unions",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_14-party-system-in-india_pressure-groups_business-groups",
+                "title": "Business groups",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_14-party-system-in-india_pressure-groups_farmers-organizations",
+                "title": "Farmers\u2019 organizations",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpsirpaperimd_15-electoral-system",
+        "title": "15. Electoral System",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_15-electoral-system_elections",
+            "title": "Elections",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_15-electoral-system_elections_election-commission-of-india",
+                "title": "Election Commission of India",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_15-electoral-system_elections_electoral-process",
+                "title": "Electoral process",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_15-electoral-system_electoral-reforms",
+            "title": "Electoral Reforms",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_15-electoral-system_electoral-reforms_voting-behaviour",
+                "title": "Voting behaviour",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_15-electoral-system_electoral-reforms_money-and-muscle-power",
+                "title": "Money and muscle power",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_15-electoral-system_electoral-reforms_electoral-reforms",
+                "title": "Electoral reforms",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpsirpaperimd_16-social-cleavages-in-indian-politics",
+        "title": "16. Social Cleavages in Indian Politics",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_16-social-cleavages-in-indian-politics_caste",
+            "title": "Caste",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_16-social-cleavages-in-indian-politics_caste_caste-and-politics",
+                "title": "Caste and politics",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_16-social-cleavages-in-indian-politics_caste_reservation-politics",
+                "title": "Reservation politics",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_16-social-cleavages-in-indian-politics_religion",
+            "title": "Religion",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_16-social-cleavages-in-indian-politics_religion_communalism",
+                "title": "Communalism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_16-social-cleavages-in-indian-politics_religion_secularism",
+                "title": "Secularism",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_16-social-cleavages-in-indian-politics_language",
+            "title": "Language",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_16-social-cleavages-in-indian-politics_language_linguistic-politics",
+                "title": "Linguistic politics",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_16-social-cleavages-in-indian-politics_language_regionalism",
+                "title": "Regionalism",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpsirpaperimd_17-public-policy-and-governance",
+        "title": "17. Public Policy and Governance",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_17-public-policy-and-governance_public-policy",
+            "title": "Public Policy",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_17-public-policy-and-governance_public-policy_policy-formulation",
+                "title": "Policy formulation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_17-public-policy-and-governance_public-policy_policy-implementation",
+                "title": "Policy implementation",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_17-public-policy-and-governance_governance",
+            "title": "Governance",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_17-public-policy-and-governance_governance_good-governance",
+                "title": "Good governance",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_17-public-policy-and-governance_governance_accountability",
+                "title": "Accountability",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_17-public-policy-and-governance_governance_transparency",
+                "title": "Transparency",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_17-public-policy-and-governance_bureaucracy",
+            "title": "Bureaucracy",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_17-public-policy-and-governance_bureaucracy_role-of-bureaucracy",
+                "title": "Role of bureaucracy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperimd_17-public-policy-and-governance_bureaucracy_administrative-reforms",
+                "title": "Administrative reforms",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpsirpaperimd_18-challenges-to-indian-democracy",
+        "title": "18. Challenges to Indian Democracy",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_18-challenges-to-indian-democracy_criminalization-of-politics",
+            "title": "Criminalization of politics",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_18-challenges-to-indian-democracy_corruption",
+            "title": "Corruption",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_18-challenges-to-indian-democracy_political-violence",
+            "title": "Political violence",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperimd_18-challenges-to-indian-democracy_decline-of-institutions",
+            "title": "Decline of institutions",
+            "type": "leaf",
+            "status": "locked"
+          }
+        ]
+      }
+    ]
+  }
+]

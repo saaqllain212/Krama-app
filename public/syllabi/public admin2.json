@@ -1,0 +1,1541 @@
+[
+  {
+    "id": "root_upsccseoptionalpublicadministrationpaperiimd",
+    "title": "UPSC_CSE_OPTIONAL_PUBLIC_ADMINISTRATION_PAPER_II.md",
+    "type": "branch",
+    "children": [
+      {
+        "id": "root_upsccseoptionalpublicadministrationpaperiimd_1-evolution-of-indian-administration",
+        "title": "1. Evolution of Indian Administration",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_1-evolution-of-indian-administration_kautilyan-administration",
+            "title": "Kautilyan Administration",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_1-evolution-of-indian-administration_kautilyan-administration_arthashastra-as-a-source",
+                "title": "Arthashastra as a source",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_1-evolution-of-indian-administration_kautilyan-administration_concept-of-kingship",
+                "title": "Concept of kingship",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_1-evolution-of-indian-administration_kautilyan-administration_central-and-provincial-administration",
+                "title": "Central and provincial administration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_1-evolution-of-indian-administration_kautilyan-administration_revenue-administration",
+                "title": "Revenue administration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_1-evolution-of-indian-administration_kautilyan-administration_judicial-administration",
+                "title": "Judicial administration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_1-evolution-of-indian-administration_kautilyan-administration_intelligence-and-espionage",
+                "title": "Intelligence and espionage",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_1-evolution-of-indian-administration_mughal-administration",
+            "title": "Mughal Administration",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_1-evolution-of-indian-administration_mughal-administration_central-administration",
+                "title": "Central administration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_1-evolution-of-indian-administration_mughal-administration_mansabdari-system",
+                "title": "Mansabdari system",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_1-evolution-of-indian-administration_mughal-administration_jagirdari-system",
+                "title": "Jagirdari system",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_1-evolution-of-indian-administration_mughal-administration_revenue-administration-zabt",
+                "title": "Revenue administration (Zabt)",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_1-evolution-of-indian-administration_mughal-administration_military-administration",
+                "title": "Military administration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_1-evolution-of-indian-administration_mughal-administration_judicial-system",
+                "title": "Judicial system",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_1-evolution-of-indian-administration_british-colonial-administration",
+            "title": "British Colonial Administration",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_1-evolution-of-indian-administration_british-colonial-administration_east-india-company-administration",
+                "title": "East India Company administration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_1-evolution-of-indian-administration_british-colonial-administration_governor-general-system",
+                "title": "Governor-General system",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_1-evolution-of-indian-administration_british-colonial-administration_centralized-bureaucratic-structure",
+                "title": "Centralized bureaucratic structure",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_1-evolution-of-indian-administration_british-colonial-administration_civil-services-under-british-rule",
+                "title": "Civil services under British rule",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_1-evolution-of-indian-administration_british-colonial-administration_police-and-judicial-administration",
+                "title": "Police and judicial administration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_1-evolution-of-indian-administration_british-colonial-administration_revenue-systems",
+                "title": "Revenue systems",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpublicadministrationpaperiimd_2-constitutional-framework-of-indian-administration",
+        "title": "2. Constitutional Framework of Indian Administration",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_2-constitutional-framework-of-indian-administration_constitutional-values",
+            "title": "Constitutional Values",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_2-constitutional-framework-of-indian-administration_constitutional-values_sovereignty",
+                "title": "Sovereignty",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_2-constitutional-framework-of-indian-administration_constitutional-values_socialism",
+                "title": "Socialism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_2-constitutional-framework-of-indian-administration_constitutional-values_secularism",
+                "title": "Secularism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_2-constitutional-framework-of-indian-administration_constitutional-values_democracy",
+                "title": "Democracy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_2-constitutional-framework-of-indian-administration_constitutional-values_republic",
+                "title": "Republic",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_2-constitutional-framework-of-indian-administration_parliamentary-democracy",
+            "title": "Parliamentary Democracy",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_2-constitutional-framework-of-indian-administration_parliamentary-democracy_cabinet-system",
+                "title": "Cabinet system",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_2-constitutional-framework-of-indian-administration_parliamentary-democracy_collective-responsibility",
+                "title": "Collective responsibility",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_2-constitutional-framework-of-indian-administration_parliamentary-democracy_role-of-prime-minister",
+                "title": "Role of Prime Minister",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_2-constitutional-framework-of-indian-administration_federal-structure",
+            "title": "Federal Structure",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_2-constitutional-framework-of-indian-administration_federal-structure_unitary-bias",
+                "title": "Unitary bias",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_2-constitutional-framework-of-indian-administration_federal-structure_centrestate-relations",
+                "title": "Centre\u2013State relations",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_2-constitutional-framework-of-indian-administration_federal-structure_inter-state-relations",
+                "title": "Inter-state relations",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpublicadministrationpaperiimd_3-union-government",
+        "title": "3. Union Government",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_3-union-government_executive",
+            "title": "Executive",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_3-union-government_executive_president",
+                "title": "President",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperiimd_3-union-government_executive_president_powers-and-functions",
+                    "title": "Powers and functions",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperiimd_3-union-government_executive_president_constitutional-position",
+                    "title": "Constitutional position",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperiimd_3-union-government_executive_president_discretionary-powers",
+                    "title": "Discretionary powers",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_3-union-government_executive_prime-minister",
+                "title": "Prime Minister",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperiimd_3-union-government_executive_prime-minister_role-and-leadership",
+                    "title": "Role and leadership",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperiimd_3-union-government_executive_prime-minister_relationship-with-cabinet",
+                    "title": "Relationship with cabinet",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperiimd_3-union-government_executive_prime-minister_prime-ministers-office-pmo",
+                    "title": "Prime Minister\u2019s Office (PMO)",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_3-union-government_executive_council-of-ministers",
+                "title": "Council of Ministers",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperiimd_3-union-government_executive_council-of-ministers_cabinet",
+                    "title": "Cabinet",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperiimd_3-union-government_executive_council-of-ministers_ministers-of-state",
+                    "title": "Ministers of State",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperiimd_3-union-government_executive_council-of-ministers_collective-responsibility",
+                    "title": "Collective responsibility",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_3-union-government_central-secretariat",
+            "title": "Central Secretariat",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_3-union-government_central-secretariat_cabinet-secretariat",
+                "title": "Cabinet Secretariat",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_3-union-government_central-secretariat_ministries-and-departments",
+                "title": "Ministries and departments",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_3-union-government_central-secretariat_coordination-mechanisms",
+                "title": "Coordination mechanisms",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpublicadministrationpaperiimd_4-state-government",
+        "title": "4. State Government",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_4-state-government_governor",
+            "title": "Governor",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_4-state-government_governor_appointment",
+                "title": "Appointment",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_4-state-government_governor_powers-and-functions",
+                "title": "Powers and functions",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_4-state-government_governor_role-in-state-administration",
+                "title": "Role in state administration",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_4-state-government_chief-minister",
+            "title": "Chief Minister",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_4-state-government_chief-minister_position-and-role",
+                "title": "Position and role",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_4-state-government_chief-minister_council-of-ministers",
+                "title": "Council of Ministers",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_4-state-government_state-secretariat",
+            "title": "State Secretariat",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_4-state-government_state-secretariat_structure",
+                "title": "Structure",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_4-state-government_state-secretariat_functions",
+                "title": "Functions",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_4-state-government_state-secretariat_secretariat-vs-field-administration",
+                "title": "Secretariat vs field administration",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpublicadministrationpaperiimd_5-district-administration",
+        "title": "5. District Administration",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_5-district-administration_district-collector",
+            "title": "District Collector",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_5-district-administration_district-collector_role-and-responsibilities",
+                "title": "Role and responsibilities",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_5-district-administration_district-collector_revenue-administration",
+                "title": "Revenue administration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_5-district-administration_district-collector_law-and-order",
+                "title": "Law and order",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_5-district-administration_district-collector_development-functions",
+                "title": "Development functions",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_5-district-administration_district-level-institutions",
+            "title": "District-Level Institutions",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_5-district-administration_district-level-institutions_superintendent-of-police",
+                "title": "Superintendent of Police",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_5-district-administration_district-level-institutions_district-judiciary",
+                "title": "District judiciary",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_5-district-administration_district-level-institutions_line-departments",
+                "title": "Line departments",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_5-district-administration_changing-role",
+            "title": "Changing Role",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_5-district-administration_changing-role_decentralization",
+                "title": "Decentralization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_5-district-administration_changing-role_development-orientation",
+                "title": "Development orientation",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpublicadministrationpaperiimd_6-local-government",
+        "title": "6. Local Government",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_6-local-government_rural-local-government",
+            "title": "Rural Local Government",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_6-local-government_rural-local-government_panchayati-raj-institutions",
+                "title": "Panchayati Raj Institutions",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperiimd_6-local-government_rural-local-government_panchayati-raj-institutions_evolution-of-pris",
+                    "title": "Evolution of PRIs",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperiimd_6-local-government_rural-local-government_panchayati-raj-institutions_73rd-constitutional-amendment",
+                    "title": "73rd Constitutional Amendment",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperiimd_6-local-government_rural-local-government_panchayati-raj-institutions_structure-of-pris",
+                    "title": "Structure of PRIs",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperiimd_6-local-government_rural-local-government_panchayati-raj-institutions_functions-and-finances",
+                    "title": "Functions and finances",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperiimd_6-local-government_rural-local-government_panchayati-raj-institutions_issues-and-challenges",
+                    "title": "Issues and challenges",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_6-local-government_urban-local-government",
+            "title": "Urban Local Government",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_6-local-government_urban-local-government_municipal-administration",
+                "title": "Municipal Administration",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperiimd_6-local-government_urban-local-government_municipal-administration_74th-constitutional-amendment",
+                    "title": "74th Constitutional Amendment",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperiimd_6-local-government_urban-local-government_municipal-administration_municipal-corporations",
+                    "title": "Municipal corporations",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperiimd_6-local-government_urban-local-government_municipal-administration_municipal-councils",
+                    "title": "Municipal councils",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperiimd_6-local-government_urban-local-government_municipal-administration_functions-and-finances",
+                    "title": "Functions and finances",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperiimd_6-local-government_urban-local-government_municipal-administration_urban-governance-challenges",
+                    "title": "Urban governance challenges",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpublicadministrationpaperiimd_7-civil-services-in-india",
+        "title": "7. Civil Services in India",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_7-civil-services-in-india_evolution",
+            "title": "Evolution",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_7-civil-services-in-india_evolution_from-ics-to-ias",
+                "title": "From ICS to IAS",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_7-civil-services-in-india_evolution_post-independence-civil-services",
+                "title": "Post-independence civil services",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_7-civil-services-in-india_structure",
+            "title": "Structure",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_7-civil-services-in-india_structure_all-india-services",
+                "title": "All India Services",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_7-civil-services-in-india_structure_central-services",
+                "title": "Central Services",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_7-civil-services-in-india_structure_state-services",
+                "title": "State Services",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_7-civil-services-in-india_recruitment-and-training",
+            "title": "Recruitment and Training",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_7-civil-services-in-india_recruitment-and-training_upsc",
+                "title": "UPSC",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_7-civil-services-in-india_recruitment-and-training_training-institutions",
+                "title": "Training institutions",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_7-civil-services-in-india_recruitment-and-training_capacity-building",
+                "title": "Capacity building",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_7-civil-services-in-india_role-and-functions",
+            "title": "Role and Functions",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_7-civil-services-in-india_role-and-functions_policy-formulation",
+                "title": "Policy formulation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_7-civil-services-in-india_role-and-functions_policy-implementation",
+                "title": "Policy implementation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_7-civil-services-in-india_role-and-functions_service-delivery",
+                "title": "Service delivery",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_7-civil-services-in-india_issues",
+            "title": "Issues",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_7-civil-services-in-india_issues_neutrality",
+                "title": "Neutrality",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_7-civil-services-in-india_issues_accountability",
+                "title": "Accountability",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_7-civil-services-in-india_issues_political-interference",
+                "title": "Political interference",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_7-civil-services-in-india_issues_administrative-reforms",
+                "title": "Administrative reforms",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpublicadministrationpaperiimd_8-public-sector-undertakings",
+        "title": "8. Public Sector Undertakings",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_8-public-sector-undertakings_concept",
+            "title": "Concept",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_8-public-sector-undertakings_concept_meaning-of-public-sector",
+                "title": "Meaning of public sector",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_8-public-sector-undertakings_concept_rationale-for-psu-creation",
+                "title": "Rationale for PSU creation",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_8-public-sector-undertakings_types-of-psus",
+            "title": "Types of PSUs",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_8-public-sector-undertakings_types-of-psus_departmental-undertakings",
+                "title": "Departmental undertakings",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_8-public-sector-undertakings_types-of-psus_public-corporations",
+                "title": "Public corporations",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_8-public-sector-undertakings_types-of-psus_government-companies",
+                "title": "Government companies",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_8-public-sector-undertakings_performance",
+            "title": "Performance",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_8-public-sector-undertakings_performance_role-in-development",
+                "title": "Role in development",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_8-public-sector-undertakings_performance_efficiency-issues",
+                "title": "Efficiency issues",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_8-public-sector-undertakings_disinvestment",
+            "title": "Disinvestment",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_8-public-sector-undertakings_disinvestment_disinvestment-policy",
+                "title": "Disinvestment policy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_8-public-sector-undertakings_disinvestment_privatization-debates",
+                "title": "Privatization debates",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpublicadministrationpaperiimd_9-control-over-administration",
+        "title": "9. Control over Administration",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_9-control-over-administration_legislative-control",
+            "title": "Legislative Control",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_9-control-over-administration_legislative-control_parliamentary-questions",
+                "title": "Parliamentary questions",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_9-control-over-administration_legislative-control_committees",
+                "title": "Committees",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_9-control-over-administration_legislative-control_financial-control",
+                "title": "Financial control",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_9-control-over-administration_executive-control",
+            "title": "Executive Control",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_9-control-over-administration_executive-control_hierarchical-supervision",
+                "title": "Hierarchical supervision",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_9-control-over-administration_executive-control_performance-appraisal",
+                "title": "Performance appraisal",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_9-control-over-administration_judicial-control",
+            "title": "Judicial Control",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_9-control-over-administration_judicial-control_judicial-review",
+                "title": "Judicial review",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_9-control-over-administration_judicial-control_administrative-tribunals",
+                "title": "Administrative tribunals",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_9-control-over-administration_ombudsman",
+            "title": "Ombudsman",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_9-control-over-administration_ombudsman_lokpal",
+                "title": "Lokpal",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_9-control-over-administration_ombudsman_lokayuktas",
+                "title": "Lokayuktas",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpublicadministrationpaperiimd_10-administrative-reforms-in-india",
+        "title": "10. Administrative Reforms in India",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_10-administrative-reforms-in-india_reform-commissions",
+            "title": "Reform Commissions",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_10-administrative-reforms-in-india_reform-commissions_first-administrative-reforms-commission",
+                "title": "First Administrative Reforms Commission",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_10-administrative-reforms-in-india_reform-commissions_second-administrative-reforms-commission",
+                "title": "Second Administrative Reforms Commission",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_10-administrative-reforms-in-india_recommendations",
+            "title": "Recommendations",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_10-administrative-reforms-in-india_recommendations_citizen-centric-administration",
+                "title": "Citizen-centric administration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_10-administrative-reforms-in-india_recommendations_transparency-and-accountability",
+                "title": "Transparency and accountability",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_10-administrative-reforms-in-india_recommendations_administrative-efficiency",
+                "title": "Administrative efficiency",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_10-administrative-reforms-in-india_implementation-challenges",
+            "title": "Implementation Challenges",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_10-administrative-reforms-in-india_implementation-challenges_political-will",
+                "title": "Political will",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_10-administrative-reforms-in-india_implementation-challenges_bureaucratic-resistance",
+                "title": "Bureaucratic resistance",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpublicadministrationpaperiimd_11-financial-administration",
+        "title": "11. Financial Administration",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_11-financial-administration_budgetary-process",
+            "title": "Budgetary Process",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_11-financial-administration_budgetary-process_preparation-of-budget",
+                "title": "Preparation of budget",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_11-financial-administration_budgetary-process_legislative-approval",
+                "title": "Legislative approval",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_11-financial-administration_budgetary-process_execution-and-audit",
+                "title": "Execution and audit",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_11-financial-administration_audit",
+            "title": "Audit",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_11-financial-administration_audit_role-of-comptroller-and-auditor-general",
+                "title": "Role of Comptroller and Auditor General",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_11-financial-administration_audit_performance-audit",
+                "title": "Performance audit",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_11-financial-administration_financial-management",
+            "title": "Financial Management",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_11-financial-administration_financial-management_expenditure-control",
+                "title": "Expenditure control",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_11-financial-administration_financial-management_fiscal-discipline",
+                "title": "Fiscal discipline",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpublicadministrationpaperiimd_12-planning-and-development-administration",
+        "title": "12. Planning and Development Administration",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_12-planning-and-development-administration_planning-machinery",
+            "title": "Planning Machinery",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_12-planning-and-development-administration_planning-machinery_planning-commission",
+                "title": "Planning Commission",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_12-planning-and-development-administration_planning-machinery_niti-aayog",
+                "title": "NITI Aayog",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_12-planning-and-development-administration_development-programs",
+            "title": "Development Programs",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_12-planning-and-development-administration_development-programs_centrally-sponsored-schemes",
+                "title": "Centrally Sponsored Schemes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_12-planning-and-development-administration_development-programs_state-development-programs",
+                "title": "State development programs",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_12-planning-and-development-administration_role-of-administration",
+            "title": "Role of Administration",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_12-planning-and-development-administration_role-of-administration_program-implementation",
+                "title": "Program implementation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_12-planning-and-development-administration_role-of-administration_monitoring-and-evaluation",
+                "title": "Monitoring and evaluation",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpublicadministrationpaperiimd_13-law-and-order-administration",
+        "title": "13. Law and Order Administration",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_13-law-and-order-administration_police-administration",
+            "title": "Police Administration",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_13-law-and-order-administration_police-administration_organization-of-police",
+                "title": "Organization of police",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_13-law-and-order-administration_police-administration_role-in-law-and-order",
+                "title": "Role in law and order",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_13-law-and-order-administration_police-administration_police-reforms",
+                "title": "Police reforms",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_13-law-and-order-administration_criminal-justice-system",
+            "title": "Criminal Justice System",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_13-law-and-order-administration_criminal-justice-system_investigation",
+                "title": "Investigation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_13-law-and-order-administration_criminal-justice-system_prosecution",
+                "title": "Prosecution",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_13-law-and-order-administration_criminal-justice-system_judiciary",
+                "title": "Judiciary",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_13-law-and-order-administration_criminal-justice-system_prison-administration",
+                "title": "Prison administration",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpublicadministrationpaperiimd_14-welfare-administration",
+        "title": "14. Welfare Administration",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_14-welfare-administration_social-welfare",
+            "title": "Social Welfare",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_14-welfare-administration_social-welfare_welfare-schemes",
+                "title": "Welfare schemes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_14-welfare-administration_social-welfare_targeted-delivery",
+                "title": "Targeted delivery",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_14-welfare-administration_health-administration",
+            "title": "Health Administration",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_14-welfare-administration_health-administration_public-health-system",
+                "title": "Public health system",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_14-welfare-administration_health-administration_health-governance",
+                "title": "Health governance",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_14-welfare-administration_education-administration",
+            "title": "Education Administration",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_14-welfare-administration_education-administration_school-education",
+                "title": "School education",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_14-welfare-administration_education-administration_higher-education-governance",
+                "title": "Higher education governance",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpublicadministrationpaperiimd_15-regulatory-administration",
+        "title": "15. Regulatory Administration",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_15-regulatory-administration_regulatory-bodies",
+            "title": "Regulatory Bodies",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_15-regulatory-administration_regulatory-bodies_independent-regulators",
+                "title": "Independent regulators",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_15-regulatory-administration_regulatory-bodies_sectoral-regulators",
+                "title": "Sectoral regulators",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_15-regulatory-administration_governance-issues",
+            "title": "Governance Issues",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_15-regulatory-administration_governance-issues_autonomy",
+                "title": "Autonomy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_15-regulatory-administration_governance-issues_accountability",
+                "title": "Accountability",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpublicadministrationpaperiimd_16-e-governance-and-digital-administration",
+        "title": "16. E-Governance and Digital Administration",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_16-e-governance-and-digital-administration_digital-governance",
+            "title": "Digital Governance",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_16-e-governance-and-digital-administration_digital-governance_e-governance-initiatives",
+                "title": "E-governance initiatives",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_16-e-governance-and-digital-administration_digital-governance_digital-service-delivery",
+                "title": "Digital service delivery",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_16-e-governance-and-digital-administration_challenges",
+            "title": "Challenges",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_16-e-governance-and-digital-administration_challenges_digital-divide",
+                "title": "Digital divide",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_16-e-governance-and-digital-administration_challenges_cyber-security",
+                "title": "Cyber security",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_16-e-governance-and-digital-administration_challenges_capacity-issues",
+                "title": "Capacity issues",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpublicadministrationpaperiimd_17-public-policy-and-administration",
+        "title": "17. Public Policy and Administration",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_17-public-policy-and-administration_policy-making",
+            "title": "Policy Making",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_17-public-policy-and-administration_policy-making_evidence-based-policy",
+                "title": "Evidence-based policy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_17-public-policy-and-administration_policy-making_stakeholder-participation",
+                "title": "Stakeholder participation",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_17-public-policy-and-administration_implementation",
+            "title": "Implementation",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_17-public-policy-and-administration_implementation_bureaucratic-coordination",
+                "title": "Bureaucratic coordination",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_17-public-policy-and-administration_implementation_inter-agency-cooperation",
+                "title": "Inter-agency cooperation",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_17-public-policy-and-administration_evaluation",
+            "title": "Evaluation",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_17-public-policy-and-administration_evaluation_outcome-assessment",
+                "title": "Outcome assessment",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_17-public-policy-and-administration_evaluation_feedback-mechanisms",
+                "title": "Feedback mechanisms",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpublicadministrationpaperiimd_18-ethics-in-indian-administration",
+        "title": "18. Ethics in Indian Administration",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_18-ethics-in-indian-administration_ethical-issues",
+            "title": "Ethical Issues",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_18-ethics-in-indian-administration_ethical-issues_corruption",
+                "title": "Corruption",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_18-ethics-in-indian-administration_ethical-issues_conflict-of-interest",
+                "title": "Conflict of interest",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_18-ethics-in-indian-administration_integrity-mechanisms",
+            "title": "Integrity Mechanisms",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_18-ethics-in-indian-administration_integrity-mechanisms_codes-of-conduct",
+                "title": "Codes of conduct",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_18-ethics-in-indian-administration_integrity-mechanisms_vigilance-bodies",
+                "title": "Vigilance bodies",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_18-ethics-in-indian-administration_transparency",
+            "title": "Transparency",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_18-ethics-in-indian-administration_transparency_right-to-information",
+                "title": "Right to Information",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_18-ethics-in-indian-administration_transparency_citizen-charters",
+                "title": "Citizen charters",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpublicadministrationpaperiimd_19-challenges-of-indian-administration",
+        "title": "19. Challenges of Indian Administration",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_19-challenges-of-indian-administration_structural-challenges",
+            "title": "Structural Challenges",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_19-challenges-of-indian-administration_structural-challenges_centralization",
+                "title": "Centralization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_19-challenges-of-indian-administration_structural-challenges_fragmentation",
+                "title": "Fragmentation",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_19-challenges-of-indian-administration_functional-challenges",
+            "title": "Functional Challenges",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_19-challenges-of-indian-administration_functional-challenges_capacity-constraints",
+                "title": "Capacity constraints",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_19-challenges-of-indian-administration_functional-challenges_service-delivery-gaps",
+                "title": "Service delivery gaps",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperiimd_19-challenges-of-indian-administration_contemporary-issues",
+            "title": "Contemporary Issues",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_19-challenges-of-indian-administration_contemporary-issues_globalization",
+                "title": "Globalization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_19-challenges-of-indian-administration_contemporary-issues_climate-governance",
+                "title": "Climate governance",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperiimd_19-challenges-of-indian-administration_contemporary-issues_crisis-management",
+                "title": "Crisis management",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

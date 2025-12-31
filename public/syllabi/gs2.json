@@ -1,0 +1,1434 @@
+[
+  {
+    "id": "root_upsccsegspaperiidetailedmd",
+    "title": "UPSC_CSE_GS_PAPER_II_DETAILED.md",
+    "type": "branch",
+    "children": []
+  },
+  {
+    "id": "root_governance-constitution-polity-social-justice-international-relations",
+    "title": "Governance, Constitution, Polity, Social Justice & International Relations",
+    "type": "branch",
+    "children": [
+      {
+        "id": "root_governance-constitution-polity-social-justice-international-relations_1-indian-constitution-historical-background-features-amendments",
+        "title": "1. Indian Constitution: Historical Background, Features, Amendments",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_1-indian-constitution-historical-background-features-amendments_historical-background",
+            "title": "Historical Background",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_1-indian-constitution-historical-background-features-amendments_historical-background_company-rule-and-early-administration",
+                "title": "Company rule and early administration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_1-indian-constitution-historical-background-features-amendments_historical-background_regulating-act-of-1773",
+                "title": "Regulating Act of 1773",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_1-indian-constitution-historical-background-features-amendments_historical-background_pitts-india-act-of-1784",
+                "title": "Pitt\u2019s India Act of 1784",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_1-indian-constitution-historical-background-features-amendments_historical-background_charter-acts-1813-1833-1853",
+                "title": "Charter Acts (1813, 1833, 1853)",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_1-indian-constitution-historical-background-features-amendments_historical-background_government-of-india-act-1858",
+                "title": "Government of India Act 1858",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_1-indian-constitution-historical-background-features-amendments_historical-background_indian-councils-acts-1861-1892-1909",
+                "title": "Indian Councils Acts (1861, 1892, 1909)",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_1-indian-constitution-historical-background-features-amendments_historical-background_government-of-india-act-1919",
+                "title": "Government of India Act 1919",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_1-indian-constitution-historical-background-features-amendments_historical-background_government-of-india-act-1935",
+                "title": "Government of India Act 1935",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_1-indian-constitution-historical-background-features-amendments_historical-background_indian-independence-act-1947",
+                "title": "Indian Independence Act 1947",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_1-indian-constitution-historical-background-features-amendments_making-of-the-constitution",
+            "title": "Making of the Constitution",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_1-indian-constitution-historical-background-features-amendments_making-of-the-constitution_constituent-assembly-formation",
+                "title": "Constituent Assembly formation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_1-indian-constitution-historical-background-features-amendments_making-of-the-constitution_composition-of-the-constituent-assembly",
+                "title": "Composition of the Constituent Assembly",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_1-indian-constitution-historical-background-features-amendments_making-of-the-constitution_committees-of-the-constituent-assembly",
+                "title": "Committees of the Constituent Assembly",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_1-indian-constitution-historical-background-features-amendments_making-of-the-constitution_drafting-committee",
+                "title": "Drafting Committee",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_1-indian-constitution-historical-background-features-amendments_making-of-the-constitution_sources-of-the-constitution",
+                "title": "Sources of the Constitution",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_1-indian-constitution-historical-background-features-amendments_making-of-the-constitution_philosophy-and-objectives",
+                "title": "Philosophy and objectives",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_1-indian-constitution-historical-background-features-amendments_salient-features",
+            "title": "Salient Features",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_1-indian-constitution-historical-background-features-amendments_salient-features_written-constitution",
+                "title": "Written constitution",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_1-indian-constitution-historical-background-features-amendments_salient-features_length-and-detail",
+                "title": "Length and detail",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_1-indian-constitution-historical-background-features-amendments_salient-features_federal-system-with-unitary-bias",
+                "title": "Federal system with unitary bias",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_1-indian-constitution-historical-background-features-amendments_salient-features_parliamentary-form-of-government",
+                "title": "Parliamentary form of government",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_1-indian-constitution-historical-background-features-amendments_salient-features_separation-of-powers",
+                "title": "Separation of powers",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_1-indian-constitution-historical-background-features-amendments_salient-features_judicial-review",
+                "title": "Judicial review",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_1-indian-constitution-historical-background-features-amendments_salient-features_fundamental-rights",
+                "title": "Fundamental rights",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_1-indian-constitution-historical-background-features-amendments_salient-features_directive-principles",
+                "title": "Directive principles",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_1-indian-constitution-historical-background-features-amendments_salient-features_independent-judiciary",
+                "title": "Independent judiciary",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_1-indian-constitution-historical-background-features-amendments_amendments",
+            "title": "Amendments",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_1-indian-constitution-historical-background-features-amendments_amendments_amendment-procedure",
+                "title": "Amendment procedure",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_1-indian-constitution-historical-background-features-amendments_amendments_types-of-amendments",
+                "title": "Types of amendments",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_1-indian-constitution-historical-background-features-amendments_amendments_significant-constitutional-amendments",
+                "title": "Significant constitutional amendments",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_1-indian-constitution-historical-background-features-amendments_amendments_basic-structure-doctrine",
+                "title": "Basic structure doctrine",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_governance-constitution-polity-social-justice-international-relations_2-functions-and-responsibilities-of-the-union-and-the-states",
+        "title": "2. Functions and Responsibilities of the Union and the States",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_2-functions-and-responsibilities-of-the-union-and-the-states_federal-structure",
+            "title": "Federal Structure",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_2-functions-and-responsibilities-of-the-union-and-the-states_federal-structure_division-of-powers",
+                "title": "Division of powers",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_2-functions-and-responsibilities-of-the-union-and-the-states_federal-structure_union-list",
+                "title": "Union list",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_2-functions-and-responsibilities-of-the-union-and-the-states_federal-structure_state-list",
+                "title": "State list",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_2-functions-and-responsibilities-of-the-union-and-the-states_federal-structure_concurrent-list",
+                "title": "Concurrent list",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_2-functions-and-responsibilities-of-the-union-and-the-states_federal-structure_residuary-powers",
+                "title": "Residuary powers",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_2-functions-and-responsibilities-of-the-union-and-the-states_centrestate-relations",
+            "title": "Centre\u2013State Relations",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_2-functions-and-responsibilities-of-the-union-and-the-states_centrestate-relations_legislative-relations",
+                "title": "Legislative relations",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_2-functions-and-responsibilities-of-the-union-and-the-states_centrestate-relations_administrative-relations",
+                "title": "Administrative relations",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_2-functions-and-responsibilities-of-the-union-and-the-states_centrestate-relations_financial-relations",
+                "title": "Financial relations",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_2-functions-and-responsibilities-of-the-union-and-the-states_inter-state-relations",
+            "title": "Inter-State Relations",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_2-functions-and-responsibilities-of-the-union-and-the-states_inter-state-relations_inter-state-council",
+                "title": "Inter-State Council",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_2-functions-and-responsibilities-of-the-union-and-the-states_inter-state-relations_river-water-disputes",
+                "title": "River water disputes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_2-functions-and-responsibilities-of-the-union-and-the-states_inter-state-relations_inter-state-trade-and-commerce",
+                "title": "Inter-state trade and commerce",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_governance-constitution-polity-social-justice-international-relations_3-separation-of-powers-and-institutions",
+        "title": "3. Separation of Powers and Institutions",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_3-separation-of-powers-and-institutions_legislature",
+            "title": "Legislature",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_3-separation-of-powers-and-institutions_legislature_parliament",
+                "title": "Parliament",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_3-separation-of-powers-and-institutions_legislature_lok-sabha",
+                "title": "Lok Sabha",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_3-separation-of-powers-and-institutions_legislature_rajya-sabha",
+                "title": "Rajya Sabha",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_3-separation-of-powers-and-institutions_legislature_law-making-process",
+                "title": "Law-making process",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_3-separation-of-powers-and-institutions_legislature_parliamentary-privileges",
+                "title": "Parliamentary privileges",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_3-separation-of-powers-and-institutions_legislature_parliamentary-committees",
+                "title": "Parliamentary committees",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_3-separation-of-powers-and-institutions_executive",
+            "title": "Executive",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_3-separation-of-powers-and-institutions_executive_president",
+                "title": "President",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_3-separation-of-powers-and-institutions_executive_vice-president",
+                "title": "Vice-President",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_3-separation-of-powers-and-institutions_executive_prime-minister",
+                "title": "Prime Minister",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_3-separation-of-powers-and-institutions_executive_council-of-ministers",
+                "title": "Council of Ministers",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_3-separation-of-powers-and-institutions_executive_cabinet-system",
+                "title": "Cabinet system",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_3-separation-of-powers-and-institutions_judiciary",
+            "title": "Judiciary",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_3-separation-of-powers-and-institutions_judiciary_supreme-court",
+                "title": "Supreme Court",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_3-separation-of-powers-and-institutions_judiciary_high-courts",
+                "title": "High Courts",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_3-separation-of-powers-and-institutions_judiciary_subordinate-courts",
+                "title": "Subordinate courts",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_3-separation-of-powers-and-institutions_judiciary_judicial-review",
+                "title": "Judicial review",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_3-separation-of-powers-and-institutions_judiciary_judicial-activism",
+                "title": "Judicial activism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_3-separation-of-powers-and-institutions_judiciary_judicial-accountability",
+                "title": "Judicial accountability",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_governance-constitution-polity-social-justice-international-relations_4-comparison-of-constitutional-schemes",
+        "title": "4. Comparison of Constitutional Schemes",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_4-comparison-of-constitutional-schemes_india-and-other-countries",
+            "title": "India and Other Countries",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_4-comparison-of-constitutional-schemes_india-and-other-countries_indian-constitution-and-british-constitution",
+                "title": "Indian Constitution and British Constitution",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_4-comparison-of-constitutional-schemes_india-and-other-countries_indian-constitution-and-us-constitution",
+                "title": "Indian Constitution and US Constitution",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_4-comparison-of-constitutional-schemes_india-and-other-countries_indian-constitution-and-other-democracies",
+                "title": "Indian Constitution and other democracies",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_governance-constitution-polity-social-justice-international-relations_5-government-policies-and-interventions",
+        "title": "5. Government Policies and Interventions",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_5-government-policies-and-interventions_policy-formulation",
+            "title": "Policy Formulation",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_5-government-policies-and-interventions_policy-formulation_role-of-executive",
+                "title": "Role of executive",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_5-government-policies-and-interventions_policy-formulation_role-of-legislature",
+                "title": "Role of legislature",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_5-government-policies-and-interventions_policy-formulation_role-of-bureaucracy",
+                "title": "Role of bureaucracy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_5-government-policies-and-interventions_policy-formulation_role-of-experts-and-committees",
+                "title": "Role of experts and committees",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_5-government-policies-and-interventions_policy-implementation",
+            "title": "Policy Implementation",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_5-government-policies-and-interventions_policy-implementation_administrative-machinery",
+                "title": "Administrative machinery",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_5-government-policies-and-interventions_policy-implementation_centrestate-coordination",
+                "title": "Centre\u2013State coordination",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_5-government-policies-and-interventions_policy-implementation_monitoring-and-evaluation",
+                "title": "Monitoring and evaluation",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_5-government-policies-and-interventions_development-programs",
+            "title": "Development Programs",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_5-government-policies-and-interventions_development-programs_poverty-alleviation-programs",
+                "title": "Poverty alleviation programs",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_5-government-policies-and-interventions_development-programs_employment-generation-programs",
+                "title": "Employment generation programs",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_5-government-policies-and-interventions_development-programs_food-security-programs",
+                "title": "Food security programs",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_5-government-policies-and-interventions_development-programs_health-programs",
+                "title": "Health programs",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_5-government-policies-and-interventions_development-programs_education-programs",
+                "title": "Education programs",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_governance-constitution-polity-social-justice-international-relations_6-governance",
+        "title": "6. Governance",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_6-governance_good-governance",
+            "title": "Good Governance",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_6-governance_good-governance_concept-of-good-governance",
+                "title": "Concept of good governance",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_6-governance_good-governance_transparency",
+                "title": "Transparency",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_6-governance_good-governance_accountability",
+                "title": "Accountability",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_6-governance_good-governance_responsiveness",
+                "title": "Responsiveness",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_6-governance_good-governance_participation",
+                "title": "Participation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_6-governance_good-governance_rule-of-law",
+                "title": "Rule of law",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_6-governance_e-governance",
+            "title": "E-Governance",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_6-governance_e-governance_digital-governance",
+                "title": "Digital governance",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_6-governance_e-governance_online-service-delivery",
+                "title": "Online service delivery",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_6-governance_e-governance_digital-inclusion",
+                "title": "Digital inclusion",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_6-governance_e-governance_challenges-of-e-governance",
+                "title": "Challenges of e-governance",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_6-governance_role-of-civil-services",
+            "title": "Role of Civil Services",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_6-governance_role-of-civil-services_policy-advice",
+                "title": "Policy advice",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_6-governance_role-of-civil-services_implementation",
+                "title": "Implementation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_6-governance_role-of-civil-services_service-delivery",
+                "title": "Service delivery",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_6-governance_role-of-civil-services_ethical-governance",
+                "title": "Ethical governance",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_governance-constitution-polity-social-justice-international-relations_7-role-of-ngos-shgs-and-civil-society",
+        "title": "7. Role of NGOs, SHGs and Civil Society",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_7-role-of-ngos-shgs-and-civil-society_ngos",
+            "title": "NGOs",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_7-role-of-ngos-shgs-and-civil-society_ngos_role-in-development",
+                "title": "Role in development",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_7-role-of-ngos-shgs-and-civil-society_ngos_service-delivery",
+                "title": "Service delivery",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_7-role-of-ngos-shgs-and-civil-society_ngos_advocacy",
+                "title": "Advocacy",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_7-role-of-ngos-shgs-and-civil-society_self-help-groups",
+            "title": "Self-Help Groups",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_7-role-of-ngos-shgs-and-civil-society_self-help-groups_financial-inclusion",
+                "title": "Financial inclusion",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_7-role-of-ngos-shgs-and-civil-society_self-help-groups_women-empowerment",
+                "title": "Women empowerment",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_7-role-of-ngos-shgs-and-civil-society_self-help-groups_livelihood-support",
+                "title": "Livelihood support",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_7-role-of-ngos-shgs-and-civil-society_civil-society",
+            "title": "Civil Society",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_7-role-of-ngos-shgs-and-civil-society_civil-society_pressure-groups",
+                "title": "Pressure groups",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_7-role-of-ngos-shgs-and-civil-society_civil-society_social-movements",
+                "title": "Social movements",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_7-role-of-ngos-shgs-and-civil-society_civil-society_public-opinion",
+                "title": "Public opinion",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_governance-constitution-polity-social-justice-international-relations_8-social-justice",
+        "title": "8. Social Justice",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_8-social-justice_welfare-schemes",
+            "title": "Welfare Schemes",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_8-social-justice_welfare-schemes_schemes-for-vulnerable-sections",
+                "title": "Schemes for vulnerable sections",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_8-social-justice_welfare-schemes_schemes-for-women",
+                "title": "Schemes for women",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_8-social-justice_welfare-schemes_schemes-for-children",
+                "title": "Schemes for children",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_8-social-justice_welfare-schemes_schemes-for-elderly",
+                "title": "Schemes for elderly",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_8-social-justice_welfare-schemes_schemes-for-disabled",
+                "title": "Schemes for disabled",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_8-social-justice_issues-relating-to-poverty-and-hunger",
+            "title": "Issues Relating to Poverty and Hunger",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_8-social-justice_issues-relating-to-poverty-and-hunger_poverty-measurement",
+                "title": "Poverty measurement",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_8-social-justice_issues-relating-to-poverty-and-hunger_food-security",
+                "title": "Food security",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_8-social-justice_issues-relating-to-poverty-and-hunger_nutrition-challenges",
+                "title": "Nutrition challenges",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_8-social-justice_health",
+            "title": "Health",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_8-social-justice_health_public-health-system",
+                "title": "Public health system",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_8-social-justice_health_healthcare-access",
+                "title": "Healthcare access",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_8-social-justice_health_health-financing",
+                "title": "Health financing",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_8-social-justice_health_preventive-and-curative-care",
+                "title": "Preventive and curative care",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_8-social-justice_education",
+            "title": "Education",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_8-social-justice_education_universal-education",
+                "title": "Universal education",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_8-social-justice_education_quality-of-education",
+                "title": "Quality of education",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_8-social-justice_education_higher-education-issues",
+                "title": "Higher education issues",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_8-social-justice_education_skill-development",
+                "title": "Skill development",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_governance-constitution-polity-social-justice-international-relations_9-issues-relating-to-vulnerable-sections",
+        "title": "9. Issues Relating to Vulnerable Sections",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_9-issues-relating-to-vulnerable-sections_women",
+            "title": "Women",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_9-issues-relating-to-vulnerable-sections_women_gender-inequality",
+                "title": "Gender inequality",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_9-issues-relating-to-vulnerable-sections_women_women-safety",
+                "title": "Women safety",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_9-issues-relating-to-vulnerable-sections_women_women-empowerment",
+                "title": "Women empowerment",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_9-issues-relating-to-vulnerable-sections_children",
+            "title": "Children",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_9-issues-relating-to-vulnerable-sections_children_child-labour",
+                "title": "Child labour",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_9-issues-relating-to-vulnerable-sections_children_child-nutrition",
+                "title": "Child nutrition",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_9-issues-relating-to-vulnerable-sections_children_child-protection",
+                "title": "Child protection",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_9-issues-relating-to-vulnerable-sections_elderly",
+            "title": "Elderly",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_9-issues-relating-to-vulnerable-sections_elderly_social-security",
+                "title": "Social security",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_9-issues-relating-to-vulnerable-sections_elderly_healthcare",
+                "title": "Healthcare",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_9-issues-relating-to-vulnerable-sections_elderly_ageing-population",
+                "title": "Ageing population",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_9-issues-relating-to-vulnerable-sections_disabled",
+            "title": "Disabled",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_9-issues-relating-to-vulnerable-sections_disabled_rights-of-persons-with-disabilities",
+                "title": "Rights of persons with disabilities",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_9-issues-relating-to-vulnerable-sections_disabled_inclusion",
+                "title": "Inclusion",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_9-issues-relating-to-vulnerable-sections_disabled_accessibility",
+                "title": "Accessibility",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_governance-constitution-polity-social-justice-international-relations_10-human-rights",
+        "title": "10. Human Rights",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_10-human-rights_human-rights-framework",
+            "title": "Human Rights Framework",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_10-human-rights_human-rights-framework_concept-of-human-rights",
+                "title": "Concept of human rights",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_10-human-rights_human-rights-framework_international-human-rights-instruments",
+                "title": "International human rights instruments",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_10-human-rights_human-rights-framework_national-human-rights-institutions",
+                "title": "National human rights institutions",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_10-human-rights_issues",
+            "title": "Issues",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_10-human-rights_issues_human-rights-violations",
+                "title": "Human rights violations",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_10-human-rights_issues_rights-of-minorities",
+                "title": "Rights of minorities",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_10-human-rights_issues_rights-of-marginalized-groups",
+                "title": "Rights of marginalized groups",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_governance-constitution-polity-social-justice-international-relations_11-india-and-its-neighbourhood-relations",
+        "title": "11. India and Its Neighbourhood Relations",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_11-india-and-its-neighbourhood-relations_south-asia",
+            "title": "South Asia",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_11-india-and-its-neighbourhood-relations_south-asia_indiapakistan-relations",
+                "title": "India\u2013Pakistan relations",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_11-india-and-its-neighbourhood-relations_south-asia_indiachina-relations",
+                "title": "India\u2013China relations",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_11-india-and-its-neighbourhood-relations_south-asia_indianepal-relations",
+                "title": "India\u2013Nepal relations",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_11-india-and-its-neighbourhood-relations_south-asia_indiabangladesh-relations",
+                "title": "India\u2013Bangladesh relations",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_11-india-and-its-neighbourhood-relations_south-asia_indiasri-lanka-relations",
+                "title": "India\u2013Sri Lanka relations",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_11-india-and-its-neighbourhood-relations_south-asia_indiabhutan-relations",
+                "title": "India\u2013Bhutan relations",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_11-india-and-its-neighbourhood-relations_south-asia_indiamyanmar-relations",
+                "title": "India\u2013Myanmar relations",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_11-india-and-its-neighbourhood-relations_south-asia_indiaafghanistan-relations",
+                "title": "India\u2013Afghanistan relations",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_11-india-and-its-neighbourhood-relations_regional-groupings",
+            "title": "Regional Groupings",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_11-india-and-its-neighbourhood-relations_regional-groupings_saarc",
+                "title": "SAARC",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_11-india-and-its-neighbourhood-relations_regional-groupings_bimstec",
+                "title": "BIMSTEC",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_governance-constitution-polity-social-justice-international-relations_12-international-relations",
+        "title": "12. International Relations",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_12-international-relations_global-groupings",
+            "title": "Global Groupings",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_12-international-relations_global-groupings_united-nations",
+                "title": "United Nations",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_12-international-relations_global-groupings_g20",
+                "title": "G20",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_12-international-relations_global-groupings_brics",
+                "title": "BRICS",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_12-international-relations_global-groupings_sco",
+                "title": "SCO",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_12-international-relations_global-groupings_asean",
+                "title": "ASEAN",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_12-international-relations_global-groupings_quad",
+                "title": "QUAD",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_12-international-relations_india-and-major-powers",
+            "title": "India and Major Powers",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_12-international-relations_india-and-major-powers_indiausa-relations",
+                "title": "India\u2013USA relations",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_12-international-relations_india-and-major-powers_indiarussia-relations",
+                "title": "India\u2013Russia relations",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_12-international-relations_india-and-major-powers_indiachina-relations",
+                "title": "India\u2013China relations",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_12-international-relations_india-and-major-powers_indiaeu-relations",
+                "title": "India\u2013EU relations",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_12-international-relations_india-and-major-powers_indiajapan-relations",
+                "title": "India\u2013Japan relations",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_governance-constitution-polity-social-justice-international-relations_13-international-institutions",
+        "title": "13. International Institutions",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_13-international-institutions_united-nations-system",
+            "title": "United Nations System",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_13-international-institutions_united-nations-system_general-assembly",
+                "title": "General Assembly",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_13-international-institutions_united-nations-system_security-council",
+                "title": "Security Council",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_13-international-institutions_united-nations-system_ecosoc",
+                "title": "ECOSOC",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_13-international-institutions_united-nations-system_icj",
+                "title": "ICJ",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_13-international-institutions_financial-institutions",
+            "title": "Financial Institutions",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_13-international-institutions_financial-institutions_imf",
+                "title": "IMF",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_13-international-institutions_financial-institutions_world-bank",
+                "title": "World Bank",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_13-international-institutions_financial-institutions_wto",
+                "title": "WTO",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_governance-constitution-polity-social-justice-international-relations_14-global-issues",
+        "title": "14. Global Issues",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_14-global-issues_globalization",
+            "title": "Globalization",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_14-global-issues_globalization_economic-globalization",
+                "title": "Economic globalization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_14-global-issues_globalization_political-globalization",
+                "title": "Political globalization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_14-global-issues_globalization_cultural-globalization",
+                "title": "Cultural globalization",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_14-global-issues_climate-change",
+            "title": "Climate Change",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_14-global-issues_climate-change_global-climate-negotiations",
+                "title": "Global climate negotiations",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_14-global-issues_climate-change_indias-commitments",
+                "title": "India\u2019s commitments",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_14-global-issues_security-issues",
+            "title": "Security Issues",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_14-global-issues_security-issues_terrorism",
+                "title": "Terrorism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_14-global-issues_security-issues_cyber-security",
+                "title": "Cyber security",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_14-global-issues_security-issues_maritime-security",
+                "title": "Maritime security",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_governance-constitution-polity-social-justice-international-relations_15-contemporary-challenges",
+        "title": "15. Contemporary Challenges",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_15-contemporary-challenges_democratic-governance",
+            "title": "Democratic Governance",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_15-contemporary-challenges_democratic-governance_institutional-decline",
+                "title": "Institutional decline",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_15-contemporary-challenges_democratic-governance_accountability-deficit",
+                "title": "Accountability deficit",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_15-contemporary-challenges_federal-challenges",
+            "title": "Federal Challenges",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_15-contemporary-challenges_federal-challenges_centrestate-tensions",
+                "title": "Centre\u2013State tensions",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_15-contemporary-challenges_federal-challenges_fiscal-federalism",
+                "title": "Fiscal federalism",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_governance-constitution-polity-social-justice-international-relations_15-contemporary-challenges_policy-challenges",
+            "title": "Policy Challenges",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_15-contemporary-challenges_policy-challenges_implementation-gaps",
+                "title": "Implementation gaps",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_governance-constitution-polity-social-justice-international-relations_15-contemporary-challenges_policy-challenges_capacity-constraints",
+                "title": "Capacity constraints",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

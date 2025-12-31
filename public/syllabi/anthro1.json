@@ -1,0 +1,2679 @@
+[
+  {
+    "id": "root_upsccseoptionalanthropologypaperimd",
+    "title": "UPSC_CSE_OPTIONAL_ANTHROPOLOGY_PAPER_I.md",
+    "type": "branch",
+    "children": [
+      {
+        "id": "root_upsccseoptionalanthropologypaperimd_1-meaning-scope-and-development-of-anthropology",
+        "title": "1. Meaning, Scope and Development of Anthropology",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_1-meaning-scope-and-development-of-anthropology_definition-of-anthropology",
+            "title": "Definition of anthropology",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_1-meaning-scope-and-development-of-anthropology_holistic-nature-of-anthropology",
+            "title": "Holistic nature of anthropology",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_1-meaning-scope-and-development-of-anthropology_anthropology-as-a-bio-social-science",
+            "title": "Anthropology as a bio-social science",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_1-meaning-scope-and-development-of-anthropology_growth-of-anthropology-as-a-discipline",
+            "title": "Growth of anthropology as a discipline",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_1-meaning-scope-and-development-of-anthropology_applied-vs-theoretical-anthropology",
+            "title": "Applied vs theoretical anthropology",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_1-meaning-scope-and-development-of-anthropology_relevance-of-anthropology-in-modern-society",
+            "title": "Relevance of anthropology in modern society",
+            "type": "leaf",
+            "status": "locked"
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperimd_2-relationship-of-anthropology-with-other-disciplines",
+        "title": "2. Relationship of Anthropology with Other Disciplines",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_2-relationship-of-anthropology-with-other-disciplines_social-sciences",
+            "title": "Social Sciences",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_2-relationship-of-anthropology-with-other-disciplines_social-sciences_anthropology-and-sociology",
+                "title": "Anthropology and Sociology",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_2-relationship-of-anthropology-with-other-disciplines_social-sciences_anthropology-and-economics",
+                "title": "Anthropology and Economics",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_2-relationship-of-anthropology-with-other-disciplines_social-sciences_anthropology-and-political-science",
+                "title": "Anthropology and Political Science",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_2-relationship-of-anthropology-with-other-disciplines_social-sciences_anthropology-and-history",
+                "title": "Anthropology and History",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_2-relationship-of-anthropology-with-other-disciplines_behavioural-sciences",
+            "title": "Behavioural Sciences",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_2-relationship-of-anthropology-with-other-disciplines_behavioural-sciences_anthropology-and-psychology",
+                "title": "Anthropology and Psychology",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_2-relationship-of-anthropology-with-other-disciplines_behavioural-sciences_anthropology-and-social-psychology",
+                "title": "Anthropology and Social Psychology",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_2-relationship-of-anthropology-with-other-disciplines_life-sciences",
+            "title": "Life Sciences",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_2-relationship-of-anthropology-with-other-disciplines_life-sciences_anthropology-and-biology",
+                "title": "Anthropology and Biology",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_2-relationship-of-anthropology-with-other-disciplines_life-sciences_anthropology-and-genetics",
+                "title": "Anthropology and Genetics",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_2-relationship-of-anthropology-with-other-disciplines_life-sciences_anthropology-and-evolutionary-biology",
+                "title": "Anthropology and Evolutionary biology",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_2-relationship-of-anthropology-with-other-disciplines_medical-sciences",
+            "title": "Medical Sciences",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_2-relationship-of-anthropology-with-other-disciplines_medical-sciences_medical-anthropology",
+                "title": "Medical anthropology",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_2-relationship-of-anthropology-with-other-disciplines_medical-sciences_anthropology-and-public-health",
+                "title": "Anthropology and public health",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_2-relationship-of-anthropology-with-other-disciplines_earth-sciences",
+            "title": "Earth Sciences",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_2-relationship-of-anthropology-with-other-disciplines_earth-sciences_anthropology-and-geology",
+                "title": "Anthropology and geology",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_2-relationship-of-anthropology-with-other-disciplines_earth-sciences_anthropology-and-paleontology",
+                "title": "Anthropology and paleontology",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_2-relationship-of-anthropology-with-other-disciplines_humanities",
+            "title": "Humanities",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_2-relationship-of-anthropology-with-other-disciplines_humanities_anthropology-and-philosophy",
+                "title": "Anthropology and philosophy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_2-relationship-of-anthropology-with-other-disciplines_humanities_anthropology-and-linguistics",
+                "title": "Anthropology and linguistics",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperimd_3-branches-of-anthropology",
+        "title": "3. Branches of Anthropology",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_3-branches-of-anthropology_social-cultural-anthropology",
+            "title": "Social-Cultural Anthropology",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_3-branches-of-anthropology_social-cultural-anthropology_study-of-culture-and-society",
+                "title": "Study of culture and society",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_3-branches-of-anthropology_social-cultural-anthropology_social-institutions",
+                "title": "Social institutions",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_3-branches-of-anthropology_social-cultural-anthropology_cultural-patterns",
+                "title": "Cultural patterns",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_3-branches-of-anthropology_social-cultural-anthropology_social-change",
+                "title": "Social change",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_3-branches-of-anthropology_biological-physical-anthropology",
+            "title": "Biological (Physical) Anthropology",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_3-branches-of-anthropology_biological-physical-anthropology_human-evolution",
+                "title": "Human evolution",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_3-branches-of-anthropology_biological-physical-anthropology_human-variation",
+                "title": "Human variation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_3-branches-of-anthropology_biological-physical-anthropology_genetics-and-adaptation",
+                "title": "Genetics and adaptation",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_3-branches-of-anthropology_archaeological-anthropology",
+            "title": "Archaeological Anthropology",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_3-branches-of-anthropology_archaeological-anthropology_prehistoric-cultures",
+                "title": "Prehistoric cultures",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_3-branches-of-anthropology_archaeological-anthropology_material-remains",
+                "title": "Material remains",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_3-branches-of-anthropology_archaeological-anthropology_cultural-evolution",
+                "title": "Cultural evolution",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_3-branches-of-anthropology_linguistic-anthropology",
+            "title": "Linguistic Anthropology",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_3-branches-of-anthropology_linguistic-anthropology_language-and-culture",
+                "title": "Language and culture",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_3-branches-of-anthropology_linguistic-anthropology_communication-systems",
+                "title": "Communication systems",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperimd_4-human-evolution",
+        "title": "4. Human Evolution",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_4-human-evolution_factors-in-human-evolution",
+            "title": "Factors in Human Evolution",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_4-human-evolution_factors-in-human-evolution_biological-factors",
+                "title": "Biological factors",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_4-human-evolution_factors-in-human-evolution_cultural-factors",
+                "title": "Cultural factors",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_4-human-evolution_theories-of-evolution",
+            "title": "Theories of Evolution",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_4-human-evolution_theories-of-evolution_pre-darwinian-theories",
+                "title": "Pre-Darwinian theories",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_4-human-evolution_theories-of-evolution_darwinian-theory",
+                "title": "Darwinian theory",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_4-human-evolution_theories-of-evolution_post-darwinian-developments",
+                "title": "Post-Darwinian developments",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_4-human-evolution_theories-of-evolution_synthetic-theory-of-evolution",
+                "title": "Synthetic theory of evolution",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_4-human-evolution_evolutionary-concepts",
+            "title": "Evolutionary Concepts",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_4-human-evolution_evolutionary-concepts_adaptive-radiation",
+                "title": "Adaptive radiation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_4-human-evolution_evolutionary-concepts_parallelism",
+                "title": "Parallelism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_4-human-evolution_evolutionary-concepts_convergence",
+                "title": "Convergence",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_4-human-evolution_evolutionary-concepts_mosaic-evolution",
+                "title": "Mosaic evolution",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_4-human-evolution_evolutionary-concepts_copes-rule",
+                "title": "Cope\u2019s rule",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_4-human-evolution_evolutionary-concepts_dolls-rule",
+                "title": "Doll\u2019s rule",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_4-human-evolution_evolutionary-concepts_gauses-rule",
+                "title": "Gause\u2019s rule",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperimd_5-primates",
+        "title": "5. Primates",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_5-primates_characteristics-of-primates",
+            "title": "Characteristics of Primates",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_5-primates_characteristics-of-primates_anatomical-features",
+                "title": "Anatomical features",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_5-primates_characteristics-of-primates_behavioral-traits",
+                "title": "Behavioral traits",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_5-primates_primate-adaptations",
+            "title": "Primate Adaptations",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_5-primates_primate-adaptations_arboreal-adaptations",
+                "title": "Arboreal adaptations",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_5-primates_primate-adaptations_terrestrial-adaptations",
+                "title": "Terrestrial adaptations",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_5-primates_primate-taxonomy",
+            "title": "Primate Taxonomy",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_5-primates_primate-taxonomy_prosimians",
+                "title": "Prosimians",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_5-primates_primate-taxonomy_anthropoids",
+                "title": "Anthropoids",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_5-primates_primate-behaviour",
+            "title": "Primate Behaviour",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_5-primates_primate-behaviour_social-organization",
+                "title": "Social organization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_5-primates_primate-behaviour_feeding-behaviour",
+                "title": "Feeding behaviour",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_5-primates_primate-behaviour_communication",
+                "title": "Communication",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_5-primates_fossil-primates",
+            "title": "Fossil Primates",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_5-primates_fossil-primates_tertiary-primates",
+                "title": "Tertiary primates",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_5-primates_fossil-primates_quaternary-primates",
+                "title": "Quaternary primates",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_5-primates_living-primates",
+            "title": "Living Primates",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_5-primates_living-primates_monkeys",
+                "title": "Monkeys",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_5-primates_living-primates_apes",
+                "title": "Apes",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_5-primates_comparative-anatomy",
+            "title": "Comparative Anatomy",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_5-primates_comparative-anatomy_humans-vs-apes",
+                "title": "Humans vs apes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_5-primates_comparative-anatomy_skeletal-differences-due-to-erect-posture",
+                "title": "Skeletal differences due to erect posture",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperimd_6-fossil-hominids",
+        "title": "6. Fossil Hominids",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_6-fossil-hominids_australopithecines",
+            "title": "Australopithecines",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_6-fossil-hominids_australopithecines_characteristics",
+                "title": "Characteristics",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_6-fossil-hominids_australopithecines_distribution",
+                "title": "Distribution",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_6-fossil-hominids_australopithecines_evolutionary-significance",
+                "title": "Evolutionary significance",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_6-fossil-hominids_homo-erectus",
+            "title": "Homo erectus",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_6-fossil-hominids_homo-erectus_african-forms",
+                "title": "African forms",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_6-fossil-hominids_homo-erectus_asian-forms-java-peking-man",
+                "title": "Asian forms (Java, Peking man)",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_6-fossil-hominids_homo-erectus_european-forms",
+                "title": "European forms",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_6-fossil-hominids_neanderthals",
+            "title": "Neanderthals",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_6-fossil-hominids_neanderthals_classical-neanderthals",
+                "title": "Classical Neanderthals",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_6-fossil-hominids_neanderthals_progressive-neanderthals",
+                "title": "Progressive Neanderthals",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_6-fossil-hominids_other-hominids",
+            "title": "Other Hominids",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_6-fossil-hominids_other-hominids_rhodesian-man",
+                "title": "Rhodesian man",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_6-fossil-hominids_other-hominids_homo-sapiens",
+                "title": "Homo sapiens",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_6-fossil-hominids_other-hominids_cro-magnon",
+                "title": "Cro-Magnon",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_6-fossil-hominids_other-hominids_grimaldi",
+                "title": "Grimaldi",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_6-fossil-hominids_other-hominids_chancelade",
+                "title": "Chancelade",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperimd_7-biological-basis-of-life",
+        "title": "7. Biological Basis of Life",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_7-biological-basis-of-life_cell-structure",
+            "title": "Cell structure",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_7-biological-basis-of-life_dna-structure",
+            "title": "DNA structure",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_7-biological-basis-of-life_dna-replication",
+            "title": "DNA replication",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_7-biological-basis-of-life_protein-synthesis",
+            "title": "Protein synthesis",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_7-biological-basis-of-life_gene-concept",
+            "title": "Gene concept",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_7-biological-basis-of-life_mutation",
+            "title": "Mutation",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_7-biological-basis-of-life_chromosomes",
+            "title": "Chromosomes",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_7-biological-basis-of-life_cell-division-mitosis-meiosis",
+            "title": "Cell division (mitosis, meiosis)",
+            "type": "leaf",
+            "status": "locked"
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperimd_8-prehistoric-archaeology",
+        "title": "8. Prehistoric Archaeology",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_8-prehistoric-archaeology_principles",
+            "title": "Principles",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_8-prehistoric-archaeology_principles_nature-of-prehistoric-archaeology",
+                "title": "Nature of prehistoric archaeology",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_8-prehistoric-archaeology_principles_methods-of-archaeological-study",
+                "title": "Methods of archaeological study",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_8-prehistoric-archaeology_dating-methods",
+            "title": "Dating Methods",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_8-prehistoric-archaeology_dating-methods_relative-dating",
+                "title": "Relative dating",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_8-prehistoric-archaeology_dating-methods_absolute-dating",
+                "title": "Absolute dating",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_8-prehistoric-archaeology_prehistoric-cultures",
+            "title": "Prehistoric Cultures",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_8-prehistoric-archaeology_prehistoric-cultures_paleolithic-culture",
+                "title": "Paleolithic culture",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_8-prehistoric-archaeology_prehistoric-cultures_mesolithic-culture",
+                "title": "Mesolithic culture",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_8-prehistoric-archaeology_prehistoric-cultures_neolithic-culture",
+                "title": "Neolithic culture",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_8-prehistoric-archaeology_prehistoric-cultures_chalcolithic-culture",
+                "title": "Chalcolithic culture",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_8-prehistoric-archaeology_prehistoric-cultures_copper-bronze-age",
+                "title": "Copper-Bronze Age",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_8-prehistoric-archaeology_prehistoric-cultures_iron-age",
+                "title": "Iron Age",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperimd_9-culture",
+        "title": "9. Culture",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_9-culture_nature-of-culture",
+            "title": "Nature of Culture",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_9-culture_nature-of-culture_concept-of-culture",
+                "title": "Concept of culture",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_9-culture_nature-of-culture_characteristics-of-culture",
+                "title": "Characteristics of culture",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_9-culture_nature-of-culture_culture-vs-civilization",
+                "title": "Culture vs civilization",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_9-culture_cultural-perspectives",
+            "title": "Cultural Perspectives",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_9-culture_cultural-perspectives_ethnocentrism",
+                "title": "Ethnocentrism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_9-culture_cultural-perspectives_cultural-relativism",
+                "title": "Cultural relativism",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperimd_10-society",
+        "title": "10. Society",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_10-society_nature-of-society",
+            "title": "Nature of Society",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_10-society_nature-of-society_concept-of-society",
+                "title": "Concept of society",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_10-society_nature-of-society_society-and-culture-relationship",
+                "title": "Society and culture relationship",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_10-society_social-institutions",
+            "title": "Social Institutions",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_10-society_social-institutions_family",
+                "title": "Family",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_10-society_social-institutions_marriage",
+                "title": "Marriage",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_10-society_social-institutions_kinship",
+                "title": "Kinship",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_10-society_social-institutions_religion",
+                "title": "Religion",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_10-society_social-institutions_economy",
+                "title": "Economy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_10-society_social-institutions_polity",
+                "title": "Polity",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_10-society_social-groups",
+            "title": "Social Groups",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_10-society_social-groups_primary-groups",
+                "title": "Primary groups",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_10-society_social-groups_secondary-groups",
+                "title": "Secondary groups",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_10-society_social-stratification",
+            "title": "Social Stratification",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_10-society_social-stratification_forms-of-stratification",
+                "title": "Forms of stratification",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_10-society_social-stratification_social-inequality",
+                "title": "Social inequality",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperimd_11-marriage",
+        "title": "11. Marriage",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_11-marriage_concept-of-marriage",
+            "title": "Concept of Marriage",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_11-marriage_concept-of-marriage_definition",
+                "title": "Definition",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_11-marriage_concept-of-marriage_universality-of-marriage",
+                "title": "Universality of marriage",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_11-marriage_laws-of-marriage",
+            "title": "Laws of Marriage",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_11-marriage_laws-of-marriage_endogamy",
+                "title": "Endogamy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_11-marriage_laws-of-marriage_exogamy",
+                "title": "Exogamy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_11-marriage_laws-of-marriage_hypergamy",
+                "title": "Hypergamy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_11-marriage_laws-of-marriage_hypogamy",
+                "title": "Hypogamy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_11-marriage_laws-of-marriage_incest-taboo",
+                "title": "Incest taboo",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_11-marriage_types-of-marriage",
+            "title": "Types of Marriage",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_11-marriage_types-of-marriage_monogamy",
+                "title": "Monogamy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_11-marriage_types-of-marriage_polygamy",
+                "title": "Polygamy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_11-marriage_types-of-marriage_polyandry",
+                "title": "Polyandry",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_11-marriage_types-of-marriage_group-marriage",
+                "title": "Group marriage",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_11-marriage_marriage-regulations",
+            "title": "Marriage Regulations",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_11-marriage_marriage-regulations_preferential-marriage",
+                "title": "Preferential marriage",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_11-marriage_marriage-regulations_prescriptive-marriage",
+                "title": "Prescriptive marriage",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_11-marriage_marriage-regulations_proscriptive-marriage",
+                "title": "Proscriptive marriage",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_11-marriage_marriage-payments",
+            "title": "Marriage Payments",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_11-marriage_marriage-payments_bride-price",
+                "title": "Bride price",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_11-marriage_marriage-payments_dowry",
+                "title": "Dowry",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperimd_12-family",
+        "title": "12. Family",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_12-family_concept-of-family",
+            "title": "Concept of Family",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_12-family_concept-of-family_definition",
+                "title": "Definition",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_12-family_concept-of-family_universality-of-family",
+                "title": "Universality of family",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_12-family_types-of-family",
+            "title": "Types of Family",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_12-family_types-of-family_nuclear-family",
+                "title": "Nuclear family",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_12-family_types-of-family_joint-family",
+                "title": "Joint family",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_12-family_types-of-family_extended-family",
+                "title": "Extended family",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_12-family_classification-of-family",
+            "title": "Classification of Family",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_12-family_classification-of-family_based-on-structure",
+                "title": "Based on structure",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_12-family_classification-of-family_based-on-marriage",
+                "title": "Based on marriage",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_12-family_classification-of-family_based-on-residence",
+                "title": "Based on residence",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_12-family_classification-of-family_based-on-descent",
+                "title": "Based on descent",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_12-family_functions-of-family",
+            "title": "Functions of Family",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_12-family_functions-of-family_biological",
+                "title": "Biological",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_12-family_functions-of-family_social",
+                "title": "Social",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_12-family_functions-of-family_economic",
+                "title": "Economic",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_12-family_functions-of-family_educational",
+                "title": "Educational",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_12-family_changing-family",
+            "title": "Changing Family",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_12-family_changing-family_impact-of-urbanization",
+                "title": "Impact of urbanization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_12-family_changing-family_impact-of-industrialization",
+                "title": "Impact of industrialization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_12-family_changing-family_impact-of-feminism",
+                "title": "Impact of feminism",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperimd_13-kinship",
+        "title": "13. Kinship",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_13-kinship_kinship-concepts",
+            "title": "Kinship Concepts",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_13-kinship_kinship-concepts_consanguinity",
+                "title": "Consanguinity",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_13-kinship_kinship-concepts_affinity",
+                "title": "Affinity",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_13-kinship_descent",
+            "title": "Descent",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_13-kinship_descent_unilineal-descent",
+                "title": "Unilineal descent",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_13-kinship_descent_bilateral-descent",
+                "title": "Bilateral descent",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_13-kinship_descent_double-descent",
+                "title": "Double descent",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_13-kinship_descent_ambilineal-descent",
+                "title": "Ambilineal descent",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_13-kinship_descent-groups",
+            "title": "Descent Groups",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_13-kinship_descent-groups_lineage",
+                "title": "Lineage",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_13-kinship_descent-groups_clan",
+                "title": "Clan",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_13-kinship_descent-groups_moiety",
+                "title": "Moiety",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_13-kinship_descent-groups_phratry",
+                "title": "Phratry",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_13-kinship_descent-groups_kindred",
+                "title": "Kindred",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_13-kinship_kinship-terminology",
+            "title": "Kinship Terminology",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_13-kinship_kinship-terminology_descriptive-terminology",
+                "title": "Descriptive terminology",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_13-kinship_kinship-terminology_classificatory-terminology",
+                "title": "Classificatory terminology",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_13-kinship_filiation",
+            "title": "Filiation",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_13-kinship_filiation_descent",
+                "title": "Descent",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_13-kinship_filiation_complimentary-filiation",
+                "title": "Complimentary filiation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_13-kinship_filiation_alliance-theory",
+                "title": "Alliance theory",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperimd_14-economic-organization",
+        "title": "14. Economic Organization",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_14-economic-organization_economic-anthropology",
+            "title": "Economic Anthropology",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_14-economic-organization_economic-anthropology_meaning-and-scope",
+                "title": "Meaning and scope",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_14-economic-organization_economic-anthropology_formalist-approach",
+                "title": "Formalist approach",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_14-economic-organization_economic-anthropology_substantivist-approach",
+                "title": "Substantivist approach",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_14-economic-organization_modes-of-subsistence",
+            "title": "Modes of Subsistence",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_14-economic-organization_modes-of-subsistence_hunting-and-gathering",
+                "title": "Hunting and gathering",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_14-economic-organization_modes-of-subsistence_fishing",
+                "title": "Fishing",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_14-economic-organization_modes-of-subsistence_pastoralism",
+                "title": "Pastoralism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_14-economic-organization_modes-of-subsistence_horticulture",
+                "title": "Horticulture",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_14-economic-organization_modes-of-subsistence_agriculture",
+                "title": "Agriculture",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_14-economic-organization_exchange-systems",
+            "title": "Exchange Systems",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_14-economic-organization_exchange-systems_reciprocity",
+                "title": "Reciprocity",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_14-economic-organization_exchange-systems_redistribution",
+                "title": "Redistribution",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_14-economic-organization_exchange-systems_market-exchange",
+                "title": "Market exchange",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_14-economic-organization_globalization",
+            "title": "Globalization",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_14-economic-organization_globalization_impact-on-indigenous-economies",
+                "title": "Impact on indigenous economies",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperimd_15-political-organization",
+        "title": "15. Political Organization",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_15-political-organization_types-of-political-systems",
+            "title": "Types of Political Systems",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_15-political-organization_types-of-political-systems_band",
+                "title": "Band",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_15-political-organization_types-of-political-systems_tribe",
+                "title": "Tribe",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_15-political-organization_types-of-political-systems_chiefdom",
+                "title": "Chiefdom",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_15-political-organization_types-of-political-systems_kingdom",
+                "title": "Kingdom",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_15-political-organization_types-of-political-systems_state",
+                "title": "State",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_15-political-organization_power-and-authority",
+            "title": "Power and Authority",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_15-political-organization_power-and-authority_concepts-of-power",
+                "title": "Concepts of power",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_15-political-organization_power-and-authority_authority",
+                "title": "Authority",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_15-political-organization_power-and-authority_legitimacy",
+                "title": "Legitimacy",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_15-political-organization_social-control",
+            "title": "Social Control",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_15-political-organization_social-control_law",
+                "title": "Law",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_15-political-organization_social-control_justice",
+                "title": "Justice",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_15-political-organization_social-control_sanctions",
+                "title": "Sanctions",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperimd_16-religion",
+        "title": "16. Religion",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_16-religion_anthropological-approaches",
+            "title": "Anthropological Approaches",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_16-religion_anthropological-approaches_evolutionary-approach",
+                "title": "Evolutionary approach",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_16-religion_anthropological-approaches_psychological-approach",
+                "title": "Psychological approach",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_16-religion_anthropological-approaches_functional-approach",
+                "title": "Functional approach",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_16-religion_forms-of-religion",
+            "title": "Forms of Religion",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_16-religion_forms-of-religion_animism",
+                "title": "Animism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_16-religion_forms-of-religion_animatism",
+                "title": "Animatism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_16-religion_forms-of-religion_totemism",
+                "title": "Totemism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_16-religion_forms-of-religion_fetishism",
+                "title": "Fetishism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_16-religion_forms-of-religion_naturism",
+                "title": "Naturism",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_16-religion_sacred-and-profane",
+            "title": "Sacred and Profane",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_16-religion_sacred-and-profane_concept",
+                "title": "Concept",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_16-religion_sacred-and-profane_rituals",
+                "title": "Rituals",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_16-religion_magico-religious-functionaries",
+            "title": "Magico-Religious Functionaries",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_16-religion_magico-religious-functionaries_priest",
+                "title": "Priest",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_16-religion_magico-religious-functionaries_shaman",
+                "title": "Shaman",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_16-religion_magico-religious-functionaries_sorcerer",
+                "title": "Sorcerer",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_16-religion_magico-religious-functionaries_witch",
+                "title": "Witch",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_16-religion_magico-religious-functionaries_medicine-man",
+                "title": "Medicine man",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperimd_17-anthropological-theories",
+        "title": "17. Anthropological Theories",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_17-anthropological-theories_classical-evolutionism",
+            "title": "Classical Evolutionism",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_17-anthropological-theories_classical-evolutionism_tylor",
+                "title": "Tylor",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_17-anthropological-theories_classical-evolutionism_morgan",
+                "title": "Morgan",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_17-anthropological-theories_classical-evolutionism_frazer",
+                "title": "Frazer",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_17-anthropological-theories_diffusionism",
+            "title": "Diffusionism",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_17-anthropological-theories_diffusionism_british-diffusionism",
+                "title": "British diffusionism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_17-anthropological-theories_diffusionism_german-diffusionism",
+                "title": "German diffusionism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_17-anthropological-theories_diffusionism_american-diffusionism",
+                "title": "American diffusionism",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_17-anthropological-theories_historical-particularism",
+            "title": "Historical Particularism",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_17-anthropological-theories_historical-particularism_franz-boas",
+                "title": "Franz Boas",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_17-anthropological-theories_functionalism",
+            "title": "Functionalism",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_17-anthropological-theories_functionalism_malinowski",
+                "title": "Malinowski",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_17-anthropological-theories_structural-functionalism",
+            "title": "Structural Functionalism",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_17-anthropological-theories_structural-functionalism_radcliffe-brown",
+                "title": "Radcliffe-Brown",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_17-anthropological-theories_structuralism",
+            "title": "Structuralism",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_17-anthropological-theories_structuralism_levi-strauss",
+                "title": "Levi-Strauss",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_17-anthropological-theories_structuralism_edmund-leach",
+                "title": "Edmund Leach",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_17-anthropological-theories_culture-and-personality",
+            "title": "Culture and Personality",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_17-anthropological-theories_culture-and-personality_ruth-benedict",
+                "title": "Ruth Benedict",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_17-anthropological-theories_culture-and-personality_margaret-mead",
+                "title": "Margaret Mead",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_17-anthropological-theories_culture-and-personality_kardiner",
+                "title": "Kardiner",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_17-anthropological-theories_culture-and-personality_linton",
+                "title": "Linton",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_17-anthropological-theories_culture-and-personality_cora-du-bois",
+                "title": "Cora-du-Bois",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_17-anthropological-theories_neo-evolutionism",
+            "title": "Neo-evolutionism",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_17-anthropological-theories_neo-evolutionism_childe",
+                "title": "Childe",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_17-anthropological-theories_neo-evolutionism_white",
+                "title": "White",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_17-anthropological-theories_neo-evolutionism_steward",
+                "title": "Steward",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_17-anthropological-theories_neo-evolutionism_sahlins",
+                "title": "Sahlins",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_17-anthropological-theories_neo-evolutionism_service",
+                "title": "Service",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_17-anthropological-theories_cultural-materialism",
+            "title": "Cultural Materialism",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_17-anthropological-theories_cultural-materialism_marvin-harris",
+                "title": "Marvin Harris",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_17-anthropological-theories_symbolic-anthropology",
+            "title": "Symbolic Anthropology",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_17-anthropological-theories_symbolic-anthropology_victor-turner",
+                "title": "Victor Turner",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_17-anthropological-theories_symbolic-anthropology_clifford-geertz",
+                "title": "Clifford Geertz",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_17-anthropological-theories_cognitive-anthropology",
+            "title": "Cognitive Anthropology",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_17-anthropological-theories_cognitive-anthropology_tyler",
+                "title": "Tyler",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_17-anthropological-theories_cognitive-anthropology_conklin",
+                "title": "Conklin",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_17-anthropological-theories_postmodernism",
+            "title": "Postmodernism",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_17-anthropological-theories_postmodernism_postmodern-approaches-in-anthropology",
+                "title": "Postmodern approaches in anthropology",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperimd_18-language-and-communication",
+        "title": "18. Language and Communication",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_18-language-and-communication_language",
+            "title": "Language",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_18-language-and-communication_language_nature-of-language",
+                "title": "Nature of language",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_18-language-and-communication_language_origin-of-language",
+                "title": "Origin of language",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_18-language-and-communication_language_characteristics-of-language",
+                "title": "Characteristics of language",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_18-language-and-communication_communication",
+            "title": "Communication",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_18-language-and-communication_communication_verbal-communication",
+                "title": "Verbal communication",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_18-language-and-communication_communication_non-verbal-communication",
+                "title": "Non-verbal communication",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_18-language-and-communication_communication_social-context-of-language-use",
+                "title": "Social context of language use",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperimd_19-research-methods-in-anthropology",
+        "title": "19. Research Methods in Anthropology",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_19-research-methods-in-anthropology_fieldwork-tradition",
+            "title": "Fieldwork Tradition",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_19-research-methods-in-anthropology_fieldwork-tradition_participant-observation",
+                "title": "Participant observation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_19-research-methods-in-anthropology_fieldwork-tradition_long-term-fieldwork",
+                "title": "Long-term fieldwork",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_19-research-methods-in-anthropology_research-concepts",
+            "title": "Research Concepts",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_19-research-methods-in-anthropology_research-concepts_technique",
+                "title": "Technique",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_19-research-methods-in-anthropology_research-concepts_method",
+                "title": "Method",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_19-research-methods-in-anthropology_research-concepts_methodology",
+                "title": "Methodology",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_19-research-methods-in-anthropology_tools-of-data-collection",
+            "title": "Tools of Data Collection",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_19-research-methods-in-anthropology_tools-of-data-collection_observation",
+                "title": "Observation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_19-research-methods-in-anthropology_tools-of-data-collection_interview",
+                "title": "Interview",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_19-research-methods-in-anthropology_tools-of-data-collection_questionnaire",
+                "title": "Questionnaire",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_19-research-methods-in-anthropology_tools-of-data-collection_case-study",
+                "title": "Case study",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_19-research-methods-in-anthropology_tools-of-data-collection_genealogy",
+                "title": "Genealogy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_19-research-methods-in-anthropology_tools-of-data-collection_life-history",
+                "title": "Life history",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_19-research-methods-in-anthropology_tools-of-data-collection_oral-history",
+                "title": "Oral history",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_19-research-methods-in-anthropology_tools-of-data-collection_secondary-sources",
+                "title": "Secondary sources",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_19-research-methods-in-anthropology_tools-of-data-collection_participatory-methods",
+                "title": "Participatory methods",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_19-research-methods-in-anthropology_data-handling",
+            "title": "Data Handling",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_19-research-methods-in-anthropology_data-handling_analysis",
+                "title": "Analysis",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_19-research-methods-in-anthropology_data-handling_interpretation",
+                "title": "Interpretation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_19-research-methods-in-anthropology_data-handling_presentation",
+                "title": "Presentation",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperimd_20-human-genetics",
+        "title": "20. Human Genetics",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_20-human-genetics_methods",
+            "title": "Methods",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_20-human-genetics_methods_pedigree-analysis",
+                "title": "Pedigree analysis",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_20-human-genetics_methods_twin-study",
+                "title": "Twin study",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_20-human-genetics_methods_foster-child-study",
+                "title": "Foster child study",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_20-human-genetics_methods_cytogenetic-methods",
+                "title": "Cytogenetic methods",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_20-human-genetics_methods_biochemical-methods",
+                "title": "Biochemical methods",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_20-human-genetics_methods_immunological-methods",
+                "title": "Immunological methods",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_20-human-genetics_methods_dna-technology",
+                "title": "DNA technology",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_20-human-genetics_mendelian-genetics-in-humans",
+            "title": "Mendelian Genetics in Humans",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_20-human-genetics_mendelian-genetics-in-humans_single-gene-inheritance",
+                "title": "Single gene inheritance",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_20-human-genetics_mendelian-genetics-in-humans_polygenic-inheritance",
+                "title": "Polygenic inheritance",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_20-human-genetics_mendelian-genetics-in-humans_lethal-genes",
+                "title": "Lethal genes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_20-human-genetics_mendelian-genetics-in-humans_multifactorial-inheritance",
+                "title": "Multifactorial inheritance",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_20-human-genetics_population-genetics",
+            "title": "Population Genetics",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_20-human-genetics_population-genetics_genetic-polymorphism",
+                "title": "Genetic polymorphism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_20-human-genetics_population-genetics_hardyweinberg-law",
+                "title": "Hardy\u2013Weinberg law",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_20-human-genetics_population-genetics_mutation",
+                "title": "Mutation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_20-human-genetics_population-genetics_migration",
+                "title": "Migration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_20-human-genetics_population-genetics_selection",
+                "title": "Selection",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_20-human-genetics_population-genetics_genetic-drift",
+                "title": "Genetic drift",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_20-human-genetics_population-genetics_inbreeding",
+                "title": "Inbreeding",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_20-human-genetics_chromosomal-aberrations",
+            "title": "Chromosomal Aberrations",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_20-human-genetics_chromosomal-aberrations_numerical-aberrations",
+                "title": "Numerical aberrations",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_20-human-genetics_chromosomal-aberrations_structural-aberrations",
+                "title": "Structural aberrations",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_20-human-genetics_sex-chromosomal-disorders",
+            "title": "Sex Chromosomal Disorders",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_20-human-genetics_sex-chromosomal-disorders_klinefelter-syndrome",
+                "title": "Klinefelter syndrome",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_20-human-genetics_sex-chromosomal-disorders_turner-syndrome",
+                "title": "Turner syndrome",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_20-human-genetics_sex-chromosomal-disorders_super-female",
+                "title": "Super female",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_20-human-genetics_sex-chromosomal-disorders_intersex-conditions",
+                "title": "Intersex conditions",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_20-human-genetics_autosomal-disorders",
+            "title": "Autosomal Disorders",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_20-human-genetics_autosomal-disorders_down-syndrome",
+                "title": "Down syndrome",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_20-human-genetics_autosomal-disorders_patau-syndrome",
+                "title": "Patau syndrome",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_20-human-genetics_autosomal-disorders_edward-syndrome",
+                "title": "Edward syndrome",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_20-human-genetics_autosomal-disorders_cri-du-chat-syndrome",
+                "title": "Cri-du-chat syndrome",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperimd_21-race-and-racism",
+        "title": "21. Race and Racism",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_21-race-and-racism_concept-of-race",
+            "title": "Concept of race",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_21-race-and-racism_racial-classification",
+            "title": "Racial classification",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_21-race-and-racism_biological-basis-of-race",
+            "title": "Biological basis of race",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_21-race-and-racism_racial-differentiation",
+            "title": "Racial differentiation",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_21-race-and-racism_race-crossing",
+            "title": "Race crossing",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_21-race-and-racism_racism",
+            "title": "Racism",
+            "type": "leaf",
+            "status": "locked"
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperimd_22-ecological-anthropology",
+        "title": "22. Ecological Anthropology",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_22-ecological-anthropology_bio-cultural-adaptations",
+            "title": "Bio-cultural adaptations",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_22-ecological-anthropology_genetic-adaptations",
+            "title": "Genetic adaptations",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_22-ecological-anthropology_non-genetic-adaptations",
+            "title": "Non-genetic adaptations",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_22-ecological-anthropology_adaptation-to-hot-deserts",
+            "title": "Adaptation to hot deserts",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_22-ecological-anthropology_adaptation-to-cold-regions",
+            "title": "Adaptation to cold regions",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_22-ecological-anthropology_adaptation-to-high-altitude",
+            "title": "Adaptation to high altitude",
+            "type": "leaf",
+            "status": "locked"
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperimd_23-epidemiological-anthropology",
+        "title": "23. Epidemiological Anthropology",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_23-epidemiological-anthropology_concept-of-health-and-disease",
+            "title": "Concept of health and disease",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_23-epidemiological-anthropology_infectious-diseases",
+            "title": "Infectious diseases",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_23-epidemiological-anthropology_non-infectious-diseases",
+            "title": "Non-infectious diseases",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_23-epidemiological-anthropology_nutritional-deficiency-diseases",
+            "title": "Nutritional deficiency diseases",
+            "type": "leaf",
+            "status": "locked"
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperimd_24-human-growth-and-development",
+        "title": "24. Human Growth and Development",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_24-human-growth-and-development_prenatal-growth",
+            "title": "Prenatal growth",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_24-human-growth-and-development_postnatal-growth",
+            "title": "Postnatal growth",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_24-human-growth-and-development_childhood",
+            "title": "Childhood",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_24-human-growth-and-development_adolescence",
+            "title": "Adolescence",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_24-human-growth-and-development_maturity",
+            "title": "Maturity",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_24-human-growth-and-development_senescence",
+            "title": "Senescence",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_24-human-growth-and-development_factors-affecting-growth",
+            "title": "Factors Affecting Growth",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_24-human-growth-and-development_factors-affecting-growth_genetic-factors",
+                "title": "Genetic factors",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_24-human-growth-and-development_factors-affecting-growth_environmental-factors",
+                "title": "Environmental factors",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_24-human-growth-and-development_factors-affecting-growth_nutritional-factors",
+                "title": "Nutritional factors",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_24-human-growth-and-development_factors-affecting-growth_socio-economic-factors",
+                "title": "Socio-economic factors",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperimd_25-demography-and-fertility",
+        "title": "25. Demography and Fertility",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_25-demography-and-fertility_bio-events",
+            "title": "Bio-events",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_25-demography-and-fertility_bio-events_menarche",
+                "title": "Menarche",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_25-demography-and-fertility_bio-events_menopause",
+                "title": "Menopause",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_25-demography-and-fertility_fertility-patterns",
+            "title": "Fertility Patterns",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_25-demography-and-fertility_fertility-patterns_fertility-differentials",
+                "title": "Fertility differentials",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_25-demography-and-fertility_demographic-theories",
+            "title": "Demographic Theories",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_25-demography-and-fertility_demographic-theories_biological-theories",
+                "title": "Biological theories",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_25-demography-and-fertility_demographic-theories_social-theories",
+                "title": "Social theories",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_25-demography-and-fertility_demographic-theories_cultural-theories",
+                "title": "Cultural theories",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperimd_26-applied-anthropology",
+        "title": "26. Applied Anthropology",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperimd_26-applied-anthropology_applications",
+            "title": "Applications",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_26-applied-anthropology_applications_anthropology-of-sports",
+                "title": "Anthropology of sports",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_26-applied-anthropology_applications_nutritional-anthropology",
+                "title": "Nutritional anthropology",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_26-applied-anthropology_applications_forensic-anthropology",
+                "title": "Forensic anthropology",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_26-applied-anthropology_applications_applied-human-genetics",
+                "title": "Applied human genetics",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_26-applied-anthropology_applications_dna-profiling",
+                "title": "DNA profiling",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_26-applied-anthropology_applications_genetic-counseling",
+                "title": "Genetic counseling",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperimd_26-applied-anthropology_applications_eugenics",
+                "title": "Eugenics",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

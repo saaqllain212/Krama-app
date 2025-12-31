@@ -1,0 +1,912 @@
+[
+  {
+    "id": "root_upsccseprelimscsatdetailedmd",
+    "title": "UPSC_CSE_PRELIMS_CSAT_DETAILED.md",
+    "type": "branch",
+    "children": []
+  },
+  {
+    "id": "root_general-studies-paper-ii-csat",
+    "title": "General Studies Paper II (CSAT)",
+    "type": "branch",
+    "children": [
+      {
+        "id": "root_general-studies-paper-ii-csat_1-comprehension",
+        "title": "1. Comprehension",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_general-studies-paper-ii-csat_1-comprehension_reading-comprehension",
+            "title": "Reading Comprehension",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-ii-csat_1-comprehension_reading-comprehension_factual-passages",
+                "title": "Factual passages",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_1-comprehension_reading-comprehension_inferential-passages",
+                "title": "Inferential passages",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_1-comprehension_reading-comprehension_analytical-passages",
+                "title": "Analytical passages",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_1-comprehension_reading-comprehension_opinion-based-passages",
+                "title": "Opinion-based passages",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_general-studies-paper-ii-csat_1-comprehension_question-types",
+            "title": "Question Types",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-ii-csat_1-comprehension_question-types_main-idea-of-the-passage",
+                "title": "Main idea of the passage",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_1-comprehension_question-types_title-selection",
+                "title": "Title selection",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_1-comprehension_question-types_authors-tone",
+                "title": "Author\u2019s tone",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_1-comprehension_question-types_inference-based-questions",
+                "title": "Inference-based questions",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_1-comprehension_question-types_assumption-based-questions",
+                "title": "Assumption-based questions",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_1-comprehension_question-types_vocabulary-in-context",
+                "title": "Vocabulary in context",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_1-comprehension_question-types_summary-based-questions",
+                "title": "Summary-based questions",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_general-studies-paper-ii-csat_2-interpersonal-skills-including-communication-skills",
+        "title": "2. Interpersonal Skills including Communication Skills",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_general-studies-paper-ii-csat_2-interpersonal-skills-including-communication-skills_interpersonal-skills",
+            "title": "Interpersonal Skills",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-ii-csat_2-interpersonal-skills-including-communication-skills_interpersonal-skills_social-interaction-skills",
+                "title": "Social interaction skills",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_2-interpersonal-skills-including-communication-skills_interpersonal-skills_empathy-and-perspective-taking",
+                "title": "Empathy and perspective-taking",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_2-interpersonal-skills-including-communication-skills_interpersonal-skills_conflict-handling",
+                "title": "Conflict handling",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_2-interpersonal-skills-including-communication-skills_interpersonal-skills_teamwork-skills",
+                "title": "Teamwork skills",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_general-studies-paper-ii-csat_2-interpersonal-skills-including-communication-skills_communication-skills",
+            "title": "Communication Skills",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-ii-csat_2-interpersonal-skills-including-communication-skills_communication-skills_verbal-communication",
+                "title": "Verbal communication",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_2-interpersonal-skills-including-communication-skills_communication-skills_non-verbal-communication",
+                "title": "Non-verbal communication",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_2-interpersonal-skills-including-communication-skills_communication-skills_written-communication",
+                "title": "Written communication",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_2-interpersonal-skills-including-communication-skills_communication-skills_barriers-to-communication",
+                "title": "Barriers to communication",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_2-interpersonal-skills-including-communication-skills_communication-skills_effective-communication-techniques",
+                "title": "Effective communication techniques",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_general-studies-paper-ii-csat_3-logical-reasoning-and-analytical-ability",
+        "title": "3. Logical Reasoning and Analytical Ability",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_general-studies-paper-ii-csat_3-logical-reasoning-and-analytical-ability_logical-reasoning",
+            "title": "Logical Reasoning",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-ii-csat_3-logical-reasoning-and-analytical-ability_logical-reasoning_deductive-reasoning",
+                "title": "Deductive Reasoning",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_general-studies-paper-ii-csat_3-logical-reasoning-and-analytical-ability_logical-reasoning_deductive-reasoning_syllogism",
+                    "title": "Syllogism",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_general-studies-paper-ii-csat_3-logical-reasoning-and-analytical-ability_logical-reasoning_deductive-reasoning_statementconclusion",
+                    "title": "Statement\u2013conclusion",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_general-studies-paper-ii-csat_3-logical-reasoning-and-analytical-ability_logical-reasoning_deductive-reasoning_statementassumption",
+                    "title": "Statement\u2013assumption",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_general-studies-paper-ii-csat_3-logical-reasoning-and-analytical-ability_logical-reasoning_deductive-reasoning_statementargument",
+                    "title": "Statement\u2013argument",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_general-studies-paper-ii-csat_3-logical-reasoning-and-analytical-ability_logical-reasoning_deductive-reasoning_statementcourse-of-action",
+                    "title": "Statement\u2013course of action",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_3-logical-reasoning-and-analytical-ability_logical-reasoning_inductive-reasoning",
+                "title": "Inductive Reasoning",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_general-studies-paper-ii-csat_3-logical-reasoning-and-analytical-ability_logical-reasoning_inductive-reasoning_pattern-identification",
+                    "title": "Pattern identification",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_general-studies-paper-ii-csat_3-logical-reasoning-and-analytical-ability_logical-reasoning_inductive-reasoning_generalization",
+                    "title": "Generalization",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_3-logical-reasoning-and-analytical-ability_logical-reasoning_analytical-reasoning",
+                "title": "Analytical Reasoning",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_general-studies-paper-ii-csat_3-logical-reasoning-and-analytical-ability_logical-reasoning_analytical-reasoning_cause-and-effect",
+                    "title": "Cause and effect",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_general-studies-paper-ii-csat_3-logical-reasoning-and-analytical-ability_logical-reasoning_analytical-reasoning_decision-making",
+                    "title": "Decision making",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_general-studies-paper-ii-csat_3-logical-reasoning-and-analytical-ability_logical-reasoning_analytical-reasoning_critical-reasoning",
+                    "title": "Critical reasoning",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "root_general-studies-paper-ii-csat_3-logical-reasoning-and-analytical-ability_analytical-ability",
+            "title": "Analytical Ability",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-ii-csat_3-logical-reasoning-and-analytical-ability_analytical-ability_data-based-reasoning",
+                "title": "Data-Based Reasoning",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_general-studies-paper-ii-csat_3-logical-reasoning-and-analytical-ability_analytical-ability_data-based-reasoning_caselet-based-reasoning",
+                    "title": "Caselet-based reasoning",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_general-studies-paper-ii-csat_3-logical-reasoning-and-analytical-ability_analytical-ability_data-based-reasoning_situation-analysis",
+                    "title": "Situation analysis",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_3-logical-reasoning-and-analytical-ability_analytical-ability_puzzle-based-reasoning",
+                "title": "Puzzle-Based Reasoning",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_general-studies-paper-ii-csat_3-logical-reasoning-and-analytical-ability_analytical-ability_puzzle-based-reasoning_arrangement-based-problems",
+                    "title": "Arrangement-based problems",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_general-studies-paper-ii-csat_3-logical-reasoning-and-analytical-ability_analytical-ability_puzzle-based-reasoning_conditional-logic-problems",
+                    "title": "Conditional logic problems",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_general-studies-paper-ii-csat_4-decision-making-and-problem-solving",
+        "title": "4. Decision Making and Problem Solving",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_general-studies-paper-ii-csat_4-decision-making-and-problem-solving_decision-making",
+            "title": "Decision Making",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-ii-csat_4-decision-making-and-problem-solving_decision-making_ethical-decision-making",
+                "title": "Ethical decision making",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_4-decision-making-and-problem-solving_decision-making_administrative-decision-making",
+                "title": "Administrative decision making",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_4-decision-making-and-problem-solving_decision-making_policy-based-decisions",
+                "title": "Policy-based decisions",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_general-studies-paper-ii-csat_4-decision-making-and-problem-solving_problem-solving",
+            "title": "Problem Solving",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-ii-csat_4-decision-making-and-problem-solving_problem-solving_identification-of-problem",
+                "title": "Identification of problem",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_4-decision-making-and-problem-solving_problem-solving_analysis-of-alternatives",
+                "title": "Analysis of alternatives",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_4-decision-making-and-problem-solving_problem-solving_selection-of-optimal-solution",
+                "title": "Selection of optimal solution",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_general-studies-paper-ii-csat_4-decision-making-and-problem-solving_case-studies",
+            "title": "Case Studies",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-ii-csat_4-decision-making-and-problem-solving_case-studies_situational-judgement-cases",
+                "title": "Situational judgement cases",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_4-decision-making-and-problem-solving_case-studies_administrative-scenarios",
+                "title": "Administrative scenarios",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_general-studies-paper-ii-csat_5-general-mental-ability",
+        "title": "5. General Mental Ability",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_numerical-ability-basic-level",
+            "title": "Numerical Ability (Basic Level)",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_numerical-ability-basic-level_number-system",
+                "title": "Number System",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_numerical-ability-basic-level_number-system_natural-numbers",
+                    "title": "Natural numbers",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_numerical-ability-basic-level_number-system_integers",
+                    "title": "Integers",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_numerical-ability-basic-level_number-system_rational-numbers",
+                    "title": "Rational numbers",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_numerical-ability-basic-level_number-system_real-numbers",
+                    "title": "Real numbers",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_numerical-ability-basic-level_simplification",
+                "title": "Simplification",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_numerical-ability-basic-level_simplification_bodmas",
+                    "title": "BODMAS",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_numerical-ability-basic-level_simplification_approximation",
+                    "title": "Approximation",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_numerical-ability-basic-level_percentage",
+                "title": "Percentage",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_numerical-ability-basic-level_percentage_percentage-calculation",
+                    "title": "Percentage calculation",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_numerical-ability-basic-level_percentage_increase-and-decrease",
+                    "title": "Increase and decrease",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_numerical-ability-basic-level_ratio-and-proportion",
+                "title": "Ratio and Proportion",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_numerical-ability-basic-level_ratio-and-proportion_ratio-concepts",
+                    "title": "Ratio concepts",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_numerical-ability-basic-level_ratio-and-proportion_proportion-problems",
+                    "title": "Proportion problems",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_numerical-ability-basic-level_average",
+                "title": "Average",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_numerical-ability-basic-level_average_arithmetic-mean",
+                    "title": "Arithmetic mean",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_numerical-ability-basic-level_average_application-based-averages",
+                    "title": "Application-based averages",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_numerical-ability-basic-level_time-and-work",
+                "title": "Time and Work",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_numerical-ability-basic-level_time-and-work_work-efficiency",
+                    "title": "Work efficiency",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_numerical-ability-basic-level_time-and-work_combined-work",
+                    "title": "Combined work",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_numerical-ability-basic-level_time-speed-and-distance",
+                "title": "Time, Speed and Distance",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_numerical-ability-basic-level_time-speed-and-distance_relative-speed",
+                    "title": "Relative speed",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_numerical-ability-basic-level_time-speed-and-distance_application-based-problems",
+                    "title": "Application-based problems",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_numerical-ability-basic-level_simple-interest-and-compound-interest",
+                "title": "Simple Interest and Compound Interest",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_numerical-ability-basic-level_simple-interest-and-compound-interest_si-basics",
+                    "title": "SI basics",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_numerical-ability-basic-level_simple-interest-and-compound-interest_ci-basics",
+                    "title": "CI basics",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_numerical-ability-basic-level_data-interpretation",
+                "title": "Data Interpretation",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_numerical-ability-basic-level_data-interpretation_table-based-di",
+                    "title": "Table-based DI",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_numerical-ability-basic-level_data-interpretation_bar-chart-di",
+                    "title": "Bar chart DI",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_numerical-ability-basic-level_data-interpretation_line-chart-di",
+                    "title": "Line chart DI",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_mental-ability",
+            "title": "Mental Ability",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_mental-ability_series",
+                "title": "Series",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_mental-ability_series_number-series",
+                    "title": "Number series",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_mental-ability_series_alphabet-series",
+                    "title": "Alphabet series",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_mental-ability_series_alphanumeric-series",
+                    "title": "Alphanumeric series",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_mental-ability_codingdecoding",
+                "title": "Coding\u2013Decoding",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_mental-ability_codingdecoding_letter-coding",
+                    "title": "Letter coding",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_mental-ability_codingdecoding_number-coding",
+                    "title": "Number coding",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_mental-ability_codingdecoding_mixed-coding",
+                    "title": "Mixed coding",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_mental-ability_direction-sense",
+                "title": "Direction Sense",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_mental-ability_direction-sense_direction-based-problems",
+                    "title": "Direction-based problems",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_mental-ability_direction-sense_distance-calculation",
+                    "title": "Distance calculation",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_mental-ability_order-and-ranking",
+                "title": "Order and Ranking",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_mental-ability_order-and-ranking_ranking-problems",
+                    "title": "Ranking problems",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_general-studies-paper-ii-csat_5-general-mental-ability_mental-ability_order-and-ranking_age-based-ranking",
+                    "title": "Age-based ranking",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_general-studies-paper-ii-csat_6-basic-numeracy",
+        "title": "6. Basic Numeracy",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_general-studies-paper-ii-csat_6-basic-numeracy_arithmetic-fundamentals",
+            "title": "Arithmetic Fundamentals",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-ii-csat_6-basic-numeracy_arithmetic-fundamentals_whole-numbers",
+                "title": "Whole numbers",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_6-basic-numeracy_arithmetic-fundamentals_fractions-and-decimals",
+                "title": "Fractions and decimals",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_general-studies-paper-ii-csat_6-basic-numeracy_algebra-basics",
+            "title": "Algebra Basics",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-ii-csat_6-basic-numeracy_algebra-basics_simple-equations",
+                "title": "Simple equations",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_6-basic-numeracy_algebra-basics_linear-equations",
+                "title": "Linear equations",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_general-studies-paper-ii-csat_6-basic-numeracy_geometry-basics",
+            "title": "Geometry Basics",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-ii-csat_6-basic-numeracy_geometry-basics_lines-and-angles",
+                "title": "Lines and angles",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_6-basic-numeracy_geometry-basics_triangles",
+                "title": "Triangles",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_6-basic-numeracy_geometry-basics_circles",
+                "title": "Circles",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_general-studies-paper-ii-csat_6-basic-numeracy_mensuration-basic",
+            "title": "Mensuration (Basic)",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-ii-csat_6-basic-numeracy_mensuration-basic_area",
+                "title": "Area",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_6-basic-numeracy_mensuration-basic_perimeter",
+                "title": "Perimeter",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_6-basic-numeracy_mensuration-basic_volume",
+                "title": "Volume",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_general-studies-paper-ii-csat_7-data-interpretation",
+        "title": "7. Data Interpretation",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_general-studies-paper-ii-csat_7-data-interpretation_types-of-data",
+            "title": "Types of Data",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-ii-csat_7-data-interpretation_types-of-data_tabular-data",
+                "title": "Tabular data",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_7-data-interpretation_types-of-data_bar-graphs",
+                "title": "Bar graphs",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_7-data-interpretation_types-of-data_line-graphs",
+                "title": "Line graphs",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_7-data-interpretation_types-of-data_pie-charts",
+                "title": "Pie charts",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_general-studies-paper-ii-csat_7-data-interpretation_interpretation-skills",
+            "title": "Interpretation Skills",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-ii-csat_7-data-interpretation_interpretation-skills_data-comparison",
+                "title": "Data comparison",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_7-data-interpretation_interpretation-skills_percentage-based-interpretation",
+                "title": "Percentage-based interpretation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_7-data-interpretation_interpretation-skills_ratio-based-interpretation",
+                "title": "Ratio-based interpretation",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_general-studies-paper-ii-csat_8-english-language-comprehension-skills",
+        "title": "8. English Language Comprehension Skills",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_general-studies-paper-ii-csat_8-english-language-comprehension-skills_grammar-applied-through-passages",
+            "title": "Grammar (Applied through passages)",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-ii-csat_8-english-language-comprehension-skills_grammar-applied-through-passages_tenses",
+                "title": "Tenses",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_8-english-language-comprehension-skills_grammar-applied-through-passages_articles",
+                "title": "Articles",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_8-english-language-comprehension-skills_grammar-applied-through-passages_prepositions",
+                "title": "Prepositions",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_8-english-language-comprehension-skills_grammar-applied-through-passages_subjectverb-agreement",
+                "title": "Subject\u2013verb agreement",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_general-studies-paper-ii-csat_8-english-language-comprehension-skills_vocabulary-contextual",
+            "title": "Vocabulary (Contextual)",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-ii-csat_8-english-language-comprehension-skills_vocabulary-contextual_synonyms-in-context",
+                "title": "Synonyms in context",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_8-english-language-comprehension-skills_vocabulary-contextual_antonyms-in-context",
+                "title": "Antonyms in context",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-ii-csat_8-english-language-comprehension-skills_vocabulary-contextual_phrase-interpretation",
+                "title": "Phrase interpretation",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

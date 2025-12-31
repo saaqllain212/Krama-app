@@ -1,0 +1,1206 @@
+[
+  {
+    "id": "root_upsccseprelimsgspaperidetailedmd",
+    "title": "UPSC_CSE_PRELIMS_GS_PAPER_I_DETAILED.md",
+    "type": "branch",
+    "children": []
+  },
+  {
+    "id": "root_general-studies-paper-i-preliminary-examination",
+    "title": "General Studies Paper I (Preliminary Examination)",
+    "type": "branch",
+    "children": [
+      {
+        "id": "root_general-studies-paper-i-preliminary-examination_1-current-events-of-national-and-international-importance",
+        "title": "1. Current Events of National and International Importance",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_general-studies-paper-i-preliminary-examination_1-current-events-of-national-and-international-importance_national-current-events",
+            "title": "National Current Events",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_1-current-events-of-national-and-international-importance_national-current-events_government-policies-and-schemes",
+                "title": "Government policies and schemes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_1-current-events-of-national-and-international-importance_national-current-events_constitutional-and-legal-developments",
+                "title": "Constitutional and legal developments",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_1-current-events-of-national-and-international-importance_national-current-events_national-institutions-and-appointments",
+                "title": "National institutions and appointments",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_1-current-events-of-national-and-international-importance_national-current-events_elections-and-political-developments",
+                "title": "Elections and political developments",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_1-current-events-of-national-and-international-importance_national-current-events_economic-developments",
+                "title": "Economic developments",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_1-current-events-of-national-and-international-importance_national-current-events_social-issues-and-government-initiatives",
+                "title": "Social issues and government initiatives",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_general-studies-paper-i-preliminary-examination_1-current-events-of-national-and-international-importance_international-current-events",
+            "title": "International Current Events",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_1-current-events-of-national-and-international-importance_international-current-events_international-organizations",
+                "title": "International organizations",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_1-current-events-of-national-and-international-importance_international-current-events_global-political-developments",
+                "title": "Global political developments",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_1-current-events-of-national-and-international-importance_international-current-events_international-agreements-and-summits",
+                "title": "International agreements and summits",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_1-current-events-of-national-and-international-importance_international-current-events_indias-relations-with-other-countries",
+                "title": "India\u2019s relations with other countries",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_1-current-events-of-national-and-international-importance_international-current-events_global-economic-developments",
+                "title": "Global economic developments",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_1-current-events-of-national-and-international-importance_international-current-events_international-conflicts-and-issues",
+                "title": "International conflicts and issues",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_general-studies-paper-i-preliminary-examination_2-history-of-india-and-indian-national-movement",
+        "title": "2. History of India and Indian National Movement",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_general-studies-paper-i-preliminary-examination_2-history-of-india-and-indian-national-movement_ancient-indian-history",
+            "title": "Ancient Indian History",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_2-history-of-india-and-indian-national-movement_ancient-indian-history_prehistoric-cultures",
+                "title": "Prehistoric cultures",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_2-history-of-india-and-indian-national-movement_ancient-indian-history_indus-valley-civilization",
+                "title": "Indus Valley Civilization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_2-history-of-india-and-indian-national-movement_ancient-indian-history_vedic-age",
+                "title": "Vedic age",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_2-history-of-india-and-indian-national-movement_ancient-indian-history_religious-movements-buddhism-jainism",
+                "title": "Religious movements (Buddhism, Jainism)",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_2-history-of-india-and-indian-national-movement_ancient-indian-history_mauryan-empire",
+                "title": "Mauryan Empire",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_2-history-of-india-and-indian-national-movement_ancient-indian-history_gupta-empire",
+                "title": "Gupta Empire",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_2-history-of-india-and-indian-national-movement_ancient-indian-history_art-culture-science-in-ancient-india",
+                "title": "Art, culture, science in ancient India",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_general-studies-paper-i-preliminary-examination_2-history-of-india-and-indian-national-movement_medieval-indian-history",
+            "title": "Medieval Indian History",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_2-history-of-india-and-indian-national-movement_medieval-indian-history_delhi-sultanate",
+                "title": "Delhi Sultanate",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_2-history-of-india-and-indian-national-movement_medieval-indian-history_mughal-empire",
+                "title": "Mughal Empire",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_2-history-of-india-and-indian-national-movement_medieval-indian-history_administration-and-economy",
+                "title": "Administration and economy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_2-history-of-india-and-indian-national-movement_medieval-indian-history_bhakti-and-sufi-movements",
+                "title": "Bhakti and Sufi movements",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_2-history-of-india-and-indian-national-movement_medieval-indian-history_medieval-art-and-architecture",
+                "title": "Medieval art and architecture",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_general-studies-paper-i-preliminary-examination_2-history-of-india-and-indian-national-movement_modern-indian-history",
+            "title": "Modern Indian History",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_2-history-of-india-and-indian-national-movement_modern-indian-history_decline-of-mughal-empire",
+                "title": "Decline of Mughal Empire",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_2-history-of-india-and-indian-national-movement_modern-indian-history_british-expansion",
+                "title": "British expansion",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_2-history-of-india-and-indian-national-movement_modern-indian-history_revolt-of-1857",
+                "title": "Revolt of 1857",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_2-history-of-india-and-indian-national-movement_modern-indian-history_social-and-religious-reform-movements",
+                "title": "Social and religious reform movements",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_2-history-of-india-and-indian-national-movement_modern-indian-history_tribal-and-peasant-movements",
+                "title": "Tribal and peasant movements",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_2-history-of-india-and-indian-national-movement_modern-indian-history_indian-national-congress",
+                "title": "Indian National Congress",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_2-history-of-india-and-indian-national-movement_modern-indian-history_gandhian-era",
+                "title": "Gandhian era",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_2-history-of-india-and-indian-national-movement_modern-indian-history_constitutional-developments",
+                "title": "Constitutional developments",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_2-history-of-india-and-indian-national-movement_modern-indian-history_freedom-and-partition",
+                "title": "Freedom and partition",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_general-studies-paper-i-preliminary-examination_3-indian-and-world-geography",
+        "title": "3. Indian and World Geography",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_general-studies-paper-i-preliminary-examination_3-indian-and-world-geography_physical-geography-world",
+            "title": "Physical Geography (World)",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_3-indian-and-world-geography_physical-geography-world_earth-structure",
+                "title": "Earth structure",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_3-indian-and-world-geography_physical-geography-world_plate-tectonics",
+                "title": "Plate tectonics",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_3-indian-and-world-geography_physical-geography-world_earthquakes-and-volcanoes",
+                "title": "Earthquakes and volcanoes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_3-indian-and-world-geography_physical-geography-world_rocks-and-minerals",
+                "title": "Rocks and minerals",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_3-indian-and-world-geography_physical-geography-world_landforms-mountains-plains-plateaus",
+                "title": "Landforms (mountains, plains, plateaus)",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_3-indian-and-world-geography_physical-geography-world_climatology",
+                "title": "Climatology",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_3-indian-and-world-geography_physical-geography-world_atmospheric-circulation",
+                "title": "Atmospheric circulation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_3-indian-and-world-geography_physical-geography-world_cyclones-and-anticyclones",
+                "title": "Cyclones and anticyclones",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_3-indian-and-world-geography_physical-geography-world_oceanography",
+                "title": "Oceanography",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_general-studies-paper-i-preliminary-examination_3-indian-and-world-geography_indian-geography-physical",
+            "title": "Indian Geography (Physical)",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_3-indian-and-world-geography_indian-geography-physical_physiographic-divisions-of-india",
+                "title": "Physiographic divisions of India",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_3-indian-and-world-geography_indian-geography-physical_himalayan-system",
+                "title": "Himalayan system",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_3-indian-and-world-geography_indian-geography-physical_peninsular-plateau",
+                "title": "Peninsular plateau",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_3-indian-and-world-geography_indian-geography-physical_plains-and-coastal-regions",
+                "title": "Plains and coastal regions",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_3-indian-and-world-geography_indian-geography-physical_drainage-systems",
+                "title": "Drainage systems",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_3-indian-and-world-geography_indian-geography-physical_climate-of-india",
+                "title": "Climate of India",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_3-indian-and-world-geography_indian-geography-physical_monsoon-system",
+                "title": "Monsoon system",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_general-studies-paper-i-preliminary-examination_3-indian-and-world-geography_human-and-economic-geography",
+            "title": "Human and Economic Geography",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_3-indian-and-world-geography_human-and-economic-geography_population-distribution",
+                "title": "Population distribution",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_3-indian-and-world-geography_human-and-economic-geography_migration",
+                "title": "Migration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_3-indian-and-world-geography_human-and-economic-geography_urbanization",
+                "title": "Urbanization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_3-indian-and-world-geography_human-and-economic-geography_agriculture",
+                "title": "Agriculture",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_3-indian-and-world-geography_human-and-economic-geography_industries",
+                "title": "Industries",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_3-indian-and-world-geography_human-and-economic-geography_transport-and-trade",
+                "title": "Transport and trade",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_general-studies-paper-i-preliminary-examination_3-indian-and-world-geography_world-geography",
+            "title": "World Geography",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_3-indian-and-world-geography_world-geography_continents-and-oceans",
+                "title": "Continents and oceans",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_3-indian-and-world-geography_world-geography_important-mountains-rivers-deserts",
+                "title": "Important mountains, rivers, deserts",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_3-indian-and-world-geography_world-geography_climatic-regions-of-the-world",
+                "title": "Climatic regions of the world",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_general-studies-paper-i-preliminary-examination_4-indian-polity-and-governance",
+        "title": "4. Indian Polity and Governance",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_general-studies-paper-i-preliminary-examination_4-indian-polity-and-governance_constitution-of-india",
+            "title": "Constitution of India",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_4-indian-polity-and-governance_constitution-of-india_making-of-the-constitution",
+                "title": "Making of the Constitution",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_4-indian-polity-and-governance_constitution-of-india_preamble",
+                "title": "Preamble",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_4-indian-polity-and-governance_constitution-of-india_salient-features",
+                "title": "Salient features",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_4-indian-polity-and-governance_constitution-of-india_union-and-state-structure",
+                "title": "Union and State structure",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_general-studies-paper-i-preliminary-examination_4-indian-polity-and-governance_fundamental-rights",
+            "title": "Fundamental Rights",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_4-indian-polity-and-governance_fundamental-rights_right-to-equality",
+                "title": "Right to equality",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_4-indian-polity-and-governance_fundamental-rights_right-to-freedom",
+                "title": "Right to freedom",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_4-indian-polity-and-governance_fundamental-rights_right-against-exploitation",
+                "title": "Right against exploitation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_4-indian-polity-and-governance_fundamental-rights_right-to-religion",
+                "title": "Right to religion",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_4-indian-polity-and-governance_fundamental-rights_cultural-and-educational-rights",
+                "title": "Cultural and educational rights",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_4-indian-polity-and-governance_fundamental-rights_right-to-constitutional-remedies",
+                "title": "Right to constitutional remedies",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_general-studies-paper-i-preliminary-examination_4-indian-polity-and-governance_directive-principles-and-duties",
+            "title": "Directive Principles and Duties",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_4-indian-polity-and-governance_directive-principles-and-duties_directive-principles-of-state-policy",
+                "title": "Directive Principles of State Policy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_4-indian-polity-and-governance_directive-principles-and-duties_fundamental-duties",
+                "title": "Fundamental Duties",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_general-studies-paper-i-preliminary-examination_4-indian-polity-and-governance_union-government",
+            "title": "Union Government",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_4-indian-polity-and-governance_union-government_president",
+                "title": "President",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_4-indian-polity-and-governance_union-government_vice-president",
+                "title": "Vice-President",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_4-indian-polity-and-governance_union-government_prime-minister",
+                "title": "Prime Minister",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_4-indian-polity-and-governance_union-government_council-of-ministers",
+                "title": "Council of Ministers",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_4-indian-polity-and-governance_union-government_parliament",
+                "title": "Parliament",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_general-studies-paper-i-preliminary-examination_4-indian-polity-and-governance_state-government",
+            "title": "State Government",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_4-indian-polity-and-governance_state-government_governor",
+                "title": "Governor",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_4-indian-polity-and-governance_state-government_chief-minister",
+                "title": "Chief Minister",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_4-indian-polity-and-governance_state-government_state-legislature",
+                "title": "State legislature",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_general-studies-paper-i-preliminary-examination_4-indian-polity-and-governance_judiciary",
+            "title": "Judiciary",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_4-indian-polity-and-governance_judiciary_supreme-court",
+                "title": "Supreme Court",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_4-indian-polity-and-governance_judiciary_high-courts",
+                "title": "High Courts",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_4-indian-polity-and-governance_judiciary_judicial-review",
+                "title": "Judicial review",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_general-studies-paper-i-preliminary-examination_4-indian-polity-and-governance_constitutional-bodies",
+            "title": "Constitutional Bodies",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_4-indian-polity-and-governance_constitutional-bodies_election-commission",
+                "title": "Election Commission",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_4-indian-polity-and-governance_constitutional-bodies_upsc",
+                "title": "UPSC",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_4-indian-polity-and-governance_constitutional-bodies_finance-commission",
+                "title": "Finance Commission",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_4-indian-polity-and-governance_constitutional-bodies_cag",
+                "title": "CAG",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_general-studies-paper-i-preliminary-examination_4-indian-polity-and-governance_governance",
+            "title": "Governance",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_4-indian-polity-and-governance_governance_panchayati-raj",
+                "title": "Panchayati Raj",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_4-indian-polity-and-governance_governance_urban-local-bodies",
+                "title": "Urban local bodies",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_4-indian-polity-and-governance_governance_transparency-and-accountability",
+                "title": "Transparency and accountability",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_4-indian-polity-and-governance_governance_e-governance",
+                "title": "E-governance",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_general-studies-paper-i-preliminary-examination_5-economic-and-social-development",
+        "title": "5. Economic and Social Development",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_general-studies-paper-i-preliminary-examination_5-economic-and-social-development_indian-economy",
+            "title": "Indian Economy",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_5-economic-and-social-development_indian-economy_basic-concepts-of-economy",
+                "title": "Basic concepts of economy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_5-economic-and-social-development_indian-economy_national-income",
+                "title": "National income",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_5-economic-and-social-development_indian-economy_growth-and-development",
+                "title": "Growth and development",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_5-economic-and-social-development_indian-economy_inflation",
+                "title": "Inflation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_5-economic-and-social-development_indian-economy_poverty-and-unemployment",
+                "title": "Poverty and unemployment",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_general-studies-paper-i-preliminary-examination_5-economic-and-social-development_planning-and-reforms",
+            "title": "Planning and Reforms",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_5-economic-and-social-development_planning-and-reforms_planning-in-india",
+                "title": "Planning in India",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_5-economic-and-social-development_planning-and-reforms_economic-reforms",
+                "title": "Economic reforms",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_5-economic-and-social-development_planning-and-reforms_liberalization-privatization-globalization",
+                "title": "Liberalization, privatization, globalization",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_general-studies-paper-i-preliminary-examination_5-economic-and-social-development_agriculture",
+            "title": "Agriculture",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_5-economic-and-social-development_agriculture_cropping-patterns",
+                "title": "Cropping patterns",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_5-economic-and-social-development_agriculture_irrigation",
+                "title": "Irrigation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_5-economic-and-social-development_agriculture_agricultural-inputs",
+                "title": "Agricultural inputs",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_5-economic-and-social-development_agriculture_food-security",
+                "title": "Food security",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_general-studies-paper-i-preliminary-examination_5-economic-and-social-development_industry",
+            "title": "Industry",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_5-economic-and-social-development_industry_industrial-policy",
+                "title": "Industrial policy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_5-economic-and-social-development_industry_manufacturing-sector",
+                "title": "Manufacturing sector",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_5-economic-and-social-development_industry_msmes",
+                "title": "MSMEs",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_general-studies-paper-i-preliminary-examination_5-economic-and-social-development_infrastructure",
+            "title": "Infrastructure",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_5-economic-and-social-development_infrastructure_energy",
+                "title": "Energy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_5-economic-and-social-development_infrastructure_transport",
+                "title": "Transport",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_5-economic-and-social-development_infrastructure_communication",
+                "title": "Communication",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_general-studies-paper-i-preliminary-examination_5-economic-and-social-development_social-development",
+            "title": "Social Development",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_5-economic-and-social-development_social-development_poverty-alleviation",
+                "title": "Poverty alleviation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_5-economic-and-social-development_social-development_social-sector-schemes",
+                "title": "Social sector schemes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_5-economic-and-social-development_social-development_health",
+                "title": "Health",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_5-economic-and-social-development_social-development_education",
+                "title": "Education",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_5-economic-and-social-development_social-development_demographics",
+                "title": "Demographics",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_general-studies-paper-i-preliminary-examination_6-general-issues-on-environmental-ecology-biodiversity-and-climate-change",
+        "title": "6. General Issues on Environmental Ecology, Biodiversity and Climate Change",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_general-studies-paper-i-preliminary-examination_6-general-issues-on-environmental-ecology-biodiversity-and-climate-change_ecology",
+            "title": "Ecology",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_6-general-issues-on-environmental-ecology-biodiversity-and-climate-change_ecology_ecosystems",
+                "title": "Ecosystems",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_6-general-issues-on-environmental-ecology-biodiversity-and-climate-change_ecology_food-chains-and-food-webs",
+                "title": "Food chains and food webs",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_6-general-issues-on-environmental-ecology-biodiversity-and-climate-change_ecology_biomes",
+                "title": "Biomes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_6-general-issues-on-environmental-ecology-biodiversity-and-climate-change_ecology_ecological-balance",
+                "title": "Ecological balance",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_general-studies-paper-i-preliminary-examination_6-general-issues-on-environmental-ecology-biodiversity-and-climate-change_biodiversity",
+            "title": "Biodiversity",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_6-general-issues-on-environmental-ecology-biodiversity-and-climate-change_biodiversity_biodiversity-hotspots",
+                "title": "Biodiversity hotspots",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_6-general-issues-on-environmental-ecology-biodiversity-and-climate-change_biodiversity_flora-and-fauna-of-india",
+                "title": "Flora and fauna of India",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_6-general-issues-on-environmental-ecology-biodiversity-and-climate-change_biodiversity_endangered-species",
+                "title": "Endangered species",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_6-general-issues-on-environmental-ecology-biodiversity-and-climate-change_biodiversity_conservation-efforts",
+                "title": "Conservation efforts",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_general-studies-paper-i-preliminary-examination_6-general-issues-on-environmental-ecology-biodiversity-and-climate-change_environmental-issues",
+            "title": "Environmental Issues",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_6-general-issues-on-environmental-ecology-biodiversity-and-climate-change_environmental-issues_pollution",
+                "title": "Pollution",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_6-general-issues-on-environmental-ecology-biodiversity-and-climate-change_environmental-issues_deforestation",
+                "title": "Deforestation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_6-general-issues-on-environmental-ecology-biodiversity-and-climate-change_environmental-issues_desertification",
+                "title": "Desertification",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_general-studies-paper-i-preliminary-examination_6-general-issues-on-environmental-ecology-biodiversity-and-climate-change_climate-change",
+            "title": "Climate Change",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_6-general-issues-on-environmental-ecology-biodiversity-and-climate-change_climate-change_global-warming",
+                "title": "Global warming",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_6-general-issues-on-environmental-ecology-biodiversity-and-climate-change_climate-change_greenhouse-effect",
+                "title": "Greenhouse effect",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_6-general-issues-on-environmental-ecology-biodiversity-and-climate-change_climate-change_climate-agreements",
+                "title": "Climate agreements",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_6-general-issues-on-environmental-ecology-biodiversity-and-climate-change_climate-change_impact-of-climate-change-on-india",
+                "title": "Impact of climate change on India",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_general-studies-paper-i-preliminary-examination_6-general-issues-on-environmental-ecology-biodiversity-and-climate-change_environmental-governance",
+            "title": "Environmental Governance",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_6-general-issues-on-environmental-ecology-biodiversity-and-climate-change_environmental-governance_environmental-laws",
+                "title": "Environmental laws",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_6-general-issues-on-environmental-ecology-biodiversity-and-climate-change_environmental-governance_environmental-institutions",
+                "title": "Environmental institutions",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_6-general-issues-on-environmental-ecology-biodiversity-and-climate-change_environmental-governance_conservation-programs",
+                "title": "Conservation programs",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_general-studies-paper-i-preliminary-examination_7-general-science",
+        "title": "7. General Science",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_general-studies-paper-i-preliminary-examination_7-general-science_physics",
+            "title": "Physics",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_7-general-science_physics_motion",
+                "title": "Motion",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_7-general-science_physics_force",
+                "title": "Force",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_7-general-science_physics_work-and-energy",
+                "title": "Work and energy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_7-general-science_physics_heat",
+                "title": "Heat",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_7-general-science_physics_light",
+                "title": "Light",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_7-general-science_physics_sound",
+                "title": "Sound",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_7-general-science_physics_electricity",
+                "title": "Electricity",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_general-studies-paper-i-preliminary-examination_7-general-science_chemistry",
+            "title": "Chemistry",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_7-general-science_chemistry_matter",
+                "title": "Matter",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_7-general-science_chemistry_elements-and-compounds",
+                "title": "Elements and compounds",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_7-general-science_chemistry_acids-bases-and-salts",
+                "title": "Acids, bases and salts",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_7-general-science_chemistry_metals-and-non-metals",
+                "title": "Metals and non-metals",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_7-general-science_chemistry_chemical-reactions",
+                "title": "Chemical reactions",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_general-studies-paper-i-preliminary-examination_7-general-science_biology",
+            "title": "Biology",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_7-general-science_biology_cell",
+                "title": "Cell",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_7-general-science_biology_human-body-systems",
+                "title": "Human body systems",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_7-general-science_biology_plant-physiology",
+                "title": "Plant physiology",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_7-general-science_biology_nutrition",
+                "title": "Nutrition",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_7-general-science_biology_diseases",
+                "title": "Diseases",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_7-general-science_biology_genetics-basics",
+                "title": "Genetics basics",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_general-studies-paper-i-preliminary-examination_7-general-science_science-and-technology",
+            "title": "Science and Technology",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_7-general-science_science-and-technology_space-technology",
+                "title": "Space technology",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_7-general-science_science-and-technology_defence-technology",
+                "title": "Defence technology",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_7-general-science_science-and-technology_biotechnology",
+                "title": "Biotechnology",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_7-general-science_science-and-technology_information-technology",
+                "title": "Information technology",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_general-studies-paper-i-preliminary-examination_7-general-science_science-and-technology_emerging-technologies",
+                "title": "Emerging technologies",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

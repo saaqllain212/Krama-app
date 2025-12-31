@@ -1,0 +1,1407 @@
+[
+  {
+    "id": "root_upsccsegspaperidetailedmd",
+    "title": "UPSC_CSE_GS_PAPER_I_DETAILED.md",
+    "type": "branch",
+    "children": [
+      {
+        "id": "root_upsccsegspaperidetailedmd_1-indian-culture",
+        "title": "1. Indian Culture",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccsegspaperidetailedmd_1-indian-culture_art-forms",
+            "title": "Art Forms",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccsegspaperidetailedmd_1-indian-culture_art-forms_dance",
+                "title": "Dance",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccsegspaperidetailedmd_1-indian-culture_art-forms_dance_classical-dances-bharatanatyam-kathak-kathakali-odissi-kuchipudi-manipuri-mohiniyattam-sattriya",
+                    "title": "Classical dances (Bharatanatyam, Kathak, Kathakali, Odissi, Kuchipudi, Manipuri, Mohiniyattam, Sattriya)",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccsegspaperidetailedmd_1-indian-culture_art-forms_dance_folk-dances-bhangra-garba-ghoomar-lavani-bihu-chhau",
+                    "title": "Folk dances (Bhangra, Garba, Ghoomar, Lavani, Bihu, Chhau)",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccsegspaperidetailedmd_1-indian-culture_art-forms_dance_tribal-dances",
+                    "title": "Tribal dances",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccsegspaperidetailedmd_1-indian-culture_art-forms_dance_ritual-dances",
+                    "title": "Ritual dances",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_1-indian-culture_art-forms_music",
+                "title": "Music",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccsegspaperidetailedmd_1-indian-culture_art-forms_music_hindustani-classical-music",
+                    "title": "Hindustani classical music",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccsegspaperidetailedmd_1-indian-culture_art-forms_music_carnatic-classical-music",
+                    "title": "Carnatic classical music",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccsegspaperidetailedmd_1-indian-culture_art-forms_music_folk-music-traditions",
+                    "title": "Folk music traditions",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccsegspaperidetailedmd_1-indian-culture_art-forms_music_musical-instruments-string-wind-percussion",
+                    "title": "Musical instruments (string, wind, percussion)",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_1-indian-culture_art-forms_theatre-and-performance",
+                "title": "Theatre and Performance",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccsegspaperidetailedmd_1-indian-culture_art-forms_theatre-and-performance_classical-theatre-traditions",
+                    "title": "Classical theatre traditions",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccsegspaperidetailedmd_1-indian-culture_art-forms_theatre-and-performance_folk-theatre-forms-yakshagana-nautanki-tamasha-jatra",
+                    "title": "Folk theatre forms (Yakshagana, Nautanki, Tamasha, Jatra)",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccsegspaperidetailedmd_1-indian-culture_art-forms_theatre-and-performance_puppetry-string-shadow-glove-rod",
+                    "title": "Puppetry (string, shadow, glove, rod)",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "root_upsccsegspaperidetailedmd_1-indian-culture_literature",
+            "title": "Literature",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccsegspaperidetailedmd_1-indian-culture_literature_vedic-literature",
+                "title": "Vedic literature",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_1-indian-culture_literature_epics-ramayana-mahabharata",
+                "title": "Epics (Ramayana, Mahabharata)",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_1-indian-culture_literature_puranic-literature",
+                "title": "Puranic literature",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_1-indian-culture_literature_sangam-literature",
+                "title": "Sangam literature",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_1-indian-culture_literature_bhakti-literature",
+                "title": "Bhakti literature",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_1-indian-culture_literature_sufi-literature",
+                "title": "Sufi literature",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_1-indian-culture_literature_medieval-court-literature",
+                "title": "Medieval court literature",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_1-indian-culture_literature_modern-indian-literature",
+                "title": "Modern Indian literature",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_1-indian-culture_literature_regional-language-traditions",
+                "title": "Regional language traditions",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccsegspaperidetailedmd_1-indian-culture_architecture",
+            "title": "Architecture",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccsegspaperidetailedmd_1-indian-culture_architecture_prehistoric-architecture",
+                "title": "Prehistoric architecture",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_1-indian-culture_architecture_harappan-architecture",
+                "title": "Harappan architecture",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_1-indian-culture_architecture_buddhist-architecture-stupas-chaityas-viharas",
+                "title": "Buddhist architecture (stupas, chaityas, viharas)",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_1-indian-culture_architecture_rock-cut-architecture",
+                "title": "Rock-cut architecture",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_1-indian-culture_architecture_hindu-temple-architecture-nagara-dravida-vesara",
+                "title": "Hindu temple architecture (Nagara, Dravida, Vesara)",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_1-indian-culture_architecture_indo-islamic-architecture",
+                "title": "Indo-Islamic architecture",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_1-indian-culture_architecture_mughal-architecture",
+                "title": "Mughal architecture",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_1-indian-culture_architecture_regional-architecture",
+                "title": "Regional architecture",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_1-indian-culture_architecture_colonial-architecture",
+                "title": "Colonial architecture",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_1-indian-culture_architecture_modern-indian-architecture",
+                "title": "Modern Indian architecture",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947",
+        "title": "2. Modern Indian History (Mid-18th Century to 1947)",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_decline-of-mughal-empire",
+            "title": "Decline of Mughal Empire",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_decline-of-mughal-empire_weak-successors",
+                "title": "Weak successors",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_decline-of-mughal-empire_nobility-factionalism",
+                "title": "Nobility factionalism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_decline-of-mughal-empire_economic-decline",
+                "title": "Economic decline",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_decline-of-mughal-empire_regional-autonomy",
+                "title": "Regional autonomy",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_rise-of-regional-powers",
+            "title": "Rise of Regional Powers",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_rise-of-regional-powers_bengal",
+                "title": "Bengal",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_rise-of-regional-powers_awadh",
+                "title": "Awadh",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_rise-of-regional-powers_hyderabad",
+                "title": "Hyderabad",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_rise-of-regional-powers_marathas",
+                "title": "Marathas",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_rise-of-regional-powers_mysore",
+                "title": "Mysore",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_rise-of-regional-powers_sikhs",
+                "title": "Sikhs",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_european-penetration",
+            "title": "European Penetration",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_european-penetration_portuguese",
+                "title": "Portuguese",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_european-penetration_dutch",
+                "title": "Dutch",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_european-penetration_french",
+                "title": "French",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_european-penetration_british",
+                "title": "British",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_british-expansion",
+            "title": "British Expansion",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_british-expansion_east-india-company-rule",
+                "title": "East India Company rule",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_british-expansion_carnatic-wars",
+                "title": "Carnatic Wars",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_british-expansion_battle-of-plassey",
+                "title": "Battle of Plassey",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_british-expansion_battle-of-buxar",
+                "title": "Battle of Buxar",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_british-expansion_subsidiary-alliance",
+                "title": "Subsidiary Alliance",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_british-expansion_doctrine-of-lapse",
+                "title": "Doctrine of Lapse",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_british-expansion_annexation-policies",
+                "title": "Annexation policies",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_colonial-administration",
+            "title": "Colonial Administration",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_colonial-administration_revenue-administration",
+                "title": "Revenue administration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_colonial-administration_judicial-administration",
+                "title": "Judicial administration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_colonial-administration_police-administration",
+                "title": "Police administration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_colonial-administration_civil-services",
+                "title": "Civil services",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_colonial-administration_education-policy",
+                "title": "Education policy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_colonial-administration_military-organization",
+                "title": "Military organization",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_economic-impact-of-colonialism",
+            "title": "Economic Impact of Colonialism",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_economic-impact-of-colonialism_commercialization-of-agriculture",
+                "title": "Commercialization of agriculture",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_economic-impact-of-colonialism_deindustrialization",
+                "title": "Deindustrialization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_economic-impact-of-colonialism_drain-of-wealth",
+                "title": "Drain of wealth",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_economic-impact-of-colonialism_famines",
+                "title": "Famines",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_economic-impact-of-colonialism_infrastructure-development",
+                "title": "Infrastructure development",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_social-and-religious-reform-movements",
+            "title": "Social and Religious Reform Movements",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_social-and-religious-reform-movements_brahmo-samaj",
+                "title": "Brahmo Samaj",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_social-and-religious-reform-movements_arya-samaj",
+                "title": "Arya Samaj",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_social-and-religious-reform-movements_prarthana-samaj",
+                "title": "Prarthana Samaj",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_social-and-religious-reform-movements_aligarh-movement",
+                "title": "Aligarh Movement",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_social-and-religious-reform-movements_ramakrishna-mission",
+                "title": "Ramakrishna Mission",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_social-and-religious-reform-movements_theosophical-society",
+                "title": "Theosophical Society",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_social-and-religious-reform-movements_role-of-reformers",
+                "title": "Role of reformers",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_2-modern-indian-history-mid-18th-century-to-1947_social-and-religious-reform-movements_social-legislation",
+                "title": "Social legislation",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle",
+        "title": "3. Indian Freedom Struggle",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_early-resistance",
+            "title": "Early Resistance",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_early-resistance_tribal-uprisings",
+                "title": "Tribal uprisings",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_early-resistance_peasant-revolts",
+                "title": "Peasant revolts",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_early-resistance_early-armed-resistance",
+                "title": "Early armed resistance",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_revolt-of-1857",
+            "title": "Revolt of 1857",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_revolt-of-1857_causes-political-economic-social-military",
+                "title": "Causes (political, economic, social, military)",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_revolt-of-1857_nature-of-revolt",
+                "title": "Nature of revolt",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_revolt-of-1857_centers-and-leaders",
+                "title": "Centers and leaders",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_revolt-of-1857_failure",
+                "title": "Failure",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_revolt-of-1857_consequences",
+                "title": "Consequences",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_national-movement-18851915",
+            "title": "National Movement (1885\u20131915)",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_national-movement-18851915_formation-of-inc",
+                "title": "Formation of INC",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_national-movement-18851915_moderate-ideology",
+                "title": "Moderate ideology",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_national-movement-18851915_extremist-ideology",
+                "title": "Extremist ideology",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_national-movement-18851915_swadeshi-movement",
+                "title": "Swadeshi Movement",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_national-movement-18851915_home-rule-movement",
+                "title": "Home Rule Movement",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_gandhian-era-19151947",
+            "title": "Gandhian Era (1915\u20131947)",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_gandhian-era-19151947_gandhian-ideology",
+                "title": "Gandhian Ideology",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_gandhian-era-19151947_gandhian-ideology_satyagraha",
+                    "title": "Satyagraha",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_gandhian-era-19151947_gandhian-ideology_non-violence",
+                    "title": "Non-violence",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_gandhian-era-19151947_gandhian-ideology_truth",
+                    "title": "Truth",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_gandhian-era-19151947_gandhian-ideology_mass-mobilization",
+                    "title": "Mass mobilization",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_gandhian-era-19151947_mass-movements",
+                "title": "Mass Movements",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_gandhian-era-19151947_mass-movements_champaran",
+                    "title": "Champaran",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_gandhian-era-19151947_mass-movements_kheda",
+                    "title": "Kheda",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_gandhian-era-19151947_mass-movements_ahmedabad",
+                    "title": "Ahmedabad",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_gandhian-era-19151947_mass-movements_non-cooperation-movement",
+                    "title": "Non-Cooperation Movement",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_gandhian-era-19151947_mass-movements_civil-disobedience-movement",
+                    "title": "Civil Disobedience Movement",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_gandhian-era-19151947_mass-movements_quit-india-movement",
+                    "title": "Quit India Movement",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_gandhian-era-19151947_other-streams",
+                "title": "Other Streams",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_gandhian-era-19151947_other-streams_revolutionary-movements",
+                    "title": "Revolutionary movements",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_gandhian-era-19151947_other-streams_left-movements",
+                    "title": "Left movements",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_gandhian-era-19151947_other-streams_peasant-movements",
+                    "title": "Peasant movements",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_gandhian-era-19151947_other-streams_tribal-movements",
+                    "title": "Tribal movements",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_gandhian-era-19151947_role-of-sections",
+                "title": "Role of Sections",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_gandhian-era-19151947_role-of-sections_women",
+                    "title": "Women",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_gandhian-era-19151947_role-of-sections_students",
+                    "title": "Students",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_gandhian-era-19151947_role-of-sections_peasants",
+                    "title": "Peasants",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_gandhian-era-19151947_role-of-sections_workers",
+                    "title": "Workers",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_gandhian-era-19151947_role-of-sections_business-classes",
+                    "title": "Business classes",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_constitutional-developments",
+            "title": "Constitutional Developments",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_constitutional-developments_acts-of-1909-1919-1935",
+                "title": "Acts of 1909, 1919, 1935",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_constitutional-developments_simon-commission",
+                "title": "Simon Commission",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_constitutional-developments_round-table-conferences",
+                "title": "Round Table Conferences",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_constitutional-developments_cripps-mission",
+                "title": "Cripps Mission",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_constitutional-developments_cabinet-mission",
+                "title": "Cabinet Mission",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_constitutional-developments_mountbatten-plan",
+                "title": "Mountbatten Plan",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_partition-and-independence",
+            "title": "Partition and Independence",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_partition-and-independence_two-nation-theory",
+                "title": "Two-Nation Theory",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_partition-and-independence_partition-process",
+                "title": "Partition process",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_partition-and-independence_communal-violence",
+                "title": "Communal violence",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_3-indian-freedom-struggle_partition-and-independence_transfer-of-power",
+                "title": "Transfer of power",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccsegspaperidetailedmd_4-post-independence-india",
+        "title": "4. Post-Independence India",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccsegspaperidetailedmd_4-post-independence-india_political-consolidation",
+            "title": "Political Consolidation",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccsegspaperidetailedmd_4-post-independence-india_political-consolidation_integration-of-princely-states",
+                "title": "Integration of princely states",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_4-post-independence-india_political-consolidation_reorganization-of-states",
+                "title": "Reorganization of states",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_4-post-independence-india_political-consolidation_linguistic-reorganization",
+                "title": "Linguistic reorganization",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccsegspaperidetailedmd_4-post-independence-india_social-and-economic-change",
+            "title": "Social and Economic Change",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccsegspaperidetailedmd_4-post-independence-india_social-and-economic-change_land-reforms",
+                "title": "Land reforms",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_4-post-independence-india_social-and-economic-change_planned-development",
+                "title": "Planned development",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_4-post-independence-india_social-and-economic-change_green-revolution",
+                "title": "Green Revolution",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_4-post-independence-india_social-and-economic-change_industrial-policy",
+                "title": "Industrial policy",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccsegspaperidetailedmd_5-world-history-18th-century-onwards",
+        "title": "5. World History (18th Century onwards)",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccsegspaperidetailedmd_5-world-history-18th-century-onwards_enlightenment",
+            "title": "Enlightenment",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccsegspaperidetailedmd_5-world-history-18th-century-onwards_enlightenment_enlightenment-ideas",
+                "title": "Enlightenment ideas",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_5-world-history-18th-century-onwards_enlightenment_liberalism",
+                "title": "Liberalism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_5-world-history-18th-century-onwards_enlightenment_nationalism",
+                "title": "Nationalism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_5-world-history-18th-century-onwards_enlightenment_socialism",
+                "title": "Socialism",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccsegspaperidetailedmd_5-world-history-18th-century-onwards_revolutions",
+            "title": "Revolutions",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccsegspaperidetailedmd_5-world-history-18th-century-onwards_revolutions_american-revolution",
+                "title": "American Revolution",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_5-world-history-18th-century-onwards_revolutions_french-revolution",
+                "title": "French Revolution",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_5-world-history-18th-century-onwards_revolutions_russian-revolution",
+                "title": "Russian Revolution",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_5-world-history-18th-century-onwards_revolutions_chinese-revolution",
+                "title": "Chinese Revolution",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccsegspaperidetailedmd_5-world-history-18th-century-onwards_industrial-revolution",
+            "title": "Industrial Revolution",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccsegspaperidetailedmd_5-world-history-18th-century-onwards_industrial-revolution_origin-in-britain",
+                "title": "Origin in Britain",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_5-world-history-18th-century-onwards_industrial-revolution_spread-to-europe",
+                "title": "Spread to Europe",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_5-world-history-18th-century-onwards_industrial-revolution_social-consequences",
+                "title": "Social consequences",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_5-world-history-18th-century-onwards_industrial-revolution_economic-consequences",
+                "title": "Economic consequences",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccsegspaperidetailedmd_5-world-history-18th-century-onwards_world-wars",
+            "title": "World Wars",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccsegspaperidetailedmd_5-world-history-18th-century-onwards_world-wars_first-world-war",
+                "title": "First World War",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_5-world-history-18th-century-onwards_world-wars_inter-war-period",
+                "title": "Inter-war period",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_5-world-history-18th-century-onwards_world-wars_rise-of-fascism-and-nazism",
+                "title": "Rise of fascism and nazism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_5-world-history-18th-century-onwards_world-wars_second-world-war",
+                "title": "Second World War",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_5-world-history-18th-century-onwards_world-wars_post-war-settlements",
+                "title": "Post-war settlements",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccsegspaperidetailedmd_5-world-history-18th-century-onwards_cold-war",
+            "title": "Cold War",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccsegspaperidetailedmd_5-world-history-18th-century-onwards_cold-war_bipolar-world",
+                "title": "Bipolar world",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_5-world-history-18th-century-onwards_cold-war_cold-war-crises",
+                "title": "Cold War crises",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_5-world-history-18th-century-onwards_cold-war_non-aligned-movement",
+                "title": "Non-Aligned Movement",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_5-world-history-18th-century-onwards_cold-war_end-of-cold-war",
+                "title": "End of Cold War",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccsegspaperidetailedmd_5-world-history-18th-century-onwards_decolonization",
+            "title": "Decolonization",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccsegspaperidetailedmd_5-world-history-18th-century-onwards_decolonization_asia",
+                "title": "Asia",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_5-world-history-18th-century-onwards_decolonization_africa",
+                "title": "Africa",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_5-world-history-18th-century-onwards_decolonization_latin-america",
+                "title": "Latin America",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccsegspaperidetailedmd_6-indian-society",
+        "title": "6. Indian Society",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccsegspaperidetailedmd_6-indian-society_salient-features",
+            "title": "Salient Features",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccsegspaperidetailedmd_6-indian-society_salient-features_diversity",
+                "title": "Diversity",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_6-indian-society_salient-features_unity",
+                "title": "Unity",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_6-indian-society_salient-features_pluralism",
+                "title": "Pluralism",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccsegspaperidetailedmd_6-indian-society_social-issues",
+            "title": "Social Issues",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccsegspaperidetailedmd_6-indian-society_social-issues_women-and-gender",
+                "title": "Women and gender",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_6-indian-society_social-issues_population",
+                "title": "Population",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_6-indian-society_social-issues_poverty",
+                "title": "Poverty",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_6-indian-society_social-issues_inequality",
+                "title": "Inequality",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_6-indian-society_social-issues_development-challenges",
+                "title": "Development challenges",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccsegspaperidetailedmd_6-indian-society_urbanization",
+            "title": "Urbanization",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccsegspaperidetailedmd_6-indian-society_urbanization_urban-growth",
+                "title": "Urban growth",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_6-indian-society_urbanization_migration",
+                "title": "Migration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_6-indian-society_urbanization_slums",
+                "title": "Slums",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_6-indian-society_urbanization_urban-governance",
+                "title": "Urban governance",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccsegspaperidetailedmd_6-indian-society_globalization",
+            "title": "Globalization",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccsegspaperidetailedmd_6-indian-society_globalization_cultural-impact",
+                "title": "Cultural impact",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_6-indian-society_globalization_economic-impact",
+                "title": "Economic impact",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_6-indian-society_globalization_social-impact",
+                "title": "Social impact",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccsegspaperidetailedmd_6-indian-society_social-challenges",
+            "title": "Social Challenges",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccsegspaperidetailedmd_6-indian-society_social-challenges_communalism",
+                "title": "Communalism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_6-indian-society_social-challenges_regionalism",
+                "title": "Regionalism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_6-indian-society_social-challenges_secularism",
+                "title": "Secularism",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccsegspaperidetailedmd_7-geography-of-the-world-and-india",
+        "title": "7. Geography of the World and India",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccsegspaperidetailedmd_7-geography-of-the-world-and-india_physical-geography",
+            "title": "Physical Geography",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccsegspaperidetailedmd_7-geography-of-the-world-and-india_physical-geography_geomorphology",
+                "title": "Geomorphology",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_7-geography-of-the-world-and-india_physical-geography_climatology",
+                "title": "Climatology",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_7-geography-of-the-world-and-india_physical-geography_oceanography",
+                "title": "Oceanography",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccsegspaperidetailedmd_7-geography-of-the-world-and-india_resources",
+            "title": "Resources",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccsegspaperidetailedmd_7-geography-of-the-world-and-india_resources_distribution-of-natural-resources",
+                "title": "Distribution of natural resources",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_7-geography-of-the-world-and-india_resources_factors-affecting-resource-location",
+                "title": "Factors affecting resource location",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccsegspaperidetailedmd_7-geography-of-the-world-and-india_economic-geography",
+            "title": "Economic Geography",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccsegspaperidetailedmd_7-geography-of-the-world-and-india_economic-geography_primary-sector",
+                "title": "Primary sector",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_7-geography-of-the-world-and-india_economic-geography_secondary-sector",
+                "title": "Secondary sector",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_7-geography-of-the-world-and-india_economic-geography_tertiary-sector",
+                "title": "Tertiary sector",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_7-geography-of-the-world-and-india_economic-geography_industrial-location-factors",
+                "title": "Industrial location factors",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccsegspaperidetailedmd_7-geography-of-the-world-and-india_geophysical-phenomena",
+            "title": "Geophysical Phenomena",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccsegspaperidetailedmd_7-geography-of-the-world-and-india_geophysical-phenomena_earthquakes",
+                "title": "Earthquakes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_7-geography-of-the-world-and-india_geophysical-phenomena_volcanoes",
+                "title": "Volcanoes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_7-geography-of-the-world-and-india_geophysical-phenomena_tsunamis",
+                "title": "Tsunamis",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_7-geography-of-the-world-and-india_geophysical-phenomena_cyclones",
+                "title": "Cyclones",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccsegspaperidetailedmd_7-geography-of-the-world-and-india_environmental-geography",
+            "title": "Environmental Geography",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccsegspaperidetailedmd_7-geography-of-the-world-and-india_environmental-geography_climate-change",
+                "title": "Climate change",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_7-geography-of-the-world-and-india_environmental-geography_environmental-degradation",
+                "title": "Environmental degradation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccsegspaperidetailedmd_7-geography-of-the-world-and-india_environmental-geography_humanenvironment-interaction",
+                "title": "Human\u2013environment interaction",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1535 @@
+[
+  {
+    "id": "root_upsccseoptionalpsirpaperiimd",
+    "title": "UPSC_CSE_OPTIONAL_PSIR_PAPER_II.md",
+    "type": "branch",
+    "children": [
+      {
+        "id": "root_upsccseoptionalpsirpaperiimd_section-a-international-relations-theory-and-practice",
+        "title": "SECTION A \u2014 INTERNATIONAL RELATIONS: THEORY AND PRACTICE",
+        "type": "branch",
+        "children": []
+      },
+      {
+        "id": "root_upsccseoptionalpsirpaperiimd_1-international-relations-meaning-and-evolution",
+        "title": "1. International Relations: Meaning and Evolution",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_1-international-relations-meaning-and-evolution_meaning-of-international-relations",
+            "title": "Meaning of international relations",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_1-international-relations-meaning-and-evolution_scope-of-international-relations",
+            "title": "Scope of international relations",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_1-international-relations-meaning-and-evolution_international-relations-as-a-discipline",
+            "title": "International relations as a discipline",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_1-international-relations-meaning-and-evolution_evolution-of-international-relations-after-world-war-i",
+            "title": "Evolution of international relations after World War I",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_1-international-relations-meaning-and-evolution_postworld-war-ii-developments",
+            "title": "Post\u2013World War II developments",
+            "type": "leaf",
+            "status": "locked"
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_1-international-relations-meaning-and-evolution_cold-war-and-postcold-war-changes",
+            "title": "Cold War and post\u2013Cold War changes",
+            "type": "leaf",
+            "status": "locked"
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpsirpaperiimd_2-key-concepts-in-international-relations",
+        "title": "2. Key Concepts in International Relations",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_2-key-concepts-in-international-relations_national-interest",
+            "title": "National Interest",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_2-key-concepts-in-international-relations_national-interest_meaning-of-national-interest",
+                "title": "Meaning of national interest",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_2-key-concepts-in-international-relations_national-interest_elements-of-national-interest",
+                "title": "Elements of national interest",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_2-key-concepts-in-international-relations_national-interest_national-interest-and-foreign-policy",
+                "title": "National interest and foreign policy",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_2-key-concepts-in-international-relations_power",
+            "title": "Power",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_2-key-concepts-in-international-relations_power_concept-of-power",
+                "title": "Concept of power",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_2-key-concepts-in-international-relations_power_hard-power",
+                "title": "Hard power",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_2-key-concepts-in-international-relations_power_soft-power",
+                "title": "Soft power",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_2-key-concepts-in-international-relations_power_smart-power",
+                "title": "Smart power",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_2-key-concepts-in-international-relations_balance-of-power",
+            "title": "Balance of Power",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_2-key-concepts-in-international-relations_balance-of-power_meaning-of-balance-of-power",
+                "title": "Meaning of balance of power",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_2-key-concepts-in-international-relations_balance-of-power_mechanisms-of-balance-of-power",
+                "title": "Mechanisms of balance of power",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_2-key-concepts-in-international-relations_balance-of-power_criticism-of-balance-of-power",
+                "title": "Criticism of balance of power",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_2-key-concepts-in-international-relations_collective-security",
+            "title": "Collective Security",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_2-key-concepts-in-international-relations_collective-security_concept-of-collective-security",
+                "title": "Concept of collective security",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_2-key-concepts-in-international-relations_collective-security_collective-security-vs-balance-of-power",
+                "title": "Collective security vs balance of power",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_2-key-concepts-in-international-relations_security",
+            "title": "Security",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_2-key-concepts-in-international-relations_security_traditional-security",
+                "title": "Traditional security",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_2-key-concepts-in-international-relations_security_non-traditional-security",
+                "title": "Non-traditional security",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_2-key-concepts-in-international-relations_security_human-security",
+                "title": "Human security",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_2-key-concepts-in-international-relations_globalization",
+            "title": "Globalization",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_2-key-concepts-in-international-relations_globalization_political-globalization",
+                "title": "Political globalization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_2-key-concepts-in-international-relations_globalization_economic-globalization",
+                "title": "Economic globalization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_2-key-concepts-in-international-relations_globalization_cultural-globalization",
+                "title": "Cultural globalization",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpsirpaperiimd_3-theories-of-international-relations",
+        "title": "3. Theories of International Relations",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_3-theories-of-international-relations_realism",
+            "title": "Realism",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_3-theories-of-international-relations_realism_classical-realism",
+                "title": "Classical realism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_3-theories-of-international-relations_realism_neo-realism",
+                "title": "Neo-realism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_3-theories-of-international-relations_realism_key-assumptions-of-realism",
+                "title": "Key assumptions of realism",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_3-theories-of-international-relations_liberalism",
+            "title": "Liberalism",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_3-theories-of-international-relations_liberalism_classical-liberalism",
+                "title": "Classical liberalism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_3-theories-of-international-relations_liberalism_neo-liberal-institutionalism",
+                "title": "Neo-liberal institutionalism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_3-theories-of-international-relations_liberalism_democratic-peace-theory",
+                "title": "Democratic peace theory",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_3-theories-of-international-relations_marxist-and-neo-marxist-theories",
+            "title": "Marxist and Neo-Marxist Theories",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_3-theories-of-international-relations_marxist-and-neo-marxist-theories_marxist-approach-to-international-relations",
+                "title": "Marxist approach to international relations",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_3-theories-of-international-relations_marxist-and-neo-marxist-theories_dependency-theory",
+                "title": "Dependency theory",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_3-theories-of-international-relations_marxist-and-neo-marxist-theories_world-systems-theory",
+                "title": "World-systems theory",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_3-theories-of-international-relations_constructivism",
+            "title": "Constructivism",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_3-theories-of-international-relations_constructivism_social-construction-of-international-politics",
+                "title": "Social construction of international politics",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_3-theories-of-international-relations_constructivism_role-of-ideas-and-identity",
+                "title": "Role of ideas and identity",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_3-theories-of-international-relations_feminist-theory",
+            "title": "Feminist Theory",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_3-theories-of-international-relations_feminist-theory_gender-perspectives-in-ir",
+                "title": "Gender perspectives in IR",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_3-theories-of-international-relations_feminist-theory_feminist-critique-of-ir",
+                "title": "Feminist critique of IR",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_3-theories-of-international-relations_post-colonial-theory",
+            "title": "Post-Colonial Theory",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_3-theories-of-international-relations_post-colonial-theory_colonial-legacy",
+                "title": "Colonial legacy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_3-theories-of-international-relations_post-colonial-theory_northsouth-relations",
+                "title": "North\u2013South relations",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpsirpaperiimd_4-international-political-economy",
+        "title": "4. International Political Economy",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_4-international-political-economy_economic-systems",
+            "title": "Economic Systems",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_4-international-political-economy_economic-systems_capitalism",
+                "title": "Capitalism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_4-international-political-economy_economic-systems_socialism",
+                "title": "Socialism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_4-international-political-economy_economic-systems_mixed-economy",
+                "title": "Mixed economy",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_4-international-political-economy_global-economic-institutions",
+            "title": "Global Economic Institutions",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_4-international-political-economy_global-economic-institutions_imf",
+                "title": "IMF",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_4-international-political-economy_global-economic-institutions_world-bank",
+                "title": "World Bank",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_4-international-political-economy_global-economic-institutions_wto",
+                "title": "WTO",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_4-international-political-economy_trade-and-development",
+            "title": "Trade and Development",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_4-international-political-economy_trade-and-development_free-trade",
+                "title": "Free trade",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_4-international-political-economy_trade-and-development_protectionism",
+                "title": "Protectionism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_4-international-political-economy_trade-and-development_northsouth-divide",
+                "title": "North\u2013South divide",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_4-international-political-economy_globalization-and-inequality",
+            "title": "Globalization and Inequality",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_4-international-political-economy_globalization-and-inequality_global-economic-inequality",
+                "title": "Global economic inequality",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_4-international-political-economy_globalization-and-inequality_development-challenges",
+                "title": "Development challenges",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpsirpaperiimd_5-international-organizations",
+        "title": "5. International Organizations",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_5-international-organizations_united-nations",
+            "title": "United Nations",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_5-international-organizations_united-nations_un-charter",
+                "title": "UN Charter",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_5-international-organizations_united-nations_general-assembly",
+                "title": "General Assembly",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_5-international-organizations_united-nations_security-council",
+                "title": "Security Council",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_5-international-organizations_united-nations_economic-and-social-council",
+                "title": "Economic and Social Council",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_5-international-organizations_united-nations_international-court-of-justice",
+                "title": "International Court of Justice",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_5-international-organizations_regional-organizations",
+            "title": "Regional Organizations",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_5-international-organizations_regional-organizations_european-union",
+                "title": "European Union",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_5-international-organizations_regional-organizations_asean",
+                "title": "ASEAN",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_5-international-organizations_regional-organizations_african-union",
+                "title": "African Union",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_5-international-organizations_regional-organizations_saarc",
+                "title": "SAARC",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_5-international-organizations_regional-organizations_brics",
+                "title": "BRICS",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_5-international-organizations_regional-organizations_sco",
+                "title": "SCO",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_5-international-organizations_role-and-relevance",
+            "title": "Role and Relevance",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_5-international-organizations_role-and-relevance_peacekeeping",
+                "title": "Peacekeeping",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_5-international-organizations_role-and-relevance_conflict-resolution",
+                "title": "Conflict resolution",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_5-international-organizations_role-and-relevance_development-cooperation",
+                "title": "Development cooperation",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpsirpaperiimd_6-conflict-and-peace",
+        "title": "6. Conflict and Peace",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_6-conflict-and-peace_war",
+            "title": "War",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_6-conflict-and-peace_war_causes-of-war",
+                "title": "Causes of war",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_6-conflict-and-peace_war_types-of-war",
+                "title": "Types of war",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_6-conflict-and-peace_peace",
+            "title": "Peace",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_6-conflict-and-peace_peace_concepts-of-peace",
+                "title": "Concepts of peace",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_6-conflict-and-peace_peace_peace-building",
+                "title": "Peace-building",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_6-conflict-and-peace_peace_peacekeeping",
+                "title": "Peacekeeping",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_6-conflict-and-peace_arms-and-disarmament",
+            "title": "Arms and Disarmament",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_6-conflict-and-peace_arms-and-disarmament_arms-race",
+                "title": "Arms race",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_6-conflict-and-peace_arms-and-disarmament_nuclear-weapons",
+                "title": "Nuclear weapons",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_6-conflict-and-peace_arms-and-disarmament_disarmament-treaties",
+                "title": "Disarmament treaties",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_6-conflict-and-peace_arms-and-disarmament_non-proliferation-treaty-npt",
+                "title": "Non-Proliferation Treaty (NPT)",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_6-conflict-and-peace_arms-and-disarmament_comprehensive-test-ban-treaty-ctbt",
+                "title": "Comprehensive Test Ban Treaty (CTBT)",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpsirpaperiimd_7-cold-war-and-postcold-war-world",
+        "title": "7. Cold War and Post\u2013Cold War World",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_7-cold-war-and-postcold-war-world_cold-war",
+            "title": "Cold War",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_7-cold-war-and-postcold-war-world_cold-war_origins-of-cold-war",
+                "title": "Origins of Cold War",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_7-cold-war-and-postcold-war-world_cold-war_bipolar-world-order",
+                "title": "Bipolar world order",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_7-cold-war-and-postcold-war-world_cold-war_major-cold-war-crises",
+                "title": "Major Cold War crises",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_7-cold-war-and-postcold-war-world_postcold-war-developments",
+            "title": "Post\u2013Cold War Developments",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_7-cold-war-and-postcold-war-world_postcold-war-developments_end-of-bipolarity",
+                "title": "End of bipolarity",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_7-cold-war-and-postcold-war-world_postcold-war-developments_unipolar-moment",
+                "title": "Unipolar moment",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_7-cold-war-and-postcold-war-world_postcold-war-developments_multipolar-world",
+                "title": "Multipolar world",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpsirpaperiimd_8-regional-conflicts-and-global-issues",
+        "title": "8. Regional Conflicts and Global Issues",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_8-regional-conflicts-and-global-issues_middle-east",
+            "title": "Middle East",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_8-regional-conflicts-and-global-issues_middle-east_arabisrael-conflict",
+                "title": "Arab\u2013Israel conflict",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_8-regional-conflicts-and-global-issues_middle-east_gulf-wars",
+                "title": "Gulf wars",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_8-regional-conflicts-and-global-issues_middle-east_iransaudi-rivalry",
+                "title": "Iran\u2013Saudi rivalry",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_8-regional-conflicts-and-global-issues_east-asia",
+            "title": "East Asia",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_8-regional-conflicts-and-global-issues_east-asia_korean-peninsula",
+                "title": "Korean Peninsula",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_8-regional-conflicts-and-global-issues_east-asia_south-china-sea-disputes",
+                "title": "South China Sea disputes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_8-regional-conflicts-and-global-issues_east-asia_taiwan-issue",
+                "title": "Taiwan issue",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_8-regional-conflicts-and-global-issues_africa",
+            "title": "Africa",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_8-regional-conflicts-and-global-issues_africa_civil-wars",
+                "title": "Civil wars",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_8-regional-conflicts-and-global-issues_africa_ethnic-conflicts",
+                "title": "Ethnic conflicts",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_8-regional-conflicts-and-global-issues_global-issues",
+            "title": "Global Issues",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_8-regional-conflicts-and-global-issues_global-issues_terrorism",
+                "title": "Terrorism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_8-regional-conflicts-and-global-issues_global-issues_climate-change",
+                "title": "Climate change",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_8-regional-conflicts-and-global-issues_global-issues_migration",
+                "title": "Migration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_8-regional-conflicts-and-global-issues_global-issues_refugee-crisis",
+                "title": "Refugee crisis",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpsirpaperiimd_section-b-india-and-the-world",
+        "title": "SECTION B \u2014 INDIA AND THE WORLD",
+        "type": "branch",
+        "children": []
+      },
+      {
+        "id": "root_upsccseoptionalpsirpaperiimd_9-indian-foreign-policy-foundations",
+        "title": "9. Indian Foreign Policy: Foundations",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_9-indian-foreign-policy-foundations_historical-background",
+            "title": "Historical Background",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_9-indian-foreign-policy-foundations_historical-background_colonial-legacy",
+                "title": "Colonial legacy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_9-indian-foreign-policy-foundations_historical-background_freedom-struggle-and-foreign-policy-ideas",
+                "title": "Freedom struggle and foreign policy ideas",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_9-indian-foreign-policy-foundations_principles",
+            "title": "Principles",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_9-indian-foreign-policy-foundations_principles_non-alignment",
+                "title": "Non-alignment",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_9-indian-foreign-policy-foundations_principles_panchsheel",
+                "title": "Panchsheel",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_9-indian-foreign-policy-foundations_principles_strategic-autonomy",
+                "title": "Strategic autonomy",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_9-indian-foreign-policy-foundations_objectives",
+            "title": "Objectives",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_9-indian-foreign-policy-foundations_objectives_security",
+                "title": "Security",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_9-indian-foreign-policy-foundations_objectives_development",
+                "title": "Development",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_9-indian-foreign-policy-foundations_objectives_global-status",
+                "title": "Global status",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpsirpaperiimd_10-evolution-of-indias-foreign-policy",
+        "title": "10. Evolution of India\u2019s Foreign Policy",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_10-evolution-of-indias-foreign-policy_nehruvian-phase",
+            "title": "Nehruvian Phase",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_10-evolution-of-indias-foreign-policy_nehruvian-phase_non-alignment-movement",
+                "title": "Non-alignment movement",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_10-evolution-of-indias-foreign-policy_nehruvian-phase_relations-with-superpowers",
+                "title": "Relations with superpowers",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_10-evolution-of-indias-foreign-policy_post-nehru-period",
+            "title": "Post-Nehru Period",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_10-evolution-of-indias-foreign-policy_post-nehru-period_indira-doctrine",
+                "title": "Indira Doctrine",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_10-evolution-of-indias-foreign-policy_post-nehru-period_regional-security",
+                "title": "Regional security",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_10-evolution-of-indias-foreign-policy_postcold-war-phase",
+            "title": "Post\u2013Cold War Phase",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_10-evolution-of-indias-foreign-policy_postcold-war-phase_economic-liberalization-and-foreign-policy",
+                "title": "Economic liberalization and foreign policy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_10-evolution-of-indias-foreign-policy_postcold-war-phase_strategic-partnerships",
+                "title": "Strategic partnerships",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpsirpaperiimd_11-india-and-its-neighbours",
+        "title": "11. India and Its Neighbours",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_11-india-and-its-neighbours_south-asia",
+            "title": "South Asia",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_11-india-and-its-neighbours_south-asia_indiapakistan-relations",
+                "title": "India\u2013Pakistan relations",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_11-india-and-its-neighbours_south-asia_indiachina-relations",
+                "title": "India\u2013China relations",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_11-india-and-its-neighbours_south-asia_indianepal-relations",
+                "title": "India\u2013Nepal relations",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_11-india-and-its-neighbours_south-asia_indiasri-lanka-relations",
+                "title": "India\u2013Sri Lanka relations",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_11-india-and-its-neighbours_south-asia_indiabangladesh-relations",
+                "title": "India\u2013Bangladesh relations",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_11-india-and-its-neighbours_south-asia_indiabhutan-relations",
+                "title": "India\u2013Bhutan relations",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_11-india-and-its-neighbours_south-asia_indiamyanmar-relations",
+                "title": "India\u2013Myanmar relations",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_11-india-and-its-neighbours_south-asia_indiaafghanistan-relations",
+                "title": "India\u2013Afghanistan relations",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_11-india-and-its-neighbours_regional-cooperation",
+            "title": "Regional Cooperation",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_11-india-and-its-neighbours_regional-cooperation_saarc",
+                "title": "SAARC",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_11-india-and-its-neighbours_regional-cooperation_bimstec",
+                "title": "BIMSTEC",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpsirpaperiimd_12-india-and-major-powers",
+        "title": "12. India and Major Powers",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_12-india-and-major-powers_united-states",
+            "title": "United States",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_12-india-and-major-powers_united-states_strategic-partnership",
+                "title": "Strategic partnership",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_12-india-and-major-powers_united-states_defence-cooperation",
+                "title": "Defence cooperation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_12-india-and-major-powers_united-states_economic-relations",
+                "title": "Economic relations",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_12-india-and-major-powers_russia",
+            "title": "Russia",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_12-india-and-major-powers_russia_defence-ties",
+                "title": "Defence ties",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_12-india-and-major-powers_russia_energy-cooperation",
+                "title": "Energy cooperation",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_12-india-and-major-powers_china",
+            "title": "China",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_12-india-and-major-powers_china_border-disputes",
+                "title": "Border disputes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_12-india-and-major-powers_china_economic-engagement",
+                "title": "Economic engagement",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_12-india-and-major-powers_china_strategic-competition",
+                "title": "Strategic competition",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_12-india-and-major-powers_european-union",
+            "title": "European Union",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_12-india-and-major-powers_european-union_trade-relations",
+                "title": "Trade relations",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_12-india-and-major-powers_european-union_political-cooperation",
+                "title": "Political cooperation",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_12-india-and-major-powers_japan",
+            "title": "Japan",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_12-india-and-major-powers_japan_strategic-partnership",
+                "title": "Strategic partnership",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_12-india-and-major-powers_japan_infrastructure-cooperation",
+                "title": "Infrastructure cooperation",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpsirpaperiimd_13-india-and-international-organizations",
+        "title": "13. India and International Organizations",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_13-india-and-international-organizations_united-nations",
+            "title": "United Nations",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_13-india-and-international-organizations_united-nations_indias-role-in-un",
+                "title": "India\u2019s role in UN",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_13-india-and-international-organizations_united-nations_peacekeeping-operations",
+                "title": "Peacekeeping operations",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_13-india-and-international-organizations_united-nations_un-security-council-reforms",
+                "title": "UN Security Council reforms",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_13-india-and-international-organizations_global-economic-institutions",
+            "title": "Global Economic Institutions",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_13-india-and-international-organizations_global-economic-institutions_imf",
+                "title": "IMF",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_13-india-and-international-organizations_global-economic-institutions_world-bank",
+                "title": "World Bank",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_13-india-and-international-organizations_global-economic-institutions_wto",
+                "title": "WTO",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_13-india-and-international-organizations_emerging-groupings",
+            "title": "Emerging Groupings",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_13-india-and-international-organizations_emerging-groupings_brics",
+                "title": "BRICS",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_13-india-and-international-organizations_emerging-groupings_g20",
+                "title": "G20",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_13-india-and-international-organizations_emerging-groupings_sco",
+                "title": "SCO",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_13-india-and-international-organizations_emerging-groupings_quad",
+                "title": "Quad",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpsirpaperiimd_14-indias-security-policy",
+        "title": "14. India\u2019s Security Policy",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_14-indias-security-policy_national-security",
+            "title": "National Security",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_14-indias-security-policy_national-security_internal-security-challenges",
+                "title": "Internal security challenges",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_14-indias-security-policy_national-security_external-security-threats",
+                "title": "External security threats",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_14-indias-security-policy_nuclear-policy",
+            "title": "Nuclear Policy",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_14-indias-security-policy_nuclear-policy_nuclear-doctrine",
+                "title": "Nuclear doctrine",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_14-indias-security-policy_nuclear-policy_no-first-use-policy",
+                "title": "No First Use policy",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_14-indias-security-policy_defence-policy",
+            "title": "Defence Policy",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_14-indias-security-policy_defence-policy_defence-modernization",
+                "title": "Defence modernization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_14-indias-security-policy_defence-policy_indigenous-defence-production",
+                "title": "Indigenous defence production",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpsirpaperiimd_15-indias-economic-diplomacy",
+        "title": "15. India\u2019s Economic Diplomacy",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_15-indias-economic-diplomacy_trade-policy",
+            "title": "Trade Policy",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_15-indias-economic-diplomacy_trade-policy_free-trade-agreements",
+                "title": "Free trade agreements",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_15-indias-economic-diplomacy_trade-policy_regional-trade-agreements",
+                "title": "Regional trade agreements",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_15-indias-economic-diplomacy_energy-diplomacy",
+            "title": "Energy Diplomacy",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_15-indias-economic-diplomacy_energy-diplomacy_energy-security",
+                "title": "Energy security",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_15-indias-economic-diplomacy_energy-diplomacy_oil-and-gas-diplomacy",
+                "title": "Oil and gas diplomacy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_15-indias-economic-diplomacy_energy-diplomacy_renewable-energy-cooperation",
+                "title": "Renewable energy cooperation",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_15-indias-economic-diplomacy_development-cooperation",
+            "title": "Development Cooperation",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_15-indias-economic-diplomacy_development-cooperation_aid-and-assistance",
+                "title": "Aid and assistance",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_15-indias-economic-diplomacy_development-cooperation_southsouth-cooperation",
+                "title": "South\u2013South cooperation",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpsirpaperiimd_16-india-and-global-issues",
+        "title": "16. India and Global Issues",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_16-india-and-global-issues_climate-change",
+            "title": "Climate Change",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_16-india-and-global-issues_climate-change_indias-climate-commitments",
+                "title": "India\u2019s climate commitments",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_16-india-and-global-issues_climate-change_international-negotiations",
+                "title": "International negotiations",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_16-india-and-global-issues_sustainable-development",
+            "title": "Sustainable Development",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_16-india-and-global-issues_sustainable-development_sdgs",
+                "title": "SDGs",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_16-india-and-global-issues_sustainable-development_development-partnerships",
+                "title": "Development partnerships",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_16-india-and-global-issues_human-rights",
+            "title": "Human Rights",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_16-india-and-global-issues_human-rights_indias-position-on-human-rights",
+                "title": "India\u2019s position on human rights",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_16-india-and-global-issues_human-rights_global-human-rights-debates",
+                "title": "Global human rights debates",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_16-india-and-global-issues_indian-diaspora",
+            "title": "Indian Diaspora",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_16-india-and-global-issues_indian-diaspora_role-of-diaspora",
+                "title": "Role of diaspora",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_16-india-and-global-issues_indian-diaspora_diaspora-diplomacy",
+                "title": "Diaspora diplomacy",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpsirpaperiimd_17-contemporary-challenges-and-future-directions",
+        "title": "17. Contemporary Challenges and Future Directions",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_17-contemporary-challenges-and-future-directions_global-power-shifts",
+            "title": "Global Power Shifts",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_17-contemporary-challenges-and-future-directions_global-power-shifts_rise-of-asia",
+                "title": "Rise of Asia",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_17-contemporary-challenges-and-future-directions_global-power-shifts_decline-of-unipolarity",
+                "title": "Decline of unipolarity",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_17-contemporary-challenges-and-future-directions_multilateralism",
+            "title": "Multilateralism",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_17-contemporary-challenges-and-future-directions_multilateralism_crisis-of-multilateral-institutions",
+                "title": "Crisis of multilateral institutions",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_17-contemporary-challenges-and-future-directions_multilateralism_reform-of-global-governance",
+                "title": "Reform of global governance",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpsirpaperiimd_17-contemporary-challenges-and-future-directions_technology-and-ir",
+            "title": "Technology and IR",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_17-contemporary-challenges-and-future-directions_technology-and-ir_cyber-security",
+                "title": "Cyber security",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_17-contemporary-challenges-and-future-directions_technology-and-ir_space-security",
+                "title": "Space security",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpsirpaperiimd_17-contemporary-challenges-and-future-directions_technology-and-ir_artificial-intelligence",
+                "title": "Artificial intelligence",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

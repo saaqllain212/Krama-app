@@ -1,0 +1,1649 @@
+[
+  {
+    "id": "root_upsccseoptionalanthropologypaperiimd",
+    "title": "UPSC_CSE_OPTIONAL_ANTHROPOLOGY_PAPER_II.md",
+    "type": "branch",
+    "children": [
+      {
+        "id": "root_upsccseoptionalanthropologypaperiimd_1-evolution-of-indian-culture-and-civilization",
+        "title": "1. Evolution of Indian Culture and Civilization",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_1-evolution-of-indian-culture-and-civilization_prehistoric-period",
+            "title": "Prehistoric Period",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_1-evolution-of-indian-culture-and-civilization_prehistoric-period_paleolithic-culture-in-india",
+                "title": "Paleolithic culture in India",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_1-evolution-of-indian-culture-and-civilization_prehistoric-period_mesolithic-culture-in-india",
+                "title": "Mesolithic culture in India",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_1-evolution-of-indian-culture-and-civilization_prehistoric-period_neolithic-culture-in-india",
+                "title": "Neolithic culture in India",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_1-evolution-of-indian-culture-and-civilization_prehistoric-period_neolithicchalcolithic-cultures",
+                "title": "Neolithic\u2013Chalcolithic cultures",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_1-evolution-of-indian-culture-and-civilization_prehistoric-period_tool-types-and-technologies",
+                "title": "Tool types and technologies",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_1-evolution-of-indian-culture-and-civilization_prehistoric-period_subsistence-patterns",
+                "title": "Subsistence patterns",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_1-evolution-of-indian-culture-and-civilization_prehistoric-period_settlement-patterns",
+                "title": "Settlement patterns",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_1-evolution-of-indian-culture-and-civilization_protohistoric-period",
+            "title": "Protohistoric Period",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_1-evolution-of-indian-culture-and-civilization_protohistoric-period_pre-harappan-cultures",
+                "title": "Pre-Harappan cultures",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_1-evolution-of-indian-culture-and-civilization_protohistoric-period_harappan-civilization",
+                "title": "Harappan civilization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_1-evolution-of-indian-culture-and-civilization_protohistoric-period_post-harappan-cultures",
+                "title": "Post-Harappan cultures",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_1-evolution-of-indian-culture-and-civilization_protohistoric-period_town-planning",
+                "title": "Town planning",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_1-evolution-of-indian-culture-and-civilization_protohistoric-period_economy-and-trade",
+                "title": "Economy and trade",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_1-evolution-of-indian-culture-and-civilization_protohistoric-period_social-organization",
+                "title": "Social organization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_1-evolution-of-indian-culture-and-civilization_protohistoric-period_religion-and-beliefs",
+                "title": "Religion and beliefs",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_1-evolution-of-indian-culture-and-civilization_protohistoric-period_art-and-craft-traditions",
+                "title": "Art and craft traditions",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_1-evolution-of-indian-culture-and-civilization_tribal-contributions",
+            "title": "Tribal Contributions",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_1-evolution-of-indian-culture-and-civilization_tribal-contributions_tribal-role-in-indian-civilization",
+                "title": "Tribal role in Indian civilization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_1-evolution-of-indian-culture-and-civilization_tribal-contributions_cultural-continuities",
+                "title": "Cultural continuities",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_1-evolution-of-indian-culture-and-civilization_tribal-contributions_indigenous-knowledge-systems",
+                "title": "Indigenous knowledge systems",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperiimd_2-paleoanthropological-evidence-from-india",
+        "title": "2. Paleoanthropological Evidence from India",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_2-paleoanthropological-evidence-from-india_fossil-evidence",
+            "title": "Fossil Evidence",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_2-paleoanthropological-evidence-from-india_fossil-evidence_siwalik-fossil-evidence",
+                "title": "Siwalik fossil evidence",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_2-paleoanthropological-evidence-from-india_fossil-evidence_narmada-basin-findings",
+                "title": "Narmada basin findings",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_2-paleoanthropological-evidence-from-india_important-fossils",
+            "title": "Important Fossils",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_2-paleoanthropological-evidence-from-india_important-fossils_ramapithecus",
+                "title": "Ramapithecus",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_2-paleoanthropological-evidence-from-india_important-fossils_sivapithecus",
+                "title": "Sivapithecus",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_2-paleoanthropological-evidence-from-india_important-fossils_narmada-man",
+                "title": "Narmada Man",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_2-paleoanthropological-evidence-from-india_significance",
+            "title": "Significance",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_2-paleoanthropological-evidence-from-india_significance_evolutionary-implications",
+                "title": "Evolutionary implications",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_2-paleoanthropological-evidence-from-india_significance_debates-on-human-evolution-in-india",
+                "title": "Debates on human evolution in India",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperiimd_3-ethno-archaeology-in-india",
+        "title": "3. Ethno-Archaeology in India",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_3-ethno-archaeology-in-india_concept",
+            "title": "Concept",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_3-ethno-archaeology-in-india_concept_meaning-of-ethno-archaeology",
+                "title": "Meaning of ethno-archaeology",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_3-ethno-archaeology-in-india_concept_scope-and-relevance",
+                "title": "Scope and relevance",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_3-ethno-archaeology-in-india_survival-and-parallels",
+            "title": "Survival and Parallels",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_3-ethno-archaeology-in-india_survival-and-parallels_hunting-communities",
+                "title": "Hunting communities",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_3-ethno-archaeology-in-india_survival-and-parallels_foraging-communities",
+                "title": "Foraging communities",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_3-ethno-archaeology-in-india_survival-and-parallels_fishing-communities",
+                "title": "Fishing communities",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_3-ethno-archaeology-in-india_survival-and-parallels_pastoral-communities",
+                "title": "Pastoral communities",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_3-ethno-archaeology-in-india_survival-and-parallels_peasant-communities",
+                "title": "Peasant communities",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_3-ethno-archaeology-in-india_material-culture",
+            "title": "Material Culture",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_3-ethno-archaeology-in-india_material-culture_tools",
+                "title": "Tools",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_3-ethno-archaeology-in-india_material-culture_housing",
+                "title": "Housing",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_3-ethno-archaeology-in-india_material-culture_arts-and-crafts",
+                "title": "Arts and crafts",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_3-ethno-archaeology-in-india_material-culture_technology-traditions",
+                "title": "Technology traditions",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperiimd_4-demographic-profile-of-india",
+        "title": "4. Demographic Profile of India",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_4-demographic-profile-of-india_population-composition",
+            "title": "Population Composition",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_4-demographic-profile-of-india_population-composition_ethnic-groups",
+                "title": "Ethnic groups",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_4-demographic-profile-of-india_population-composition_linguistic-groups",
+                "title": "Linguistic groups",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_4-demographic-profile-of-india_population-composition_racial-elements",
+                "title": "Racial elements",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_4-demographic-profile-of-india_population-distribution",
+            "title": "Population Distribution",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_4-demographic-profile-of-india_population-distribution_regional-distribution",
+                "title": "Regional distribution",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_4-demographic-profile-of-india_population-distribution_ruralurban-differences",
+                "title": "Rural\u2013urban differences",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_4-demographic-profile-of-india_population-dynamics",
+            "title": "Population Dynamics",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_4-demographic-profile-of-india_population-dynamics_growth-trends",
+                "title": "Growth trends",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_4-demographic-profile-of-india_population-dynamics_population-structure",
+                "title": "Population structure",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_4-demographic-profile-of-india_population-dynamics_migration-patterns",
+                "title": "Migration patterns",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperiimd_5-traditional-indian-social-system",
+        "title": "5. Traditional Indian Social System",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_5-traditional-indian-social-system_core-concepts",
+            "title": "Core Concepts",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_5-traditional-indian-social-system_core-concepts_varnashrama-system",
+                "title": "Varnashrama system",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_5-traditional-indian-social-system_core-concepts_purushartha",
+                "title": "Purushartha",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_5-traditional-indian-social-system_core-concepts_karma",
+                "title": "Karma",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_5-traditional-indian-social-system_core-concepts_rina",
+                "title": "Rina",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_5-traditional-indian-social-system_core-concepts_rebirth",
+                "title": "Rebirth",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_5-traditional-indian-social-system_social-organization",
+            "title": "Social Organization",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_5-traditional-indian-social-system_social-organization_ideological-foundations",
+                "title": "Ideological foundations",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_5-traditional-indian-social-system_social-organization_social-hierarchy",
+                "title": "Social hierarchy",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperiimd_6-caste-system-in-india",
+        "title": "6. Caste System in India",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_6-caste-system-in-india_structure-and-features",
+            "title": "Structure and Features",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_6-caste-system-in-india_structure-and-features_varna-and-caste-distinction",
+                "title": "Varna and caste distinction",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_6-caste-system-in-india_structure-and-features_caste-hierarchy",
+                "title": "Caste hierarchy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_6-caste-system-in-india_structure-and-features_caste-endogamy",
+                "title": "Caste endogamy",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_6-caste-system-in-india_theories-of-origin",
+            "title": "Theories of Origin",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_6-caste-system-in-india_theories-of-origin_religious-theory",
+                "title": "Religious theory",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_6-caste-system-in-india_theories-of-origin_occupational-theory",
+                "title": "Occupational theory",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_6-caste-system-in-india_theories-of-origin_racial-theory",
+                "title": "Racial theory",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_6-caste-system-in-india_theories-of-origin_evolutionary-theory",
+                "title": "Evolutionary theory",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_6-caste-system-in-india_caste-dynamics",
+            "title": "Caste Dynamics",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_6-caste-system-in-india_caste-dynamics_dominant-caste",
+                "title": "Dominant caste",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_6-caste-system-in-india_caste-dynamics_caste-mobility",
+                "title": "Caste mobility",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_6-caste-system-in-india_caste-dynamics_sanskritization",
+                "title": "Sanskritization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_6-caste-system-in-india_caste-dynamics_westernization",
+                "title": "Westernization",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_6-caste-system-in-india_jajmani-system",
+            "title": "Jajmani System",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_6-caste-system-in-india_jajmani-system_meaning",
+                "title": "Meaning",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_6-caste-system-in-india_jajmani-system_structure",
+                "title": "Structure",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_6-caste-system-in-india_jajmani-system_functions",
+                "title": "Functions",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_6-caste-system-in-india_jajmani-system_decline",
+                "title": "Decline",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_6-caste-system-in-india_tribecaste-continuum",
+            "title": "Tribe\u2013Caste Continuum",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_6-caste-system-in-india_tribecaste-continuum_concept",
+                "title": "Concept",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_6-caste-system-in-india_tribecaste-continuum_transitional-communities",
+                "title": "Transitional communities",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperiimd_7-sacred-and-ecological-complexes",
+        "title": "7. Sacred and Ecological Complexes",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_7-sacred-and-ecological-complexes_sacred-complex",
+            "title": "Sacred Complex",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_7-sacred-and-ecological-complexes_sacred-complex_meaning",
+                "title": "Meaning",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_7-sacred-and-ecological-complexes_sacred-complex_components",
+                "title": "Components",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_7-sacred-and-ecological-complexes_sacred-complex_sacred-geography",
+                "title": "Sacred geography",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_7-sacred-and-ecological-complexes_naturemanspirit-complex",
+            "title": "Nature\u2013Man\u2013Spirit Complex",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_7-sacred-and-ecological-complexes_naturemanspirit-complex_humannature-relationships",
+                "title": "Human\u2013nature relationships",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_7-sacred-and-ecological-complexes_naturemanspirit-complex_spiritual-ecology",
+                "title": "Spiritual ecology",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperiimd_8-impact-of-religions-on-indian-society",
+        "title": "8. Impact of Religions on Indian Society",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_8-impact-of-religions-on-indian-society_buddhism",
+            "title": "Buddhism",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_8-impact-of-religions-on-indian-society_buddhism_social-impact",
+                "title": "Social impact",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_8-impact-of-religions-on-indian-society_buddhism_cultural-influence",
+                "title": "Cultural influence",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_8-impact-of-religions-on-indian-society_jainism",
+            "title": "Jainism",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_8-impact-of-religions-on-indian-society_jainism_ethical-values",
+                "title": "Ethical values",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_8-impact-of-religions-on-indian-society_jainism_social-reforms",
+                "title": "Social reforms",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_8-impact-of-religions-on-indian-society_islam",
+            "title": "Islam",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_8-impact-of-religions-on-indian-society_islam_cultural-synthesis",
+                "title": "Cultural synthesis",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_8-impact-of-religions-on-indian-society_islam_social-institutions",
+                "title": "Social institutions",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_8-impact-of-religions-on-indian-society_christianity",
+            "title": "Christianity",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_8-impact-of-religions-on-indian-society_christianity_education-and-health",
+                "title": "Education and health",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_8-impact-of-religions-on-indian-society_christianity_social-change",
+                "title": "Social change",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperiimd_9-development-of-anthropology-in-india",
+        "title": "9. Development of Anthropology in India",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_9-development-of-anthropology-in-india_colonial-period",
+            "title": "Colonial Period",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_9-development-of-anthropology-in-india_colonial-period_scholar-administrators",
+                "title": "Scholar-administrators",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_9-development-of-anthropology-in-india_colonial-period_early-ethnographic-studies",
+                "title": "Early ethnographic studies",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_9-development-of-anthropology-in-india_indian-anthropologists",
+            "title": "Indian Anthropologists",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_9-development-of-anthropology-in-india_indian-anthropologists_contributions-to-caste-studies",
+                "title": "Contributions to caste studies",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_9-development-of-anthropology-in-india_indian-anthropologists_contributions-to-tribal-studies",
+                "title": "Contributions to tribal studies",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_9-development-of-anthropology-in-india_indian-anthropologists_methodological-contributions",
+                "title": "Methodological contributions",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperiimd_10-indian-village-studies",
+        "title": "10. Indian Village Studies",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_10-indian-village-studies_significance",
+            "title": "Significance",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_10-indian-village-studies_significance_village-as-a-social-system",
+                "title": "Village as a social system",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_10-indian-village-studies_significance_importance-of-village-studies",
+                "title": "Importance of village studies",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_10-indian-village-studies_social-structure",
+            "title": "Social Structure",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_10-indian-village-studies_social-structure_caste-relations",
+                "title": "Caste relations",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_10-indian-village-studies_social-structure_inter-caste-relations",
+                "title": "Inter-caste relations",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_10-indian-village-studies_agrarian-relations",
+            "title": "Agrarian Relations",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_10-indian-village-studies_agrarian-relations_land-ownership",
+                "title": "Land ownership",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_10-indian-village-studies_agrarian-relations_tenancy",
+                "title": "Tenancy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_10-indian-village-studies_agrarian-relations_labour-relations",
+                "title": "Labour relations",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_10-indian-village-studies_change-in-villages",
+            "title": "Change in Villages",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_10-indian-village-studies_change-in-villages_impact-of-modernization",
+                "title": "Impact of modernization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_10-indian-village-studies_change-in-villages_impact-of-globalization",
+                "title": "Impact of globalization",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperiimd_11-linguistic-and-religious-minorities",
+        "title": "11. Linguistic and Religious Minorities",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_11-linguistic-and-religious-minorities_minority-groups",
+            "title": "Minority Groups",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_11-linguistic-and-religious-minorities_minority-groups_linguistic-minorities",
+                "title": "Linguistic minorities",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_11-linguistic-and-religious-minorities_minority-groups_religious-minorities",
+                "title": "Religious minorities",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_11-linguistic-and-religious-minorities_issues",
+            "title": "Issues",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_11-linguistic-and-religious-minorities_issues_social-status",
+                "title": "Social status",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_11-linguistic-and-religious-minorities_issues_political-status",
+                "title": "Political status",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_11-linguistic-and-religious-minorities_issues_economic-challenges",
+                "title": "Economic challenges",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperiimd_12-socio-cultural-change-in-india",
+        "title": "12. Socio-Cultural Change in India",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_12-socio-cultural-change-in-india_indigenous-processes",
+            "title": "Indigenous Processes",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_12-socio-cultural-change-in-india_indigenous-processes_sanskritization",
+                "title": "Sanskritization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_12-socio-cultural-change-in-india_indigenous-processes_tribal-cultural-change",
+                "title": "Tribal cultural change",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_12-socio-cultural-change-in-india_exogenous-processes",
+            "title": "Exogenous Processes",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_12-socio-cultural-change-in-india_exogenous-processes_westernization",
+                "title": "Westernization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_12-socio-cultural-change-in-india_exogenous-processes_modernization",
+                "title": "Modernization",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_12-socio-cultural-change-in-india_cultural-interaction",
+            "title": "Cultural Interaction",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_12-socio-cultural-change-in-india_cultural-interaction_little-tradition",
+                "title": "Little tradition",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_12-socio-cultural-change-in-india_cultural-interaction_great-tradition",
+                "title": "Great tradition",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_12-socio-cultural-change-in-india_political-institutions",
+            "title": "Political Institutions",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_12-socio-cultural-change-in-india_political-institutions_panchayati-raj",
+                "title": "Panchayati Raj",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_12-socio-cultural-change-in-india_political-institutions_democratic-decentralization",
+                "title": "Democratic decentralization",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_12-socio-cultural-change-in-india_media",
+            "title": "Media",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_12-socio-cultural-change-in-india_media_media-and-social-change",
+                "title": "Media and social change",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperiimd_13-tribal-situation-in-india",
+        "title": "13. Tribal Situation in India",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_13-tribal-situation-in-india_tribal-diversity",
+            "title": "Tribal Diversity",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_13-tribal-situation-in-india_tribal-diversity_biological-diversity",
+                "title": "Biological diversity",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_13-tribal-situation-in-india_tribal-diversity_linguistic-diversity",
+                "title": "Linguistic diversity",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_13-tribal-situation-in-india_tribal-diversity_cultural-diversity",
+                "title": "Cultural diversity",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_13-tribal-situation-in-india_tribal-distribution",
+            "title": "Tribal Distribution",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_13-tribal-situation-in-india_tribal-distribution_regional-distribution",
+                "title": "Regional distribution",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_13-tribal-situation-in-india_tribal-distribution_ecological-settings",
+                "title": "Ecological settings",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperiimd_14-problems-of-tribal-communities",
+        "title": "14. Problems of Tribal Communities",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_14-problems-of-tribal-communities_socio-economic-problems",
+            "title": "Socio-Economic Problems",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_14-problems-of-tribal-communities_socio-economic-problems_land-alienation",
+                "title": "Land alienation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_14-problems-of-tribal-communities_socio-economic-problems_poverty",
+                "title": "Poverty",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_14-problems-of-tribal-communities_socio-economic-problems_indebtedness",
+                "title": "Indebtedness",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_14-problems-of-tribal-communities_socio-economic-problems_unemployment",
+                "title": "Unemployment",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_14-problems-of-tribal-communities_human-development-issues",
+            "title": "Human Development Issues",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_14-problems-of-tribal-communities_human-development-issues_education",
+                "title": "Education",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_14-problems-of-tribal-communities_human-development-issues_health",
+                "title": "Health",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_14-problems-of-tribal-communities_human-development-issues_nutrition",
+                "title": "Nutrition",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperiimd_15-development-projects-and-tribals",
+        "title": "15. Development Projects and Tribals",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_15-development-projects-and-tribals_displacement",
+            "title": "Displacement",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_15-development-projects-and-tribals_displacement_causes-of-displacement",
+                "title": "Causes of displacement",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_15-development-projects-and-tribals_displacement_effects-of-displacement",
+                "title": "Effects of displacement",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_15-development-projects-and-tribals_rehabilitation",
+            "title": "Rehabilitation",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_15-development-projects-and-tribals_rehabilitation_rehabilitation-policies",
+                "title": "Rehabilitation policies",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_15-development-projects-and-tribals_rehabilitation_resettlement-challenges",
+                "title": "Resettlement challenges",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_15-development-projects-and-tribals_forest-policy",
+            "title": "Forest Policy",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_15-development-projects-and-tribals_forest-policy_forest-laws",
+                "title": "Forest laws",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_15-development-projects-and-tribals_forest-policy_impact-on-tribals",
+                "title": "Impact on tribals",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_15-development-projects-and-tribals_urbanization-and-industrialization",
+            "title": "Urbanization and Industrialization",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_15-development-projects-and-tribals_urbanization-and-industrialization_cultural-impact",
+                "title": "Cultural impact",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_15-development-projects-and-tribals_urbanization-and-industrialization_economic-impact",
+                "title": "Economic impact",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperiimd_16-exploitation-and-deprivation",
+        "title": "16. Exploitation and Deprivation",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_16-exploitation-and-deprivation_marginalized-groups",
+            "title": "Marginalized Groups",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_16-exploitation-and-deprivation_marginalized-groups_scheduled-castes",
+                "title": "Scheduled Castes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_16-exploitation-and-deprivation_marginalized-groups_scheduled-tribes",
+                "title": "Scheduled Tribes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_16-exploitation-and-deprivation_marginalized-groups_other-backward-classes",
+                "title": "Other Backward Classes",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_16-exploitation-and-deprivation_constitutional-safeguards",
+            "title": "Constitutional Safeguards",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_16-exploitation-and-deprivation_constitutional-safeguards_protective-provisions",
+                "title": "Protective provisions",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_16-exploitation-and-deprivation_constitutional-safeguards_welfare-measures",
+                "title": "Welfare measures",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperiimd_17-social-change-in-tribal-societies",
+        "title": "17. Social Change in Tribal Societies",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_17-social-change-in-tribal-societies_democratic-institutions",
+            "title": "Democratic Institutions",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_17-social-change-in-tribal-societies_democratic-institutions_political-participation",
+                "title": "Political participation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_17-social-change-in-tribal-societies_democratic-institutions_representation",
+                "title": "Representation",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_17-social-change-in-tribal-societies_development-programs",
+            "title": "Development Programs",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_17-social-change-in-tribal-societies_development-programs_welfare-schemes",
+                "title": "Welfare schemes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_17-social-change-in-tribal-societies_development-programs_tribal-development-plans",
+                "title": "Tribal development plans",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_17-social-change-in-tribal-societies_social-transformation",
+            "title": "Social Transformation",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_17-social-change-in-tribal-societies_social-transformation_education",
+                "title": "Education",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_17-social-change-in-tribal-societies_social-transformation_migration",
+                "title": "Migration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_17-social-change-in-tribal-societies_social-transformation_identity-changes",
+                "title": "Identity changes",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperiimd_18-ethnicity-and-ethnic-movements",
+        "title": "18. Ethnicity and Ethnic Movements",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_18-ethnicity-and-ethnic-movements_concept-of-ethnicity",
+            "title": "Concept of Ethnicity",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_18-ethnicity-and-ethnic-movements_concept-of-ethnicity_ethnic-identity",
+                "title": "Ethnic identity",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_18-ethnicity-and-ethnic-movements_concept-of-ethnicity_ethnic-boundaries",
+                "title": "Ethnic boundaries",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_18-ethnicity-and-ethnic-movements_ethnic-conflicts",
+            "title": "Ethnic Conflicts",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_18-ethnicity-and-ethnic-movements_ethnic-conflicts_causes",
+                "title": "Causes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_18-ethnicity-and-ethnic-movements_ethnic-conflicts_forms",
+                "title": "Forms",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_18-ethnicity-and-ethnic-movements_ethnic-conflicts_consequences",
+                "title": "Consequences",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_18-ethnicity-and-ethnic-movements_political-movements",
+            "title": "Political Movements",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_18-ethnicity-and-ethnic-movements_political-movements_regionalism",
+                "title": "Regionalism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_18-ethnicity-and-ethnic-movements_political-movements_autonomy-demands",
+                "title": "Autonomy demands",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_18-ethnicity-and-ethnic-movements_political-movements_pseudo-tribalism",
+                "title": "Pseudo-tribalism",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperiimd_19-tribe-and-religion",
+        "title": "19. Tribe and Religion",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_19-tribe-and-religion_religious-influence",
+            "title": "Religious Influence",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_19-tribe-and-religion_religious-influence_hinduism-and-tribes",
+                "title": "Hinduism and tribes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_19-tribe-and-religion_religious-influence_buddhism-and-tribes",
+                "title": "Buddhism and tribes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_19-tribe-and-religion_religious-influence_christianity-and-tribes",
+                "title": "Christianity and tribes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_19-tribe-and-religion_religious-influence_islam-and-tribes",
+                "title": "Islam and tribes",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperiimd_20-tribe-and-nation-state",
+        "title": "20. Tribe and Nation State",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_20-tribe-and-nation-state_comparative-perspective",
+            "title": "Comparative Perspective",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_20-tribe-and-nation-state_comparative-perspective_tribes-in-india",
+                "title": "Tribes in India",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_20-tribe-and-nation-state_comparative-perspective_tribes-in-other-countries",
+                "title": "Tribes in other countries",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_20-tribe-and-nation-state_integration",
+            "title": "Integration",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_20-tribe-and-nation-state_integration_national-integration",
+                "title": "National integration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_20-tribe-and-nation-state_integration_cultural-autonomy",
+                "title": "Cultural autonomy",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperiimd_21-administration-of-tribal-areas",
+        "title": "21. Administration of Tribal Areas",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_21-administration-of-tribal-areas_historical-administration",
+            "title": "Historical Administration",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_21-administration-of-tribal-areas_historical-administration_colonial-policies",
+                "title": "Colonial policies",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_21-administration-of-tribal-areas_historical-administration_post-independence-policies",
+                "title": "Post-independence policies",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_21-administration-of-tribal-areas_development-plans",
+            "title": "Development Plans",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_21-administration-of-tribal-areas_development-plans_tribal-development-programs",
+                "title": "Tribal development programs",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_21-administration-of-tribal-areas_development-plans_special-area-programs",
+                "title": "Special area programs",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_21-administration-of-tribal-areas_primitive-tribal-groups-ptgs",
+            "title": "Primitive Tribal Groups (PTGs)",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_21-administration-of-tribal-areas_primitive-tribal-groups-ptgs_concept",
+                "title": "Concept",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_21-administration-of-tribal-areas_primitive-tribal-groups-ptgs_distribution",
+                "title": "Distribution",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_21-administration-of-tribal-areas_primitive-tribal-groups-ptgs_development-strategies",
+                "title": "Development strategies",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_21-administration-of-tribal-areas_role-of-ngos",
+            "title": "Role of NGOs",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_21-administration-of-tribal-areas_role-of-ngos_ngo-interventions",
+                "title": "NGO interventions",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_21-administration-of-tribal-areas_role-of-ngos_grassroots-development",
+                "title": "Grassroots development",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalanthropologypaperiimd_22-applied-anthropology-in-india",
+        "title": "22. Applied Anthropology in India",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_22-applied-anthropology-in-india_rural-development",
+            "title": "Rural Development",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_22-applied-anthropology-in-india_rural-development_anthropology-in-rural-planning",
+                "title": "Anthropology in rural planning",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_22-applied-anthropology-in-india_rural-development_community-development",
+                "title": "Community development",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_22-applied-anthropology-in-india_policy-making",
+            "title": "Policy Making",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_22-applied-anthropology-in-india_policy-making_anthropological-inputs",
+                "title": "Anthropological inputs",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_22-applied-anthropology-in-india_policy-making_development-planning",
+                "title": "Development planning",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalanthropologypaperiimd_22-applied-anthropology-in-india_contemporary-issues",
+            "title": "Contemporary Issues",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_22-applied-anthropology-in-india_contemporary-issues_regionalism",
+                "title": "Regionalism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_22-applied-anthropology-in-india_contemporary-issues_communalism",
+                "title": "Communalism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalanthropologypaperiimd_22-applied-anthropology-in-india_contemporary-issues_political-movements",
+                "title": "Political movements",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

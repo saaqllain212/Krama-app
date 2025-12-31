@@ -1,0 +1,1194 @@
+[
+  {
+    "id": "root_upsccsegspaperivdetailedmd",
+    "title": "UPSC_CSE_GS_PAPER_IV_DETAILED.md",
+    "type": "branch",
+    "children": []
+  },
+  {
+    "id": "root_ethics-integrity-and-aptitude",
+    "title": "Ethics, Integrity and Aptitude",
+    "type": "branch",
+    "children": [
+      {
+        "id": "root_ethics-integrity-and-aptitude_1-ethics-and-human-interface",
+        "title": "1. Ethics and Human Interface",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_ethics-integrity-and-aptitude_1-ethics-and-human-interface_ethics",
+            "title": "Ethics",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_1-ethics-and-human-interface_ethics_meaning-of-ethics",
+                "title": "Meaning of ethics",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_1-ethics-and-human-interface_ethics_nature-of-ethics",
+                "title": "Nature of ethics",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_1-ethics-and-human-interface_ethics_ethics-and-morality",
+                "title": "Ethics and morality",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_1-ethics-and-human-interface_ethics_ethical-relativism",
+                "title": "Ethical relativism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_1-ethics-and-human-interface_ethics_ethical-absolutism",
+                "title": "Ethical absolutism",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ethics-integrity-and-aptitude_1-ethics-and-human-interface_human-values",
+            "title": "Human Values",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_1-ethics-and-human-interface_human-values_meaning-of-human-values",
+                "title": "Meaning of human values",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_1-ethics-and-human-interface_human-values_sources-of-values-family-society-education-religion",
+                "title": "Sources of values (family, society, education, religion)",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_1-ethics-and-human-interface_human-values_value-formation",
+                "title": "Value formation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_1-ethics-and-human-interface_human-values_value-conflict",
+                "title": "Value conflict",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ethics-integrity-and-aptitude_1-ethics-and-human-interface_ethics-and-human-conduct",
+            "title": "Ethics and Human Conduct",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_1-ethics-and-human-interface_ethics-and-human-conduct_ethical-behaviour",
+                "title": "Ethical behaviour",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_1-ethics-and-human-interface_ethics-and-human-conduct_moral-judgement",
+                "title": "Moral judgement",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_1-ethics-and-human-interface_ethics-and-human-conduct_moral-reasoning",
+                "title": "Moral reasoning",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_1-ethics-and-human-interface_ethics-and-human-conduct_moral-dilemmas",
+                "title": "Moral dilemmas",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ethics-integrity-and-aptitude_1-ethics-and-human-interface_ethics-in-public-and-private-relationships",
+            "title": "Ethics in Public and Private Relationships",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_1-ethics-and-human-interface_ethics-in-public-and-private-relationships_ethics-in-personal-life",
+                "title": "Ethics in personal life",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_1-ethics-and-human-interface_ethics-in-public-and-private-relationships_ethics-in-professional-life",
+                "title": "Ethics in professional life",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_1-ethics-and-human-interface_ethics-in-public-and-private-relationships_ethics-in-public-life",
+                "title": "Ethics in public life",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_1-ethics-and-human-interface_ethics-in-public-and-private-relationships_conflict-between-public-and-private-ethics",
+                "title": "Conflict between public and private ethics",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_ethics-integrity-and-aptitude_2-attitude",
+        "title": "2. Attitude",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_ethics-integrity-and-aptitude_2-attitude_concept-of-attitude",
+            "title": "Concept of Attitude",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_2-attitude_concept-of-attitude_meaning-of-attitude",
+                "title": "Meaning of attitude",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_2-attitude_concept-of-attitude_components-of-attitude-cognitive-affective-behavioural",
+                "title": "Components of attitude (cognitive, affective, behavioural)",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_2-attitude_concept-of-attitude_formation-of-attitudes",
+                "title": "Formation of attitudes",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ethics-integrity-and-aptitude_2-attitude_functions-of-attitude",
+            "title": "Functions of Attitude",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_2-attitude_functions-of-attitude_knowledge-function",
+                "title": "Knowledge function",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_2-attitude_functions-of-attitude_ego-defensive-function",
+                "title": "Ego-defensive function",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_2-attitude_functions-of-attitude_value-expressive-function",
+                "title": "Value-expressive function",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_2-attitude_functions-of-attitude_instrumental-function",
+                "title": "Instrumental function",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ethics-integrity-and-aptitude_2-attitude_attitude-and-behaviour",
+            "title": "Attitude and Behaviour",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_2-attitude_attitude-and-behaviour_attitudebehaviour-relationship",
+                "title": "Attitude\u2013behaviour relationship",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_2-attitude_attitude-and-behaviour_factors-influencing-behaviour",
+                "title": "Factors influencing behaviour",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ethics-integrity-and-aptitude_2-attitude_moral-and-political-attitudes",
+            "title": "Moral and Political Attitudes",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_2-attitude_moral-and-political-attitudes_moral-attitudes",
+                "title": "Moral attitudes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_2-attitude_moral-and-political-attitudes_political-attitudes",
+                "title": "Political attitudes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_2-attitude_moral-and-political-attitudes_social-influence",
+                "title": "Social influence",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ethics-integrity-and-aptitude_2-attitude_social-influence-and-persuasion",
+            "title": "Social Influence and Persuasion",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_2-attitude_social-influence-and-persuasion_persuasion",
+                "title": "Persuasion",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_2-attitude_social-influence-and-persuasion_conformity",
+                "title": "Conformity",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_2-attitude_social-influence-and-persuasion_obedience",
+                "title": "Obedience",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_2-attitude_social-influence-and-persuasion_leadership-influence",
+                "title": "Leadership influence",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_ethics-integrity-and-aptitude_3-aptitude",
+        "title": "3. Aptitude",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_ethics-integrity-and-aptitude_3-aptitude_concept-of-aptitude",
+            "title": "Concept of Aptitude",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_3-aptitude_concept-of-aptitude_meaning-of-aptitude",
+                "title": "Meaning of aptitude",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_3-aptitude_concept-of-aptitude_types-of-aptitude",
+                "title": "Types of aptitude",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ethics-integrity-and-aptitude_3-aptitude_foundational-aptitudes",
+            "title": "Foundational Aptitudes",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_3-aptitude_foundational-aptitudes_integrity",
+                "title": "Integrity",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_3-aptitude_foundational-aptitudes_honesty",
+                "title": "Honesty",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_3-aptitude_foundational-aptitudes_empathy",
+                "title": "Empathy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_3-aptitude_foundational-aptitudes_compassion",
+                "title": "Compassion",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_3-aptitude_foundational-aptitudes_tolerance",
+                "title": "Tolerance",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ethics-integrity-and-aptitude_3-aptitude_aptitude-in-civil-services",
+            "title": "Aptitude in Civil Services",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_3-aptitude_aptitude-in-civil-services_decision-making-ability",
+                "title": "Decision-making ability",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_3-aptitude_aptitude-in-civil-services_problem-solving-ability",
+                "title": "Problem-solving ability",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_3-aptitude_aptitude-in-civil-services_emotional-intelligence",
+                "title": "Emotional intelligence",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_3-aptitude_aptitude-in-civil-services_leadership-aptitude",
+                "title": "Leadership aptitude",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_ethics-integrity-and-aptitude_4-emotional-intelligence",
+        "title": "4. Emotional Intelligence",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_ethics-integrity-and-aptitude_4-emotional-intelligence_concept",
+            "title": "Concept",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_4-emotional-intelligence_concept_meaning-of-emotional-intelligence",
+                "title": "Meaning of emotional intelligence",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_4-emotional-intelligence_concept_components-of-emotional-intelligence",
+                "title": "Components of emotional intelligence",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ethics-integrity-and-aptitude_4-emotional-intelligence_ei-models",
+            "title": "EI Models",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_4-emotional-intelligence_ei-models_goleman-model",
+                "title": "Goleman model",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_4-emotional-intelligence_ei-models_ability-model",
+                "title": "Ability model",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_4-emotional-intelligence_ei-models_trait-model",
+                "title": "Trait model",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ethics-integrity-and-aptitude_4-emotional-intelligence_ei-in-administration",
+            "title": "EI in Administration",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_4-emotional-intelligence_ei-in-administration_ei-in-leadership",
+                "title": "EI in leadership",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_4-emotional-intelligence_ei-in-administration_ei-in-decision-making",
+                "title": "EI in decision-making",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_4-emotional-intelligence_ei-in-administration_ei-in-conflict-resolution",
+                "title": "EI in conflict resolution",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_ethics-integrity-and-aptitude_5-moral-thinkers-and-philosophers",
+        "title": "5. Moral Thinkers and Philosophers",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_ethics-integrity-and-aptitude_5-moral-thinkers-and-philosophers_indian-thinkers",
+            "title": "Indian Thinkers",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_5-moral-thinkers-and-philosophers_indian-thinkers_mahatma-gandhi",
+                "title": "Mahatma Gandhi",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_5-moral-thinkers-and-philosophers_indian-thinkers_swami-vivekananda",
+                "title": "Swami Vivekananda",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_5-moral-thinkers-and-philosophers_indian-thinkers_rabindranath-tagore",
+                "title": "Rabindranath Tagore",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_5-moral-thinkers-and-philosophers_indian-thinkers_br-ambedkar",
+                "title": "B.R. Ambedkar",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_5-moral-thinkers-and-philosophers_indian-thinkers_kautilya",
+                "title": "Kautilya",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ethics-integrity-and-aptitude_5-moral-thinkers-and-philosophers_western-thinkers",
+            "title": "Western Thinkers",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_5-moral-thinkers-and-philosophers_western-thinkers_aristotle",
+                "title": "Aristotle",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_5-moral-thinkers-and-philosophers_western-thinkers_plato",
+                "title": "Plato",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_5-moral-thinkers-and-philosophers_western-thinkers_immanuel-kant",
+                "title": "Immanuel Kant",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_5-moral-thinkers-and-philosophers_western-thinkers_jeremy-bentham",
+                "title": "Jeremy Bentham",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_5-moral-thinkers-and-philosophers_western-thinkers_john-stuart-mill",
+                "title": "John Stuart Mill",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_5-moral-thinkers-and-philosophers_western-thinkers_john-rawls",
+                "title": "John Rawls",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_ethics-integrity-and-aptitude_6-publiccivil-service-values-and-ethics-in-public-administration",
+        "title": "6. Public/Civil Service Values and Ethics in Public Administration",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_ethics-integrity-and-aptitude_6-publiccivil-service-values-and-ethics-in-public-administration_civil-service-values",
+            "title": "Civil Service Values",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_6-publiccivil-service-values-and-ethics-in-public-administration_civil-service-values_integrity",
+                "title": "Integrity",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_6-publiccivil-service-values-and-ethics-in-public-administration_civil-service-values_objectivity",
+                "title": "Objectivity",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_6-publiccivil-service-values-and-ethics-in-public-administration_civil-service-values_impartiality",
+                "title": "Impartiality",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_6-publiccivil-service-values-and-ethics-in-public-administration_civil-service-values_neutrality",
+                "title": "Neutrality",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_6-publiccivil-service-values-and-ethics-in-public-administration_civil-service-values_accountability",
+                "title": "Accountability",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_6-publiccivil-service-values-and-ethics-in-public-administration_civil-service-values_transparency",
+                "title": "Transparency",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ethics-integrity-and-aptitude_6-publiccivil-service-values-and-ethics-in-public-administration_ethics-in-public-administration",
+            "title": "Ethics in Public Administration",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_6-publiccivil-service-values-and-ethics-in-public-administration_ethics-in-public-administration_ethical-governance",
+                "title": "Ethical governance",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_6-publiccivil-service-values-and-ethics-in-public-administration_ethics-in-public-administration_democratic-accountability",
+                "title": "Democratic accountability",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_6-publiccivil-service-values-and-ethics-in-public-administration_ethics-in-public-administration_rule-of-law",
+                "title": "Rule of law",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ethics-integrity-and-aptitude_6-publiccivil-service-values-and-ethics-in-public-administration_ethical-issues-in-administration",
+            "title": "Ethical Issues in Administration",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_6-publiccivil-service-values-and-ethics-in-public-administration_ethical-issues-in-administration_corruption",
+                "title": "Corruption",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_6-publiccivil-service-values-and-ethics-in-public-administration_ethical-issues-in-administration_nepotism",
+                "title": "Nepotism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_6-publiccivil-service-values-and-ethics-in-public-administration_ethical-issues-in-administration_favoritism",
+                "title": "Favoritism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_6-publiccivil-service-values-and-ethics-in-public-administration_ethical-issues-in-administration_abuse-of-power",
+                "title": "Abuse of power",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_ethics-integrity-and-aptitude_7-probity-in-governance",
+        "title": "7. Probity in Governance",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_ethics-integrity-and-aptitude_7-probity-in-governance_concept-of-probity",
+            "title": "Concept of Probity",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_7-probity-in-governance_concept-of-probity_meaning-of-probity",
+                "title": "Meaning of probity",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_7-probity-in-governance_concept-of-probity_importance-of-probity-in-governance",
+                "title": "Importance of probity in governance",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ethics-integrity-and-aptitude_7-probity-in-governance_institutional-framework",
+            "title": "Institutional Framework",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_7-probity-in-governance_institutional-framework_code-of-conduct",
+                "title": "Code of conduct",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_7-probity-in-governance_institutional-framework_code-of-ethics",
+                "title": "Code of ethics",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_7-probity-in-governance_institutional-framework_vigilance-mechanisms",
+                "title": "Vigilance mechanisms",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ethics-integrity-and-aptitude_7-probity-in-governance_transparency",
+            "title": "Transparency",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_7-probity-in-governance_transparency_right-to-information",
+                "title": "Right to Information",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_7-probity-in-governance_transparency_citizen-charters",
+                "title": "Citizen charters",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_7-probity-in-governance_transparency_social-audit",
+                "title": "Social audit",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ethics-integrity-and-aptitude_7-probity-in-governance_accountability",
+            "title": "Accountability",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_7-probity-in-governance_accountability_legislative-accountability",
+                "title": "Legislative accountability",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_7-probity-in-governance_accountability_executive-accountability",
+                "title": "Executive accountability",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_7-probity-in-governance_accountability_judicial-accountability",
+                "title": "Judicial accountability",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_ethics-integrity-and-aptitude_8-information-sharing-and-transparency-in-government",
+        "title": "8. Information Sharing and Transparency in Government",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_ethics-integrity-and-aptitude_8-information-sharing-and-transparency-in-government_information-ethics",
+            "title": "Information Ethics",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_8-information-sharing-and-transparency-in-government_information-ethics_right-to-information",
+                "title": "Right to information",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_8-information-sharing-and-transparency-in-government_information-ethics_data-protection",
+                "title": "Data protection",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_8-information-sharing-and-transparency-in-government_information-ethics_privacy",
+                "title": "Privacy",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ethics-integrity-and-aptitude_8-information-sharing-and-transparency-in-government_challenges",
+            "title": "Challenges",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_8-information-sharing-and-transparency-in-government_challenges_official-secrecy",
+                "title": "Official secrecy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_8-information-sharing-and-transparency-in-government_challenges_whistleblower-protection",
+                "title": "Whistleblower protection",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_ethics-integrity-and-aptitude_9-codes-of-ethics-and-codes-of-conduct",
+        "title": "9. Codes of Ethics and Codes of Conduct",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_ethics-integrity-and-aptitude_9-codes-of-ethics-and-codes-of-conduct_codes",
+            "title": "Codes",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_9-codes-of-ethics-and-codes-of-conduct_codes_civil-services-conduct-rules",
+                "title": "Civil services conduct rules",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_9-codes-of-ethics-and-codes-of-conduct_codes_professional-ethics",
+                "title": "Professional ethics",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ethics-integrity-and-aptitude_9-codes-of-ethics-and-codes-of-conduct_enforcement",
+            "title": "Enforcement",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_9-codes-of-ethics-and-codes-of-conduct_enforcement_disciplinary-mechanisms",
+                "title": "Disciplinary mechanisms",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_9-codes-of-ethics-and-codes-of-conduct_enforcement_vigilance-bodies",
+                "title": "Vigilance bodies",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_ethics-integrity-and-aptitude_10-corruption",
+        "title": "10. Corruption",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_ethics-integrity-and-aptitude_10-corruption_concept",
+            "title": "Concept",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_10-corruption_concept_meaning-of-corruption",
+                "title": "Meaning of corruption",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_10-corruption_concept_types-of-corruption",
+                "title": "Types of corruption",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ethics-integrity-and-aptitude_10-corruption_causes",
+            "title": "Causes",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_10-corruption_causes_systemic-causes",
+                "title": "Systemic causes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_10-corruption_causes_individual-causes",
+                "title": "Individual causes",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ethics-integrity-and-aptitude_10-corruption_consequences",
+            "title": "Consequences",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_10-corruption_consequences_economic-impact",
+                "title": "Economic impact",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_10-corruption_consequences_social-impact",
+                "title": "Social impact",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_10-corruption_consequences_political-impact",
+                "title": "Political impact",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ethics-integrity-and-aptitude_10-corruption_anti-corruption-measures",
+            "title": "Anti-Corruption Measures",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_10-corruption_anti-corruption-measures_legal-measures",
+                "title": "Legal measures",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_10-corruption_anti-corruption-measures_institutional-measures",
+                "title": "Institutional measures",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_10-corruption_anti-corruption-measures_preventive-vigilance",
+                "title": "Preventive vigilance",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_ethics-integrity-and-aptitude_11-corporate-governance",
+        "title": "11. Corporate Governance",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_ethics-integrity-and-aptitude_11-corporate-governance_concept",
+            "title": "Concept",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_11-corporate-governance_concept_meaning-of-corporate-governance",
+                "title": "Meaning of corporate governance",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_11-corporate-governance_concept_principles-of-corporate-governance",
+                "title": "Principles of corporate governance",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ethics-integrity-and-aptitude_11-corporate-governance_ethics-in-corporate-sector",
+            "title": "Ethics in Corporate Sector",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_11-corporate-governance_ethics-in-corporate-sector_corporate-social-responsibility",
+                "title": "Corporate social responsibility",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_11-corporate-governance_ethics-in-corporate-sector_business-ethics",
+                "title": "Business ethics",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_ethics-integrity-and-aptitude_12-governance-ethics-and-accountability",
+        "title": "12. Governance, Ethics and Accountability",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_ethics-integrity-and-aptitude_12-governance-ethics-and-accountability_ethical-governance",
+            "title": "Ethical Governance",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_12-governance-ethics-and-accountability_ethical-governance_ethical-decision-making",
+                "title": "Ethical decision-making",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_12-governance-ethics-and-accountability_ethical-governance_ethical-leadership",
+                "title": "Ethical leadership",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ethics-integrity-and-aptitude_12-governance-ethics-and-accountability_accountability-mechanisms",
+            "title": "Accountability Mechanisms",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_12-governance-ethics-and-accountability_accountability-mechanisms_audits",
+                "title": "Audits",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_12-governance-ethics-and-accountability_accountability-mechanisms_ombudsman-institutions",
+                "title": "Ombudsman institutions",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_12-governance-ethics-and-accountability_accountability-mechanisms_lokpal-and-lokayuktas",
+                "title": "Lokpal and Lokayuktas",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_ethics-integrity-and-aptitude_13-ethics-in-international-relations",
+        "title": "13. Ethics in International Relations",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_ethics-integrity-and-aptitude_13-ethics-in-international-relations_ethical-issues",
+            "title": "Ethical Issues",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_13-ethics-in-international-relations_ethical-issues_human-rights",
+                "title": "Human rights",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_13-ethics-in-international-relations_ethical-issues_global-justice",
+                "title": "Global justice",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_13-ethics-in-international-relations_ethical-issues_climate-ethics",
+                "title": "Climate ethics",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_ethics-integrity-and-aptitude_14-ethical-issues-in-emerging-areas",
+        "title": "14. Ethical Issues in Emerging Areas",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_ethics-integrity-and-aptitude_14-ethical-issues-in-emerging-areas_technology-and-ethics",
+            "title": "Technology and Ethics",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_14-ethical-issues-in-emerging-areas_technology-and-ethics_artificial-intelligence-ethics",
+                "title": "Artificial intelligence ethics",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_14-ethical-issues-in-emerging-areas_technology-and-ethics_data-ethics",
+                "title": "Data ethics",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_14-ethical-issues-in-emerging-areas_technology-and-ethics_bioethics",
+                "title": "Bioethics",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ethics-integrity-and-aptitude_14-ethical-issues-in-emerging-areas_environmental-ethics",
+            "title": "Environmental Ethics",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_14-ethical-issues-in-emerging-areas_environmental-ethics_sustainable-development",
+                "title": "Sustainable development",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_14-ethical-issues-in-emerging-areas_environmental-ethics_intergenerational-equity",
+                "title": "Intergenerational equity",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_ethics-integrity-and-aptitude_15-case-studies-on-ethics",
+        "title": "15. Case Studies on Ethics",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_ethics-integrity-and-aptitude_15-case-studies-on-ethics_nature-of-case-studies",
+            "title": "Nature of Case Studies",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_15-case-studies-on-ethics_nature-of-case-studies_ethical-dilemmas",
+                "title": "Ethical dilemmas",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_15-case-studies-on-ethics_nature-of-case-studies_administrative-dilemmas",
+                "title": "Administrative dilemmas",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ethics-integrity-and-aptitude_15-case-studies-on-ethics_stakeholder-analysis",
+            "title": "Stakeholder Analysis",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_15-case-studies-on-ethics_stakeholder-analysis_identification-of-stakeholders",
+                "title": "Identification of stakeholders",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_15-case-studies-on-ethics_stakeholder-analysis_conflicting-interests",
+                "title": "Conflicting interests",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_ethics-integrity-and-aptitude_15-case-studies-on-ethics_ethical-decision-making",
+            "title": "Ethical Decision Making",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_ethics-integrity-and-aptitude_15-case-studies-on-ethics_ethical-decision-making_options-analysis",
+                "title": "Options analysis",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_15-case-studies-on-ethics_ethical-decision-making_consequences-analysis",
+                "title": "Consequences analysis",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_ethics-integrity-and-aptitude_15-case-studies-on-ethics_ethical-decision-making_value-based-resolution",
+                "title": "Value-based resolution",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

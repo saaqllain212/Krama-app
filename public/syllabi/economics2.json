@@ -1,0 +1,1419 @@
+[
+  {
+    "id": "root_upsccseoptionaleconomicspaperiimd",
+    "title": "UPSC_CSE_OPTIONAL_ECONOMICS_PAPER_II.md",
+    "type": "branch",
+    "children": [
+      {
+        "id": "root_upsccseoptionaleconomicspaperiimd_1-indian-economy-before-independence",
+        "title": "1. Indian Economy Before Independence",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_1-indian-economy-before-independence_structure-of-the-colonial-economy",
+            "title": "Structure of the Colonial Economy",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_1-indian-economy-before-independence_structure-of-the-colonial-economy_nature-of-colonial-economy",
+                "title": "Nature of colonial economy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_1-indian-economy-before-independence_structure-of-the-colonial-economy_role-of-british-imperialism",
+                "title": "Role of British imperialism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_1-indian-economy-before-independence_structure-of-the-colonial-economy_integration-with-world-economy",
+                "title": "Integration with world economy",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_1-indian-economy-before-independence_agriculture",
+            "title": "Agriculture",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_1-indian-economy-before-independence_agriculture_land-revenue-systems-permanent-settlement-ryotwari-mahalwari",
+                "title": "Land revenue systems (Permanent Settlement, Ryotwari, Mahalwari)",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_1-indian-economy-before-independence_agriculture_commercialization-of-agriculture",
+                "title": "Commercialization of agriculture",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_1-indian-economy-before-independence_agriculture_agricultural-productivity",
+                "title": "Agricultural productivity",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_1-indian-economy-before-independence_agriculture_famines-and-food-scarcity",
+                "title": "Famines and food scarcity",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_1-indian-economy-before-independence_industry",
+            "title": "Industry",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_1-indian-economy-before-independence_industry_traditional-handicrafts",
+                "title": "Traditional handicrafts",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_1-indian-economy-before-independence_industry_deindustrialization",
+                "title": "Deindustrialization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_1-indian-economy-before-independence_industry_rise-of-modern-industries",
+                "title": "Rise of modern industries",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_1-indian-economy-before-independence_industry_industrial-labor",
+                "title": "Industrial labor",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_1-indian-economy-before-independence_trade-and-transport",
+            "title": "Trade and Transport",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_1-indian-economy-before-independence_trade-and-transport_foreign-trade-patterns",
+                "title": "Foreign trade patterns",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_1-indian-economy-before-independence_trade-and-transport_drain-of-wealth",
+                "title": "Drain of wealth",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_1-indian-economy-before-independence_trade-and-transport_development-of-railways",
+                "title": "Development of railways",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_1-indian-economy-before-independence_trade-and-transport_ports-and-shipping",
+                "title": "Ports and shipping",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_1-indian-economy-before-independence_economic-impact-of-colonial-rule",
+            "title": "Economic Impact of Colonial Rule",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_1-indian-economy-before-independence_economic-impact-of-colonial-rule_poverty-and-stagnation",
+                "title": "Poverty and stagnation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_1-indian-economy-before-independence_economic-impact-of-colonial-rule_regional-imbalances",
+                "title": "Regional imbalances",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_1-indian-economy-before-independence_economic-impact-of-colonial-rule_critique-of-colonial-policies",
+                "title": "Critique of colonial policies",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionaleconomicspaperiimd_2-indian-economy-after-independence",
+        "title": "2. Indian Economy After Independence",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_2-indian-economy-after-independence_development-strategy",
+            "title": "Development Strategy",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_2-indian-economy-after-independence_development-strategy_objectives-of-economic-planning",
+                "title": "Objectives of economic planning",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_2-indian-economy-after-independence_development-strategy_mixed-economy-framework",
+                "title": "Mixed economy framework",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_2-indian-economy-after-independence_development-strategy_role-of-public-sector",
+                "title": "Role of public sector",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_2-indian-economy-after-independence_planning-in-india",
+            "title": "Planning in India",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_2-indian-economy-after-independence_planning-in-india_planning-commission",
+                "title": "Planning Commission",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_2-indian-economy-after-independence_planning-in-india_five-year-plans",
+                "title": "Five-Year Plans",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_2-indian-economy-after-independence_planning-in-india_plan-priorities-and-outcomes",
+                "title": "Plan priorities and outcomes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_2-indian-economy-after-independence_planning-in-india_shift-from-centralized-planning",
+                "title": "Shift from centralized planning",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_2-indian-economy-after-independence_economic-reforms",
+            "title": "Economic Reforms",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_2-indian-economy-after-independence_economic-reforms_liberalization",
+                "title": "Liberalization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_2-indian-economy-after-independence_economic-reforms_privatization",
+                "title": "Privatization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_2-indian-economy-after-independence_economic-reforms_globalization",
+                "title": "Globalization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_2-indian-economy-after-independence_economic-reforms_structural-adjustment",
+                "title": "Structural adjustment",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionaleconomicspaperiimd_3-agricultural-development",
+        "title": "3. Agricultural Development",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_3-agricultural-development_agrarian-structure",
+            "title": "Agrarian Structure",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_3-agricultural-development_agrarian-structure_land-reforms",
+                "title": "Land reforms",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_3-agricultural-development_agrarian-structure_tenancy-reforms",
+                "title": "Tenancy reforms",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_3-agricultural-development_agrarian-structure_consolidation-of-holdings",
+                "title": "Consolidation of holdings",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_3-agricultural-development_technological-change",
+            "title": "Technological Change",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_3-agricultural-development_technological-change_green-revolution",
+                "title": "Green Revolution",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_3-agricultural-development_technological-change_hyv-seeds",
+                "title": "HYV seeds",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_3-agricultural-development_technological-change_mechanization",
+                "title": "Mechanization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_3-agricultural-development_technological-change_irrigation-expansion",
+                "title": "Irrigation expansion",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_3-agricultural-development_agricultural-inputs",
+            "title": "Agricultural Inputs",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_3-agricultural-development_agricultural-inputs_fertilizers",
+                "title": "Fertilizers",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_3-agricultural-development_agricultural-inputs_credit",
+                "title": "Credit",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_3-agricultural-development_agricultural-inputs_extension-services",
+                "title": "Extension services",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_3-agricultural-development_agricultural-marketing",
+            "title": "Agricultural Marketing",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_3-agricultural-development_agricultural-marketing_apmc-system",
+                "title": "APMC system",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_3-agricultural-development_agricultural-marketing_msp",
+                "title": "MSP",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_3-agricultural-development_agricultural-marketing_procurement-and-storage",
+                "title": "Procurement and storage",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_3-agricultural-development_agricultural-issues",
+            "title": "Agricultural Issues",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_3-agricultural-development_agricultural-issues_regional-disparities",
+                "title": "Regional disparities",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_3-agricultural-development_agricultural-issues_sustainability",
+                "title": "Sustainability",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_3-agricultural-development_agricultural-issues_climate-impact-on-agriculture",
+                "title": "Climate impact on agriculture",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionaleconomicspaperiimd_4-industrial-development",
+        "title": "4. Industrial Development",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_4-industrial-development_industrial-policy",
+            "title": "Industrial Policy",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_4-industrial-development_industrial-policy_industrial-policy-resolutions",
+                "title": "Industrial Policy Resolutions",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_4-industrial-development_industrial-policy_role-of-public-sector-enterprises",
+                "title": "Role of public sector enterprises",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_4-industrial-development_manufacturing-sector",
+            "title": "Manufacturing Sector",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_4-industrial-development_manufacturing-sector_growth-of-manufacturing",
+                "title": "Growth of manufacturing",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_4-industrial-development_manufacturing-sector_msmes",
+                "title": "MSMEs",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_4-industrial-development_manufacturing-sector_industrial-clusters",
+                "title": "Industrial clusters",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_4-industrial-development_industrial-productivity",
+            "title": "Industrial Productivity",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_4-industrial-development_industrial-productivity_technology-adoption",
+                "title": "Technology adoption",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_4-industrial-development_industrial-productivity_skill-development",
+                "title": "Skill development",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_4-industrial-development_industrial-challenges",
+            "title": "Industrial Challenges",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_4-industrial-development_industrial-challenges_infrastructure-constraints",
+                "title": "Infrastructure constraints",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_4-industrial-development_industrial-challenges_labor-issues",
+                "title": "Labor issues",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_4-industrial-development_industrial-challenges_environmental-concerns",
+                "title": "Environmental concerns",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionaleconomicspaperiimd_5-infrastructure-and-energy",
+        "title": "5. Infrastructure and Energy",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_5-infrastructure-and-energy_infrastructure-development",
+            "title": "Infrastructure Development",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_5-infrastructure-and-energy_infrastructure-development_power-sector",
+                "title": "Power sector",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_5-infrastructure-and-energy_infrastructure-development_transport-infrastructure",
+                "title": "Transport infrastructure",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_5-infrastructure-and-energy_infrastructure-development_telecommunications",
+                "title": "Telecommunications",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_5-infrastructure-and-energy_infrastructure-development_urban-infrastructure",
+                "title": "Urban infrastructure",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_5-infrastructure-and-energy_energy-sector",
+            "title": "Energy Sector",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_5-infrastructure-and-energy_energy-sector_coal",
+                "title": "Coal",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_5-infrastructure-and-energy_energy-sector_oil-and-gas",
+                "title": "Oil and gas",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_5-infrastructure-and-energy_energy-sector_electricity",
+                "title": "Electricity",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_5-infrastructure-and-energy_energy-sector_renewable-energy",
+                "title": "Renewable energy",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_5-infrastructure-and-energy_infrastructure-financing",
+            "title": "Infrastructure Financing",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_5-infrastructure-and-energy_infrastructure-financing_public-investment",
+                "title": "Public investment",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_5-infrastructure-and-energy_infrastructure-financing_private-investment",
+                "title": "Private investment",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_5-infrastructure-and-energy_infrastructure-financing_ppp-models",
+                "title": "PPP models",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionaleconomicspaperiimd_6-services-sector",
+        "title": "6. Services Sector",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_6-services-sector_growth-of-services",
+            "title": "Growth of Services",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_6-services-sector_growth-of-services_contribution-to-gdp",
+                "title": "Contribution to GDP",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_6-services-sector_growth-of-services_employment-generation",
+                "title": "Employment generation",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_6-services-sector_key-service-areas",
+            "title": "Key Service Areas",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_6-services-sector_key-service-areas_it-and-it-enabled-services",
+                "title": "IT and IT-enabled services",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_6-services-sector_key-service-areas_banking-and-finance",
+                "title": "Banking and finance",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_6-services-sector_key-service-areas_tourism",
+                "title": "Tourism",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_6-services-sector_key-service-areas_trade-and-commerce",
+                "title": "Trade and commerce",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_6-services-sector_issues-in-services",
+            "title": "Issues in Services",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_6-services-sector_issues-in-services_informalization",
+                "title": "Informalization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_6-services-sector_issues-in-services_productivity-challenges",
+                "title": "Productivity challenges",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionaleconomicspaperiimd_7-employment-and-labour",
+        "title": "7. Employment and Labour",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_7-employment-and-labour_employment-trends",
+            "title": "Employment Trends",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_7-employment-and-labour_employment-trends_organized-vs-unorganized-sector",
+                "title": "Organized vs unorganized sector",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_7-employment-and-labour_employment-trends_informal-employment",
+                "title": "Informal employment",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_7-employment-and-labour_labour-market-issues",
+            "title": "Labour Market Issues",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_7-employment-and-labour_labour-market-issues_unemployment",
+                "title": "Unemployment",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_7-employment-and-labour_labour-market-issues_underemployment",
+                "title": "Underemployment",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_7-employment-and-labour_labour-market-issues_skill-mismatch",
+                "title": "Skill mismatch",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_7-employment-and-labour_labour-reforms",
+            "title": "Labour Reforms",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_7-employment-and-labour_labour-reforms_labour-laws",
+                "title": "Labour laws",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_7-employment-and-labour_labour-reforms_social-security",
+                "title": "Social security",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_7-employment-and-labour_labour-reforms_industrial-relations",
+                "title": "Industrial relations",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionaleconomicspaperiimd_8-poverty-and-inequality",
+        "title": "8. Poverty and Inequality",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_8-poverty-and-inequality_poverty-measurement",
+            "title": "Poverty Measurement",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_8-poverty-and-inequality_poverty-measurement_poverty-lines",
+                "title": "Poverty lines",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_8-poverty-and-inequality_poverty-measurement_committees-on-poverty-estimation",
+                "title": "Committees on poverty estimation",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_8-poverty-and-inequality_anti-poverty-programs",
+            "title": "Anti-Poverty Programs",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_8-poverty-and-inequality_anti-poverty-programs_employment-generation-schemes",
+                "title": "Employment generation schemes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_8-poverty-and-inequality_anti-poverty-programs_food-security-programs",
+                "title": "Food security programs",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_8-poverty-and-inequality_anti-poverty-programs_direct-benefit-transfers",
+                "title": "Direct benefit transfers",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_8-poverty-and-inequality_inequality",
+            "title": "Inequality",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_8-poverty-and-inequality_inequality_income-inequality",
+                "title": "Income inequality",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_8-poverty-and-inequality_inequality_regional-inequality",
+                "title": "Regional inequality",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_8-poverty-and-inequality_inequality_social-inequality",
+                "title": "Social inequality",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionaleconomicspaperiimd_9-public-finance",
+        "title": "9. Public Finance",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_9-public-finance_fiscal-structure",
+            "title": "Fiscal Structure",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_9-public-finance_fiscal-structure_revenue-sources",
+                "title": "Revenue sources",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_9-public-finance_fiscal-structure_tax-and-non-tax-revenue",
+                "title": "Tax and non-tax revenue",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_9-public-finance_taxation",
+            "title": "Taxation",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_9-public-finance_taxation_direct-taxes",
+                "title": "Direct taxes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_9-public-finance_taxation_indirect-taxes",
+                "title": "Indirect taxes",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_9-public-finance_taxation_gst",
+                "title": "GST",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_9-public-finance_public-expenditure",
+            "title": "Public Expenditure",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_9-public-finance_public-expenditure_social-sector-spending",
+                "title": "Social sector spending",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_9-public-finance_public-expenditure_capital-expenditure",
+                "title": "Capital expenditure",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_9-public-finance_fiscal-deficit",
+            "title": "Fiscal Deficit",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_9-public-finance_fiscal-deficit_budget-deficits",
+                "title": "Budget deficits",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_9-public-finance_fiscal-deficit_fiscal-responsibility-legislation",
+                "title": "Fiscal responsibility legislation",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionaleconomicspaperiimd_10-monetary-and-banking-system",
+        "title": "10. Monetary and Banking System",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_10-monetary-and-banking-system_monetary-policy",
+            "title": "Monetary Policy",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_10-monetary-and-banking-system_monetary-policy_objectives",
+                "title": "Objectives",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_10-monetary-and-banking-system_monetary-policy_instruments",
+                "title": "Instruments",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_10-monetary-and-banking-system_banking-system",
+            "title": "Banking System",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_10-monetary-and-banking-system_banking-system_commercial-banks",
+                "title": "Commercial banks",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_10-monetary-and-banking-system_banking-system_cooperative-banks",
+                "title": "Cooperative banks",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_10-monetary-and-banking-system_banking-system_regional-rural-banks",
+                "title": "Regional rural banks",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_10-monetary-and-banking-system_financial-reforms",
+            "title": "Financial Reforms",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_10-monetary-and-banking-system_financial-reforms_banking-sector-reforms",
+                "title": "Banking sector reforms",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_10-monetary-and-banking-system_financial-reforms_financial-inclusion",
+                "title": "Financial inclusion",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_10-monetary-and-banking-system_capital-market",
+            "title": "Capital Market",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_10-monetary-and-banking-system_capital-market_stock-markets",
+                "title": "Stock markets",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_10-monetary-and-banking-system_capital-market_sebi",
+                "title": "SEBI",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_10-monetary-and-banking-system_capital-market_financial-instruments",
+                "title": "Financial instruments",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionaleconomicspaperiimd_11-external-sector",
+        "title": "11. External Sector",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_11-external-sector_foreign-trade",
+            "title": "Foreign Trade",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_11-external-sector_foreign-trade_export-composition",
+                "title": "Export composition",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_11-external-sector_foreign-trade_import-composition",
+                "title": "Import composition",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_11-external-sector_foreign-trade_trade-policy",
+                "title": "Trade policy",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_11-external-sector_balance-of-payments",
+            "title": "Balance of Payments",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_11-external-sector_balance-of-payments_current-account",
+                "title": "Current account",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_11-external-sector_balance-of-payments_capital-account",
+                "title": "Capital account",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_11-external-sector_balance-of-payments_external-debt",
+                "title": "External debt",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_11-external-sector_exchange-rate-management",
+            "title": "Exchange Rate Management",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_11-external-sector_exchange-rate-management_rupee-management",
+                "title": "Rupee management",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_11-external-sector_exchange-rate-management_foreign-exchange-reserves",
+                "title": "Foreign exchange reserves",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_11-external-sector_foreign-investment",
+            "title": "Foreign Investment",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_11-external-sector_foreign-investment_fdi",
+                "title": "FDI",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_11-external-sector_foreign-investment_fpi",
+                "title": "FPI",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionaleconomicspaperiimd_12-economic-reforms-and-globalization",
+        "title": "12. Economic Reforms and Globalization",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_12-economic-reforms-and-globalization_liberalization-policies",
+            "title": "Liberalization Policies",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_12-economic-reforms-and-globalization_liberalization-policies_trade-liberalization",
+                "title": "Trade liberalization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_12-economic-reforms-and-globalization_liberalization-policies_financial-liberalization",
+                "title": "Financial liberalization",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_12-economic-reforms-and-globalization_impact-of-globalization",
+            "title": "Impact of Globalization",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_12-economic-reforms-and-globalization_impact-of-globalization_growth",
+                "title": "Growth",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_12-economic-reforms-and-globalization_impact-of-globalization_employment",
+                "title": "Employment",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_12-economic-reforms-and-globalization_impact-of-globalization_inequality",
+                "title": "Inequality",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_12-economic-reforms-and-globalization_wto-and-india",
+            "title": "WTO and India",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_12-economic-reforms-and-globalization_wto-and-india_wto-agreements",
+                "title": "WTO agreements",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_12-economic-reforms-and-globalization_wto-and-india_trade-disputes",
+                "title": "Trade disputes",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionaleconomicspaperiimd_13-regional-development",
+        "title": "13. Regional Development",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_13-regional-development_regional-disparities",
+            "title": "Regional Disparities",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_13-regional-development_regional-disparities_inter-state-disparities",
+                "title": "Inter-state disparities",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_13-regional-development_regional-disparities_intra-state-disparities",
+                "title": "Intra-state disparities",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_13-regional-development_backward-area-development",
+            "title": "Backward Area Development",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_13-regional-development_backward-area-development_special-economic-packages",
+                "title": "Special economic packages",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_13-regional-development_backward-area-development_development-programs",
+                "title": "Development programs",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionaleconomicspaperiimd_14-demographic-and-social-sector-development",
+        "title": "14. Demographic and Social Sector Development",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_14-demographic-and-social-sector-development_population-dynamics",
+            "title": "Population Dynamics",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_14-demographic-and-social-sector-development_population-dynamics_population-growth",
+                "title": "Population growth",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_14-demographic-and-social-sector-development_population-dynamics_demographic-dividend",
+                "title": "Demographic dividend",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_14-demographic-and-social-sector-development_population-dynamics_ageing-population",
+                "title": "Ageing population",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_14-demographic-and-social-sector-development_education",
+            "title": "Education",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_14-demographic-and-social-sector-development_education_education-policy",
+                "title": "Education policy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_14-demographic-and-social-sector-development_education_skill-development",
+                "title": "Skill development",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_14-demographic-and-social-sector-development_health",
+            "title": "Health",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_14-demographic-and-social-sector-development_health_public-health-system",
+                "title": "Public health system",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_14-demographic-and-social-sector-development_health_nutrition",
+                "title": "Nutrition",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_14-demographic-and-social-sector-development_social-security",
+            "title": "Social Security",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_14-demographic-and-social-sector-development_social-security_pensions",
+                "title": "Pensions",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_14-demographic-and-social-sector-development_social-security_insurance-schemes",
+                "title": "Insurance schemes",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionaleconomicspaperiimd_15-sustainable-development",
+        "title": "15. Sustainable Development",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_15-sustainable-development_environment-and-economy",
+            "title": "Environment and Economy",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_15-sustainable-development_environment-and-economy_environmental-degradation",
+                "title": "Environmental degradation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_15-sustainable-development_environment-and-economy_resource-depletion",
+                "title": "Resource depletion",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_15-sustainable-development_climate-change",
+            "title": "Climate Change",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_15-sustainable-development_climate-change_climate-impact-on-economy",
+                "title": "Climate impact on economy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_15-sustainable-development_climate-change_adaptation-and-mitigation",
+                "title": "Adaptation and mitigation",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_15-sustainable-development_inclusive-growth",
+            "title": "Inclusive Growth",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_15-sustainable-development_inclusive-growth_social-inclusion",
+                "title": "Social inclusion",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_15-sustainable-development_inclusive-growth_gender-equality",
+                "title": "Gender equality",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionaleconomicspaperiimd_16-contemporary-economic-issues",
+        "title": "16. Contemporary Economic Issues",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_16-contemporary-economic-issues_digital-economy",
+            "title": "Digital Economy",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_16-contemporary-economic-issues_digital-economy_digital-payments",
+                "title": "Digital payments",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_16-contemporary-economic-issues_digital-economy_platform-economy",
+                "title": "Platform economy",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_16-contemporary-economic-issues_urbanization",
+            "title": "Urbanization",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_16-contemporary-economic-issues_urbanization_urban-growth",
+                "title": "Urban growth",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_16-contemporary-economic-issues_urbanization_smart-cities",
+                "title": "Smart cities",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionaleconomicspaperiimd_16-contemporary-economic-issues_global-economic-challenges",
+            "title": "Global Economic Challenges",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_16-contemporary-economic-issues_global-economic-challenges_financial-crises",
+                "title": "Financial crises",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionaleconomicspaperiimd_16-contemporary-economic-issues_global-economic-challenges_pandemic-impacts",
+                "title": "Pandemic impacts",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

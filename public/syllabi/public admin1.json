@@ -1,0 +1,1374 @@
+[
+  {
+    "id": "root_upsccseoptionalpublicadministrationpaperimd",
+    "title": "UPSC_CSE_OPTIONAL_PUBLIC_ADMINISTRATION_PAPER_I.md",
+    "type": "branch",
+    "children": [
+      {
+        "id": "root_upsccseoptionalpublicadministrationpaperimd_1-introduction",
+        "title": "1. Introduction",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_1-introduction_meaning-scope-and-significance",
+            "title": "Meaning, Scope and Significance",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_1-introduction_meaning-scope-and-significance_meaning-and-definition-of-public-administration",
+                "title": "Meaning and definition of Public Administration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_1-introduction_meaning-scope-and-significance_nature-of-public-administration",
+                "title": "Nature of Public Administration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_1-introduction_meaning-scope-and-significance_scope-of-public-administration",
+                "title": "Scope of Public Administration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_1-introduction_meaning-scope-and-significance_significance-of-public-administration",
+                "title": "Significance of Public Administration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_1-introduction_meaning-scope-and-significance_public-administration-as-an-activity",
+                "title": "Public Administration as an activity",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_1-introduction_meaning-scope-and-significance_public-administration-as-a-discipline",
+                "title": "Public Administration as a discipline",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_1-introduction_public-and-private-administration",
+            "title": "Public and Private Administration",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_1-introduction_public-and-private-administration_differences-between-public-and-private-administration",
+                "title": "Differences between public and private administration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_1-introduction_public-and-private-administration_similarities-between-public-and-private-administration",
+                "title": "Similarities between public and private administration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_1-introduction_public-and-private-administration_changing-boundaries-between-public-and-private-sectors",
+                "title": "Changing boundaries between public and private sectors",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_1-introduction_evolution-of-public-administration",
+            "title": "Evolution of Public Administration",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_1-introduction_evolution-of-public-administration_ancient-administration",
+                "title": "Ancient administration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_1-introduction_evolution-of-public-administration_medieval-administration",
+                "title": "Medieval administration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_1-introduction_evolution-of-public-administration_modern-administration",
+                "title": "Modern administration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_1-introduction_evolution-of-public-administration_growth-of-public-administration-as-a-discipline",
+                "title": "Growth of Public Administration as a discipline",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought",
+        "title": "2. Administrative Thought",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_classical-theories",
+            "title": "Classical Theories",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_classical-theories_scientific-management",
+                "title": "Scientific Management",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_classical-theories_scientific-management_taylors-principles-of-scientific-management",
+                    "title": "Taylor\u2019s principles of scientific management",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_classical-theories_scientific-management_techniques-of-scientific-management",
+                    "title": "Techniques of scientific management",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_classical-theories_scientific-management_criticism-of-scientific-management",
+                    "title": "Criticism of scientific management",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_classical-theories_administrative-management-theory",
+                "title": "Administrative Management Theory",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_classical-theories_administrative-management-theory_henri-fayols-principles-of-management",
+                    "title": "Henri Fayol\u2019s principles of management",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_classical-theories_administrative-management-theory_posdcorb",
+                    "title": "POSDCORB",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_classical-theories_administrative-management-theory_luther-gulick-and-lyndall-urwick",
+                    "title": "Luther Gulick and Lyndall Urwick",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_classical-theories_bureaucratic-theory",
+                "title": "Bureaucratic Theory",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_classical-theories_bureaucratic-theory_max-webers-ideal-type-bureaucracy",
+                    "title": "Max Weber\u2019s ideal type bureaucracy",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_classical-theories_bureaucratic-theory_features-of-bureaucracy",
+                    "title": "Features of bureaucracy",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_classical-theories_bureaucratic-theory_criticism-of-weberian-bureaucracy",
+                    "title": "Criticism of Weberian bureaucracy",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_neo-classical-theories",
+            "title": "Neo-Classical Theories",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_neo-classical-theories_human-relations-theory",
+                "title": "Human Relations Theory",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_neo-classical-theories_human-relations-theory_hawthorne-experiments",
+                    "title": "Hawthorne experiments",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_neo-classical-theories_human-relations-theory_role-of-informal-organization",
+                    "title": "Role of informal organization",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_neo-classical-theories_human-relations-theory_criticism-of-human-relations-theory",
+                    "title": "Criticism of human relations theory",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_neo-classical-theories_behavioural-approach",
+                "title": "Behavioural Approach",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_neo-classical-theories_behavioural-approach_behaviouralism-in-administration",
+                    "title": "Behaviouralism in administration",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_neo-classical-theories_behavioural-approach_decision-making-approach",
+                    "title": "Decision-making approach",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_neo-classical-theories_behavioural-approach_bounded-rationality",
+                    "title": "Bounded rationality",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_modern-theories",
+            "title": "Modern Theories",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_modern-theories_systems-approach",
+                "title": "Systems Approach",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_modern-theories_systems-approach_organization-as-a-system",
+                    "title": "Organization as a system",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_modern-theories_systems-approach_inputs-outputs-feedback",
+                    "title": "Inputs, outputs, feedback",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_modern-theories_systems-approach_open-and-closed-systems",
+                    "title": "Open and closed systems",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_modern-theories_structuralfunctional-approach",
+                "title": "Structural\u2013Functional Approach",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_modern-theories_structuralfunctional-approach_structure-and-functions",
+                    "title": "Structure and functions",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_modern-theories_structuralfunctional-approach_role-of-institutions",
+                    "title": "Role of institutions",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_modern-theories_ecological-approach",
+                "title": "Ecological Approach",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_modern-theories_ecological-approach_ecology-of-administration",
+                    "title": "Ecology of administration",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_modern-theories_ecological-approach_fred-w-riggs-models",
+                    "title": "Fred W. Riggs\u2019 models",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_modern-theories_ecological-approach_prismatic-society",
+                    "title": "Prismatic society",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_modern-theories_new-public-administration",
+                "title": "New Public Administration",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_modern-theories_new-public-administration_origins-of-new-public-administration",
+                    "title": "Origins of New Public Administration",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_modern-theories_new-public-administration_minnowbrook-conference",
+                    "title": "Minnowbrook Conference",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_modern-theories_new-public-administration_features-and-critiques",
+                    "title": "Features and critiques",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_modern-theories_new-public-management",
+                "title": "New Public Management",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_modern-theories_new-public-management_concept-of-new-public-management",
+                    "title": "Concept of New Public Management",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_modern-theories_new-public-management_market-based-administration",
+                    "title": "Market-based administration",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_modern-theories_new-public-management_criticism-of-npm",
+                    "title": "Criticism of NPM",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_modern-theories_new-public-service",
+                "title": "New Public Service",
+                "type": "branch",
+                "children": [
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_modern-theories_new-public-service_citizen-centric-governance",
+                    "title": "Citizen-centric governance",
+                    "type": "leaf",
+                    "status": "locked"
+                  },
+                  {
+                    "id": "root_upsccseoptionalpublicadministrationpaperimd_2-administrative-thought_modern-theories_new-public-service_democratic-administration",
+                    "title": "Democratic administration",
+                    "type": "leaf",
+                    "status": "locked"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpublicadministrationpaperimd_3-comparative-public-administration",
+        "title": "3. Comparative Public Administration",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_3-comparative-public-administration_meaning-and-scope",
+            "title": "Meaning and Scope",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_3-comparative-public-administration_meaning-and-scope_comparative-approach",
+                "title": "Comparative approach",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_3-comparative-public-administration_meaning-and-scope_cross-national-studies",
+                "title": "Cross-national studies",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_3-comparative-public-administration_approaches",
+            "title": "Approaches",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_3-comparative-public-administration_approaches_institutional-approach",
+                "title": "Institutional approach",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_3-comparative-public-administration_approaches_behavioural-approach",
+                "title": "Behavioural approach",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_3-comparative-public-administration_approaches_ecological-approach",
+                "title": "Ecological approach",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_3-comparative-public-administration_models",
+            "title": "Models",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_3-comparative-public-administration_models_riggs-fused-prismatic-and-diffracted-models",
+                "title": "Riggs\u2019 fused, prismatic and diffracted models",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpublicadministrationpaperimd_4-development-administration",
+        "title": "4. Development Administration",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_4-development-administration_concept",
+            "title": "Concept",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_4-development-administration_concept_meaning-of-development-administration",
+                "title": "Meaning of development administration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_4-development-administration_concept_development-vs-administrative-development",
+                "title": "Development vs administrative development",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_4-development-administration_characteristics",
+            "title": "Characteristics",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_4-development-administration_characteristics_goal-orientation",
+                "title": "Goal orientation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_4-development-administration_characteristics_innovation",
+                "title": "Innovation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_4-development-administration_characteristics_participation",
+                "title": "Participation",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_4-development-administration_role-in-developing-countries",
+            "title": "Role in Developing Countries",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_4-development-administration_role-in-developing-countries_development-planning",
+                "title": "Development planning",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_4-development-administration_role-in-developing-countries_capacity-building",
+                "title": "Capacity building",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_4-development-administration_critiques",
+            "title": "Critiques",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_4-development-administration_critiques_problems-of-development-administration",
+                "title": "Problems of development administration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_4-development-administration_critiques_decline-of-the-concept",
+                "title": "Decline of the concept",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpublicadministrationpaperimd_5-organization",
+        "title": "5. Organization",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_5-organization_principles-of-organization",
+            "title": "Principles of Organization",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_5-organization_principles-of-organization_hierarchy",
+                "title": "Hierarchy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_5-organization_principles-of-organization_unity-of-command",
+                "title": "Unity of command",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_5-organization_principles-of-organization_span-of-control",
+                "title": "Span of control",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_5-organization_principles-of-organization_authority-and-responsibility",
+                "title": "Authority and responsibility",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_5-organization_principles-of-organization_coordination",
+                "title": "Coordination",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_5-organization_forms-of-organization",
+            "title": "Forms of Organization",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_5-organization_forms-of-organization_line-organization",
+                "title": "Line organization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_5-organization_forms-of-organization_staff-organization",
+                "title": "Staff organization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_5-organization_forms-of-organization_line-and-staff-organization",
+                "title": "Line and staff organization",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_5-organization_forms-of-organization_committee-organization",
+                "title": "Committee organization",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_5-organization_departmentalization",
+            "title": "Departmentalization",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_5-organization_departmentalization_functional",
+                "title": "Functional",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_5-organization_departmentalization_territorial",
+                "title": "Territorial",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_5-organization_departmentalization_process-based",
+                "title": "Process-based",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_5-organization_departmentalization_client-based",
+                "title": "Client-based",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpublicadministrationpaperimd_6-administrative-behaviour",
+        "title": "6. Administrative Behaviour",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_6-administrative-behaviour_decision-making",
+            "title": "Decision Making",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_6-administrative-behaviour_decision-making_rational-decision-making",
+                "title": "Rational decision-making",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_6-administrative-behaviour_decision-making_incremental-decision-making",
+                "title": "Incremental decision-making",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_6-administrative-behaviour_decision-making_mixed-scanning-model",
+                "title": "Mixed scanning model",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_6-administrative-behaviour_communication",
+            "title": "Communication",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_6-administrative-behaviour_communication_types-of-communication",
+                "title": "Types of communication",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_6-administrative-behaviour_communication_barriers-to-communication",
+                "title": "Barriers to communication",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_6-administrative-behaviour_communication_improving-communication",
+                "title": "Improving communication",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_6-administrative-behaviour_leadership",
+            "title": "Leadership",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_6-administrative-behaviour_leadership_types-of-leadership",
+                "title": "Types of leadership",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_6-administrative-behaviour_leadership_leadership-styles",
+                "title": "Leadership styles",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_6-administrative-behaviour_leadership_leadership-theories",
+                "title": "Leadership theories",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_6-administrative-behaviour_motivation",
+            "title": "Motivation",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_6-administrative-behaviour_motivation_maslows-hierarchy-of-needs",
+                "title": "Maslow\u2019s hierarchy of needs",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_6-administrative-behaviour_motivation_herzbergs-two-factor-theory",
+                "title": "Herzberg\u2019s two-factor theory",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_6-administrative-behaviour_motivation_mcgregors-theory-x-and-theory-y",
+                "title": "McGregor\u2019s Theory X and Theory Y",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpublicadministrationpaperimd_7-personnel-administration",
+        "title": "7. Personnel Administration",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_7-personnel-administration_human-resource-management",
+            "title": "Human Resource Management",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_7-personnel-administration_human-resource-management_recruitment",
+                "title": "Recruitment",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_7-personnel-administration_human-resource-management_selection",
+                "title": "Selection",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_7-personnel-administration_human-resource-management_training",
+                "title": "Training",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_7-personnel-administration_human-resource-management_promotion",
+                "title": "Promotion",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_7-personnel-administration_human-resource-management_performance-appraisal",
+                "title": "Performance appraisal",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_7-personnel-administration_civil-services",
+            "title": "Civil Services",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_7-personnel-administration_civil-services_role-of-civil-services",
+                "title": "Role of civil services",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_7-personnel-administration_civil-services_merit-system",
+                "title": "Merit system",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_7-personnel-administration_civil-services_neutrality-and-anonymity",
+                "title": "Neutrality and anonymity",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_7-personnel-administration_integrity-and-ethics",
+            "title": "Integrity and Ethics",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_7-personnel-administration_integrity-and-ethics_administrative-ethics",
+                "title": "Administrative ethics",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_7-personnel-administration_integrity-and-ethics_code-of-conduct",
+                "title": "Code of conduct",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_7-personnel-administration_integrity-and-ethics_corruption-issues",
+                "title": "Corruption issues",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpublicadministrationpaperimd_8-financial-administration",
+        "title": "8. Financial Administration",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_8-financial-administration_budget",
+            "title": "Budget",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_8-financial-administration_budget_meaning-and-importance-of-budget",
+                "title": "Meaning and importance of budget",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_8-financial-administration_budget_types-of-budget",
+                "title": "Types of budget",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_8-financial-administration_budget_budgetary-process",
+                "title": "Budgetary process",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_8-financial-administration_financial-control",
+            "title": "Financial Control",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_8-financial-administration_financial-control_legislative-control",
+                "title": "Legislative control",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_8-financial-administration_financial-control_executive-control",
+                "title": "Executive control",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_8-financial-administration_financial-control_audit",
+                "title": "Audit",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_8-financial-administration_performance-budgeting",
+            "title": "Performance Budgeting",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_8-financial-administration_performance-budgeting_concept",
+                "title": "Concept",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_8-financial-administration_performance-budgeting_advantages",
+                "title": "Advantages",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_8-financial-administration_performance-budgeting_limitations",
+                "title": "Limitations",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpublicadministrationpaperimd_9-accountability-and-control",
+        "title": "9. Accountability and Control",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_9-accountability-and-control_legislative-control",
+            "title": "Legislative Control",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_9-accountability-and-control_legislative-control_parliamentary-control",
+                "title": "Parliamentary control",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_9-accountability-and-control_legislative-control_committees",
+                "title": "Committees",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_9-accountability-and-control_executive-control",
+            "title": "Executive Control",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_9-accountability-and-control_executive-control_hierarchical-control",
+                "title": "Hierarchical control",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_9-accountability-and-control_executive-control_supervision",
+                "title": "Supervision",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_9-accountability-and-control_judicial-control",
+            "title": "Judicial Control",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_9-accountability-and-control_judicial-control_administrative-law",
+                "title": "Administrative law",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_9-accountability-and-control_judicial-control_judicial-review",
+                "title": "Judicial review",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_9-accountability-and-control_ombudsman",
+            "title": "Ombudsman",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_9-accountability-and-control_ombudsman_concept-of-ombudsman",
+                "title": "Concept of ombudsman",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_9-accountability-and-control_ombudsman_lokpal-and-lokayuktas",
+                "title": "Lokpal and Lokayuktas",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpublicadministrationpaperimd_10-administrative-law",
+        "title": "10. Administrative Law",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_10-administrative-law_concept",
+            "title": "Concept",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_10-administrative-law_concept_meaning-of-administrative-law",
+                "title": "Meaning of administrative law",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_10-administrative-law_concept_scope-of-administrative-law",
+                "title": "Scope of administrative law",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_10-administrative-law_principles",
+            "title": "Principles",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_10-administrative-law_principles_rule-of-law",
+                "title": "Rule of law",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_10-administrative-law_principles_natural-justice",
+                "title": "Natural justice",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_10-administrative-law_principles_delegated-legislation",
+                "title": "Delegated legislation",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpublicadministrationpaperimd_11-public-policy",
+        "title": "11. Public Policy",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_11-public-policy_policy-process",
+            "title": "Policy Process",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_11-public-policy_policy-process_policy-formulation",
+                "title": "Policy formulation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_11-public-policy_policy-process_policy-implementation",
+                "title": "Policy implementation",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_11-public-policy_policy-process_policy-evaluation",
+                "title": "Policy evaluation",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_11-public-policy_policy-actors",
+            "title": "Policy Actors",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_11-public-policy_policy-actors_legislature",
+                "title": "Legislature",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_11-public-policy_policy-actors_executive",
+                "title": "Executive",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_11-public-policy_policy-actors_bureaucracy",
+                "title": "Bureaucracy",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_11-public-policy_policy-actors_interest-groups",
+                "title": "Interest groups",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_11-public-policy_models",
+            "title": "Models",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_11-public-policy_models_incremental-model",
+                "title": "Incremental model",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_11-public-policy_models_rational-model",
+                "title": "Rational model",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_11-public-policy_models_mixed-scanning",
+                "title": "Mixed scanning",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpublicadministrationpaperimd_12-governance",
+        "title": "12. Governance",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_12-governance_concept-of-governance",
+            "title": "Concept of Governance",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_12-governance_concept-of-governance_good-governance",
+                "title": "Good governance",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_12-governance_concept-of-governance_democratic-governance",
+                "title": "Democratic governance",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_12-governance_e-governance",
+            "title": "E-Governance",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_12-governance_e-governance_meaning-of-e-governance",
+                "title": "Meaning of e-governance",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_12-governance_e-governance_models-of-e-governance",
+                "title": "Models of e-governance",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_12-governance_e-governance_challenges-of-e-governance",
+                "title": "Challenges of e-governance",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_12-governance_publicprivate-partnership",
+            "title": "Public\u2013Private Partnership",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_12-governance_publicprivate-partnership_concept-of-ppp",
+                "title": "Concept of PPP",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_12-governance_publicprivate-partnership_advantages",
+                "title": "Advantages",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_12-governance_publicprivate-partnership_issues",
+                "title": "Issues",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpublicadministrationpaperimd_13-administrative-reforms",
+        "title": "13. Administrative Reforms",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_13-administrative-reforms_reform-movements",
+            "title": "Reform Movements",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_13-administrative-reforms_reform-movements_administrative-reforms-in-developed-countries",
+                "title": "Administrative reforms in developed countries",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_13-administrative-reforms_reform-movements_administrative-reforms-in-developing-countries",
+                "title": "Administrative reforms in developing countries",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_13-administrative-reforms_change-management",
+            "title": "Change Management",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_13-administrative-reforms_change-management_resistance-to-change",
+                "title": "Resistance to change",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_13-administrative-reforms_change-management_strategies-for-change",
+                "title": "Strategies for change",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_13-administrative-reforms_innovation",
+            "title": "Innovation",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_13-administrative-reforms_innovation_innovation-in-administration",
+                "title": "Innovation in administration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_13-administrative-reforms_innovation_best-practices",
+                "title": "Best practices",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "root_upsccseoptionalpublicadministrationpaperimd_14-values-in-public-administration",
+        "title": "14. Values in Public Administration",
+        "type": "branch",
+        "children": [
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_14-values-in-public-administration_ethical-foundations",
+            "title": "Ethical Foundations",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_14-values-in-public-administration_ethical-foundations_values-in-public-administration",
+                "title": "Values in public administration",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_14-values-in-public-administration_ethical-foundations_professional-ethics",
+                "title": "Professional ethics",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_14-values-in-public-administration_transparency",
+            "title": "Transparency",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_14-values-in-public-administration_transparency_right-to-information",
+                "title": "Right to Information",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_14-values-in-public-administration_transparency_accountability-mechanisms",
+                "title": "Accountability mechanisms",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          },
+          {
+            "id": "root_upsccseoptionalpublicadministrationpaperimd_14-values-in-public-administration_citizen-centric-administration",
+            "title": "Citizen-Centric Administration",
+            "type": "branch",
+            "children": [
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_14-values-in-public-administration_citizen-centric-administration_service-delivery",
+                "title": "Service delivery",
+                "type": "leaf",
+                "status": "locked"
+              },
+              {
+                "id": "root_upsccseoptionalpublicadministrationpaperimd_14-values-in-public-administration_citizen-centric-administration_grievance-redressal",
+                "title": "Grievance redressal",
+                "type": "leaf",
+                "status": "locked"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
