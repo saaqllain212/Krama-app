@@ -138,7 +138,7 @@ export default function ScientificDashboard() {
   const [user, setUser] = useState<any>(null);
   const [profile, setProfile] = useState<any>(null);
   const [loading, setLoading] = useState(true);
-  const [activeView, setActiveView] = useState<'overgrowth' | 'tending' | 'roots' | 'climate' | 'greenhouse' | 'syllabus' | 'pragati'>('overgrowth');
+  const [activeView, setActiveView] = useState<'overgrowth' | 'tending' | 'roots' | 'climate' | 'greenhouse' | 'syllabus' | 'pragati'>('overgrowth' as any);
   const [quote, setQuote] = useState(GARDEN_QUOTES[0]);
   
   // DATA STATE
@@ -199,11 +199,21 @@ export default function ScientificDashboard() {
   }, [dailyCount]);
 
   // --- HELPER: ALERTS ---
+  // --- HELPER: ALERTS ---
   const showAlert = (type: 'success' | 'error' | 'delete', customMsg?: string) => {
     // @ts-ignore
     const msgs = WITTY_MESSAGES[type];
-    const randomMsg = msgs ? msgs[Math.floor(Math.random() * msgs.length)] : customMsg;
-    setAlertState({ show: true, msg: customMsg || randomMsg, type: type === 'delete' ? 'neutral' : type });
+    const randomMsg = msgs ? msgs[Math.floor(Math.random() * msgs.length)] : "";
+    
+    // THE FIX: Provide a default fallback string so 'msg' is never undefined
+    const finalMsg = customMsg || randomMsg || "System updated."; 
+    
+    setAlertState({ 
+      show: true, 
+      msg: finalMsg, 
+      type: type === 'delete' ? 'neutral' : type 
+    });
+    
     setTimeout(() => setAlertState(prev => ({ ...prev, show: false })), 3000);
   };
 

@@ -72,13 +72,23 @@ export default function SyllabusPage() {
 
   // Helper for Alerts
   const showAlert = (type: 'success' | 'error' | 'delete', customMsg?: string) => {
-    // @ts-ignore
-    const msgs = WITTY_MESSAGES[type];
-    const randomMsg = msgs ? msgs[Math.floor(Math.random() * msgs.length)] : customMsg;
-    setAlertState({ show: true, msg: customMsg || randomMsg, type: type === 'delete' ? 'neutral' : type });
-    setTimeout(() => setAlertState(prev => ({ ...prev, show: false })), 3000);
-  };
+  // @ts-ignore
+  const msgs = WITTY_MESSAGES[type];
+  
+  // Provide an empty string fallback for randomMsg
+  const randomMsg = msgs ? msgs[Math.floor(Math.random() * msgs.length)] : "";
+  
+  // Provide a final string fallback so 'msg' is NEVER undefined
+  const finalMsg = customMsg || randomMsg || "Action logged.";
 
+  setAlertState({ 
+    show: true, 
+    msg: finalMsg, 
+    type: type === 'delete' ? 'neutral' : type 
+  });
+  
+  setTimeout(() => setAlertState(prev => ({ ...prev, show: false })), 3000);
+};
   useEffect(() => {
     const init = async () => {
       const { data: { user } } = await supabase.auth.getUser();
