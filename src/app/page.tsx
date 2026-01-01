@@ -11,6 +11,8 @@ import {
   XCircle, Anchor, Download, Calculator, Axe, Trees,
   MoveHorizontal
 } from 'lucide-react';
+import { OFFER_CONFIG } from "@/config/offer";
+
 
 export default function WitheringGarden() {
   const router = useRouter();
@@ -129,8 +131,10 @@ export default function WitheringGarden() {
         </motion.div>
       </div>
 
+
       {/* 3. HERO SECTION */}
-      <section className="pt-40 pb-20 px-6 flex flex-col items-center text-center max-w-5xl mx-auto min-h-screen relative">
+        <section className="pt-16 pb-20 px-6 flex flex-col items-center text-center max-w-5xl mx-auto min-h-screen relative">
+
         <motion.div style={{ y: yHero, opacity: opacityHero }} className="flex flex-col items-center">
           
           <div className="mb-6 cursor-pointer group relative" onMouseEnter={() => setIsWatered(true)} onMouseLeave={() => setIsWatered(false)} onClick={() => setIsWatered(!isWatered)}>
@@ -166,6 +170,55 @@ export default function WitheringGarden() {
           <ChevronDown className="text-stone-400" size={32} />
         </motion.div>
       </section>
+
+      
+      {/* 🔥 LAUNCH OFFER BANNER */}
+        {OFFER_CONFIG.enabled && (
+          <section className="pt-32 pb-6 px-6 bg-[#FDFBF7]">
+            <div className="max-w-5xl mx-auto">
+              <div className="border-4 border-black bg-yellow-300 p-6 shadow-[8px_8px_0_#000] text-center">
+                <div className="font-black text-xl md:text-2xl uppercase tracking-tight">
+                  {OFFER_CONFIG.headline}
+                </div>
+
+                <div className="mt-2 font-serif italic text-base md:text-lg">
+                  {OFFER_CONFIG.subline}
+                </div>
+
+                <div className="mt-4 flex items-center justify-center gap-3 text-sm md:text-base font-mono">
+                  <span className="line-through opacity-60">
+                    ₹{OFFER_CONFIG.basePrice}
+                  </span>
+                  <span className="font-black text-lg md:text-xl">
+                    ₹{OFFER_CONFIG.offerPrice}
+                  </span>
+                  <span className="bg-black text-yellow-300 px-2 py-1 text-xs font-bold">
+                    {OFFER_CONFIG.discountText}
+                  </span>
+                </div>
+
+                <div className="mt-3 text-xs uppercase tracking-widest font-bold">
+                  {OFFER_CONFIG.urgencyText}
+                </div>
+
+                <div className="mt-3 inline-block bg-black text-yellow-300 px-4 py-2 font-mono text-sm font-black tracking-widest rounded">
+                  USE CODE: {OFFER_CONFIG.couponCode}
+                </div>
+
+                <div className="mt-1 text-[10px] opacity-70 font-mono">
+                  (Apply it at checkout. Yes, it’s case-sensitive. No, we won’t remind you.)
+                </div>
+
+
+                <div className="mt-1 text-[10px] opacity-70 font-mono">
+                  {OFFER_CONFIG.expiryText}
+                </div>
+              </div>
+            </div>
+          </section>
+        )}
+
+
 
       {/* 4. THE PROBLEM (Decay) - ADDED ID HERE */}
       <section id="decay-section" className="py-32 bg-stone-100 px-6 border-t border-stone-200">
@@ -346,8 +399,8 @@ export default function WitheringGarden() {
             <p className="text-emerald-200 text-xs mb-8">Lifetime Access. No Subscriptions.</p>
             <ul className="space-y-4 mb-8 text-emerald-50 text-sm font-medium flex-grow">
               <li className="flex gap-3 items-center"><CheckCircle2 size={16} className="text-amber-400"/> Unlimited Tracking</li>
-              <li className="flex gap-3 items-center"><CheckCircle2 size={16} className="text-amber-400"/> Predictive Decay (See the future)</li>
-              <li className="flex gap-3 items-center"><CheckCircle2 size={16} className="text-amber-400"/> 'Trajectory' Graph (Pass/Fail)</li>
+              <li className="flex gap-3 items-center"><CheckCircle2 size={16} className="text-amber-400"/> Predictive Decay</li>
+              <li className="flex gap-3 items-center"><CheckCircle2 size={16} className="text-amber-400"/> 'Trajectory' Graph</li>
               <li className="flex gap-3 items-center"><CheckCircle2 size={16} className="text-amber-400"/> Priority Protection</li>
             </ul>
             <button onClick={() => router.push('/signup')} className="w-full py-4 rounded-xl bg-amber-400 text-amber-900 font-bold hover:bg-amber-300 transition-all shadow-[0_0_20px_rgba(251,191,36,0.3)]">
@@ -431,6 +484,31 @@ export default function WitheringGarden() {
           </div>
         </div>
       </section>
+
+      {/* 9.5 CONTACT / SUGGESTIONS */}
+      <section className="py-20 px-6 bg-[#FDFBF7] border-t border-stone-200">
+        <div className="max-w-2xl mx-auto text-center">
+          <h3 className="text-2xl font-black text-stone-900 mb-4">
+            Something feels off?
+          </h3>
+
+          <p className="text-stone-600 font-serif italic mb-6 leading-relaxed">
+            Good. That means you’re paying attention.
+            <br />
+            If you have a suggestion, criticism, or a better idea —
+            we’re listening.
+          </p>
+
+          <div className="inline-block border-2 border-dashed border-stone-300 px-6 py-4 rounded-xl text-sm font-mono text-stone-500">
+            📮 contact@yourdomain.com
+          </div>
+
+          <p className="mt-4 text-[11px] uppercase tracking-widest text-stone-400 font-bold">
+            (Email not live yet. We’re still sharpening the tools.)
+          </p>
+        </div>
+      </section>
+
 
       {/* 10. FOOTER */}
       <footer className="bg-emerald-950 text-emerald-200 py-20 px-6 text-center">
