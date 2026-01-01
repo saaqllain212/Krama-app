@@ -104,8 +104,15 @@ export default function WitheringGarden() {
       <nav className="fixed top-0 w-full bg-[#FDFBF7]/90 backdrop-blur-md z-50 border-b border-stone-200 px-6 h-20 flex items-center justify-between">
         <div className="flex items-center gap-2 font-bold text-xl tracking-tight text-emerald-950">
           <Sprout className="text-emerald-700" fill="currentColor" />
-          KRAMA
+          <span>KRAMA</span>
+          <span
+            lang="te"
+            className="text-sm font-medium text-stone-500 tracking-wide"
+          >
+            క్రమం
+          </span>
         </div>
+
         <div className="flex gap-4">
           <button onClick={() => router.push('/login')} className="hidden md:block text-sm font-bold text-stone-600 hover:text-emerald-800 transition-colors">Log In</button>
           <button onClick={() => router.push('/signup')} className="bg-emerald-900 text-[#FDFBF7] px-6 py-2 rounded-full text-sm font-bold hover:bg-emerald-800 transition-all shadow-lg hover:shadow-emerald-900/20">
