@@ -3,9 +3,8 @@
 import { useState, useEffect } from 'react';
 import { createClient } from '@/lib/supabase';
 import { useRouter } from 'next/navigation';
-import { ArrowLeft, BookOpen, Loader2, ChevronDown, Search, X, Check, Sprout, Plus, Skull } from 'lucide-react';
+import { ArrowLeft, Loader2, ChevronDown, Search, X, Check, Sprout, Plus, Skull } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
-import TargetClock from '@/components/TargetClock';
 
 // LOGIC & DATA IMPORTS
 import { mergeSyllabusWithProgress, type SyllabusNode } from '@/lib/syllabusLogic';
@@ -64,6 +63,8 @@ export default function SyllabusPage() {
   // --- ENROLLMENT STATE ---
   const [enrolledBundleIds, setEnrolledBundleIds] = useState<string[]>([]);
   const [userTier, setUserTier] = useState<'free' | 'pro'>('free');
+  const [isAdmin, setIsAdmin] = useState(false);
+
   const [showSelector, setShowSelector] = useState(false);
 
   // --- CUSTOM ALERTS & CONFIRM ---
@@ -72,41 +73,46 @@ export default function SyllabusPage() {
 
   // Helper for Alerts
   const showAlert = (type: 'success' | 'error' | 'delete', customMsg?: string) => {
-  // @ts-ignore
-  const msgs = WITTY_MESSAGES[type];
-  
-  // Provide an empty string fallback for randomMsg
-  const randomMsg = msgs ? msgs[Math.floor(Math.random() * msgs.length)] : "";
-  
-  // Provide a final string fallback so 'msg' is NEVER undefined
-  const finalMsg = customMsg || randomMsg || "Action confirmed."; // Ensure this is a string
-  setAlertState({ 
-    show: true, 
-    msg: finalMsg, 
-    type: type === 'delete' ? 'neutral' : type 
-  });
-  
-  setTimeout(() => setAlertState(prev => ({ ...prev, show: false })), 3000);
-};
+    // @ts-ignore
+    const msgs = WITTY_MESSAGES[type];
+    const randomMsg = msgs ? msgs[Math.floor(Math.random() * msgs.length)] : "";
+    const finalMsg = customMsg || randomMsg || "Action confirmed."; 
+    setAlertState({ 
+      show: true, 
+      msg: finalMsg, 
+      type: type === 'delete' ? 'neutral' : type 
+    });
+    
+    setTimeout(() => setAlertState(prev => ({ ...prev, show: false })), 3000);
+  };
+
+  // --- INITIALIZATION ---
   useEffect(() => {
     const init = async () => {
       const { data: { user } } = await supabase.auth.getUser();
       if (!user) { router.push('/login'); return; }
       setUser(user);
 
-      const { data: profile } = await supabase.from('profiles').select('tier, is_admin').eq('user_id', user.id).single();
+      // --- FIX: SELECT ALL COLUMNS SO WE GET 'tier' CORRECTLY ---
+      const { data: profile } = await supabase.from('profiles').select('*').eq('user_id', user.id).single();
       const { data: enrollments } = await supabase.from('enrolled_exams').select('exam_id').eq('user_id', user.id);
 
       const isAdmin = profile?.is_admin === true;
+      setIsAdmin(isAdmin);
+
       let bundleIds: string[] = [];
       let tier: 'free' | 'pro' = 'free';
+
+      // --- CRITICAL FIX: CHECK FOR 'PRO_LIFETIME' ---
+      const isProInDb = profile?.tier === 'pro' || profile?.tier === 'PRO_LIFETIME';
 
       if (isAdmin) {
         bundleIds = EXAM_BUNDLES.map(b => b.id);
         tier = 'pro';
       } else {
         bundleIds = enrollments?.map(e => e.exam_id) || [];
-        tier = profile?.tier || 'free';
+        // Use the check we defined above
+        tier = isProInDb ? 'pro' : 'free';
       }
 
       setEnrolledBundleIds(bundleIds);
@@ -127,6 +133,7 @@ export default function SyllabusPage() {
     init();
   }, [router]);
 
+  // --- LOAD SYLLABUS DATA ---
   useEffect(() => {
     if (!user || !selectedPaperId) return;
     const loadSyllabus = async () => {
@@ -212,6 +219,11 @@ export default function SyllabusPage() {
 
   // --- NUCLEAR (Custom Modal) ---
   const handleNuclearReset = () => {
+    if (userTier !== 'pro' && !isAdmin) {
+      showAlert('error', "Apocalypse mode is Pro-only. Discipline first.");
+      return;
+    }
+
     setConfirmState({
       show: true,
       msg: "WARNING: THIS WILL BURN THE ENTIRE GARDEN. ALL PROGRESS LOST.",
@@ -241,11 +253,34 @@ export default function SyllabusPage() {
   };
 
   const handleAddBundle = async (bundleId: string) => {
-    const { error } = await supabase.from('enrolled_exams').insert({ user_id: user.id, exam_id: bundleId });
+    // 🔒 FINAL HARD LIMIT — SINGLE SOURCE OF TRUTH
+    const maxAllowed = isAdmin ? Infinity : userTier === 'pro' ? 2 : 1;
+
+    if (enrolledBundleIds.length >= maxAllowed) {
+      setShowSelector(false);
+
+      showAlert(
+        'error',
+        userTier === 'pro'
+          ? "Relax, scholar. Two exams max. Finish one before conquering another."
+          : "Free tier detected. One exam only. Focus is also a skill."
+      );
+
+      return;
+    }
+
+    const { error } = await supabase
+      .from('enrolled_exams')
+      .insert({ user_id: user.id, exam_id: bundleId });
+
     if (!error) {
       setEnrolledBundleIds(prev => [...prev, bundleId]);
+
       const newBundle = EXAM_BUNDLES.find(b => b.id === bundleId);
-      if (newBundle && newBundle.paperIds.length > 0) setSelectedPaperId(newBundle.paperIds[0]);
+      if (newBundle?.paperIds.length) {
+        setSelectedPaperId(newBundle.paperIds[0]);
+      }
+
       setShowSelector(false);
       showAlert('success', "Protocol Initialized.");
     } else {
@@ -271,9 +306,9 @@ export default function SyllabusPage() {
       {/* --- WARNING MARQUEE --- */}
       <div className="absolute top-0 left-0 w-full bg-amber-400 overflow-hidden py-1 z-50 border-b-2 border-black">
          <div className="whitespace-nowrap animate-marquee flex gap-12 text-[10px] font-black text-black uppercase tracking-widest">
-            <span>⚠️ WARNING: MAP IS A REPRESENTATION. THE TERRITORY IS VAST. VERIFY VECTOR COORDINATES WITH OFFICIAL UPSC/SSC COMMAND.</span>
-            <span>⚠️ WE DENY LIABILITY FOR NAVIGATION ERRORS.</span>
-            <span>⚠️ WARNING: MAP IS A REPRESENTATION. THE TERRITORY IS VAST. VERIFY VECTOR COORDINATES WITH OFFICIAL UPSC/SSC COMMAND.</span>
+           <span>⚠️ WARNING: MAP IS A REPRESENTATION. THE TERRITORY IS VAST. VERIFY VECTOR COORDINATES WITH OFFICIAL UPSC/SSC COMMAND.</span>
+           <span>⚠️ WE DENY LIABILITY FOR NAVIGATION ERRORS.</span>
+           <span>⚠️ WARNING: MAP IS A REPRESENTATION. THE TERRITORY IS VAST. VERIFY VECTOR COORDINATES WITH OFFICIAL UPSC/SSC COMMAND.</span>
          </div>
       </div>
 
@@ -321,7 +356,23 @@ export default function SyllabusPage() {
             </select>
             <ChevronDown size={20} className="absolute right-3 top-3.5 pointer-events-none text-black" strokeWidth={3}/>
           </div>
-          <button onClick={() => setShowSelector(true)} className="p-3 bg-black text-white border-4 border-black hover:bg-stone-800 transition-colors" title="Add New Exam Path">
+          <button
+            onClick={() => {
+              if (
+                enrolledBundleIds.length >= (userTier === 'pro' ? 2 : 1)
+              ) {
+                showAlert(
+                  'error',
+                  userTier === 'pro'
+                    ? "Two exams only. Finish one before hoarding knowledge."
+                    : "One exam on free. Discipline > greed."
+                );
+                return;
+              }
+              setShowSelector(true);
+            }}
+            className="p-3 bg-black text-white border-4 border-black hover:bg-stone-800 transition-colors"
+          >
             <Plus size={24} strokeWidth={3} />
           </button>
         </div>
@@ -401,7 +452,10 @@ export default function SyllabusPage() {
         {showSelector && (
           <ExamSelector 
             enrolledBundleIds={enrolledBundleIds} userTier={userTier} onSelect={handleAddBundle}
-            onClose={() => { if (enrolledBundleIds.length === 0) router.push('/'); else setShowSelector(false); }}
+            onClose={() => {
+              sessionStorage.setItem('exam_selector_dismissed', 'true');
+              setShowSelector(false);
+            }}
           />
         )}
       </AnimatePresence>

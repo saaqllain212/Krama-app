@@ -349,7 +349,13 @@ const NodeButton = ({ label, icon: Icon, color, isLocked, onClick }: any) => {
       </div>
       <span className={`text-[10px] font-mono font-bold uppercase tracking-widest bg-black/80 px-2 py-1 rounded whitespace-nowrap ${isLocked ? 'text-stone-500' : 'text-white'}`}>
         {label}
+        {isLocked && (
+          <span className="block text-[9px] text-stone-400 normal-case tracking-normal">
+            Progress required
+          </span>
+        )}
       </span>
+
     </motion.button>
   );
 }
@@ -357,7 +363,6 @@ const NodeButton = ({ label, icon: Icon, color, isLocked, onClick }: any) => {
 // --- MAIN COMPONENT: GREENHOUSE MAP ---
 interface GreenhouseProps {
   currentProgress?: number; // Prop passed from Dashboard
-  userRole?: string; // <--- You need to add this line!
 }
 
 export default function Greenhouse({ currentProgress = 0 }: GreenhouseProps) {

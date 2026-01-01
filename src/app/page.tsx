@@ -3,7 +3,6 @@
 import { useState, useEffect, useRef } from 'react';
 import { useRouter } from 'next/navigation';
 import { motion, AnimatePresence, useScroll, useTransform } from 'framer-motion';
-import { createClient } from '@/lib/supabase';
 import { 
   Leaf, Droplet, Wind, Sprout, 
   ArrowRight, CheckCircle2, ChevronDown, 
@@ -15,7 +14,6 @@ import {
 
 export default function WitheringGarden() {
   const router = useRouter();
-  const supabase = createClient();
   
   // --- STATE ---
   const [isWatered, setIsWatered] = useState(false);
@@ -39,14 +37,6 @@ export default function WitheringGarden() {
   const yHero = useTransform(scrollY, [0, 1000], [0, 200]);
   const opacityHero = useTransform(scrollY, [0, 800], [1, 0]);
 
-  // --- INITIALIZATION ---
-  useEffect(() => {
-    const fetchCount = async () => {
-      const { count } = await supabase.from('profiles').select('*', { count: 'exact', head: true });
-      if (count) setUserCount(count + 142); 
-    };
-    fetchCount();
-  }, [supabase]);
 
   // --- HELPER: SCROLL TO SECTION (NEW) ---
   const scrollToDecay = () => {

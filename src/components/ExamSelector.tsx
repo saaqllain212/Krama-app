@@ -28,14 +28,20 @@ export default function ExamSelector({ enrolledBundleIds, userTier, onSelect, on
         {/* Header */}
         <div className="p-8 border-b-4 border-black bg-stone-100 flex justify-between items-start">
           <div>
-            <h2 className="text-3xl font-black font-serif text-black uppercase tracking-wider mb-2">
-              {currentCount === 0 ? "Initialize Protocol" : "Expand Arsenal"}
-            </h2>
-            <p className="text-sm font-bold font-mono text-stone-500">
-              TIER: <span className="text-black bg-amber-300 px-1">{userTier.toUpperCase()}</span> 
-              {' • '} 
-              SLOTS: {currentCount}/{limit}
-            </p>
+              <h2 className="text-3xl font-black font-serif text-black uppercase tracking-wider mb-2">
+                {currentCount === 0 ? "Initialize Protocol" : "Expand Arsenal"}
+              </h2>
+              <p className="text-sm font-bold font-mono text-stone-500">
+                TIER: <span className="text-black bg-amber-300 px-1">{userTier.toUpperCase()}</span> 
+                {' • '} 
+                SLOTS: {currentCount}/{limit}
+              </p>
+              {currentCount === 0 && (
+                <p className="mt-2 text-xs font-mono text-stone-400 italic max-w-md">
+                  You can skip this for now.  
+                  <span className="text-stone-600 font-bold"> The garden won’t collapse.</span>
+                </p>
+              )}
           </div>
           
           {/* --- THE WITTY CANCEL BUTTON --- */}
@@ -59,9 +65,12 @@ export default function ExamSelector({ enrolledBundleIds, userTier, onSelect, on
         {!isSlotAvailable && (
           <div className="bg-red-100 border-b-4 border-black p-4 flex gap-3 items-center justify-center text-red-900">
              <ShieldAlert size={20} />
-             <span className="font-bold font-mono text-xs uppercase tracking-widest">
-               SLOT LIMIT REACHED. {userTier === 'free' ? "UPGRADE TO PRO FOR +1 SLOT." : "MAXIMUM CAPACITY."}
-             </span>
+             <span className="font-bold font-mono text-xs uppercase tracking-widest text-center">
+                {userTier === 'free'
+                  ? "FREE TIER LIMIT: 1 EXAM. UPGRADE TO PRO."
+                  : "PRO LIMIT: 2 EXAMS ONLY. FINISH ONE BEFORE STARTING ANOTHER."}
+              </span>
+
           </div>
         )}
 

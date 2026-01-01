@@ -1,20 +1,20 @@
 {
-  "name": "Krama",
-  "short_name": "Krama",
-  "description": "Don't just cram. Use Krama.",
+  "name": "KRAMA – Field Journal",
+  "short_name": "KRAMA",
+  "description": "A focused field journal for disciplined study and growth.",
   "start_url": "/dashboard",
   "display": "standalone",
-  "background_color": "#02040a",
-  "theme_color": "#02040a",
+  "background_color": "#FDFBF7",
+  "theme_color": "#000000",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "/icon-192.png",
+      "src": "/icons/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/icon-512.png",
+      "src": "/icons/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }

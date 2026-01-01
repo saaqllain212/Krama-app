@@ -17,6 +17,8 @@ import {
   User, Fingerprint, Shield, LogOut, Lock,
   RefreshCcw, Crown, Sparkles, Zap, Grid
 } from 'lucide-react';
+import ProUpgradeModal from '@/components/ProUpgradeModal';
+
 
 // Import logic
 import { reviewTopic, type Topic } from '@/lib/logic';
@@ -50,7 +52,14 @@ const WITTY_MESSAGES = {
 };
 
 // --- SUB-COMPONENT: ACTIVITY HEATMAP (PRO FEATURE) ---
-const ActivityHeatmap = ({ topics, isPro }: { topics: Topic[], isPro: boolean }) => {
+const ActivityHeatmap = ({
+  topics,
+  isUnlocked,
+}: {
+  topics: Topic[];
+  isUnlocked: boolean;
+}) => {
+
   // Generate last 365 days
   const generateYearData = () => {
     const data = [];
@@ -90,7 +99,7 @@ const ActivityHeatmap = ({ topics, isPro }: { topics: Topic[], isPro: boolean })
         <h3 className="font-serif text-lg font-black text-stone-900 flex items-center gap-2">
           <Grid size={18}/> Longitudinal Activity
         </h3>
-        <div className="flex items-center gap-2 text-[10px] font-mono font-bold text-stone-400">
+        <div className="flex items-center gap-2 text-xs font-mono font-bold text-stone-400">
           <span>DORMANT</span>
           <div className="flex gap-1">
             <div className="w-2 h-2 bg-stone-200"></div>
@@ -105,24 +114,24 @@ const ActivityHeatmap = ({ topics, isPro }: { topics: Topic[], isPro: boolean })
 
       <div className="relative">
         {/* THE GRID */}
-        <div className={`grid grid-rows-7 grid-flow-col gap-1 overflow-x-auto pb-2 ${!isPro ? 'blur-sm opacity-50 select-none pointer-events-none' : ''}`}>
+        <div className={`grid grid-rows-7 grid-flow-col gap-1 overflow-x-auto pb-2 ${!isUnlocked? 'blur-sm opacity-50 select-none pointer-events-none' : ''}`}>
            {data.map((day, i) => (
              <div 
                key={i} 
                className={`w-2 h-2 md:w-3 md:h-3 rounded-sm ${getColor(day.count)}`}
-               title={isPro ? `${day.date.toLocaleDateString()}: ${day.count} specimens` : ''}
+               title={isUnlocked ? `${day.date.toLocaleDateString()}: ${day.count} specimens` : ''}
              ></div>
            ))}
         </div>
 
         {/* PRO LOCK OVERLAY */}
-        {!isPro && (
+        {!isUnlocked && (
           <div className="absolute inset-0 flex items-center justify-center z-10">
              <div className="bg-stone-900/90 text-white p-4 border-2 border-emerald-500 shadow-[0_0_20px_rgba(16,185,129,0.3)] text-center max-w-xs transform -rotate-1">
                 <Shield size={24} className="mx-auto text-emerald-400 mb-2" />
                 <h4 className="font-black uppercase tracking-widest text-xs mb-1 text-emerald-400">Classified Data</h4>
                 <p className="font-serif text-stone-300 text-xs italic mb-3">Longitudinal analysis is restricted to Pro Scholars.</p>
-                <div className="text-[10px] font-mono font-bold bg-emerald-900 text-emerald-100 py-1 px-2 uppercase">Upgrade to Decode</div>
+                <div className="text-xs font-mono font-bold bg-emerald-900 text-emerald-100 py-1 px-2 uppercase">Upgrade to Decode</div>
              </div>
           </div>
         )}
@@ -169,6 +178,8 @@ export default function ScientificDashboard() {
   
   // NEW: Sarcastic Warning Modal State
   const [sarcasticWarning, setSarcasticWarning] = useState(false);
+  const [showProModal, setShowProModal] = useState(false);
+
 
   // ALERT STATE
   const [alertState, setAlertState] = useState<{ show: boolean, msg: string, type: 'success' | 'error' | 'neutral' }>({ show: false, msg: '', type: 'neutral' });
@@ -235,30 +246,55 @@ export default function ScientificDashboard() {
   // --- INITIALIZATION ---
   useEffect(() => {
     const init = async () => {
-      const { data: { user } } = await supabase.auth.getUser();
-      if (!user) { router.push('/login'); return; }
-      setUser(user);
-
-      // UPDATED: Now selecting target_exam_date
-      const { data: profileData } = await supabase
-        .from('profiles')
-        .select('name, role, created_at, target_exam_date')
-        .eq('user_id', user.id)
-        .single();
-        
-      setProfile(profileData || { name: user.email?.split('@')[0], role: 'free', created_at: new Date().toISOString() });
-
-      // GATEKEEPER CHECK
-      const { count } = await supabase.from('enrolled_exams').select('exam_id', { count: 'exact', head: true }).eq('user_id', user.id);
-      if (count === 0) {
-        router.push('/syllabus');
-        return; 
+      // 1. Handle readable mode preference
+      if (typeof window !== 'undefined' && localStorage.getItem('readable_mode') === 'on') {
+        document.body.classList.add('readable')
       }
 
-      setLoading(false);   // unblock UI early
-      fetchTopics();       // load topics in background
+      // 2. Get User
+      const { data: { user } } = await supabase.auth.getUser();
+      if (!user) { router.push('/'); return; }
+      setUser(user);
+
+      // 3. Get Profile (CRITICAL FIX HERE)
+      // We explicitly select the 'tier' to ensure we see 'PRO_LIFETIME'
+      const { data: profileData, error } = await supabase
+        .from('profiles')
+        .select('name, tier, is_admin, created_at, target_exam_date')
+        .eq('user_id', user.id)
+        .single();
+      
+      if (error) {
+        console.error("Supabase Profile Fetch Error:", error);
+      }
+
+      // 4. Set Profile State
+      // If profileData exists, use it. Otherwise, fall back to defaults.
+      setProfile(profileData || { 
+        name: user.email?.split('@')[0], 
+        tier: 'free', 
+        is_admin: false, 
+        created_at: new Date().toISOString() 
+      });
+
+      // 5. Gatekeeper Check (Redirect if no exams selected)
+      const { count } = await supabase
+        .from('enrolled_exams')
+        .select('exam_id', { count: 'exact', head: true })
+        .eq('user_id', user.id);
+
+      const dismissed = sessionStorage.getItem('exam_selector_dismissed') === 'true';
+
+      if (count === 0 && !dismissed) {
+        router.push('/syllabus');
+        return;
+      }
+
+      setLoading(false);   // Unlock UI
+      fetchTopics();       // Load data
       setQuote(GARDEN_QUOTES[Math.floor(Math.random() * GARDEN_QUOTES.length)]);
     };
+    
     init();
   }, [router]);
 
@@ -297,8 +333,7 @@ export default function ScientificDashboard() {
     if (!newSeed.trim() || isPlanting) return; // FIX: Prevent Double Click
     
     // --- 1. DAILY LIMIT CHECK FOR FREE USERS ---
-    const isPro = profile?.role === 'pro';
-    
+    const isPro = profile?.tier === 'pro' || profile?.tier === 'PRO_LIFETIME' || profile?.is_admin === true;    
     if (!isPro) {
         // Count how many topics were created TODAY
         const todayStr = new Date().toDateString();
@@ -396,6 +431,14 @@ export default function ScientificDashboard() {
   };
 
   const handleCloudSync = () => {
+    if (!isProOrAdmin) {
+      showAlert('error', 'Cloud backups are a Pro feature.');
+      setShowProModal(true);
+      return;
+    }
+
+  showAlert('success', "Archiving Field Notes...");
+
     showAlert('success', "Archiving Field Notes...");
     setTimeout(() => {
       setLastBackup(new Date().toLocaleTimeString());
@@ -404,41 +447,62 @@ export default function ScientificDashboard() {
   };
 
   // --- NEW ACCOUNT CONTROL ACTIONS ---
-  const handleBurnArchives = async () => {
-    if (confirm("WARNING: This will wipe all your research topics. Are you sure?")) {
-        await supabase.from('topics').delete().neq('id', 0); // Delete all rows
+   const handleBurnArchives = async () => {
+    if (!isProOrAdmin) {
+      showAlert('error', 'Apocalypse mode is Pro-only. Discipline first.');
+      setShowProModal(true);
+      return;
+    }
+
+    setConfirmState({
+      show: true,
+      msg: "This will erase all specimens from the field. Soil will be reset to ash. Proceed?",
+      onConfirm: async () => {
+        setConfirmState(null);
+
+        await supabase.from('topics').delete().neq('id', 0);
         setAllTopics([]);
         setWitherList([]);
         setGrowingList([]);
         setHarvestedList([]);
+        
         showAlert('delete', "ALL MEMORIES WIPED.");
-    }
+      }
+    });
   };
+
 
   const handleDeleteAccount = async () => {
-    // In a real app, this would call an Edge Function to delete the user from Auth.
-    // For client-side, we simulate by wiping data + signing out.
     setSarcasticWarning(false);
-    showAlert('error', "INITIATING SELF-DESTRUCT...");
-    
-    setTimeout(async () => {
-        // 1. Wipe Data (Cascade will handle most, but we do manual just in case)
-        await supabase.from('topics').delete().neq('id', 0);
-        // 2. Sign Out
-        await supabase.auth.signOut();
-        router.push('/');
-    }, 2000);
-  };
 
-  const handleUnlockPro = () => {
-    // Mock Upgrade for now - You can wire this to Stripe later
-    if (confirm("Mock Payment: Upgrade to Pro Scholar for $5?")) {
-        // Update profile locally for instant gratification
-        setProfile((prev: any) => ({ ...prev, role: 'pro' }));
-        showAlert('success', "ACCESS GRANTED: PRO TIER.");
-        // In real app: Update DB here
+    // FINAL GUARD (even admins should pause)
+    showAlert('error', 'Identity collapse initiated.');
+
+    try {
+      // 1. Wipe all user topics
+      await supabase.from('topics').delete().neq('id', 0);
+
+      // 2. Optional: mark profile as deleted (soft signal)
+      await supabase
+        .from('profiles')
+        .update({ deleted_at: new Date().toISOString() })
+        .eq('user_id', user.id);
+
+      // 3. Sign out
+      await supabase.auth.signOut();
+
+      // 4. Exit system
+      router.push('/');
+    } catch (e) {
+      showAlert('error', 'Collapse failed. System resisted deletion.');
     }
   };
+
+
+    const handleUnlockPro = () => {
+      setShowProModal(true);
+    };
+
 
   // --- CALENDAR LOGIC (Standard Grid View) ---
   const getCalendarDays = () => {
@@ -477,7 +541,10 @@ export default function ScientificDashboard() {
   if (loading) return <div className="min-h-screen bg-[#FDFBF7] flex items-center justify-center text-stone-900 font-serif font-bold tracking-widest text-xl">OPENING ARCHIVES...</div>;
 
   const isOvergrown = witherList.length > 5;
-  const isPro = profile?.role === 'pro'; // Helper Check
+  const isAdmin = profile?.is_admin === true;
+  const isPro = profile?.tier === 'pro' || profile?.tier === 'PRO_LIFETIME' || profile?.is_admin === true;
+  const isProOrAdmin = isPro || isAdmin;
+
 
   // --- COMPONENT: SPECIMEN TAG (The Wither Card) ---
   const SpecimenTag = ({ topic }: { topic: Topic }) => (
@@ -486,7 +553,7 @@ export default function ScientificDashboard() {
       <div className="absolute -top-3 left-1/2 -translate-x-1/2 w-8 h-4 bg-stone-200 rounded-full border-2 border-stone-800 z-10"></div>
       
       <div className="flex justify-between items-start mb-2 mt-2">
-        <span className="font-mono text-[10px] text-stone-600 uppercase tracking-tight border border-stone-800 px-1 font-bold">{topic.category.toUpperCase()}</span>
+        <span className="font-mono text-xs text-stone-700 uppercase tracking-tight border border-stone-800 px-1 font-bold">{topic.category.toUpperCase()}</span>
         <div className="flex items-center gap-1 font-mono text-xs font-black text-red-900 bg-red-100 px-2 py-0.5 border border-red-900">
           <AlertTriangle size={12} strokeWidth={3} />
           OVERDUE
@@ -500,7 +567,7 @@ export default function ScientificDashboard() {
       <div className="flex gap-2">
         <button 
           onClick={() => handleWater(topic)}
-          className="flex-1 bg-stone-900 text-stone-50 py-2 text-[10px] font-black uppercase tracking-widest hover:bg-emerald-900 transition-colors shadow-sm"
+          className="flex-1 bg-stone-900 text-stone-50 py-2 text-xs font-black uppercase tracking-widest hover:bg-emerald-900 transition-colors shadow-sm"
         >
           Study Specimen
         </button>
@@ -575,7 +642,7 @@ export default function ScientificDashboard() {
            </div>
            <div>
              <h1 className="text-3xl font-black text-stone-900 tracking-tighter leading-none font-serif">KRAMA</h1>
-             <p className="text-[10px] font-mono text-stone-600 uppercase tracking-[0.2em] mt-0.5 font-bold">Field Journal v16.0</p>
+             <p className="text-xs font-mono text-stone-600 uppercase tracking-[0.2em] mt-0.5 font-bold">Field Journal v16.0</p>
            </div>
         </div>
         
@@ -583,7 +650,7 @@ export default function ScientificDashboard() {
         {isPro && (
           <div className="hidden md:flex items-center gap-2 px-3 py-1 bg-black border border-emerald-500 shadow-[0_0_15px_rgba(16,185,129,0.5)] rounded-full animate-pulse">
              <Sparkles size={12} className="text-emerald-400" />
-             <span className="text-[10px] font-black text-emerald-100 tracking-widest uppercase">PRO SCHOLAR</span>
+             <span className="text-xs font-black text-emerald-100 tracking-widest uppercase">PRO SCHOLAR</span>
           </div>
         )}
 
@@ -596,10 +663,23 @@ export default function ScientificDashboard() {
           />
         )}
 
+        <button
+          onClick={() => {
+            document.body.classList.toggle('readable')
+            const enabled = document.body.classList.contains('readable')
+            localStorage.setItem('readable_mode', enabled ? 'on' : 'off')
+          }}
+          className="px-3 py-2 border-2 border-stone-300 text-xs font-black uppercase hover:border-stone-900 hover:bg-stone-50 transition"
+          title="Readable mode"
+        >
+          Aa
+        </button>
+
+
         {/* CLICKABLE PROFILE */}
         <div className="flex items-center gap-4 cursor-pointer hover:opacity-70 transition-opacity" onClick={() => setShowProfile(true)}>
           <div className="text-right hidden sm:block">
-            <div className="text-[10px] text-stone-500 uppercase font-bold tracking-widest">Scholar</div>
+            <div className="text-xs text-stone-500 uppercase font-bold tracking-widest">Scholar</div>
             <div className="text-sm font-serif font-bold text-stone-900">{profile?.name}</div>
           </div>
           <div className="w-10 h-10 bg-stone-900 text-white flex items-center justify-center text-sm font-bold font-serif shadow-[4px_4px_0_#14532d] border-2 border-stone-900">
@@ -627,7 +707,7 @@ export default function ScientificDashboard() {
                 <div className="relative mb-4">
                   <input 
                     placeholder="Search urgency..." 
-                    className="w-full bg-white border-2 border-stone-300 p-2 pl-8 text-xs font-mono font-bold focus:border-stone-900 focus:outline-none placeholder:text-stone-400" 
+                    className="w-full bg-white border-2 border-stone-300 p-2 pl-8 text-xs font-mono font-bold focus:border-stone-900 focus:outline-none placeholder:text-stone-500" 
                     value={searchWither} 
                     onChange={(e) => setSearchWither(e.target.value)} 
                   />
@@ -638,7 +718,7 @@ export default function ScientificDashboard() {
                   {witherList.length === 0 ? (
                     <div className="p-8 border-2 border-dashed border-stone-300 text-center">
                       <CheckCircle2 className="mx-auto text-stone-300 mb-2" size={32}/>
-                      <p className="text-xs font-mono text-stone-400 uppercase font-bold">All Specimens Cataloged</p>
+                      <p className="text-sm font-mono text-stone-400 uppercase font-bold">All Specimens Cataloged</p>
                     </div>
                   ) : (
                     witherList
@@ -647,7 +727,7 @@ export default function ScientificDashboard() {
                       .map(t => <SpecimenTag key={t.id} topic={t} />)
                   )}
                   {witherList.length > 5 && !searchWither && (
-                    <div className="text-center py-3 text-[10px] text-stone-500 font-mono font-bold border-t-2 border-dashed border-stone-300 bg-stone-50">
+                    <div className="text-center py-3 text-xs text-stone-500 font-mono font-bold border-t-2 border-dashed border-stone-300 bg-stone-50">
                       + {witherList.length - 5} More Hidden (Use Search)
                     </div>
                   )}
@@ -668,14 +748,14 @@ export default function ScientificDashboard() {
                       <div key={t.id} className="flex justify-between items-center bg-white p-2 border border-stone-200 shadow-sm">
                         <div className="truncate pr-2">
                           <div className="text-sm font-bold text-stone-800 truncate">{t.title}</div>
-                          <div className="text-[10px] font-mono text-stone-500 uppercase">{t.category}</div>
+                          <div className="text-xs font-mono text-stone-500 uppercase">{t.category}</div>
                         </div>
-                        <div className="text-[10px] font-mono font-bold text-stone-400">
+                        <div className="text-xs font-mono font-bold text-stone-400">
                            {t.next_review ? new Date(t.next_review).toLocaleDateString(undefined, {month:'short', day:'numeric'}) : '-'}
                         </div>
                       </div>
                     )) : (
-                      <div className="text-xs text-stone-400 font-mono font-bold italic text-center py-4">No active growth.</div>
+                      <div className="text-sm text-stone-400 font-mono font-bold italic text-center py-4">No active growth.</div>
                     )}
                   </div>
               </div>
@@ -741,7 +821,7 @@ export default function ScientificDashboard() {
                 <div className="space-y-4">
                   <input 
                     placeholder="Subject Name..." 
-                    className="w-full bg-stone-50 border-b-2 border-stone-300 p-2 text-base font-serif font-bold focus:outline-none focus:border-stone-900 placeholder:italic placeholder:text-stone-400 text-stone-900"
+                    className="w-full bg-stone-50 border-b-2 border-stone-300 p-2 text-base font-serif font-bold focus:outline-none focus:border-stone-900 placeholder:italic placeholder:text-stone-500 text-stone-900"
                     value={newSeed}
                     onChange={(e) => setNewSeed(e.target.value)}
                     onKeyDown={(e) => e.key === 'Enter' && handlePlantSeed()}
@@ -753,14 +833,14 @@ export default function ScientificDashboard() {
                       <button 
                         key={c} 
                         onClick={() => { setCategory(c); setIsCustomCat(false); }}
-                        className={`px-3 py-1 text-[10px] font-bold uppercase border-2 transition-all ${category === c && !isCustomCat ? 'bg-stone-900 text-white border-stone-900' : 'bg-white text-stone-500 border-stone-200 hover:border-stone-900 hover:text-stone-900'}`}
+                        className={`px-3 py-1 text-xs font-bold uppercase border-2 transition-all ${category === c && !isCustomCat ? 'bg-stone-900 text-white border-stone-900' : 'bg-white text-stone-500 border-stone-200 hover:border-stone-900 hover:text-stone-900'}`}
                       >
                         {c}
                       </button>
                     ))}
                     <button 
                       onClick={() => setIsCustomCat(!isCustomCat)}
-                      className={`px-3 py-1 text-[10px] font-bold uppercase border-2 transition-all flex items-center gap-1 ${isCustomCat ? 'bg-stone-900 text-white border-stone-900' : 'bg-white text-stone-500 border-stone-200 hover:border-stone-900'}`}
+                      className={`px-3 py-1 text-xs font-bold uppercase border-2 transition-all flex items-center gap-1 ${isCustomCat ? 'bg-stone-900 text-white border-stone-900' : 'bg-white text-stone-500 border-stone-200 hover:border-stone-900'}`}
                     >
                       <Edit3 size={10}/> Custom
                     </button>
@@ -782,12 +862,12 @@ export default function ScientificDashboard() {
 
                   {/* Spacing Settings */}
                   <div className="pt-2">
-                    <button onClick={() => setShowAdvancedSeed(!showAdvancedSeed)} className="text-[10px] font-bold text-stone-400 hover:text-stone-900 underline uppercase tracking-wider mb-2">
+                    <button onClick={() => setShowAdvancedSeed(!showAdvancedSeed)} className="text-xs font-bold text-stone-400 hover:text-stone-900 underline uppercase tracking-wider mb-2">
                       Adjust Growth Cycle
                     </button>
                     {showAdvancedSeed && (
                       <div className="bg-stone-50 p-2 border border-stone-200 rounded">
-                        <label className="text-[9px] font-bold text-stone-500 block mb-1">INTERVALS (DAYS)</label>
+                        <label className="text-xs font-bold text-stone-500 block mb-1">INTERVALS (DAYS)</label>
                         <input 
                           value={spacingSchedule} 
                           onChange={(e) => setSpacingSchedule(e.target.value)} 
@@ -803,7 +883,7 @@ export default function ScientificDashboard() {
                   
                   {/* LIMIT REMINDER */}
                   {!isPro && (
-                    <div className="flex items-center gap-1 text-[10px] text-stone-400 font-mono font-bold justify-center border-t border-stone-200 pt-2">
+                    <div className="flex items-center gap-1 text-xs text-stone-400 font-mono font-bold justify-center border-t border-stone-200 pt-2">
                         <Lock size={10} /> Daily Limit: {allTopics.filter(t => new Date(t.created_at).toDateString() === new Date().toDateString()).length} / {DAILY_FREE_LIMIT}
                     </div>
                   )}
@@ -825,7 +905,7 @@ export default function ScientificDashboard() {
                       placeholder="Find seed..." 
                       value={searchNursery}
                       onChange={(e) => setSearchNursery(e.target.value)}
-                      className="w-full bg-emerald-50/50 border-b border-emerald-200 text-[10px] font-mono font-bold text-emerald-900 placeholder:text-emerald-400 focus:outline-none focus:border-emerald-700 py-1"
+                      className="w-full bg-emerald-50/50 border-b border-emerald-200 text-xs font-mono font-bold text-emerald-900 placeholder:text-emerald-400 focus:outline-none focus:border-emerald-700 py-1"
                     />
                     <Search className="absolute right-0 top-1.5 text-emerald-400" size={10} />
                 </div>
@@ -846,11 +926,11 @@ export default function ScientificDashboard() {
                       </div>
                     ))}
                     {growingList.filter(t => t.title.toLowerCase().includes(searchNursery.toLowerCase())).length > 5 && (
-                        <div className="text-[9px] text-emerald-600 font-bold italic">+ more growing...</div>
+                        <div className="text-xs text-emerald-600 font-bold italic">+ more growing...</div>
                     )}
                   </div>
                 ) : (
-                  <div className="text-[10px] text-emerald-600 font-bold italic opacity-70">No seeds planted.</div>
+                  <div className="text-sm text-emerald-600 font-bold italic opacity-70">No seeds planted.</div>
                 )}
               </div>
 
@@ -880,10 +960,10 @@ export default function ScientificDashboard() {
                         <div key={t.id} className="flex justify-between items-center py-2 border-b border-stone-200 last:border-0 font-medium">
                           <div>
                              <span className="line-through decoration-stone-400 truncate w-32 block text-sm font-bold text-stone-500">{t.title}</span>
-                             <span className="font-mono text-[9px] font-bold text-stone-400">{new Date(t.next_review).toLocaleDateString()}</span>
+                             <span className="font-mono text-xs font-bold text-stone-500">{new Date(t.next_review).toLocaleDateString()}</span>
                           </div>
                           {/* DELETE REMOVED - NOW SECURE */}
-                          <div className="text-[9px] text-stone-400 font-black italic">SECURE</div>
+                          <div className="text-xs text-stone-400 font-black italic">SECURE</div>
                         </div>
                       ))}
                     </motion.div>
@@ -899,7 +979,6 @@ export default function ScientificDashboard() {
           <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
             
             {/* RETURN BUTTON FOR SUB-PAGES */}
-             // Change line 901 to this:
             {(activeView as string) !== 'overgrowth' && (
               <button 
                 onClick={() => setActiveView('overgrowth' as any)} 
@@ -920,7 +999,10 @@ export default function ScientificDashboard() {
             
             {activeView === 'greenhouse' && (
                /* --- THE CONNECTED GREENHOUSE --- */
-               <Greenhouse currentProgress={dailyCount} userRole={profile?.role || 'free'} />
+               <Greenhouse
+                  currentProgress={dailyCount}
+                />
+
             )}
 
           </motion.div>
@@ -934,11 +1016,15 @@ export default function ScientificDashboard() {
             <div className="bg-white border-2 border-stone-900 p-4 shadow-[6px_6px_0_#e7e5e4] relative overflow-hidden" 
                  style={{ borderRadius: '255px 15px 225px 15px / 15px 225px 15px 255px' }}>
               <div className="flex justify-between items-center mb-4"><h3 className="font-serif text-lg font-black text-stone-900 flex items-center gap-2"><CalIcon size={18}/> Field Schedule</h3><div className="flex gap-4 font-mono text-xs font-bold text-stone-500"><button onClick={() => setCurrentMonth(new Date(currentMonth.setMonth(currentMonth.getMonth() - 1)))} className="hover:text-stone-900">PREV</button><span>{currentMonth.toLocaleString('default', { month: 'long', year: 'numeric' }).toUpperCase()}</span><button onClick={() => setCurrentMonth(new Date(currentMonth.setMonth(currentMonth.getMonth() + 1)))} className="hover:text-stone-900">NEXT</button></div></div>
-              <div className="grid grid-cols-7 gap-1">{['SUN', 'MON', 'TUE', 'WED', 'THU', 'FRI', 'SAT'].map(d => (<div key={d} className="text-center text-[9px] font-mono font-black text-stone-400 uppercase tracking-widest mb-1">{d}</div>))}{getCalendarDays().map((date, i) => { if (!date) { return <div key={`empty-${i}`} className="h-12 md:h-16"></div> } const cellDateKey = formatDateKey(date); const count = allTopics.filter(t => { if (!t.next_review) return false; const topicKey = getIsoDateKey(t.next_review); return topicKey === cellDateKey; }).length; return (<div key={i} onClick={() => handleDateClick(date)} className="h-12 md:h-16 border-2 border-stone-800 flex flex-col items-center justify-center cursor-pointer hover:bg-stone-50 transition-colors relative" style={{ borderRadius: '255px 15px 225px 15px / 15px 225px 15px 255px' }}><span className="font-mono text-xs font-black text-stone-700">{date.getDate()}</span>{count > 0 && (<div className="absolute top-1 right-1 text-[9px] font-black text-white bg-stone-900 rounded-full w-4 h-4 flex items-center justify-center">{count}</div>)}</div>) })}</div>
+              <div className="grid grid-cols-7 gap-1">{['SUN', 'MON', 'TUE', 'WED', 'THU', 'FRI', 'SAT'].map(d => (<div key={d} className="text-center text-xs font-mono font-black text-stone-400 uppercase tracking-widest mb-1">{d}</div>))}{getCalendarDays().map((date, i) => { if (!date) { return <div key={`empty-${i}`} className="h-12 md:h-16"></div> } const cellDateKey = formatDateKey(date); const count = allTopics.filter(t => { if (!t.next_review) return false; const topicKey = getIsoDateKey(t.next_review); return topicKey === cellDateKey; }).length; return (<div key={i} onClick={() => handleDateClick(date)} className="h-12 md:h-16 border-2 border-stone-800 flex flex-col items-center justify-center cursor-pointer hover:bg-stone-50 transition-colors relative" style={{ borderRadius: '255px 15px 225px 15px / 15px 225px 15px 255px' }}><span className="font-mono text-xs font-black text-stone-700">{date.getDate()}</span>{count > 0 && (<div className="absolute top-1 right-1 text-xs font-black text-white bg-stone-900 rounded-full w-4 h-4 flex items-center justify-center">{count}</div>)}</div>) })}</div>
             </div>
 
             {/* 2. NEW: PRO HEATMAP (Visible to all, but locked for free) */}
-            <ActivityHeatmap topics={allTopics} isPro={isPro} />
+            <ActivityHeatmap
+              topics={allTopics}
+              isUnlocked={isProOrAdmin}
+            />
+
 
             {/* 3. DANGER / ACCOUNT CONTROL BUTTONS */}
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mt-8">
@@ -1026,7 +1112,7 @@ export default function ScientificDashboard() {
             
             <div className="space-y-6">
               <div>
-                <label className="text-[10px] font-bold text-stone-400 uppercase tracking-widest mb-2 block">Data Management</label>
+                <label className="text-xs font-bold text-stone-400 uppercase tracking-widest mb-2 block">Data Management</label>
                 <div className="bg-white border border-stone-200 p-2">
                   <button onClick={() => showAlert('success', "Data Exported.")} className="w-full text-left p-2 text-stone-600 text-xs hover:text-stone-900 hover:bg-stone-50 font-mono font-bold">EXPORT JSON LOGS</button>
                 </div>
@@ -1073,7 +1159,7 @@ export default function ScientificDashboard() {
                className="bg-[#FDFBF7] border-4 border-black p-8 max-w-md w-full relative shadow-[12px_12px_0_#000]"
                onClick={(e) => e.stopPropagation()}
              >
-                <div className="absolute top-0 right-0 bg-black text-white px-4 py-1 text-[10px] font-black uppercase tracking-widest">FIELD IDENTITY CARD</div>
+                <div className="absolute top-0 right-0 bg-black text-white px-4 py-1 text-xs font-black uppercase tracking-widest">FIELD IDENTITY CARD</div>
                 <div className="mt-6 flex gap-6 items-start">
                    <div className="w-24 h-24 border-4 border-black bg-stone-200 shrink-0 overflow-hidden flex items-center justify-center">
                      <User size={48} className="text-stone-400" />
@@ -1086,20 +1172,20 @@ export default function ScientificDashboard() {
                      <div className="text-sm font-bold text-black">{user?.email}</div>
 
                      <div className="flex gap-2 mt-4">
-                        <div className="bg-black text-white px-2 py-1 text-[9px] font-black uppercase tracking-widest border border-black">TIER: {profile?.role?.toUpperCase()}</div>
-                        <div className="bg-emerald-100 text-emerald-900 px-2 py-1 text-[9px] font-black uppercase tracking-widest border border-emerald-900 flex items-center gap-1"><Shield size={10} /> {profile?.role === 'pro' ? 'UNRESTRICTED' : 'LIMITED'}</div>
+                        <div className="bg-black text-white px-2 py-1 text-xs font-black uppercase tracking-widest border border-black">TIER: {profile?.is_admin ? 'ADMIN' : profile?.tier?.toUpperCase()}</div>
+                        <div className="bg-emerald-100 text-emerald-900 px-2 py-1 text-xs font-black uppercase tracking-widest border border-emerald-900 flex items-center gap-1"><Shield size={10} /> {profile?.tier === 'pro' ? 'UNRESTRICTED' : 'LIMITED'}</div>
                      </div>
                    </div>
                 </div>
                 <div className="mt-8 pt-6 border-t-2 border-dashed border-stone-300 flex justify-between items-end">
                    <div>
-                     <div className="text-[9px] font-black text-stone-400 uppercase tracking-widest">Scholar Since</div>
+                     <div className="text-xs font-black text-stone-400 uppercase tracking-widest">Scholar Since</div>
                      <div className="font-mono text-xs font-bold text-black">{new Date(profile?.created_at).toLocaleDateString()}</div>
                    </div>
                    <Fingerprint size={48} className="text-stone-200" />
                 </div>
                 <div className="mt-6">
-                  <button onClick={() => { supabase.auth.signOut(); router.push('/login'); }} className="w-full py-3 border-2 border-red-900 text-red-900 font-black uppercase text-xs hover:bg-red-50 transition-colors flex items-center justify-center gap-2"><LogOut size={16}/> Resign Commission (Log Out)</button>
+                  <button onClick={() => { supabase.auth.signOut(); router.push('/'); }} className="w-full py-3 border-2 border-red-900 text-red-900 font-black uppercase text-xs hover:bg-red-50 transition-colors flex items-center justify-center gap-2"><LogOut size={16}/> Resign Commission (Log Out)</button>
                 </div>
              </motion.div>
           </motion.div>
@@ -1111,7 +1197,7 @@ export default function ScientificDashboard() {
         {sarcasticWarning && (
           <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} className="fixed inset-0 bg-red-900/40 backdrop-blur-sm z-[700] flex items-center justify-center p-4">
              <motion.div initial={{ scale: 0.9, rotate: -2 }} animate={{ scale: 1, rotate: 0 }} className="bg-white border-4 border-red-600 p-8 max-w-sm w-full shadow-[10px_10px_0_#000] text-center relative overflow-hidden">
-                <div className="absolute top-0 left-0 w-full bg-red-600 text-white text-[10px] font-black uppercase tracking-widest py-1">CRITICAL FAILURE IMMINENT</div>
+                <div className="absolute top-0 left-0 w-full bg-red-600 text-white text-xs font-black uppercase tracking-widest py-1">CRITICAL FAILURE IMMINENT</div>
                 <div className="my-6">
                    <Skull size={48} className="mx-auto text-red-600 mb-4 animate-pulse" />
                    <h2 className="font-black text-2xl text-stone-900 uppercase leading-none mb-4">Giving up already?</h2>
@@ -1131,6 +1217,21 @@ export default function ScientificDashboard() {
           </motion.div>
         )}
       </AnimatePresence>
+
+      <ProUpgradeModal
+        open={showProModal}
+        onClose={() => setShowProModal(false)}
+        onSuccess={async () => {
+          const { data } = await supabase
+            .from('profiles')
+            .select('name, tier, is_admin, created_at, target_exam_date')
+            .eq('user_id', user.id)
+            .single();
+
+          if (data) setProfile(data);
+        }}
+      />
+
 
     </div>
   );

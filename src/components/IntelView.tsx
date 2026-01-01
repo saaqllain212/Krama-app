@@ -112,6 +112,18 @@ const getBadges = (topics: Topic[], streak: number) => [
 export default function IntelView({ topics, profile }: IntelProps) {
   const [showConfetti, setShowConfetti] = useState(false);
   const [selectedBadge, setSelectedBadge] = useState<any>(null);
+
+    // --- ACCESS CONTROL ---
+  const userTier = profile?.tier ?? 'free';
+  const isAdmin = profile?.is_admin === true;
+  const isProOrAdmin = userTier === 'pro' || isAdmin;
+  console.log('INTEL PROFILE DEBUG FINAL:', {
+    profile,
+    isAdmin,
+    userTier,
+  }); 
+
+
   
   // AI STATE
   const [aiLoading, setAiLoading] = useState(false);
@@ -269,8 +281,22 @@ export default function IntelView({ topics, profile }: IntelProps) {
               <>
                 <p className="font-serif text-stone-500 italic mb-6">"Data requires interpretation. Shall I analyze the logs?"</p>
                 <button 
-                  onClick={handleConsultBotanist}
-                  className="bg-stone-100 text-stone-900 px-6 py-2 font-mono text-xs font-bold uppercase tracking-widest hover:bg-amber-400 hover:text-black transition-colors shadow-[0_0_15px_rgba(255,255,255,0.1)]"
+                  onClick={() => {
+                    if (!isProOrAdmin) {
+                      alert('🔒 Field AI is a Pro feature.');
+                      return;
+                    }
+                    handleConsultBotanist();
+                  }}
+
+                  className={`px-6 py-2 font-mono text-xs font-bold uppercase tracking-widest transition-colors shadow-[0_0_15px_rgba(255,255,255,0.1)]
+                    ${isProOrAdmin 
+                      ? 'bg-stone-100 text-stone-900 hover:bg-amber-400 hover:text-black cursor-pointer'
+                      : 'bg-stone-700 text-stone-400 cursor-not-allowed opacity-60'
+                    }
+                  `}
+
+
                 >
                   Run Analysis
                 </button>
