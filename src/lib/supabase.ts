@@ -1,9 +1,10 @@
 import { createBrowserClient } from '@supabase/ssr'
 
 export const createClient = () => {
-  // Use fallbacks to prevent undefined errors during build/init
-  const url = process.env.NEXT_PUBLIC_SUPABASE_URL || '';
-  const anonKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || '';
-  
-  return createBrowserClient(url, anonKey);
+  // During build time, these might be undefined. 
+  // We provide placeholders so createBrowserClient doesn't throw an error.
+  const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL || 'https://placeholder.supabase.co';
+  const supabaseKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || 'placeholder';
+
+  return createBrowserClient(supabaseUrl, supabaseKey);
 }
