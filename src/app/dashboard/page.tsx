@@ -902,7 +902,7 @@ export default function ScientificDashboard() {
              // Change line 901 to this:
             {(activeView as string) !== 'overgrowth' && (
               <button 
-                onClick={() => setActiveView(' as any')} 
+                onClick={() => setActiveView('overgrowth' as any)} 
                 className="mb-6 flex items-center gap-2 text-xs text-stone-500 hover:text-stone-900 transition-colors uppercase tracking-widest font-bold"
               >
                 <ChevronDown className="rotate-90" size={14} /> Return to Lab
