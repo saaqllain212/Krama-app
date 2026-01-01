@@ -239,6 +239,12 @@ export default function GardenLogin() {
           <p className="mt-8 text-center text-[10px] text-stone-600">
             Garden withering? <a href="/signup" className="text-emerald-700 hover:text-emerald-500 underline decoration-emerald-900/30 underline-offset-4">Replant seeds.</a>
           </p>
+          <p className="mt-2 text-center text-[10px] text-stone-500">
+            <a href="/" className="hover:text-emerald-500 underline">
+              ← Back to landing
+            </a>
+          </p>
+
 
         </div>
       </div>

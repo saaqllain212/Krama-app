@@ -426,7 +426,7 @@ export default function ScientificDashboard() {
         await supabase.from('topics').delete().neq('id', 0);
         // 2. Sign Out
         await supabase.auth.signOut();
-        router.push('/login');
+        router.push('/');
     }, 2000);
   };
 
