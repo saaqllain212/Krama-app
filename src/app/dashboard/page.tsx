@@ -255,8 +255,8 @@ export default function ScientificDashboard() {
         return; 
       }
 
-      await fetchTopics();
-      setLoading(false);
+      setLoading(false);   // unblock UI early
+      fetchTopics();       // load topics in background
       setQuote(GARDEN_QUOTES[Math.floor(Math.random() * GARDEN_QUOTES.length)]);
     };
     init();
