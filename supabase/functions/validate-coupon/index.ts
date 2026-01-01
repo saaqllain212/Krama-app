@@ -58,7 +58,25 @@ serve(async (req) => {
       );
     }
 
-    // 3️⃣ Check usage
+    // 🆕 3️⃣ Check total usage limit (if any)
+    if (coupon.max_uses !== null) {
+      const { count } = await supabase
+        .from("coupon_usages")
+        .select("*", { count: "exact", head: true })
+        .eq("coupon_id", coupon.id);
+
+      if (count !== null && count >= coupon.max_uses) {
+        return new Response(
+          JSON.stringify({
+            valid: false,
+            message: "Coupon limit reached",
+          }),
+          { status: 200, headers: corsHeaders }
+        );
+      }
+    }
+
+    // 4️⃣ Check per-user usage
     const { data: used } = await supabase
       .from("coupon_usages")
       .select("id")
@@ -73,7 +91,7 @@ serve(async (req) => {
       );
     }
 
-    // 4️⃣ Price calc
+    // 5️⃣ Price calc
     let finalPrice = basePrice - coupon.discount_amount;
     if (finalPrice < 1) finalPrice = 1;
 

@@ -341,7 +341,7 @@ export default function WitheringGarden() {
               <Anchor className="text-amber-400" size={24}/>
             </div>
             <div className="text-5xl font-serif text-white mb-2">
-              ₹399
+              ₹599
             </div>
             <p className="text-emerald-200 text-xs mb-8">Lifetime Access. No Subscriptions.</p>
             <ul className="space-y-4 mb-8 text-emerald-50 text-sm font-medium flex-grow">
