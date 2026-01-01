@@ -65,11 +65,14 @@ export default function ProUpgradeModal({ open, onClose, onSuccess }: ProUpgrade
       setApplyingCoupon(true);
       setCouponMessage(null);
 
-      const { data: { session, user } } = await supabase.auth.getSession();
+      const { data: { session } } = await supabase.auth.getSession();
+      const { data: { user } } = await supabase.auth.getUser();
+
       if (!session || !user) {
         setCouponMessage('Session vanished. Reality is unstable. Reload.');
         return;
-      }
+      }       
+
 
       const res = await fetch(`${FUNCTIONS_URL}/validate-coupon`, {
         method: 'POST',
