@@ -79,8 +79,7 @@ export default function SyllabusPage() {
   const randomMsg = msgs ? msgs[Math.floor(Math.random() * msgs.length)] : "";
   
   // Provide a final string fallback so 'msg' is NEVER undefined
-  const finalMsg = customMsg || randomMsg || "Action logged.";
-
+  const finalMsg = customMsg || randomMsg || "Action confirmed."; // Ensure this is a string
   setAlertState({ 
     show: true, 
     msg: finalMsg, 

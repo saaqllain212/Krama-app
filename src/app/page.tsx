@@ -422,7 +422,10 @@ export default function WitheringGarden() {
               <div key={i} className="bg-white rounded-xl border border-stone-200 overflow-hidden">
                 <button onClick={() => setOpenFaq(openFaq === i ? null : i)} className="w-full flex justify-between items-center p-6 text-left font-bold text-stone-800 hover:bg-stone-50 transition-colors">
                   {item.q}
-                  <ChevronDown className={`text-stone-400 transition-transform duration-300 ${openFaq === i ? 'rotate-180' : ''}`} size={20}/>
+                  <ChevronDown 
+                    size={20} 
+                    className={`text-stone-400 transition-transform duration-300 ${openFaq === i ? 'rotate-180' : ''}`} 
+                  />
                 </button>
                 <AnimatePresence>
                   {openFaq === i && (

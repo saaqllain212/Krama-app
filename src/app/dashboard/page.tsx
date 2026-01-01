@@ -208,8 +208,7 @@ export default function ScientificDashboard() {
     const randomMsg = msgs ? msgs[Math.floor(Math.random() * msgs.length)] : "";
     
     // THE FIX: Provide a default fallback string so 'msg' is never undefined
-    const finalMsg = customMsg || randomMsg || "System updated."; 
-    
+    const finalMsg = customMsg || randomMsg || "Action confirmed."; // Ensure this is a string
     setAlertState({ 
       show: true, 
       msg: finalMsg, 
@@ -903,7 +902,7 @@ export default function ScientificDashboard() {
              // Change line 901 to this:
             {(activeView as string) !== 'overgrowth' && (
               <button 
-                onClick={() => setActiveView('overgrowth')} 
+                onClick={() => setActiveView(' as any')} 
                 className="mb-6 flex items-center gap-2 text-xs text-stone-500 hover:text-stone-900 transition-colors uppercase tracking-widest font-bold"
               >
                 <ChevronDown className="rotate-90" size={14} /> Return to Lab
