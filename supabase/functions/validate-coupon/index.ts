@@ -1,19 +1,32 @@
 import { serve } from "https://deno.land/std@0.168.0/http/server.ts";
 import { createClient } from "https://esm.sh/@supabase/supabase-js@2";
 
+const corsHeaders = {
+  "Access-Control-Allow-Origin": "*",
+  "Access-Control-Allow-Headers":
+    "authorization, apikey, content-type",
+};
+
 serve(async (req) => {
+  // ✅ Handle CORS preflight
+  if (req.method === "OPTIONS") {
+    return new Response("ok", { headers: corsHeaders });
+  }
+
   try {
-    // Only allow POST
     if (req.method !== "POST") {
-      return new Response("Method not allowed", { status: 405 });
+      return new Response("Method not allowed", {
+        status: 405,
+        headers: corsHeaders,
+      });
     }
 
     const { couponCode, userId, basePrice } = await req.json();
 
     if (!couponCode || !userId || !basePrice) {
       return new Response(
-        JSON.stringify({ error: "Missing required fields" }),
-        { status: 400 }
+        JSON.stringify({ valid: false, message: "Missing fields" }),
+        { status: 200, headers: corsHeaders }
       );
     }
 
@@ -23,17 +36,17 @@ serve(async (req) => {
     );
 
     // 1️⃣ Fetch coupon
-    const { data: coupon, error: couponError } = await supabase
+    const { data: coupon } = await supabase
       .from("coupons")
       .select("*")
       .eq("code", couponCode)
       .eq("is_active", true)
       .single();
 
-    if (couponError || !coupon) {
+    if (!coupon) {
       return new Response(
         JSON.stringify({ valid: false, message: "Invalid coupon code" }),
-        { status: 200 }
+        { status: 200, headers: corsHeaders }
       );
     }
 
@@ -41,45 +54,41 @@ serve(async (req) => {
     if (coupon.expires_at && new Date(coupon.expires_at) < new Date()) {
       return new Response(
         JSON.stringify({ valid: false, message: "Coupon expired" }),
-        { status: 200 }
+        { status: 200, headers: corsHeaders }
       );
     }
 
-    // 3️⃣ Check if user already used this coupon
-    const { data: usage } = await supabase
+    // 3️⃣ Check usage
+    const { data: used } = await supabase
       .from("coupon_usages")
       .select("id")
       .eq("coupon_id", coupon.id)
       .eq("user_id", userId)
       .maybeSingle();
 
-    if (usage) {
+    if (used) {
       return new Response(
-        JSON.stringify({
-          valid: false,
-          message: "Coupon already used",
-        }),
-        { status: 200 }
+        JSON.stringify({ valid: false, message: "Coupon already used" }),
+        { status: 200, headers: corsHeaders }
       );
     }
 
-    // 4️⃣ Calculate final price (min ₹1)
-    const discount = coupon.discount_amount;
-    let finalPrice = basePrice - discount;
+    // 4️⃣ Price calc
+    let finalPrice = basePrice - coupon.discount_amount;
     if (finalPrice < 1) finalPrice = 1;
 
     return new Response(
       JSON.stringify({
         valid: true,
         finalPrice,
-        discountApplied: discount,
+        discountApplied: coupon.discount_amount,
       }),
-      { status: 200 }
+      { status: 200, headers: corsHeaders }
     );
-  } catch (err) {
+  } catch {
     return new Response(
-      JSON.stringify({ error: "Internal server error" }),
-      { status: 500 }
+      JSON.stringify({ valid: false, message: "Internal error" }),
+      { status: 200, headers: corsHeaders }
     );
   }
 });
