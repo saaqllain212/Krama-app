@@ -90,6 +90,7 @@ Deno.serve(async (req) => {
     razorpay_payment_id,
     razorpay_signature,
     user_id,
+    coupon, // ✅ NEW (optional)
   } = await req.json();
 
   if (
@@ -212,7 +213,30 @@ Deno.serve(async (req) => {
   }
 
   // --------------------
-  // 6️⃣ Success
+  // 6️⃣ 🔐 LOCK COUPON (NEW — SAFE & OPTIONAL)
+  // --------------------
+  if (coupon) {
+    // Get coupon ID
+    const { data: couponRow } = await supabase
+      .from("coupons")
+      .select("id")
+      .eq("code", coupon)
+      .single();
+
+    if (couponRow) {
+      // Record usage (one-time per user)
+      // Duplicate inserts are auto-blocked by DB constraint
+      await supabase
+        .from("coupon_usages")
+        .insert({
+          coupon_id: couponRow.id,
+          user_id: user_id,
+        });
+    }
+  }
+
+  // --------------------
+  // 7️⃣ Success
   // --------------------
   return new Response(
     JSON.stringify({ success: true }),
