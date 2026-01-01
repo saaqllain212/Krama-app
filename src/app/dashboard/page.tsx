@@ -148,6 +148,9 @@ export default function ScientificDashboard() {
   // --- STATE ---
   const [user, setUser] = useState<any>(null);
   const [profile, setProfile] = useState<any>(null);
+  const isAdmin = profile?.is_admin === true;
+  const isPro = profile?.tier === 'pro' || profile?.tier === 'PRO_LIFETIME' || profile?.is_admin === true;
+  const isProOrAdmin = isPro || isAdmin;
   const [loading, setLoading] = useState(true);
   const [activeView, setActiveView] = useState<'overgrowth' | 'tending' | 'roots' | 'climate' | 'greenhouse' | 'syllabus' | 'pragati'>('overgrowth');
   const [quote, setQuote] = useState(GARDEN_QUOTES[0]);
@@ -167,6 +170,9 @@ export default function ScientificDashboard() {
   const [showAdvancedSeed, setShowAdvancedSeed] = useState(false);
   // STATE TO PREVENT DOUBLE CLICK
   const [isPlanting, setIsPlanting] = useState(false);
+  // STATE TO PREVENT DOUBLE REVIEW
+  const [reviewingId, setReviewingId] = useState<string | null>(null);
+
   
   const [searchWither, setSearchWither] = useState("");
   const [searchNursery, setSearchNursery] = useState(""); 
@@ -240,8 +246,15 @@ export default function ScientificDashboard() {
   const getIsoDateKey = (isoString: string) => {
     if (!isoString) return "";
     const date = new Date(isoString);
-    return formatDateKey(date);
+    return formatDateKey(
+      new Date(
+        date.getFullYear(),
+        date.getMonth(),
+        date.getDate()
+      )
+    );
   };
+
 
   // --- INITIALIZATION ---
   useEffect(() => {
@@ -296,36 +309,50 @@ export default function ScientificDashboard() {
     };
     
     init();
-  }, [router]);
+  }, [router,supabase]);
 
   // --- LOGIC: FETCH ---
-  const fetchTopics = async () => {
-    const { data } = await supabase.from('topics').select('*');
-    if (data) {
-      setAllTopics(data);
-      const todayKey = formatDateKey(new Date());
-      const due: Topic[] = [];
-      const prog: Topic[] = [];
-      const comp: Topic[] = [];
+const fetchTopics = async () => {
+  if (!user) return;
 
-      data.forEach((t: Topic) => {
-        if (t.status === 'completed') {
-            comp.push(t);
-            return;
-        }
-        
-        if (!t.next_review) return;
-        
-        const reviewKey = getIsoDateKey(t.next_review);
-        if (reviewKey <= todayKey) due.push(t);
-        else prog.push(t);
-      });
+  const { data, error } = await supabase
+    .from('topics')
+    .select('*')
+    .eq('user_id', user.id);
 
-      setWitherList(due);
-      setGrowingList(prog);
-      setHarvestedList(comp);
-    }
-  };
+  if (error) {
+    console.error('Fetch topics failed:', error);
+    showAlert('error', 'Failed to load topics.');
+    return;
+  }
+
+  if (data) {
+    setAllTopics(data);
+
+    const todayKey = formatDateKey(new Date());
+    const due: Topic[] = [];
+    const prog: Topic[] = [];
+    const comp: Topic[] = [];
+
+    data.forEach((t: Topic) => {
+      if (t.status === 'completed') {
+        comp.push(t);
+        return;
+      }
+
+      if (!t.next_review) return;
+
+      const reviewKey = getIsoDateKey(t.next_review);
+      if (reviewKey <= todayKey) due.push(t);
+      else prog.push(t);
+    });
+
+    setWitherList(due);
+    setGrowingList(prog);
+    setHarvestedList(comp);
+  }
+};
+
 
   // --- ACTIONS ---
   
@@ -338,7 +365,7 @@ export default function ScientificDashboard() {
         // Count how many topics were created TODAY
         const todayStr = new Date().toDateString();
         // Filter 'allTopics' to find ones created today
-        const createdToday = allTopics.filter(t => new Date(t.created_at).toDateString() === todayStr).length;
+        const createdToday = dailyCount;
         
         if (createdToday >= DAILY_FREE_LIMIT) {
             showAlert('error', `Daily Limit Reached (${DAILY_FREE_LIMIT}). Upgrade for unlimited access.`);
@@ -386,6 +413,8 @@ export default function ScientificDashboard() {
       
       // Since gap is 0, it is technically "Due Today", so add to WitherList directly
       setWitherList(prev => [...prev, data]);
+
+      setDailyCount(prev => prev + 1);
       
       // Reset Form
       setNewSeed(""); 
@@ -397,11 +426,14 @@ export default function ScientificDashboard() {
   };
 
   const handleWater = async (topic: Topic) => {
+      if (reviewingId === topic.id) return; // ✅ guard
+      setReviewingId(topic.id);
+
+
     // 1. Optimistic UI: Remove from list immediately
     setWitherList(prev => prev.filter(t => t.id !== topic.id));
     
     // --- NEW: INCREMENT DAILY COUNT (WIRING) ---
-    setDailyCount(prev => prev + 1);
     
     showAlert('success');
     
@@ -411,7 +443,9 @@ export default function ScientificDashboard() {
       fetchTopics(); 
     } catch (e) { 
       // Revert if error
-      fetchTopics(); 
+      fetchTopics();
+      } finally {
+    setReviewingId(null); // ✅ release
     }
   };
 
@@ -424,7 +458,12 @@ export default function ScientificDashboard() {
         setGrowingList(prev => prev.filter(t => t.id !== id));
         setHarvestedList(prev => prev.filter(t => t.id !== id));
         showAlert('delete');
-        await supabase.from('topics').delete().eq('id', id);
+        await supabase
+        .from('topics')
+        .delete()
+        .eq('id', id)
+        .eq('user_id', user.id);
+
         fetchTopics();
       }
     });
@@ -436,8 +475,6 @@ export default function ScientificDashboard() {
       setShowProModal(true);
       return;
     }
-
-  showAlert('success', "Archiving Field Notes...");
 
     showAlert('success', "Archiving Field Notes...");
     setTimeout(() => {
@@ -460,7 +497,8 @@ export default function ScientificDashboard() {
       onConfirm: async () => {
         setConfirmState(null);
 
-        await supabase.from('topics').delete().neq('id', 0);
+        await supabase.from('topics').delete().eq('user_id', user.id);
+
         setAllTopics([]);
         setWitherList([]);
         setGrowingList([]);
@@ -480,7 +518,8 @@ export default function ScientificDashboard() {
 
     try {
       // 1. Wipe all user topics
-      await supabase.from('topics').delete().neq('id', 0);
+      await supabase.from('topics').delete().eq('user_id', user.id);
+
 
       // 2. Optional: mark profile as deleted (soft signal)
       await supabase
@@ -541,9 +580,7 @@ export default function ScientificDashboard() {
   if (loading) return <div className="min-h-screen bg-[#FDFBF7] flex items-center justify-center text-stone-900 font-serif font-bold tracking-widest text-xl">OPENING ARCHIVES...</div>;
 
   const isOvergrown = witherList.length > 5;
-  const isAdmin = profile?.is_admin === true;
-  const isPro = profile?.tier === 'pro' || profile?.tier === 'PRO_LIFETIME' || profile?.is_admin === true;
-  const isProOrAdmin = isPro || isAdmin;
+  
 
 
   // --- COMPONENT: SPECIMEN TAG (The Wither Card) ---
@@ -1015,7 +1052,8 @@ export default function ScientificDashboard() {
             {/* 1. CALENDAR BLOCK */}
             <div className="bg-white border-2 border-stone-900 p-4 shadow-[6px_6px_0_#e7e5e4] relative overflow-hidden" 
                  style={{ borderRadius: '255px 15px 225px 15px / 15px 225px 15px 255px' }}>
-              <div className="flex justify-between items-center mb-4"><h3 className="font-serif text-lg font-black text-stone-900 flex items-center gap-2"><CalIcon size={18}/> Field Schedule</h3><div className="flex gap-4 font-mono text-xs font-bold text-stone-500"><button onClick={() => setCurrentMonth(new Date(currentMonth.setMonth(currentMonth.getMonth() - 1)))} className="hover:text-stone-900">PREV</button><span>{currentMonth.toLocaleString('default', { month: 'long', year: 'numeric' }).toUpperCase()}</span><button onClick={() => setCurrentMonth(new Date(currentMonth.setMonth(currentMonth.getMonth() + 1)))} className="hover:text-stone-900">NEXT</button></div></div>
+                 <div className="flex justify-between items-center mb-4"><h3 className="font-serif text-lg font-black text-stone-900 flex items-center gap-2"><CalIcon size={18}/> Field Schedule</h3><div className="flex gap-4 font-mono text-xs font-bold text-stone-500"><button onClick={() => setCurrentMonth(new Date(currentMonth.getFullYear(), currentMonth.getMonth() - 1, 1))} className="hover:text-stone-900">PREV</button><span>{currentMonth.toLocaleString('default', { month: 'long', year: 'numeric' }).toUpperCase()}</span><button onClick={() => setCurrentMonth(new Date(currentMonth.getFullYear(), currentMonth.getMonth() + 1, 1))} className="hover:text-stone-900">NEXT</button></div></div>
+
               <div className="grid grid-cols-7 gap-1">{['SUN', 'MON', 'TUE', 'WED', 'THU', 'FRI', 'SAT'].map(d => (<div key={d} className="text-center text-xs font-mono font-black text-stone-400 uppercase tracking-widest mb-1">{d}</div>))}{getCalendarDays().map((date, i) => { if (!date) { return <div key={`empty-${i}`} className="h-12 md:h-16"></div> } const cellDateKey = formatDateKey(date); const count = allTopics.filter(t => { if (!t.next_review) return false; const topicKey = getIsoDateKey(t.next_review); return topicKey === cellDateKey; }).length; return (<div key={i} onClick={() => handleDateClick(date)} className="h-12 md:h-16 border-2 border-stone-800 flex flex-col items-center justify-center cursor-pointer hover:bg-stone-50 transition-colors relative" style={{ borderRadius: '255px 15px 225px 15px / 15px 225px 15px 255px' }}><span className="font-mono text-xs font-black text-stone-700">{date.getDate()}</span>{count > 0 && (<div className="absolute top-1 right-1 text-xs font-black text-white bg-stone-900 rounded-full w-4 h-4 flex items-center justify-center">{count}</div>)}</div>) })}</div>
             </div>
 

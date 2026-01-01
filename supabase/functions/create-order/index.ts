@@ -1,6 +1,9 @@
 // Supabase Edge Runtime types
 import "jsr:@supabase/functions-js/edge-runtime.d.ts";
 
+// ✅ ADDED: Supabase client (required for auth validation)
+import { createClient } from "jsr:@supabase/supabase-js@2";
+
 // --------------------
 // CORS CONFIG
 // --------------------
@@ -33,7 +36,54 @@ Deno.serve(async (req) => {
     );
   }
 
+  // --------------------
+  // ✅ AUTH VALIDATION (MINIMAL, REQUIRED)
+  // --------------------
+  const authHeader = req.headers.get("Authorization");
+
+  if (!authHeader || !authHeader.startsWith("Bearer ")) {
+    return new Response(
+      JSON.stringify({ error: "Missing or invalid authorization header" }),
+      {
+        status: 401,
+        headers: {
+          ...corsHeaders,
+          "Content-Type": "application/json",
+        },
+      }
+    );
+  }
+
+  const supabase = createClient(
+    Deno.env.get("SUPABASE_URL")!,
+    Deno.env.get("SUPABASE_ANON_KEY")!,
+    {
+      global: {
+        headers: {
+          Authorization: authHeader,
+        },
+      },
+    }
+  );
+
+  const { data: { user }, error: authError } = await supabase.auth.getUser();
+
+  if (authError || !user) {
+    return new Response(
+      JSON.stringify({ error: "Unauthorized" }),
+      {
+        status: 401,
+        headers: {
+          ...corsHeaders,
+          "Content-Type": "application/json",
+        },
+      }
+    );
+  }
+
+  // --------------------
   // 3️⃣ Read request body
+  // --------------------
   const { amount } = await req.json();
 
   if (!amount) {
@@ -49,7 +99,9 @@ Deno.serve(async (req) => {
     );
   }
 
+  // --------------------
   // 4️⃣ Load Razorpay secrets
+  // --------------------
   const keyId = Deno.env.get("RAZORPAY_KEY_ID");
   const keySecret = Deno.env.get("RAZORPAY_KEY_SECRET");
 
@@ -66,7 +118,9 @@ Deno.serve(async (req) => {
     );
   }
 
+  // --------------------
   // 5️⃣ Create Razorpay order (REST API)
+  // --------------------
   const auth = btoa(`${keyId}:${keySecret}`);
 
   const razorpayResponse = await fetch(
@@ -87,7 +141,9 @@ Deno.serve(async (req) => {
 
   const orderData = await razorpayResponse.json();
 
+  // --------------------
   // 6️⃣ Return Razorpay order to frontend
+  // --------------------
   return new Response(
     JSON.stringify(orderData),
     {
