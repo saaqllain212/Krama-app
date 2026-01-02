@@ -135,6 +135,8 @@ Deno.serve(async (req) => {
         amount: amount * 100, // INR → paise
         currency: "INR",
         receipt: `krama_${Date.now()}`,
+        notes: {
+          user_id: user.id,
       }),
     }
   );
