@@ -50,7 +50,7 @@ Deno.serve(async (req) => {
   }
 
   // --------------------
-  // Verify Razorpay signature (HMAC SHA-256 -> base64)
+  // Verify Razorpay signature (try Base64, then hex)
   // --------------------
   const encoder = new TextEncoder();
   const key = await crypto.subtle.importKey(
@@ -61,17 +61,15 @@ Deno.serve(async (req) => {
     ["sign"]
   );
 
-  const signed = await crypto.subtle.sign(
-    "HMAC",
-    key,
-    encoder.encode(bodyText)
-  );
+  const signed = await crypto.subtle.sign("HMAC", key, encoder.encode(bodyText));
+  const bytes = new Uint8Array(signed);
 
-  const expectedSignature = btoa(
-    String.fromCharCode(...new Uint8Array(signed))
-  );
+  // Base64
+  const expectedBase64 = btoa(String.fromCharCode(...bytes));
+  // Hex
+  const expectedHex = Array.from(bytes).map((b) => b.toString(16).padStart(2, "0")).join("");
 
-  if (expectedSignature !== signature) {
+  if (signature !== expectedBase64 && signature !== expectedHex) {
     console.error("Razorpay webhook: signature mismatch");
     return new Response("Invalid webhook signature", {
       status: 401,

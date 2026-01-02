@@ -1260,6 +1260,15 @@ const fetchTopics = async () => {
         open={showProModal}
         onClose={() => setShowProModal(false)}
         onSuccess={async () => {
+          // 1) Optimistic: flip UI to Pro immediately
+          setProfile((prev: any) => ({
+            ...(prev || {}),
+            tier: 'pro',
+            is_pro: true,
+            pro_since: new Date().toISOString(),
+          }));
+
+          // 2) Then refetch from Supabase to confirm
           const { data } = await supabase
             .from('profiles')
             .select('name, tier, is_admin, created_at, target_exam_date')
