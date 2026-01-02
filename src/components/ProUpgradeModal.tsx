@@ -174,9 +174,9 @@ export default function ProUpgradeModal({ open, onClose, onSuccess }: ProUpgrade
             // intentionally ignored — webhook is source of truth
           });
 
-          // ✅ ALWAYS treat Razorpay success as success
+          // ✅ Treat Razorpay success as UI success
+          onSuccess();       // refresh profile/tier in UI immediately
           setView('SUCCESS');
-          onSuccess();
 
           setTimeout(() => {
             onClose();
