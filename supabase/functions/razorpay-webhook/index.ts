@@ -30,6 +30,7 @@ Deno.serve(async (req) => {
   const signature = req.headers.get("x-razorpay-signature");
 
   if (!signature) {
+    console.error("Razorpay webhook: missing signature header");
     return new Response("Missing signature", {
       status: 400,
       headers: corsHeaders,
@@ -41,6 +42,7 @@ Deno.serve(async (req) => {
   // --------------------
   const webhookSecret = Deno.env.get("RAZORPAY_WEBHOOK_SECRET");
   if (!webhookSecret) {
+    console.error("Razorpay webhook: missing RAZORPAY_WEBHOOK_SECRET");
     return new Response("Webhook secret missing", {
       status: 500,
       headers: corsHeaders,
@@ -70,6 +72,7 @@ Deno.serve(async (req) => {
     .join("");
 
   if (expectedSignature !== signature) {
+    console.error("Razorpay webhook: signature mismatch");
     return new Response("Invalid webhook signature", {
       status: 401,
       headers: corsHeaders,

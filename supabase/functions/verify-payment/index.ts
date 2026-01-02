@@ -115,13 +115,17 @@ Deno.serve(async (req) => {
   );
 
   // --------------------
-  // IDPOTENT UPGRADE (SAFE)
+  // IDEMPOTENT UPGRADE (FIXED TO USE user_id)
   // --------------------
   await supabase
     .from("profiles")
-    .update({ tier: "pro" })
-    .eq("id", user_id)
-    .neq("tier", "pro"); // ← prevents re-upgrade issues
+    .update({
+      tier: "pro",
+      is_pro: true,
+      pro_since: new Date().toISOString(),
+    })
+    .eq("user_id", user_id)
+    .neq("tier", "pro");
 
   // --------------------
   // COUPON LOCK (SAFE)
@@ -140,7 +144,7 @@ Deno.serve(async (req) => {
           coupon_id: couponRow.id,
           user_id,
         })
-        .throwOnError(); // duplicates blocked by DB constraint
+        .throwOnError();
     }
   }
 
