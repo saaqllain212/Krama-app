@@ -9,6 +9,8 @@ interface ProUpgradeModalProps {
   open: boolean;
   onClose: () => void;
   onSuccess: () => void;
+  setOptimisticPro?: (value: boolean) => void;
+
 }
 
 type ModalState = 'OFFER' | 'PROCESSING' | 'SUCCESS' | 'ERROR';
@@ -29,6 +31,8 @@ export default function ProUpgradeModal({ open, onClose, onSuccess }: ProUpgrade
   const [couponMessage, setCouponMessage] = useState<string | null>(null);
   const [couponApplied, setCouponApplied] = useState(false);
   const [applyingCoupon, setApplyingCoupon] = useState(false);
+  const [optimisticPro, setOptimisticPro] = useState(false);
+
 
   // Reset state when opening
   useEffect(() => {
@@ -175,6 +179,7 @@ export default function ProUpgradeModal({ open, onClose, onSuccess }: ProUpgrade
           });
 
           // ✅ Treat Razorpay success as UI success
+          setOptimisticPro(true);   // instant UI unlock
           onSuccess();       // refresh profile/tier in UI immediately
           setView('SUCCESS');
 
