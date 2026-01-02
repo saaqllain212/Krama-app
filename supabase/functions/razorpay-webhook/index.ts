@@ -4,7 +4,7 @@ import "jsr:@supabase/functions-js/edge-runtime.d.ts";
 import { createClient } from "https://esm.sh/@supabase/supabase-js@2";
 
 // --------------------
-// CORS CONFIG
+// CORS CONFIG (harmless, Razorpay ignores it)
 // --------------------
 const corsHeaders = {
   "Access-Control-Allow-Origin": "*",
@@ -15,6 +15,7 @@ const corsHeaders = {
 // EDGE FUNCTION
 // --------------------
 Deno.serve(async (req) => {
+  // Razorpay sends POST only
   if (req.method !== "POST") {
     return new Response("Method not allowed", {
       status: 405,
@@ -22,7 +23,9 @@ Deno.serve(async (req) => {
     });
   }
 
-  // Read raw body
+  // --------------------
+  // Read raw body (REQUIRED)
+  // --------------------
   const bodyText = await req.text();
   const signature = req.headers.get("x-razorpay-signature");
 
@@ -33,6 +36,9 @@ Deno.serve(async (req) => {
     });
   }
 
+  // --------------------
+  // Load webhook secret
+  // --------------------
   const webhookSecret = Deno.env.get("RAZORPAY_WEBHOOK_SECRET");
   if (!webhookSecret) {
     return new Response("Webhook secret missing", {
@@ -41,7 +47,9 @@ Deno.serve(async (req) => {
     });
   }
 
-  // Verify signature
+  // --------------------
+  // Verify Razorpay signature (HMAC SHA-256)
+  // --------------------
   const encoder = new TextEncoder();
   const key = await crypto.subtle.importKey(
     "raw",
@@ -68,6 +76,9 @@ Deno.serve(async (req) => {
     });
   }
 
+  // --------------------
+  // Parse event
+  // --------------------
   const event = JSON.parse(bodyText);
 
   if (event.event !== "payment.captured") {
@@ -77,6 +88,9 @@ Deno.serve(async (req) => {
     });
   }
 
+  // --------------------
+  // Extract user_id
+  // --------------------
   const payment = event.payload.payment.entity;
   const userId = payment.notes?.user_id;
 
@@ -87,17 +101,42 @@ Deno.serve(async (req) => {
     });
   }
 
+  // --------------------
+  // Supabase service role client
+  // --------------------
   const supabase = createClient(
     Deno.env.get("SUPABASE_URL")!,
     Deno.env.get("SUPABASE_SERVICE_ROLE_KEY")!
   );
 
-  // ✅ CORRECT COLUMN
-  await supabase
+  // --------------------
+  // ✅ FAIL-PROOF UPSERT (KEY FIX)
+  // --------------------
+  const { error } = await supabase
     .from("profiles")
-    .update({ tier: "pro", is_pro: true, pro_since: new Date().toISOString() })
-    .eq("user_id", userId);
+    .upsert(
+      {
+        user_id: userId,
+        tier: "pro",
+        is_pro: true,
+        pro_since: new Date().toISOString(),
+      },
+      {
+        onConflict: "user_id",
+      }
+    );
 
+  if (error) {
+    console.error("PROFILE UPSERT FAILED:", error);
+    return new Response("Database error", {
+      status: 500,
+      headers: corsHeaders,
+    });
+  }
+
+  // --------------------
+  // Acknowledge webhook
+  // --------------------
   return new Response("OK", {
     status: 200,
     headers: corsHeaders,
