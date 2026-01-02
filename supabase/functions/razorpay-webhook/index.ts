@@ -8,48 +8,40 @@ import { createClient } from "https://esm.sh/@supabase/supabase-js@2";
 // --------------------
 const corsHeaders = {
   "Access-Control-Allow-Origin": "*",
-  "Access-Control-Allow-Headers":
-    "authorization, x-client-info, apikey, content-type",
+  "Access-Control-Allow-Headers": "*",
 };
 
 // --------------------
 // EDGE FUNCTION
 // --------------------
 Deno.serve(async (req) => {
-  // 1️⃣ CORS preflight
-  if (req.method === "OPTIONS") {
-    return new Response("ok", { headers: corsHeaders });
-  }
-
-  // 2️⃣ Razorpay ONLY sends POST
   if (req.method !== "POST") {
-    return new Response(
-      "Method not allowed",
-      { status: 405, headers: corsHeaders }
-    );
+    return new Response("Method not allowed", {
+      status: 405,
+      headers: corsHeaders,
+    });
   }
 
-  // 3️⃣ Read raw body (REQUIRED for signature verification)
+  // Read raw body
   const bodyText = await req.text();
   const signature = req.headers.get("x-razorpay-signature");
 
   if (!signature) {
-    return new Response(
-      "Missing signature",
-      { status: 400, headers: corsHeaders }
-    );
+    return new Response("Missing signature", {
+      status: 400,
+      headers: corsHeaders,
+    });
   }
 
-  // 4️⃣ Load webhook secret
   const webhookSecret = Deno.env.get("RAZORPAY_WEBHOOK_SECRET");
   if (!webhookSecret) {
-    return new Response(
-      "Webhook secret missing",
-      { status: 500, headers: corsHeaders }
-    );
+    return new Response("Webhook secret missing", {
+      status: 500,
+      headers: corsHeaders,
+    });
   }
 
-  // 5️⃣ Verify Razorpay signature (HMAC SHA-256)
+  // Verify signature
   const encoder = new TextEncoder();
   const key = await crypto.subtle.importKey(
     "raw",
@@ -69,49 +61,45 @@ Deno.serve(async (req) => {
     .map((b) => b.toString(16).padStart(2, "0"))
     .join("");
 
-  // ✅ EDGE-SAFE SIGNATURE COMPARISON (FIXED)
   if (expectedSignature !== signature) {
-    return new Response(
-      "Invalid webhook signature",
-      { status: 400, headers: corsHeaders }
-    );
+    return new Response("Invalid webhook signature", {
+      status: 401,
+      headers: corsHeaders,
+    });
   }
 
-  // 6️⃣ Parse event
   const event = JSON.parse(bodyText);
 
   if (event.event !== "payment.captured") {
-    return new Response(
-      "Ignored",
-      { status: 200, headers: corsHeaders }
-    );
+    return new Response("Ignored", {
+      status: 200,
+      headers: corsHeaders,
+    });
   }
 
-  // 7️⃣ Extract payment + user
   const payment = event.payload.payment.entity;
   const userId = payment.notes?.user_id;
 
   if (!userId) {
-    return new Response(
-      "Missing user_id",
-      { status: 400, headers: corsHeaders }
-    );
+    return new Response("Missing user_id", {
+      status: 400,
+      headers: corsHeaders,
+    });
   }
 
-  // 8️⃣ Supabase service role client (CORRECT)
   const supabase = createClient(
     Deno.env.get("SUPABASE_URL")!,
     Deno.env.get("SUPABASE_SERVICE_ROLE_KEY")!
   );
 
+  // ✅ CORRECT COLUMN
   await supabase
     .from("profiles")
-    .update({ tier: "pro" })
-    .eq("id", userId);
+    .update({ tier: "pro", is_pro: true, pro_since: new Date().toISOString() })
+    .eq("user_id", userId);
 
-  // 9️⃣ Acknowledge webhook
-  return new Response(
-    "OK",
-    { status: 200, headers: corsHeaders }
-  );
+  return new Response("OK", {
+    status: 200,
+    headers: corsHeaders,
+  });
 });
