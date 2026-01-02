@@ -165,25 +165,20 @@ Deno.serve(async (req) => {
     .map((b) => b.toString(16).padStart(2, "0"))
     .join("");
 
-  // ✅ Timing-safe compare
-  const sigA = encoder.encode(generatedSignature);
-  const sigB = encoder.encode(razorpay_signature);
+  // ✅ Edge-safe signature comparison
+    if (generatedSignature !== razorpay_signature) {
+      return new Response(
+        JSON.stringify({ error: "Invalid payment signature" }),
+        {
+          status: 400,
+          headers: {
+            ...corsHeaders,
+            "Content-Type": "application/json",
+          },
+        }
+      );
+    }
 
-  if (
-    sigA.length !== sigB.length ||
-    !crypto.timingSafeEqual(sigA, sigB)
-  ) {
-    return new Response(
-      JSON.stringify({ error: "Invalid payment signature" }),
-      {
-        status: 400,
-        headers: {
-          ...corsHeaders,
-          "Content-Type": "application/json",
-        },
-      }
-    );
-  }
 
   // --------------------
   // 5️⃣ Upgrade user to PRO (idempotent)
