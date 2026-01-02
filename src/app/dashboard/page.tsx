@@ -1,6 +1,7 @@
 'use client';
 export const dynamic = 'force-dynamic'
 
+import Link from 'next/link';
 
 import { useState, useEffect } from 'react';
 import { createClient } from '@/lib/supabase';
@@ -28,6 +29,8 @@ import IntelView from '@/components/IntelView';
 import TargetClock from '@/components/TargetClock';
 // Import Greenhouse
 import Greenhouse from '@/components/Greenhouse';
+import MocksModal from '@/components/mocks/MocksModal';
+
 
 // --- CONFIGURATION ---
 const CATEGORY_PRESETS = ["Study", "Work", "Other"];
@@ -181,6 +184,8 @@ export default function ScientificDashboard() {
   const [showSettings, setShowSettings] = useState(false);
   const [lastBackup, setLastBackup] = useState<string>("Never");
   const [showProfile, setShowProfile] = useState(false); 
+  const [isMocksOpen, setIsMocksOpen] = useState(false)
+
   
   // NEW: Sarcastic Warning Modal State
   const [sarcasticWarning, setSarcasticWarning] = useState(false);
@@ -277,9 +282,10 @@ export default function ScientificDashboard() {
         .eq('user_id', user.id)
         .single();
       
-      if (error) {
+      if (error && Object.keys(error).length > 0) {
         console.error("Supabase Profile Fetch Error:", error);
       }
+
 
       // 4. Set Profile State
       // If profileData exists, use it. Otherwise, fall back to defaults.
@@ -682,6 +688,31 @@ const fetchTopics = async () => {
              <p className="text-xs font-mono text-stone-600 uppercase tracking-[0.2em] mt-0.5 font-bold">Field Journal v16.0</p>
            </div>
         </div>
+
+        {/* FIELD NAVIGATION */}
+        <nav className="hidden md:flex items-center gap-6 ml-10 border-l-2 border-stone-300 pl-6">
+          <Link
+            href="/dashboard"
+            className="text-xs font-black uppercase tracking-widest text-stone-600 hover:text-stone-900 transition"
+          >
+            Dashboard
+          </Link>
+
+          <button
+            onClick={() => setIsMocksOpen(true)}
+            className="text-xs font-black uppercase tracking-widest text-stone-600 hover:text-stone-900 transition"
+          >
+            Mocks
+          </button>
+
+          <Link
+            href="/insights"
+            className="text-xs font-black uppercase tracking-widest text-stone-600 hover:text-stone-900 transition"
+          >
+            Insights
+          </Link>
+        </nav>
+
         
         {/* NEW: GLOWING BADGE FOR PAID USERS */}
         {isPro && (
@@ -843,6 +874,14 @@ const fetchTopics = async () => {
                 <button onClick={handleCloudSync} className="flex items-center gap-2 px-6 py-3 border-2 border-stone-300 text-stone-700 font-mono text-xs font-bold uppercase hover:bg-white hover:border-stone-900 hover:text-stone-900 transition-all shadow-sm">
                   <Upload size={16}/> Sync Log
                 </button>
+
+                <button
+                  onClick={() => setIsMocksOpen(true)}
+                  className="flex items-center gap-2 px-6 py-3 border-2 border-stone-300 text-stone-700 font-mono text-xs font-bold uppercase hover:bg-white hover:border-stone-900 hover:text-stone-900 transition-all shadow-sm"
+                >
+                  <Grid size={16}/> Mocks
+                </button>
+
               </div>
 
             </div>
@@ -1281,6 +1320,9 @@ const fetchTopics = async () => {
           if (data) setProfile(data);
         }}
       />
+
+
+      <MocksModal open={isMocksOpen} onClose={() => setIsMocksOpen(false)} />
 
 
     </div>
