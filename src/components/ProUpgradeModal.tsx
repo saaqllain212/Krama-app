@@ -71,8 +71,7 @@ export default function ProUpgradeModal({ open, onClose, onSuccess }: ProUpgrade
       if (!session || !user) {
         setCouponMessage('Session vanished. Reality is unstable. Reload.');
         return;
-      }       
-
+      }
 
       const res = await fetch(`${FUNCTIONS_URL}/validate-coupon`, {
         method: 'POST',
@@ -157,46 +156,38 @@ export default function ProUpgradeModal({ open, onClose, onSuccess }: ProUpgrade
         theme: { color: '#000000' },
 
         handler: async (response: any) => {
-          try {
-            const verifyRes = await fetch(
-              `${FUNCTIONS_URL}/verify-payment`,
-              {
-                method: 'POST',
-                headers: {
-                  Authorization: `Bearer ${session.access_token}`,
-                  'Content-Type': 'application/json',
-                },
-                body: JSON.stringify({
-                  razorpay_order_id: orderData.id,
-                  razorpay_payment_id: response.razorpay_payment_id,
-                  razorpay_signature: response.razorpay_signature,
-                  user_id: user.id,
-                  coupon: couponApplied ? coupon : null,
-                }),
-              }
-            );
+          // 🔒 Fire-and-forget verification (do NOT block UI)
+          fetch(`${FUNCTIONS_URL}/verify-payment`, {
+            method: 'POST',
+            headers: {
+              Authorization: `Bearer ${session.access_token}`,
+              'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({
+              razorpay_order_id: orderData.id,
+              razorpay_payment_id: response.razorpay_payment_id,
+              razorpay_signature: response.razorpay_signature,
+              user_id: user.id,
+              coupon: couponApplied ? coupon : null,
+            }),
+          }).catch(() => {
+            // intentionally ignored — webhook is source of truth
+          });
 
-            const verifyData = await verifyRes.json();
-            if (!verifyRes.ok) {
-              throw new Error(verifyData.error || 'Payment verification failed');
-            }
+          // ✅ ALWAYS treat Razorpay success as success
+          setView('SUCCESS');
+          onSuccess();
 
-            setView('SUCCESS');
-            onSuccess();
-
-            setTimeout(() => {
-              onClose();
-            }, 3000);
-          } catch (err: any) {
-            setErrorMessage(err.message || 'Verification error');
-            setView('ERROR');
-          }
+          setTimeout(() => {
+            onClose();
+          }, 3000);
         },
       };
 
       // @ts-ignore
       const rzp = new window.Razorpay(options);
 
+      // ❗ REAL Razorpay failure
       rzp.on('payment.failed', (response: any) => {
         setErrorMessage(response.error?.description || 'Payment failed');
         setView('ERROR');

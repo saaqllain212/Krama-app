@@ -69,14 +69,8 @@ Deno.serve(async (req) => {
     .map((b) => b.toString(16).padStart(2, "0"))
     .join("");
 
-  // ✅ Timing-safe comparison
-  const sigA = encoder.encode(expectedSignature);
-  const sigB = encoder.encode(signature);
-
-  if (
-    sigA.length !== sigB.length ||
-    !crypto.timingSafeEqual(sigA, sigB)
-  ) {
+  // ✅ EDGE-SAFE SIGNATURE COMPARISON (FIXED)
+  if (expectedSignature !== signature) {
     return new Response(
       "Invalid webhook signature",
       { status: 400, headers: corsHeaders }

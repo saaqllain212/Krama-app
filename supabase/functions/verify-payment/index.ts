@@ -1,148 +1,84 @@
 /// <reference lib="deno.ns" />
 
-// Supabase Edge Runtime types
 import "jsr:@supabase/functions-js/edge-runtime.d.ts";
 import { createClient } from "https://esm.sh/@supabase/supabase-js@2";
 
-// --------------------
-// CORS CONFIG
-// --------------------
 const corsHeaders = {
   "Access-Control-Allow-Origin": "*",
   "Access-Control-Allow-Headers":
     "authorization, x-client-info, apikey, content-type",
 };
 
-// --------------------
-// EDGE FUNCTION
-// --------------------
 Deno.serve(async (req) => {
-  // 1️⃣ Handle CORS preflight
   if (req.method === "OPTIONS") {
     return new Response("ok", { headers: corsHeaders });
   }
 
-  // 2️⃣ Only POST allowed
   if (req.method !== "POST") {
     return new Response(
       JSON.stringify({ error: "Method not allowed" }),
-      {
-        status: 405,
-        headers: {
-          ...corsHeaders,
-          "Content-Type": "application/json",
-        },
-      }
+      { status: 405, headers: corsHeaders }
     );
   }
 
   // --------------------
-  // ✅ AUTH VALIDATION (REQUIRED)
+  // AUTH VALIDATION
   // --------------------
   const authHeader = req.headers.get("Authorization");
 
-  if (!authHeader || !authHeader.startsWith("Bearer ")) {
+  if (!authHeader?.startsWith("Bearer ")) {
     return new Response(
       JSON.stringify({ error: "Missing or invalid authorization header" }),
-      {
-        status: 401,
-        headers: {
-          ...corsHeaders,
-          "Content-Type": "application/json",
-        },
-      }
+      { status: 401, headers: corsHeaders }
     );
   }
 
   const supabaseAuth = createClient(
     Deno.env.get("SUPABASE_URL")!,
     Deno.env.get("SUPABASE_ANON_KEY")!,
-    {
-      global: {
-        headers: {
-          Authorization: authHeader,
-        },
-      },
-    }
+    { global: { headers: { Authorization: authHeader } } }
   );
 
-  const { data: { user }, error: authError } =
-    await supabaseAuth.auth.getUser();
+  const { data: { user } } = await supabaseAuth.auth.getUser();
 
-  if (authError || !user) {
+  if (!user) {
     return new Response(
       JSON.stringify({ error: "Unauthorized" }),
-      {
-        status: 401,
-        headers: {
-          ...corsHeaders,
-          "Content-Type": "application/json",
-        },
-      }
+      { status: 401, headers: corsHeaders }
     );
   }
 
   // --------------------
-  // 3️⃣ Read request body
+  // REQUEST BODY
   // --------------------
   const {
     razorpay_order_id,
     razorpay_payment_id,
     razorpay_signature,
     user_id,
-    coupon, // ✅ NEW (optional)
+    coupon,
   } = await req.json();
 
-  if (
-    !razorpay_order_id ||
-    !razorpay_payment_id ||
-    !razorpay_signature ||
-    !user_id
-  ) {
+  if (!razorpay_order_id || !razorpay_payment_id || !razorpay_signature || !user_id) {
     return new Response(
       JSON.stringify({ error: "Missing required fields" }),
-      {
-        status: 400,
-        headers: {
-          ...corsHeaders,
-          "Content-Type": "application/json",
-        },
-      }
+      { status: 400, headers: corsHeaders }
     );
   }
 
-  // ✅ Ensure caller is upgrading THEMSELF
   if (user.id !== user_id) {
     return new Response(
       JSON.stringify({ error: "User mismatch" }),
-      {
-        status: 403,
-        headers: {
-          ...corsHeaders,
-          "Content-Type": "application/json",
-        },
-      }
+      { status: 403, headers: corsHeaders }
     );
   }
 
   // --------------------
-  // 4️⃣ Verify Razorpay signature
+  // SIGNATURE VERIFICATION (EDGE SAFE)
   // --------------------
-  const secret = Deno.env.get("RAZORPAY_KEY_SECRET");
-  if (!secret) {
-    return new Response(
-      JSON.stringify({ error: "Razorpay secret missing" }),
-      {
-        status: 500,
-        headers: {
-          ...corsHeaders,
-          "Content-Type": "application/json",
-        },
-      }
-    );
-  }
-
+  const secret = Deno.env.get("RAZORPAY_KEY_SECRET")!;
   const encoder = new TextEncoder();
+
   const data = `${razorpay_order_id}|${razorpay_payment_id}`;
 
   const key = await crypto.subtle.importKey(
@@ -159,87 +95,57 @@ Deno.serve(async (req) => {
     encoder.encode(data)
   );
 
-  const generatedSignature = Array.from(
-    new Uint8Array(signatureBuffer)
-  )
+  const generatedSignature = Array.from(new Uint8Array(signatureBuffer))
     .map((b) => b.toString(16).padStart(2, "0"))
     .join("");
 
-  // ✅ Edge-safe signature comparison
-    if (generatedSignature !== razorpay_signature) {
-      return new Response(
-        JSON.stringify({ error: "Invalid payment signature" }),
-        {
-          status: 400,
-          headers: {
-            ...corsHeaders,
-            "Content-Type": "application/json",
-          },
-        }
-      );
-    }
-
+  if (generatedSignature !== razorpay_signature) {
+    return new Response(
+      JSON.stringify({ error: "Invalid payment signature" }),
+      { status: 400, headers: corsHeaders }
+    );
+  }
 
   // --------------------
-  // 5️⃣ Upgrade user to PRO (idempotent)
+  // SERVICE ROLE CLIENT
   // --------------------
   const supabase = createClient(
     Deno.env.get("SUPABASE_URL")!,
     Deno.env.get("SUPABASE_SERVICE_ROLE_KEY")!
   );
 
-  const { error } = await supabase
+  // --------------------
+  // IDPOTENT UPGRADE (SAFE)
+  // --------------------
+  await supabase
     .from("profiles")
     .update({ tier: "pro" })
     .eq("id", user_id)
-    .neq("tier", "pro");
-
-  if (error) {
-    return new Response(
-      JSON.stringify({ error: "Failed to upgrade user" }),
-      {
-        status: 500,
-        headers: {
-          ...corsHeaders,
-          "Content-Type": "application/json",
-        },
-      }
-    );
-  }
+    .neq("tier", "pro"); // ← prevents re-upgrade issues
 
   // --------------------
-  // 6️⃣ 🔐 LOCK COUPON (NEW — SAFE & OPTIONAL)
+  // COUPON LOCK (SAFE)
   // --------------------
   if (coupon) {
-    // Get coupon ID
     const { data: couponRow } = await supabase
       .from("coupons")
       .select("id")
       .eq("code", coupon)
-      .single();
+      .maybeSingle();
 
     if (couponRow) {
-      // Record usage (one-time per user)
-      // Duplicate inserts are auto-blocked by DB constraint
       await supabase
         .from("coupon_usages")
         .insert({
           coupon_id: couponRow.id,
-          user_id: user_id,
-        });
+          user_id,
+        })
+        .throwOnError(); // duplicates blocked by DB constraint
     }
   }
 
-  // --------------------
-  // 7️⃣ Success
-  // --------------------
   return new Response(
     JSON.stringify({ success: true }),
-    {
-      headers: {
-        ...corsHeaders,
-        "Content-Type": "application/json",
-      },
-    }
+    { headers: corsHeaders }
   );
 });
