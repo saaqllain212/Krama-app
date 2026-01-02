@@ -26,7 +26,9 @@ Deno.serve(async (req) => {
   // --------------------
   // Read raw body (REQUIRED)
   // --------------------
-  const bodyText = await req.text();
+  const bodyBuffer = await req.arrayBuffer();
+  const bodyText = new TextDecoder().decode(bodyBuffer);
+
   const signature = req.headers.get("x-razorpay-signature");
 
   if (!signature) {
@@ -61,21 +63,33 @@ Deno.serve(async (req) => {
     ["sign"]
   );
 
-  const signed = await crypto.subtle.sign("HMAC", key, encoder.encode(bodyText));
-  const bytes = new Uint8Array(signed);
+  const encoder = new TextEncoder();
 
-  // Base64
-  const expectedBase64 = btoa(String.fromCharCode(...bytes));
-  // Hex
-  const expectedHex = Array.from(bytes).map((b) => b.toString(16).padStart(2, "0")).join("");
+const key = await crypto.subtle.importKey(
+  "raw",
+  encoder.encode(webhookSecret),
+  { name: "HMAC", hash: "SHA-256" },
+  false,
+  ["verify"]
+);
 
-  if (signature !== expectedBase64 && signature !== expectedHex) {
-    console.error("Razorpay webhook: signature mismatch");
-    return new Response("Invalid webhook signature", {
-      status: 401,
-      headers: corsHeaders,
-    });
-  }
+const signatureBytes = Uint8Array.from(
+  atob(signature),
+  (c) => c.charCodeAt(0)
+);
+
+const isValid = await crypto.subtle.verify(
+  "HMAC",
+  key,
+  signatureBytes,
+  bodyBuffer
+);
+
+if (!isValid) {
+  console.error("Razorpay webhook: signature mismatch");
+  return new Response("Invalid webhook signature", { status: 401 });
+}
+
 
   // --------------------
   // Parse event
