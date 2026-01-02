@@ -50,7 +50,7 @@ Deno.serve(async (req) => {
   }
 
   // --------------------
-  // Verify Razorpay signature (HMAC SHA-256)
+  // Verify Razorpay signature (HMAC SHA-256 -> base64)
   // --------------------
   const encoder = new TextEncoder();
   const key = await crypto.subtle.importKey(
@@ -67,9 +67,9 @@ Deno.serve(async (req) => {
     encoder.encode(bodyText)
   );
 
-  const expectedSignature = Array.from(new Uint8Array(signed))
-    .map((b) => b.toString(16).padStart(2, "0"))
-    .join("");
+  const expectedSignature = btoa(
+    String.fromCharCode(...new Uint8Array(signed))
+  );
 
   if (expectedSignature !== signature) {
     console.error("Razorpay webhook: signature mismatch");
