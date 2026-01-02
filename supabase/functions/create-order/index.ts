@@ -131,13 +131,16 @@ Deno.serve(async (req) => {
         Authorization: `Basic ${auth}`,
         "Content-Type": "application/json",
       },
+
       body: JSON.stringify({
         amount: amount * 100, // INR → paise
         currency: "INR",
         receipt: `krama_${Date.now()}`,
         notes: {
           user_id: user.id,
+        },
       }),
+
     }
   );
 
