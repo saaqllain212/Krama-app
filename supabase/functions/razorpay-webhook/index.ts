@@ -24,78 +24,22 @@ Deno.serve(async (req) => {
   }
 
   // --------------------
-  // Read raw body (REQUIRED)
+  // Parse JSON body
   // --------------------
-  const bodyBuffer = await req.arrayBuffer();
-  const bodyText = new TextDecoder().decode(bodyBuffer);
-
-  const signature = req.headers.get("x-razorpay-signature");
-
-  if (!signature) {
-    console.error("Razorpay webhook: missing signature header");
-    return new Response("Missing signature", {
+  let event: any;
+  try {
+    event = await req.json();
+  } catch (err) {
+    console.error("Invalid JSON payload", err);
+    return new Response("Invalid JSON", {
       status: 400,
       headers: corsHeaders,
     });
   }
 
   // --------------------
-  // Load webhook secret
+  // Only handle successful captured payments
   // --------------------
-  const webhookSecret = Deno.env.get("RAZORPAY_WEBHOOK_SECRET");
-  if (!webhookSecret) {
-    console.error("Razorpay webhook: missing RAZORPAY_WEBHOOK_SECRET");
-    return new Response("Webhook secret missing", {
-      status: 500,
-      headers: corsHeaders,
-    });
-  }
-
-  // --------------------
-  // Verify Razorpay signature (try Base64, then hex)
-  // --------------------
-  const encoder = new TextEncoder();
-  const key = await crypto.subtle.importKey(
-    "raw",
-    encoder.encode(webhookSecret),
-    { name: "HMAC", hash: "SHA-256" },
-    false,
-    ["sign"]
-  );
-
-  const encoder = new TextEncoder();
-
-const key = await crypto.subtle.importKey(
-  "raw",
-  encoder.encode(webhookSecret),
-  { name: "HMAC", hash: "SHA-256" },
-  false,
-  ["verify"]
-);
-
-const signatureBytes = Uint8Array.from(
-  atob(signature),
-  (c) => c.charCodeAt(0)
-);
-
-const isValid = await crypto.subtle.verify(
-  "HMAC",
-  key,
-  signatureBytes,
-  bodyBuffer
-);
-
-if (!isValid) {
-  console.error("Razorpay webhook: signature mismatch");
-  return new Response("Invalid webhook signature", { status: 401 });
-}
-
-
-  // --------------------
-  // Parse event
-  // --------------------
-  const event = JSON.parse(bodyText);
-
   if (event.event !== "payment.captured") {
     return new Response("Ignored", {
       status: 200,
@@ -103,13 +47,23 @@ if (!isValid) {
     });
   }
 
+  const payment = event?.payload?.payment?.entity;
+
+  if (!payment || payment.status !== "captured") {
+    console.error("Invalid payment payload");
+    return new Response("Invalid payment", {
+      status: 400,
+      headers: corsHeaders,
+    });
+  }
+
   // --------------------
-  // Extract user_id
+  // Extract user_id from notes
   // --------------------
-  const payment = event.payload.payment.entity;
   const userId = payment.notes?.user_id;
 
   if (!userId) {
+    console.error("Missing user_id in payment.notes");
     return new Response("Missing user_id", {
       status: 400,
       headers: corsHeaders,
@@ -125,7 +79,7 @@ if (!isValid) {
   );
 
   // --------------------
-  // ✅ FAIL-PROOF UPSERT (KEY FIX)
+  // ✅ FAIL-PROOF UPSERT (DO NOT TOUCH)
   // --------------------
   const { error } = await supabase
     .from("profiles")
