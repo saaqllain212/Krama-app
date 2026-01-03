@@ -30,24 +30,30 @@ export default function GateOfThornsSignup() {
     setError(null);
     if (!allChecked) return;
 
-    setLoading(true);
-    const { error } = await supabase.auth.signUp({
-      email,
-      password,
-      options: {
-        data: { full_name: fullName },
-        emailRedirectTo: `${window.location.origin}/auth/callback`,
+    const res = await fetch('/api/auth/signup', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
       },
-    });
+      body: JSON.stringify({
+        email,
+        password,
+        fullName,
+      }),
+    })
 
-    if (error) {
-      setError(error.message);
-      setLoading(false);
-    } else {
-      setStep('success');
-      setLoading(false);
+    const data = await res.json()
+
+    if (!res.ok) {
+      setError(data.error || 'Signup failed')
+      setLoading(false)
+      return
     }
-  };
+
+    setStep('success')
+    setLoading(false)
+
+  }
 
   const handleGoogleSignup = async () => {
     await supabase.auth.signInWithOAuth({

@@ -1,15 +1,31 @@
-import { requireAdmin } from '@/lib/guards/requireAdmin'
+import { redirect } from 'next/navigation'
+import { createServerSupabaseClient } from '@/lib/supabase/server'
 
 export default async function AdminLayout({
   children,
 }: {
   children: React.ReactNode
 }) {
-  await requireAdmin()
+  const supabase = await createServerSupabaseClient()
 
-  return (
-    <div className="min-h-screen bg-neutral-950 text-white">
-      {children}
-    </div>
-  )
+  const {
+    data: { user },
+  } = await supabase.auth.getUser()
+
+  if (!user) {
+    redirect('/login')
+  }
+
+  const { data: profile } = await supabase
+    .from('profiles')
+    .select('is_admin')
+    .eq('user_id', user.id)
+    .maybeSingle()
+
+  if (!profile?.is_admin) {
+    redirect('/dashboard')
+  }
+
+  // ✅ THIS LINE IS THE KEY
+  return <>{children}</>
 }

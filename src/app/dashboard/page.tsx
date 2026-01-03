@@ -292,11 +292,13 @@ export default function ScientificDashboard() {
       .from('profiles')
       .select('name, tier, is_admin, created_at, target_exam_date')
       .eq('user_id', user.id)
-      .single();
+      .maybeSingle();
 
-    if (error && Object.keys(error).length > 0) {
-      console.error("Supabase Profile Fetch Error:", error);
+    if (error?.message) {
+      console.error("Supabase Profile Fetch Error:", error.message);
     }
+
+
 
     setProfile(profileData || {
       name: user.email?.split('@')[0],
