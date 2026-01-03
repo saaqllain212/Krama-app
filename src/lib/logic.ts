@@ -10,7 +10,9 @@ export type Topic = {
   next_review: string;
   last_gap: number;
   origin_id?: string;
-  custom_intervals?: string; 
+  custom_intervals?: string;
+  updated_at: string;
+ 
 };
 
 // HELPER: Calculate next gap
@@ -78,8 +80,10 @@ export async function reviewTopic(supabase: SupabaseClient, topic: Topic) {
       .from('topics')
       .update({ 
         status: 'completed',
-        next_review: null // Remove from calendar
+        next_review: null,
+        updated_at: new Date().toISOString()
       })
+
       .eq('id', topic.id);
 
     if (error) throw error;
