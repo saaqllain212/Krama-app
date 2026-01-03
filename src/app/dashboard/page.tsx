@@ -320,9 +320,8 @@ export default function ScientificDashboard() {
   // --- LOGIC: FETCH ---
 const fetchTopics = async () => {
   const { data: { user: authUser } } = await supabase.auth.getUser();
-  if (!authUser || !user) return;
+  if (!authUser) return;
 
-  if (!user) return;
 
   const { data, error } = await supabase
     .from('topics')
@@ -370,6 +369,9 @@ const fetchTopics = async () => {
   // --- ACTIONS ---
   
   const handlePlantSeed = async () => {
+    const { data: { user: authUser } } = await supabase.auth.getUser();
+    if (!authUser) return;
+
     if (!newSeed.trim() || isPlanting) return; // FIX: Prevent Double Click
     
     // --- 1. DAILY LIMIT CHECK FOR FREE USERS ---
@@ -399,7 +401,7 @@ const fetchTopics = async () => {
 
     // 1. Prepare Object
     const tempTopic = {
-      user_id: user.id, 
+      user_id: authUser.id,
       title: newSeed, 
       category: finalCategory, 
       status: 'active',
@@ -475,7 +477,8 @@ const fetchTopics = async () => {
         .from('topics')
         .delete()
         .eq('id', id)
-        .eq('user_id', user.id);
+        .eq('user_id', (await supabase.auth.getUser()).data.user!.id);
+
 
         fetchTopics();
       }
@@ -510,7 +513,11 @@ const fetchTopics = async () => {
       onConfirm: async () => {
         setConfirmState(null);
 
-        await supabase.from('topics').delete().eq('user_id', user.id);
+        await supabase
+        .from('topics')
+        .delete()
+        .eq('user_id', (await supabase.auth.getUser()).data.user!.id);
+
 
         setAllTopics([]);
         setWitherList([]);
@@ -531,7 +538,11 @@ const fetchTopics = async () => {
 
     try {
       // 1. Wipe all user topics
-      await supabase.from('topics').delete().eq('user_id', user.id);
+      await supabase
+      .from('topics')
+      .delete()
+      .eq('user_id', (await supabase.auth.getUser()).data.user!.id);
+
 
 
       // 2. Optional: mark profile as deleted (soft signal)
