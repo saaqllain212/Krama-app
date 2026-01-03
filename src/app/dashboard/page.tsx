@@ -327,7 +327,7 @@ const fetchTopics = async () => {
   const { data, error } = await supabase
     .from('topics')
     .select('*')
-    .eq('user_id', user.id);
+    .eq('user_id', authUser.id);
 
   if (error) {
     console.error('Fetch topics failed:', error);
@@ -349,7 +349,11 @@ const fetchTopics = async () => {
         return;
       }
 
-      if (!t.next_review) return;
+      if (!t.next_review) {
+        due.push(t);
+        return;
+      }
+
 
       const reviewKey = getIsoDateKey(t.next_review);
       if (reviewKey <= todayKey) due.push(t);
