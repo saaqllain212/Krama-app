@@ -2,7 +2,15 @@ import { createServerClient, type CookieOptions } from '@supabase/ssr'
 import { NextResponse, type NextRequest } from 'next/server'
 
 export async function middleware(request: NextRequest) {
+  const pathname = request.nextUrl.pathname
+
+  // 🔒 Admin routes are handled by admin layout guard
+  if (pathname.startsWith('/admin')) {
+    return NextResponse.next()
+  }
+
   let response = NextResponse.next({
+
     request: {
       headers: request.headers,
     },
