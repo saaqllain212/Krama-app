@@ -405,6 +405,7 @@ export default function MocksModal({ open, onClose }: Props) {
                 setExamName(''); setScore(''); setMaxScore(''); setAccuracy('');
                 setStress(''); setFatigue(''); setTimeOfDay(''); setNote('');
                 localStorage.removeItem(MOCK_HISTORY_CACHE_KEY);
+                setHistory([]);
                 setHistoryLimit(20);
               }}
               className="space-y-6"
