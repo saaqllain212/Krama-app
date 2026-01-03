@@ -312,10 +312,14 @@ export default function ScientificDashboard() {
       .eq('user_id', user.id);
 
     const dismissed = sessionStorage.getItem('exam_selector_dismissed') === 'true';
-    if (count === 0 && !dismissed) {
+
+    // ✅ ADMINS NEVER GET BLOCKED BY SYLLABUS GATE
+    if (count === 0 && !dismissed && !profileData?.is_admin) {
+      sessionStorage.setItem('exam_selector_dismissed', 'true');
       router.push('/syllabus');
       return;
     }
+
 
     setLoading(false);
     fetchTopics();
