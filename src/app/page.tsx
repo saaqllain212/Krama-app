@@ -130,8 +130,8 @@ export default function WitheringGarden() {
         >
           {Array(4).fill(0).map((_, i) => (
             <div key={i} className="flex gap-12">
-              <span className="flex items-center gap-2"><div className="w-1.5 h-1.5 bg-emerald-500 rounded-full animate-pulse"></div> 42 Students reviewing 'Modern History' right now</span>
-              <span className="flex items-center gap-2"><div className="w-1.5 h-1.5 bg-emerald-500 rounded-full animate-pulse"></div> 12,500 Recalls in last hour</span>
+              <span className="flex items-center gap-2"><div className="w-1.5 h-1.5 bg-emerald-500 rounded-full animate-pulse"></div> Please understand the product before buying it, dont waste time and money</span>
+              <span className="flex items-center gap-2"><div className="w-1.5 h-1.5 bg-emerald-500 rounded-full animate-pulse"></div> Mocks logger live now </span>
               <span className="flex items-center gap-2"><div className="w-1.5 h-1.5 bg-emerald-500 rounded-full animate-pulse"></div> Competition is awake. Are you?</span>
             </div>
           ))}
@@ -464,7 +464,7 @@ export default function WitheringGarden() {
           </div>
           <div className="space-y-4">
             {[
-              { q: "Is this a flash card provider site?", a: "No we do not provide you with any flash cards or pack of cards, for that please use other sites or apps. This is jusr a To do list with retention logic thats it for now, maybe in future ...... " },
+              { q: "Is this a flash card provider site?", a: "No we do not provide you with any flash cards or pack of cards, for that please use other sites or apps. This is just a To do list with retention logic thats it for now, maybe in future ...... " },
               { q: "What happens if I stop paying?", a: "There is no 'stopping'. It is a one-time payment. You own it forever. The garden never closes." },
               { q: "I don't have time to review every day.", a: "That is exactly why you are here. You are currently wasting hours restudying things you've already forgotten. Our algorithm actually reduces your study time by showing you only what is about to die. We don't ask for more time; we ask for efficiency." },
               { q: "Is this guaranteed to make me pass?", a: "No tool can save you if you refuse to do the work. We just make sure that the work you do actually sticks. If you tend the garden, it grows. If you ignore it, it dies. The choice is yours." }

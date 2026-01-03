@@ -319,6 +319,9 @@ export default function ScientificDashboard() {
 
   // --- LOGIC: FETCH ---
 const fetchTopics = async () => {
+  const { data: { user: authUser } } = await supabase.auth.getUser();
+  if (!authUser || !user) return;
+
   if (!user) return;
 
   const { data, error } = await supabase
