@@ -48,3 +48,31 @@ body.readable .text-sm {
   font-size: 1rem;
 }
 
+/* =====================================
+   GLOBAL READABILITY BOOST (DARK MODE)
+   Safe override for Tailwind muted text
+   ===================================== */
+
+/* Base readability */
+body {
+  font-weight: 500;
+}
+
+/* Fix Tailwind muted grays in dark UI */
+.text-stone-400,
+.text-stone-500,
+.text-gray-400,
+.text-gray-500 {
+  color: #cfcfcf !important;
+}
+
+/* Headings stronger contrast */
+h1, h2, h3, h4 {
+  font-weight: 800;
+}
+
+/* Small text still readable */
+.text-xs,
+.text-sm {
+  font-weight: 500;
+}

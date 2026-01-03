@@ -4,6 +4,26 @@ import { useRouter } from 'next/navigation';
 import { useEffect, useState } from 'react';
 import { createClient } from '@/lib/supabase';
 
+// ✅ PATCH 1B — NEW IMPORTS
+import { calculateRecovery } from '../../lib/insights/phase2/logic/recovery';
+import { calculateVolatility } from '../../lib/insights/phase2/logic/volatility';
+import { calculateConsistency } from '../../lib/insights/phase2/logic/consistency';
+import { calculatePhaseConfidence } from '../../lib/insights/phase2/logic/phaseConfidence';
+import { evaluateHygiene } from '../../lib/insights/phase2/logic/hygiene';
+import RecoveryCard from '../../components/insights/RecoveryCard';
+import HygieneWarnings from '../../components/insights/HygieneWarnings';
+import VolatilityCard from '../../components/insights/VolatilityCard';
+import ConsistencyCard from '../../components/insights/ConsistencyCard';
+import PhaseConfidenceCard from '../../components/insights/PhaseConfidenceCard';
+import PhaseSummaryStrip from '../../components/insights/PhaseSummaryStrip';
+
+
+
+
+
+
+
+
 export default function InsightsPage() {
   const router = useRouter();
 
@@ -11,6 +31,9 @@ export default function InsightsPage() {
   const supabase = createClient();
   const [loading, setLoading] = useState(true);
   const [percentages, setPercentages] = useState<number[]>([]);
+  
+  // ✅ PATCH 1B — EXTEND STATE
+  const [rawMocks, setRawMocks] = useState<any[]>([]);
 
   // ✅ PATCH 3 — Fetch + Derive Mock Percentages
   useEffect(() => {
@@ -21,18 +44,26 @@ export default function InsightsPage() {
         return;
       }
 
+      // ✅ PATCH 1C — STORE RAW MOCK DATA (Extended Select)
       const { data } = await supabase
         .from('mock_entries')
-        .select('score, max_score')
+        .select(
+          'score, max_score, accuracy, stress_level, fatigue_level, exam_name, taken_at'
+        )
         .eq('user_id', userData.user.id)
         .order('taken_at', { ascending: true });
 
       if (!data || data.length === 0) {
         setPercentages([]);
+        setRawMocks([]); // Ensure raw mocks is cleared too
         setLoading(false);
         return;
       }
 
+      // Store raw data for Phase 2
+      setRawMocks(data || []);
+
+      // Original Logic for Phase 1 (Percentages)
       const pcts = data
         .map(m =>
           m.max_score && m.max_score > 0
@@ -48,7 +79,7 @@ export default function InsightsPage() {
     fetchInsightsData();
   }, [supabase]);
 
-  // ✅ PATCH 4 — Derived Metrics
+  // ✅ PATCH 4 — Derived Metrics (PHASE 1)
   const average =
     percentages.length > 0
       ? Math.round(
@@ -85,11 +116,70 @@ export default function InsightsPage() {
     else phase = 'Peak';
   }
 
+  // ✅ PATCH 1D — COMPUTE PHASE 2 RESULTS (NO UI SIDE EFFECTS)
+  // ======================
+  // PHASE 2 — DERIVED DATA
+  // ======================
+  const phase2Ready = rawMocks.length >= 5;
+
+  const percentagesP2 = rawMocks.map(m =>
+    m.max_score && m.max_score > 0
+      ? Math.round((m.score / m.max_score) * 100)
+      : 0
+  );
+  
+  const accuracyArr = rawMocks.map(m => m.accuracy ?? null);
+  const stressArr = rawMocks.map(m => m.stress_level ?? null);
+  const fatigueArr = rawMocks.map(m => m.fatigue_level ?? null);
+  const examNames = rawMocks.map(m => m.exam_name || '');
+  const dates = rawMocks.map(m => m.taken_at);
+
+  // Phase 2 calculations
+  const recovery = phase2Ready
+    ? calculateRecovery(percentagesP2)
+    : null;
+
+  const volatility = phase2Ready
+    ? calculateVolatility(percentagesP2)
+    : null;
+
+  const consistency = phase2Ready
+    ? calculateConsistency(
+        percentagesP2,
+        accuracyArr,
+        stressArr,
+        fatigueArr
+      )
+    : null;
+
+  const phaseConfidence = phase2Ready
+    ? calculatePhaseConfidence(
+        percentagesP2.map(() => phase) // phase history placeholder
+      )
+    : null;
+
+  const hygiene = phase2Ready
+    ? evaluateHygiene(
+        examNames,
+        dates,
+        accuracyArr,
+        stressArr,
+        fatigueArr
+      )
+    : null;
+
   return (
     <div className="min-h-screen bg-[#FDFBF7] text-stone-900 pt-24 px-4 md:px-8">
       
       {/* HEADER */}
       <header className="max-w-4xl mx-auto mb-12">
+
+        <div className="mb-6 border-2 border-dashed border-amber-400 bg-amber-50 px-4 py-3 text-sm font-mono text-amber-900">
+          <span className="font-black">Important:</span>{' '}
+          These insights are illustrative, not diagnostic. They do not measure intelligence,
+          potential, or final outcomes. Use them lightly — preparation is bigger than any dashboard.
+        </div>
+
 
         {/* BACK BUTTON */}
         <button
@@ -115,6 +205,16 @@ export default function InsightsPage() {
         </div>
 
       </header>
+
+      {phase2Ready && (
+        <PhaseSummaryStrip
+          phase={phase}
+          phaseConfidence={phaseConfidence}
+          volatility={volatility}
+          consistency={consistency}
+        />
+      )}
+
 
       {/* MAIN CONTENT */}
       <main className="max-w-5xl mx-auto space-y-12">
@@ -190,6 +290,11 @@ export default function InsightsPage() {
             </p>
           </div>
 
+          {phase2Ready && phaseConfidence && (
+            <PhaseConfidenceCard phaseConfidence={phaseConfidence!} />
+          )}
+
+
           <p className="mt-4 text-[11px] font-mono text-stone-400 italic">
               Derived from historical mock and study data.
           </p>
@@ -239,6 +344,34 @@ export default function InsightsPage() {
           </p>
 
         </section>
+
+        {/* ====================== */}
+        {/* PHASE 2 — DEEP INSIGHTS */}
+        {/* ====================== */}
+        
+        {phase2Ready && (
+          <section className="border-4 border-black bg-white shadow-[8px_8px_0_#000] p-6">
+            <h2 className="text-xl font-black uppercase mb-4">
+              Deep Insights
+            </h2>
+
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <RecoveryCard recovery={recovery} />
+              <HygieneWarnings hygiene={hygiene} />
+              <VolatilityCard volatility={volatility!} />
+              <ConsistencyCard consistency={consistency!} />
+
+
+
+            </div>
+
+            <p className="mt-4 text-[11px] font-mono text-stone-500 italic">
+              These insights are diagnostic signals derived from historical patterns.
+            </p>
+          </section>
+        )}
+
+
 
         {/* GUARDRAIL */}
         <section className="border-2 border-dashed border-stone-300 bg-stone-50 p-6 text-center">
