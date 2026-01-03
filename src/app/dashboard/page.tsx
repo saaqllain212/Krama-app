@@ -263,59 +263,73 @@ export default function ScientificDashboard() {
 
   // --- INITIALIZATION ---
   useEffect(() => {
-    const init = async () => {
-      // 1. Handle readable mode preference
-      if (typeof window !== 'undefined' && localStorage.getItem('readable_mode') === 'on') {
-        document.body.classList.add('readable')
+  let authSubscription: any;
+
+  const init = async () => {
+    // 1. Handle readable mode preference
+    if (typeof window !== 'undefined' && localStorage.getItem('readable_mode') === 'on') {
+      document.body.classList.add('readable');
+    }
+
+    // 2. Get User
+    const { data: { user } } = await supabase.auth.getUser();
+    if (!user) {
+      router.push('/');
+      return;
+    }
+    setUser(user);
+
+    // ✅ AUTH LISTENER WITH CLEANUP SUPPORT
+    const { data } = supabase.auth.onAuthStateChange((event) => {
+      if (event === 'SIGNED_OUT') {
+        router.push('/');
       }
+    });
+    authSubscription = data?.subscription;
 
-      // 2. Get User
-      const { data: { user } } = await supabase.auth.getUser();
-      if (!user) { router.push('/'); return; }
-      setUser(user);
+    // 3. Get Profile
+    const { data: profileData, error } = await supabase
+      .from('profiles')
+      .select('name, tier, is_admin, created_at, target_exam_date')
+      .eq('user_id', user.id)
+      .single();
 
-      // 3. Get Profile (CRITICAL FIX HERE)
-      // We explicitly select the 'tier' to ensure we see 'PRO_LIFETIME'
-      const { data: profileData, error } = await supabase
-        .from('profiles')
-        .select('name, tier, is_admin, created_at, target_exam_date')
-        .eq('user_id', user.id)
-        .single();
-      
-      if (error && Object.keys(error).length > 0) {
-        console.error("Supabase Profile Fetch Error:", error);
-      }
+    if (error && Object.keys(error).length > 0) {
+      console.error("Supabase Profile Fetch Error:", error);
+    }
 
+    setProfile(profileData || {
+      name: user.email?.split('@')[0],
+      tier: 'free',
+      is_admin: false,
+      created_at: new Date().toISOString(),
+    });
 
-      // 4. Set Profile State
-      // If profileData exists, use it. Otherwise, fall back to defaults.
-      setProfile(profileData || { 
-        name: user.email?.split('@')[0], 
-        tier: 'free', 
-        is_admin: false, 
-        created_at: new Date().toISOString() 
-      });
+    // 4. Gatekeeper Check
+    const { count } = await supabase
+      .from('enrolled_exams')
+      .select('exam_id', { count: 'exact', head: true })
+      .eq('user_id', user.id);
 
-      // 5. Gatekeeper Check (Redirect if no exams selected)
-      const { count } = await supabase
-        .from('enrolled_exams')
-        .select('exam_id', { count: 'exact', head: true })
-        .eq('user_id', user.id);
+    const dismissed = sessionStorage.getItem('exam_selector_dismissed') === 'true';
+    if (count === 0 && !dismissed) {
+      router.push('/syllabus');
+      return;
+    }
 
-      const dismissed = sessionStorage.getItem('exam_selector_dismissed') === 'true';
+    setLoading(false);
+    fetchTopics();
+    setQuote(GARDEN_QUOTES[Math.floor(Math.random() * GARDEN_QUOTES.length)]);
+  };
 
-      if (count === 0 && !dismissed) {
-        router.push('/syllabus');
-        return;
-      }
+  init();
 
-      setLoading(false);   // Unlock UI
-      fetchTopics();       // Load data
-      setQuote(GARDEN_QUOTES[Math.floor(Math.random() * GARDEN_QUOTES.length)]);
-    };
-    
-    init();
-  }, [router,supabase]);
+  // ✅ REQUIRED CLEANUP
+  return () => {
+    authSubscription?.unsubscribe();
+  };
+}, [router, supabase]);
+
 
   // --- LOGIC: FETCH ---
 const fetchTopics = async () => {
@@ -460,6 +474,7 @@ const fetchTopics = async () => {
       // Background refresh to confirm state (e.g. did it move to Harvested?)
       fetchTopics(); 
     } catch (e) { 
+      showAlert('error', 'Review failed. Please retry.');
       // Revert if error
       fetchTopics();
       } finally {
@@ -468,25 +483,37 @@ const fetchTopics = async () => {
   };
 
   const handleCompost = (id: string) => {
-    setConfirmState({
-      show: true, msg: "Discard this specimen from the archives?",
-      onConfirm: async () => {
-        setConfirmState(null);
-        setWitherList(prev => prev.filter(t => t.id !== id));
-        setGrowingList(prev => prev.filter(t => t.id !== id));
-        setHarvestedList(prev => prev.filter(t => t.id !== id));
-        showAlert('delete');
-        await supabase
+  setConfirmState({
+    show: true,
+    msg: "Discard this specimen from the archives?",
+    onConfirm: async () => {
+      setConfirmState(null);
+
+      const { data: { user: authUser } } = await supabase.auth.getUser();
+      if (!authUser) {
+        showAlert('error', 'Authentication lost.');
+        fetchTopics();
+        return;
+      }
+
+      const { error } = await supabase
         .from('topics')
         .delete()
         .eq('id', id)
-        .eq('user_id', (await supabase.auth.getUser()).data.user!.id);
+        .eq('user_id', authUser.id);
 
-
+      if (error) {
+        showAlert('error', 'Delete failed.');
         fetchTopics();
+        return;
       }
-    });
-  };
+
+      showAlert('delete');
+      fetchTopics();
+    }
+  });
+};
+
 
   const handleCloudSync = () => {
     if (!isProOrAdmin) {
@@ -516,18 +543,29 @@ const fetchTopics = async () => {
       onConfirm: async () => {
         setConfirmState(null);
 
-        await supabase
-        .from('topics')
-        .delete()
-        .eq('user_id', (await supabase.auth.getUser()).data.user!.id);
+        const { data: { user: authUser } } = await supabase.auth.getUser();
+        if (!authUser) {
+          showAlert('error', 'Authentication lost.');
+          return;
+        }
 
+        const { error } = await supabase
+          .from('topics')
+          .delete()
+          .eq('user_id', authUser.id);
+
+        if (error) {
+          showAlert('error', 'Reset failed.');
+          return;
+        }
 
         setAllTopics([]);
         setWitherList([]);
         setGrowingList([]);
         setHarvestedList([]);
-        
+
         showAlert('delete', "ALL MEMORIES WIPED.");
+
       }
     });
   };
@@ -541,10 +579,22 @@ const fetchTopics = async () => {
 
     try {
       // 1. Wipe all user topics
-      await supabase
-      .from('topics')
-      .delete()
-      .eq('user_id', (await supabase.auth.getUser()).data.user!.id);
+      const { data: { user: authUser } } = await supabase.auth.getUser();
+      if (!authUser) {
+        showAlert('error', 'Auth lost. Abort.');
+        return;
+      }
+
+      const { error: topicError } = await supabase
+        .from('topics')
+        .delete()
+        .eq('user_id', authUser.id);
+
+      if (topicError) {
+        showAlert('error', 'Failed to erase data.');
+        return;
+      }
+
 
 
 
@@ -1057,10 +1107,14 @@ const fetchTopics = async () => {
                         <div key={t.id} className="flex justify-between items-center py-2 border-b border-stone-200 last:border-0 font-medium">
                           <div>
                              <span className="line-through decoration-stone-400 truncate w-32 block text-sm font-bold text-stone-500">{t.title}</span>
-                             <span className="font-mono text-xs font-bold text-stone-500">{t.next_review
-                                ? new Date(t.next_review).toLocaleDateString()
-                                : '—'}
-                              </span>
+                            <span className="font-mono text-xs font-bold text-stone-500">
+                              {t.status === 'completed'
+                                ? new Date(t.created_at).toLocaleDateString()
+                                : t.next_review
+                                  ? new Date(t.next_review).toLocaleDateString()
+                                  : '—'}
+                            </span>
+
                           </div>
                           {/* DELETE REMOVED - NOW SECURE */}
                           <div className="text-xs text-stone-400 font-black italic">SECURE</div>
@@ -1286,7 +1340,7 @@ const fetchTopics = async () => {
                    <Fingerprint size={48} className="text-stone-200" />
                 </div>
                 <div className="mt-6">
-                  <button onClick={() => { supabase.auth.signOut(); router.push('/'); }} className="w-full py-3 border-2 border-red-900 text-red-900 font-black uppercase text-xs hover:bg-red-50 transition-colors flex items-center justify-center gap-2"><LogOut size={16}/> Resign Commission (Log Out)</button>
+                  <button onClick={async() => { supabase.auth.signOut(); router.push('/'); }} className="w-full py-3 border-2 border-red-900 text-red-900 font-black uppercase text-xs hover:bg-red-50 transition-colors flex items-center justify-center gap-2"><LogOut size={16}/> Resign Commission (Log Out)</button>
                 </div>
              </motion.div>
           </motion.div>
