@@ -380,7 +380,10 @@ const fetchTopics = async () => {
         // Count how many topics were created TODAY
         const todayStr = new Date().toDateString();
         // Filter 'allTopics' to find ones created today
-        const createdToday = dailyCount;
+        const createdToday = allTopics.filter(
+          t => new Date(t.created_at).toDateString() === new Date().toDateString()
+        ).length;
+
         
         if (createdToday >= DAILY_FREE_LIMIT) {
             showAlert('error', `Daily Limit Reached (${DAILY_FREE_LIMIT}). Upgrade for unlimited access.`);
@@ -1054,7 +1057,10 @@ const fetchTopics = async () => {
                         <div key={t.id} className="flex justify-between items-center py-2 border-b border-stone-200 last:border-0 font-medium">
                           <div>
                              <span className="line-through decoration-stone-400 truncate w-32 block text-sm font-bold text-stone-500">{t.title}</span>
-                             <span className="font-mono text-xs font-bold text-stone-500">{new Date(t.next_review).toLocaleDateString()}</span>
+                             <span className="font-mono text-xs font-bold text-stone-500">{t.next_review
+                                ? new Date(t.next_review).toLocaleDateString()
+                                : '—'}
+                              </span>
                           </div>
                           {/* DELETE REMOVED - NOW SECURE */}
                           <div className="text-xs text-stone-400 font-black italic">SECURE</div>
