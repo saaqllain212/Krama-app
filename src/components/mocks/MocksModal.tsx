@@ -406,7 +406,7 @@ export default function MocksModal({ open, onClose }: Props) {
                 setStress(''); setFatigue(''); setTimeOfDay(''); setNote('');
                 localStorage.removeItem(MOCK_HISTORY_CACHE_KEY);
                 setHistory([]);
-                setHistoryLimit(20);
+                setHistoryLimit((p) => p + 1);
               }}
               className="space-y-6"
             >
@@ -457,18 +457,18 @@ export default function MocksModal({ open, onClose }: Props) {
               {/* Bio-Data Grid */}
               <div className="grid grid-cols-3 gap-4 bg-stone-100 p-4 border-2 border-stone-200">
                 <div>
-                  <label className="block text-[11px] font-black uppercase mb-2 text-stone-600">Stress (1-10)</label>
+                  <label className="block text-[11px] font-black uppercase mb-2 text-stone-600">Stress (1-5)</label>
                   <input
-                    type="number" min={1} max={10}
+                    type="number" min={1} max={5}
                     value={stress}
                     onChange={(e) => setStress(e.target.value)}
                     className="w-full border-2 border-stone-400 p-2 font-bold font-mono text-sm text-black"
                   />
                 </div>
                 <div>
-                  <label className="block text-[11px] font-black uppercase mb-2 text-stone-600">Fatigue (1-10)</label>
+                  <label className="block text-[11px] font-black uppercase mb-2 text-stone-600">Fatigue (1-5)</label>
                   <input
-                    type="number" min={1} max={10}
+                    type="number" min={1} max={5}
                     value={fatigue}
                     onChange={(e) => setFatigue(e.target.value)}
                     className="w-full border-2 border-stone-400 p-2 font-bold font-mono text-sm text-black"
