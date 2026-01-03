@@ -7,6 +7,8 @@ import { setMocksInsightsSnapshot } from '@/lib/mocksInsightsStore';
 
 const MOCK_HISTORY_CACHE_KEY = 'krama_mock_history_v1';
 const FIRST_TIME_MOCK_WARNING_KEY = 'krama_mock_warning_seen';
+const FREE_MOCK_LIMIT = 30;
+
 
 type Props = {
   open: boolean;
@@ -33,6 +35,9 @@ export default function MocksModal({ open, onClose }: Props) {
   const [history, setHistory] = useState<any[]>([]);
   const [loadingHistory, setLoadingHistory] = useState(false);
   const [historyLimit, setHistoryLimit] = useState(20);
+
+  const [profile, setProfile] = useState<any>(null);
+
 
   // === SUMMARY STRIP DERIVED METRICS (READ-ONLY) ===
   const summary = (() => {
@@ -298,6 +303,22 @@ export default function MocksModal({ open, onClose }: Props) {
       }
     } catch {}
 
+    const fetchProfile = async () => {
+      const { data: { user } } = await supabase.auth.getUser();
+      if (!user) return;
+
+      const { data } = await supabase
+        .from('profiles')
+        .select('tier, is_admin')
+        .eq('user_id', user.id)
+        .single();
+
+      setProfile(data);
+    };
+
+    fetchProfile();
+
+
     const fetchHistory = async () => {
       setLoadingHistory(true);
       const { data: { user } } = await supabase.auth.getUser();
@@ -377,6 +398,37 @@ export default function MocksModal({ open, onClose }: Props) {
 
                 setSaving(true);
                 const { data: { user } } = await supabase.auth.getUser();
+                if (!user) {
+                  setError('Not authenticated');
+                  setSaving(false);
+                  return;
+                }
+
+
+                // ================================
+                // FREE USER MOCK LIMIT ENFORCEMENT
+                // ================================
+                const isPro =
+                  profile?.tier === 'pro' ||
+                  profile?.tier === 'PRO_LIFETIME' ||
+                  profile?.is_admin === true;
+
+                if (!isPro) {
+                  const { count } = await supabase
+                    .from('mock_entries')
+                    .select('*', { count: 'exact', head: true })
+                    .eq('user_id', user.id);
+
+                  if ((count ?? 0) >= FREE_MOCK_LIMIT) {
+                    setError(`Free limit reached (${FREE_MOCK_LIMIT} mocks). Upgrade to log more.`);
+                    setSaving(false);
+                    return; // ⛔ HARD STOP
+                  }
+                }
+
+
+
+
                 if (!user) {
                   setError('Not authenticated');
                   setSaving(false);
@@ -513,6 +565,20 @@ export default function MocksModal({ open, onClose }: Props) {
                   ⚠ {error}
                 </div>
               )}
+
+
+              {error?.includes('Free limit') && (
+                <button
+                  onClick={() => {
+                    // you already open Pro modal elsewhere
+                    window.dispatchEvent(new Event('open-pro-modal'));
+                  }}
+                  className="mt-2 text-xs font-black uppercase underline text-stone-700 hover:text-black"
+                >
+                  Unlock Unlimited Mocks
+                </button>
+              )}
+
 
               <button
                 type="submit"

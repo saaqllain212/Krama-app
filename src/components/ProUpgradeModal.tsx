@@ -32,6 +32,8 @@ export default function ProUpgradeModal({ open, onClose, onSuccess }: ProUpgrade
   const [couponApplied, setCouponApplied] = useState(false);
   const [applyingCoupon, setApplyingCoupon] = useState(false);
   const [optimisticPro, setOptimisticPro] = useState(false);
+  const [forcedOpen, setForcedOpen] = useState(false);
+
 
 
   // Reset state when opening
@@ -45,6 +47,18 @@ export default function ProUpgradeModal({ open, onClose, onSuccess }: ProUpgrade
       setErrorMessage('');
     }
   }, [open]);
+
+  useEffect(() => {
+  const handler = () => {
+    setForcedOpen(true);
+  };
+
+  window.addEventListener('open-pro-modal', handler);
+  return () => {
+    window.removeEventListener('open-pro-modal', handler);
+  };
+}, []);
+
 
   // Load Razorpay script (safe, single load)
   useEffect(() => {
@@ -207,27 +221,42 @@ export default function ProUpgradeModal({ open, onClose, onSuccess }: ProUpgrade
 
   return (
     <AnimatePresence>
-      {open && (
+      {(open || forcedOpen) && (
+
         <motion.div
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           exit={{ opacity: 0 }}
           className="fixed inset-0 z-[800] flex items-center justify-center p-4 bg-black/80 backdrop-blur-sm"
-          onClick={onClose}
+          onClick={() => {
+            setForcedOpen(false);
+            onClose();
+          }}
+
         >
           <motion.div
             initial={{ scale: 0.95, y: 10 }}
             animate={{ scale: 1, y: 0 }}
             exit={{ scale: 0.95, y: 10 }}
             onClick={(e) => e.stopPropagation()}
-            className="relative bg-[#FDFBF7] border-4 border-black w-full max-w-md shadow-[16px_16px_0_#000] overflow-hidden"
+            className="relative bg-[#FDFBF7] border-4 border-black
+                      w-full max-w-md
+                      max-h-[90vh] overflow-y-auto
+                      shadow-[16px_16px_0_#000]"
           >
-            <button onClick={onClose} className="absolute top-4 right-4 text-stone-400 hover:text-black">
+
+            <button
+              onClick={onClose}
+              className="fixed md:absolute top-4 right-4 z-[999]
+                        bg-white border-2 border-black
+                        p-1 shadow hover:bg-stone-100"
+            >
               <X size={24} />
             </button>
 
+
             {view === 'OFFER' && (
-              <div className="p-8">
+              <div className="p-6 sm:p-8">
                 <div className="text-center mb-6">
                   <div className="mx-auto w-16 h-16 bg-black text-yellow-400 flex items-center justify-center mb-4 border-2 border-black">
                     <Crown size={32} />
@@ -291,12 +320,17 @@ export default function ProUpgradeModal({ open, onClose, onSuccess }: ProUpgrade
                   </div>
                 )}
 
-                <button
-                  onClick={handlePayment}
-                  className="w-full py-4 bg-black text-yellow-400 font-black uppercase tracking-widest hover:bg-stone-900 transition-transform active:scale-95"
-                >
-                  Pay & Upgrade
-                </button>
+                <div className="sticky bottom-0 bg-[#FDFBF7] pt-4 pb-2">
+                  <button
+                    onClick={handlePayment}
+                    className="w-full py-4 bg-black text-yellow-400 font-black uppercase tracking-widest
+                              hover:bg-stone-900 transition-transform active:scale-95
+                              shadow-[0_-6px_12px_rgba(0,0,0,0.08)]"
+                  >
+                    Pay & Upgrade
+                  </button>
+                </div>
+
               </div>
             )}
 
