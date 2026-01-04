@@ -65,15 +65,7 @@ export default function GardenLogin() {
     }
   };
 
- const handleGoogleLogin = async () => {
-  await supabase.auth.signInWithOAuth({
-    provider: 'google',
-    options: {
-      redirectTo: `${window.location.origin}/auth/callback?next=/dashboard`,
-    },
-  });
-};
-
+ 
 
   return (
     <div className="min-h-screen bg-[#020402] text-stone-300 font-sans flex items-center justify-center p-4 relative overflow-hidden">
@@ -226,18 +218,6 @@ export default function GardenLogin() {
             </button>
           </form>
 
-          <div className="relative flex py-8 items-center opacity-40">
-            <div className="flex-grow border-t border-stone-800"></div>
-            <span className="flex-shrink-0 mx-4 text-[9px] text-stone-500 uppercase tracking-widest">OR</span>
-            <div className="flex-grow border-t border-stone-800"></div>
-          </div>
-
-          <button 
-            onClick={handleGoogleLogin}
-            className="w-full py-3 bg-transparent border border-stone-800 text-stone-500 hover:text-stone-300 hover:border-stone-600 transition-all text-[10px] uppercase tracking-widest font-bold flex items-center justify-center gap-2"
-          >
-             Continue with Google
-          </button>
 
           <p className="mt-8 text-center text-[10px] text-stone-600">
             Garden withering? <a href="/signup" className="text-emerald-700 hover:text-emerald-500 underline decoration-emerald-900/30 underline-offset-4">Replant seeds.</a>

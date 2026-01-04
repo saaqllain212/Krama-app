@@ -55,15 +55,6 @@ export default function GateOfThornsSignup() {
 
   }
 
-  const handleGoogleSignup = async () => {
-  await supabase.auth.signInWithOAuth({
-    provider: 'google',
-    options: {
-      redirectTo: `${window.location.origin}/auth/callback?next=/dashboard`,
-    },
-  });
-};
-
 
   return (
     <div className="min-h-screen font-sans flex items-center justify-center p-4 relative overflow-hidden bg-black">
@@ -221,14 +212,6 @@ export default function GateOfThornsSignup() {
                 {loading ? <span className="animate-pulse">Shattering Seals...</span> : "BEGIN THE GRIND"}
               </button>
 
-              <button 
-                type="button"
-                onClick={handleGoogleSignup}
-                disabled={loading}
-                className="w-full py-4 bg-transparent border border-stone-900 text-stone-600 hover:text-stone-300 hover:border-stone-700 transition-all text-xs uppercase tracking-widest font-bold"
-              >
-                Sign In with Google
-              </button>
             </form>
           </motion.div>
         )}
