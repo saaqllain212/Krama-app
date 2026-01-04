@@ -20,37 +20,37 @@ export async function GET(request: Request) {
     return NextResponse.redirect(`${origin}/auth/auth-code-error`)
   }
 
-  // ✅ IMPORTANT: cookies() is SYNC, but needs typing for TS
-  const cookieStore = cookies() as any
+  // 🔥 FORCE MUTABLE COOKIES (TypeScript-safe)
+  const cookieStore = cookies() as unknown as {
+    get: (name: string) => { value: string } | undefined
+    set: (opts: { name: string; value: string } & CookieOptions) => void
+    delete: (opts: { name: string } & CookieOptions) => void
+  }
 
   const supabase = createServerClient(
     process.env.NEXT_PUBLIC_SUPABASE_URL!,
     process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!,
     {
       cookies: {
-        get(name: string) {
-          return cookieStore.get(name)?.value
-        },
-        set(name: string, value: string, options: CookieOptions) {
-          cookieStore.set({ name, value, ...options })
-        },
-        remove(name: string, options: CookieOptions) {
-          cookieStore.delete({ name, ...options })
-        },
+        get: name => cookieStore.get(name)?.value,
+        set: (name, value, options) =>
+          cookieStore.set({ name, value, ...options }),
+        remove: (name, options) =>
+          cookieStore.delete({ name, ...options }),
       },
     }
   )
 
-  // 1️⃣ Exchange OAuth code → session
+  // 1️⃣ Exchange OAuth code
   const { error: exchangeError } =
     await supabase.auth.exchangeCodeForSession(code)
 
   if (exchangeError) {
-    console.error('OAUTH EXCHANGE ERROR:', exchangeError)
+    console.error(exchangeError)
     return NextResponse.redirect(`${origin}/auth/auth-code-error`)
   }
 
-  // 2️⃣ Get authenticated user
+  // 2️⃣ Get user
   const {
     data: { user },
   } = await supabase.auth.getUser()
@@ -59,7 +59,7 @@ export async function GET(request: Request) {
     return NextResponse.redirect(`${origin}/login`)
   }
 
-  // 3️⃣ Check if profile already existed BEFORE upsert
+  // 3️⃣ Check if new user
   const { data: existingProfile } = await admin
     .from('profiles')
     .select('user_id')
@@ -68,7 +68,7 @@ export async function GET(request: Request) {
 
   const isNewUser = !existingProfile
 
-  // 4️⃣ Ensure profile exists (idempotent, safe)
+  // 4️⃣ Ensure profile exists
   await admin.from('profiles').upsert(
     {
       user_id: user.id,
@@ -80,7 +80,7 @@ export async function GET(request: Request) {
     { onConflict: 'user_id' }
   )
 
-  // 5️⃣ Load signup config
+  // 5️⃣ Load config
   const { data: rows } = await admin
     .from('app_config')
     .select('key, value, value_int')
@@ -89,12 +89,8 @@ export async function GET(request: Request) {
 
   let blocked = false
 
-  // 🚫 Signup closed (new users only)
-  if (isNewUser && config.signup_open?.value === false) {
-    blocked = true
-  }
+  if (isNewUser && config.signup_open?.value === false) blocked = true
 
-  // 🚫 User cap (new users only)
   if (
     !blocked &&
     isNewUser &&
@@ -113,11 +109,9 @@ export async function GET(request: Request) {
     }
   }
 
-  // ⛔ Blocked users → redirect ONLY (no deletes, no signout)
   if (blocked) {
     return NextResponse.redirect(`${origin}/signup-closed`)
   }
 
-  // ✅ Success
   return NextResponse.redirect(`${origin}${next}`)
 }
