@@ -110,7 +110,8 @@ export default function SyllabusPage() {
         bundleIds = EXAM_BUNDLES.map(b => b.id);
         tier = 'pro';
       } else {
-        bundleIds = enrollments?.map(e => e.exam_id) || [];
+        bundleIds = enrollments?.map((e: { exam_id: string }) => e.exam_id) || [];
+
         // Use the check we defined above
         tier = isProInDb ? 'pro' : 'free';
       }
@@ -150,7 +151,7 @@ export default function SyllabusPage() {
         const { data: progress } = await supabase.from('topics').select('origin_id, status, created_at').eq('user_id', user.id);
         const { data: profile } = await supabase.from('profiles').select('reverts_used').eq('user_id', user.id).single();
 
-        setCompletedCount(progress?.filter(p => p.status === 'completed').length || 0);
+        setCompletedCount(progress?.filter((p: { status: string }) => p.status === 'completed').length || 0);
         setRevertsUsed(profile?.reverts_used || 0);
 
         // @ts-ignore
