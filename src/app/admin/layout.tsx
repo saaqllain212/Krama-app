@@ -1,3 +1,7 @@
+'use client';
+export const dynamic = 'force-dynamic';
+
+
 import { redirect } from 'next/navigation'
 import { createServerSupabaseClient } from '@/lib/supabase/server'
 
