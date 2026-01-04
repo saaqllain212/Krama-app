@@ -65,12 +65,14 @@ export default function InsightsPage() {
 
       // Original Logic for Phase 1 (Percentages)
       const pcts = data
-        .map(m =>
+        .map((m: any) =>
           m.max_score && m.max_score > 0
             ? Math.round((m.score / m.max_score) * 100)
             : null
         )
-        .filter((v): v is number => v !== null);
+
+        .filter((v: number | null): v is number => v !== null);
+
 
       setPercentages(pcts);
       setLoading(false);
