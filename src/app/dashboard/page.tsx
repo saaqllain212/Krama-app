@@ -19,6 +19,8 @@ import {
   RefreshCcw, Crown, Sparkles, Zap, Grid
 } from 'lucide-react';
 import ProUpgradeModal from '@/components/ProUpgradeModal';
+import type { AuthChangeEvent } from '@supabase/supabase-js'
+
 
 
 // Import logic
@@ -280,7 +282,8 @@ export default function ScientificDashboard() {
     setUser(user);
 
     // ✅ AUTH LISTENER WITH CLEANUP SUPPORT
-    const { data } = supabase.auth.onAuthStateChange((event) => {
+    const { data } = supabase.auth.onAuthStateChange((event: AuthChangeEvent) => {
+
       if (event === 'SIGNED_OUT') {
         router.push('/');
       }
@@ -1383,6 +1386,8 @@ const fetchTopics = async () => {
         open={showProModal}
         onClose={() => setShowProModal(false)}
         onSuccess={async () => {
+          await supabase.auth.getUser();
+
           // 1️⃣ Instant UI unlock (no refresh)
           setProfile((prev: any) => ({
             ...(prev || {}),
@@ -1403,9 +1408,10 @@ const fetchTopics = async () => {
             .select('name, tier, is_admin, created_at, target_exam_date')
             .eq('user_id', user.id)
             .single()
-            .then(({ data }) => {
-              if (data) setProfile(data);
-            });
+            .then(({ data }: { data: any }) => {
+              if (data) setProfile(data)
+            })
+
         }}
 
       />
