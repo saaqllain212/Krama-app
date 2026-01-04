@@ -56,11 +56,14 @@ export default function GateOfThornsSignup() {
   }
 
   const handleGoogleSignup = async () => {
-    await supabase.auth.signInWithOAuth({
-      provider: 'google',
-      options: { redirectTo: `${window.location.origin}/auth/callback` },
-    });
-  };
+  await supabase.auth.signInWithOAuth({
+    provider: 'google',
+    options: {
+      redirectTo: `${window.location.origin}/auth/callback?next=/dashboard`,
+    },
+  });
+};
+
 
   return (
     <div className="min-h-screen font-sans flex items-center justify-center p-4 relative overflow-hidden bg-black">
@@ -245,9 +248,12 @@ export default function GateOfThornsSignup() {
              </div>
              <h2 className="text-3xl font-bold text-stone-200 uppercase tracking-widest mb-4 font-serif">Fate Sealed.</h2>
              <p className="text-stone-500 mb-8 text-base leading-relaxed">
-               We have sent a verification link to your correspondence address.<br/>
-               <span className="text-red-700 font-bold">If you do not verify within 1 hour, we assume you quit.</span>
-             </p>
+                Your account has been created successfully.<br/>
+                <span className="text-red-700 font-bold">
+                  Return to login and begin the grind.
+                </span>
+              </p>
+
              <button 
                 onClick={() => router.push('/login')}
                 className="px-10 py-4 bg-stone-900 hover:bg-stone-800 text-white uppercase tracking-widest text-xs font-bold border border-stone-800"

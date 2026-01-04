@@ -1,9 +1,15 @@
-export const runtime = 'edge'
+export const runtime = 'nodejs'
 
 import { createServerClient, type CookieOptions } from '@supabase/ssr'
 import { createClient } from '@supabase/supabase-js'
 import { cookies } from 'next/headers'
 import { NextResponse } from 'next/server'
+
+ // 🔐 SERVICE ROLE CLIENT
+const admin = createClient(
+  process.env.NEXT_PUBLIC_SUPABASE_URL!,
+  process.env.SUPABASE_SERVICE_ROLE_KEY!
+)
 
 export async function GET(request: Request) {
   const { searchParams, origin } = new URL(request.url)
@@ -44,14 +50,32 @@ export async function GET(request: Request) {
     return NextResponse.redirect(`${origin}/login`)
   }
 
-  // 🔐 SERVICE ROLE CLIENT
-  const admin = createClient(
-    process.env.NEXT_PUBLIC_SUPABASE_URL!,
-    process.env.SUPABASE_SERVICE_ROLE_KEY!
-  )
+  // ✅ ENSURE PROFILE EXISTS (GOOGLE USERS)
+  await admin
+    .from('profiles')
+    .upsert(
+      {
+        user_id: user.id,
+        email: user.email,
+        name: user.user_metadata?.full_name ?? '',
+        tier: 'free',
+        is_admin: false,
+      },
+      { onConflict: 'user_id' }
+    )
+
+
+ 
 
   // ✅ ONLY RELIABLE NEW-USER CHECK
-  const isNewUser = user.created_at === user.updated_at
+  const { data: existingProfile } = await admin
+    .from('profiles')
+    .select('user_id')
+    .eq('user_id', user.id)
+    .maybeSingle()
+
+  const isNewUser = !existingProfile
+
 
   // Load config
   const { data: rows } = await admin

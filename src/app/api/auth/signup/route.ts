@@ -1,16 +1,24 @@
-import { NextResponse } from 'next/server'
-import { createAdminSupabaseClient } from '@/lib/supabase/admin'
+export const runtime = 'nodejs'
+
 import { createClient } from '@supabase/supabase-js'
+import { NextResponse } from 'next/server'
+
+const admin = createClient(
+  process.env.NEXT_PUBLIC_SUPABASE_URL!,
+  process.env.SUPABASE_SERVICE_ROLE_KEY!
+)
+
+
 
 export async function POST(req: Request) {
   const body = await req.json()
-  const { email, password } = body
+  const { email, password, fullName } = body
+
 
   if (!email || !password) {
     return NextResponse.json({ error: 'Missing credentials' }, { status: 400 })
   }
 
-  const admin = createAdminSupabaseClient()
 
   // 1️⃣ Read signup config
   const { data: configRows } = await admin
@@ -45,20 +53,44 @@ export async function POST(req: Request) {
     }
   }
 
-  // 4️⃣ Create user (safe client)
-  const supabase = createClient(
-    process.env.NEXT_PUBLIC_SUPABASE_URL!,
-    process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!
-  )
-
-  const { error } = await supabase.auth.signUp({
+  // 4️⃣ CREATE USER **AS ADMIN**
+  const { data, error } = await admin.auth.admin.createUser({
     email,
     password,
+    email_confirm: true,
   })
 
-  if (error) {
-    return NextResponse.json({ error: error.message }, { status: 400 })
+  if (error || !data.user) {
+    return NextResponse.json(
+      { error: error?.message || 'Signup failed' },
+      { status: 400 }
+    )
   }
+
+  // 5️⃣ CREATE PROFILE ROW (THIS WAS MISSING ❌)
+  const { error: profileError } = await admin
+  .from('profiles')
+  .upsert(
+    {
+      user_id: data.user.id,
+      email,
+      name: fullName,
+      tier: 'free',
+      is_admin: false,
+    },
+    { onConflict: 'user_id' }
+  )
+
+
+  if (profileError) {
+  console.error('PROFILE ERROR:', profileError)
+  return NextResponse.json(
+    { error: profileError.message },
+    { status: 500 }
+  )
+}
+
+  
 
   return NextResponse.json({ success: true })
 }

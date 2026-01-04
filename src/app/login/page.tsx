@@ -65,12 +65,15 @@ export default function GardenLogin() {
     }
   };
 
-  const handleGoogleLogin = async () => {
-    await supabase.auth.signInWithOAuth({
-      provider: 'google',
-      options: { redirectTo: `${window.location.origin}/auth/callback` },
-    });
-  };
+ const handleGoogleLogin = async () => {
+  await supabase.auth.signInWithOAuth({
+    provider: 'google',
+    options: {
+      redirectTo: `${window.location.origin}/auth/callback?next=/dashboard`,
+    },
+  });
+};
+
 
   return (
     <div className="min-h-screen bg-[#020402] text-stone-300 font-sans flex items-center justify-center p-4 relative overflow-hidden">
