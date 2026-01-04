@@ -5,7 +5,7 @@ import { createClient } from '@supabase/supabase-js'
 import { cookies } from 'next/headers'
 import { NextResponse } from 'next/server'
 
- // 🔐 SERVICE ROLE CLIENT
+// 🔐 SERVICE ROLE CLIENT
 const admin = createClient(
   process.env.NEXT_PUBLIC_SUPABASE_URL!,
   process.env.SUPABASE_SERVICE_ROLE_KEY!
@@ -20,7 +20,8 @@ export async function GET(request: Request) {
     return NextResponse.redirect(`${origin}/auth/auth-code-error`)
   }
 
-  const cookieStore = await cookies()
+  // ✅ IMPORTANT: cookies() is SYNC, but needs typing for TS
+  const cookieStore = cookies() as any
 
   const supabase = createServerClient(
     process.env.NEXT_PUBLIC_SUPABASE_URL!,
@@ -40,34 +41,25 @@ export async function GET(request: Request) {
     }
   )
 
-  const { error } = await supabase.auth.exchangeCodeForSession(code)
-  if (error) {
+  // 1️⃣ Exchange OAuth code → session
+  const { error: exchangeError } =
+    await supabase.auth.exchangeCodeForSession(code)
+
+  if (exchangeError) {
+    console.error('OAUTH EXCHANGE ERROR:', exchangeError)
     return NextResponse.redirect(`${origin}/auth/auth-code-error`)
   }
 
-  const { data: { user } } = await supabase.auth.getUser()
+  // 2️⃣ Get authenticated user
+  const {
+    data: { user },
+  } = await supabase.auth.getUser()
+
   if (!user) {
     return NextResponse.redirect(`${origin}/login`)
   }
 
-  // ✅ ENSURE PROFILE EXISTS (GOOGLE USERS)
-  await admin
-    .from('profiles')
-    .upsert(
-      {
-        user_id: user.id,
-        email: user.email,
-        name: user.user_metadata?.full_name ?? '',
-        tier: 'free',
-        is_admin: false,
-      },
-      { onConflict: 'user_id' }
-    )
-
-
- 
-
-  // ✅ ONLY RELIABLE NEW-USER CHECK
+  // 3️⃣ Check if profile already existed BEFORE upsert
   const { data: existingProfile } = await admin
     .from('profiles')
     .select('user_id')
@@ -76,8 +68,19 @@ export async function GET(request: Request) {
 
   const isNewUser = !existingProfile
 
+  // 4️⃣ Ensure profile exists (idempotent, safe)
+  await admin.from('profiles').upsert(
+    {
+      user_id: user.id,
+      email: user.email,
+      name: user.user_metadata?.full_name ?? '',
+      tier: 'free',
+      is_admin: false,
+    },
+    { onConflict: 'user_id' }
+  )
 
-  // Load config
+  // 5️⃣ Load signup config
   const { data: rows } = await admin
     .from('app_config')
     .select('key, value, value_int')
@@ -86,12 +89,12 @@ export async function GET(request: Request) {
 
   let blocked = false
 
-  // 🚫 HARD BLOCK NEW USERS
+  // 🚫 Signup closed (new users only)
   if (isNewUser && config.signup_open?.value === false) {
     blocked = true
   }
 
-  // 🚫 CAP CHECK (NEW USERS ONLY)
+  // 🚫 User cap (new users only)
   if (
     !blocked &&
     isNewUser &&
@@ -102,7 +105,7 @@ export async function GET(request: Request) {
       .select('user_id', { count: 'exact', head: true })
 
     if (
-      count &&
+      count !== null &&
       config.max_users?.value_int &&
       count >= config.max_users.value_int
     ) {
@@ -110,12 +113,11 @@ export async function GET(request: Request) {
     }
   }
 
-  // ⛔ FINAL KILL SWITCH
+  // ⛔ Blocked users → redirect ONLY (no deletes, no signout)
   if (blocked) {
-    await admin.from('profiles').delete().eq('user_id', user.id)
-    await supabase.auth.signOut()
     return NextResponse.redirect(`${origin}/signup-closed`)
   }
 
+  // ✅ Success
   return NextResponse.redirect(`${origin}${next}`)
 }
