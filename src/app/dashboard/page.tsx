@@ -56,6 +56,9 @@ const WITTY_MESSAGES = {
   neutral: ["Observation Logged.", "Time passes.", "The cycle continues.", "No anomalies detected."]
 };
 
+const [showRefreshPopup, setShowRefreshPopup] = useState(false);
+
+
 // --- SUB-COMPONENT: ACTIVITY HEATMAP (PRO FEATURE) ---
 const ActivityHeatmap = ({
   topics,
@@ -1399,6 +1402,15 @@ const fetchTopics = async () => {
           // 2️⃣ Close modal
           setShowProModal(false);
 
+          // ✅ SHOW REFRESH POPUP
+          setShowRefreshPopup(true);
+
+          // Optional safety: auto-refresh after 6s
+          setTimeout(() => {
+            window.location.reload();
+          }, 6000)
+
+
           // 3️⃣ Force re-render of dependent logic
           setActiveView(v => v); // 🔥 forces recalculation of isPro
 
@@ -1418,6 +1430,36 @@ const fetchTopics = async () => {
 
 
       <MocksModal open={isMocksOpen} onClose={() => setIsMocksOpen(false)} />
+
+
+        {/* 🔄 POST-PAYMENT REFRESH POPUP */}
+        {showRefreshPopup && (
+          <div className="fixed inset-0 z-[999] flex items-center justify-center bg-black/60 backdrop-blur-sm">
+            <div className="bg-white border-4 border-emerald-700 p-8 max-w-sm w-full text-center shadow-[8px_8px_0_#065f46]">
+              <h2 className="text-2xl font-black text-emerald-900 mb-4 uppercase tracking-widest">
+                Payment Successful
+              </h2>
+
+              <p className="text-stone-700 mb-6 font-serif">
+                Your Pro access is activated.
+                <br />
+                Please refresh once to unlock all features.
+              </p>
+
+              <button
+                onClick={() => window.location.reload()}
+                className="w-full py-3 bg-emerald-700 text-white font-black uppercase tracking-widest hover:bg-emerald-800 transition"
+              >
+                Refresh Now
+              </button>
+
+              <p className="text-xs text-stone-500 mt-3 font-mono">
+                Refreshing automatically in a moment…
+              </p>
+            </div>
+          </div>
+        )}
+
 
 
     </div>
