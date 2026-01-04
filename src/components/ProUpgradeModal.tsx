@@ -31,7 +31,6 @@ export default function ProUpgradeModal({ open, onClose, onSuccess }: ProUpgrade
   const [couponMessage, setCouponMessage] = useState<string | null>(null);
   const [couponApplied, setCouponApplied] = useState(false);
   const [applyingCoupon, setApplyingCoupon] = useState(false);
-  const [optimisticPro, setOptimisticPro] = useState(false);
   const [forcedOpen, setForcedOpen] = useState(false);
 
 
@@ -192,14 +191,13 @@ export default function ProUpgradeModal({ open, onClose, onSuccess }: ProUpgrade
             // intentionally ignored — webhook is source of truth
           });
 
-          // ✅ Treat Razorpay success as UI success
-          setOptimisticPro(true);   // instant UI unlock
+          // ✅ Treat Razorpay success as UI success  
           onSuccess();       // refresh profile/tier in UI immediately
           setView('SUCCESS');
 
           setTimeout(() => {
             onClose();
-          }, 3000);
+          }, 5000);
         },
       };
 

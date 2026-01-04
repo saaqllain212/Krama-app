@@ -1383,26 +1383,31 @@ const fetchTopics = async () => {
         open={showProModal}
         onClose={() => setShowProModal(false)}
         onSuccess={async () => {
-          // 1) Optimistic: flip UI to Pro right now
+          // 1️⃣ Instant UI unlock (no refresh)
           setProfile((prev: any) => ({
             ...(prev || {}),
             tier: 'pro',
-            is_pro: true,
-            pro_since: new Date().toISOString(),
+            is_admin: prev?.is_admin ?? false,
+            created_at: prev?.created_at ?? new Date().toISOString(),
           }));
 
-          // 2) Close modal immediately
+          // 2️⃣ Close modal
           setShowProModal(false);
 
-          // 3) Then re-fetch from Supabase to confirm
-          const { data } = await supabase
+          // 3️⃣ Force re-render of dependent logic
+          setActiveView(v => v); // 🔥 forces recalculation of isPro
+
+          // 4️⃣ Background truth sync (non-blocking)
+          supabase
             .from('profiles')
             .select('name, tier, is_admin, created_at, target_exam_date')
             .eq('user_id', user.id)
-            .single();
-
-          if (data) setProfile(data);
+            .single()
+            .then(({ data }) => {
+              if (data) setProfile(data);
+            });
         }}
+
       />
 
 
