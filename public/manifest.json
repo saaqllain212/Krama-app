@@ -2,7 +2,7 @@
   "name": "KRAMA – Field Journal",
   "short_name": "KRAMA",
   "description": "A focused field journal for disciplined study and growth.",
-  "start_url": "/dashboard",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#FDFBF7",
   "theme_color": "#000000",

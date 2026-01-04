@@ -1,45 +1,32 @@
-// public/sw.js
+const CACHE_NAME = 'krama-static-v1';
 
-const CACHE_NAME = 'krama-cache-v1';
-const ASSETS_TO_CACHE = [
+// ONLY cache static, public assets
+const STATIC_ASSETS = [
   '/',
-  '/dashboard',
-  '/login',
-  '/signup',
   '/manifest.json',
-  '/icon-192.png',
-  '/icon-512.png'
+  '/icons/icon-192.png',
+  '/icons/icon-512.png'
 ];
 
-// Install Event
 self.addEventListener('install', (event) => {
   event.waitUntil(
-    caches.open(CACHE_NAME).then((cache) => {
-      return cache.addAll(ASSETS_TO_CACHE);
-    })
+    caches.open(CACHE_NAME).then((cache) => cache.addAll(STATIC_ASSETS))
   );
 });
 
-// Activate Event
 self.addEventListener('activate', (event) => {
   event.waitUntil(
-    caches.keys().then((cacheNames) => {
-      return Promise.all(
-        cacheNames.map((cache) => {
-          if (cache !== CACHE_NAME) {
-            return caches.delete(cache);
-          }
-        })
-      );
-    })
+    caches.keys().then((keys) =>
+      Promise.all(keys.map(k => k !== CACHE_NAME && caches.delete(k)))
+    )
   );
 });
 
-// Fetch Event (Offline Mode)
+// Network-first for everything else (auth-safe)
 self.addEventListener('fetch', (event) => {
+  if (event.request.method !== 'GET') return;
+
   event.respondWith(
-    caches.match(event.request).then((response) => {
-      return response || fetch(event.request);
-    })
+    fetch(event.request).catch(() => caches.match(event.request))
   );
 });
